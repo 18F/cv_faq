@@ -12,9 +12,13 @@ CDC requirements for importing human remains depend upon if the body has been em
 
 At this time, COVID-19 is a quarantinable communicable disease in the United States and the remains must meet the standards for importation found in 42 Code of Federal Regulations Part 71.55 and may be cleared, released, and authorized for entry into the United States only under the following conditions:
 
-    The remains are cremated; OR
-    The remains are properly embalmed and placed in a hermetically sealed casket; OR
-    The remains are accompanied by a permit issued by the CDC Director. The CDC permit (if applicable) must accompany the human remains at all times during shipment.
-        Permits for the importation of the remains of a person known or suspected to have died from a quarantinable communicable disease may be obtained through the CDC Division of Global Migration and Quarantine by calling the CDC Emergency Operations Center at 770-488-7100 or emailing <a href="mailto:dgmqpolicyoffice@cdc.gov">dgmqpolicyoffice@cdc.gov</a>.
+<ul>
+<li>The remains are cremated; OR</li>
+<li>The remains are properly embalmed and placed in a hermetically sealed casket; OR</li>
+<li>The remains are accompanied by a permit issued by the CDC Director. The CDC permit (if applicable) must accompany the human remains at all times during shipment.
+<ul>
+<li>Permits for the importation of the remains of a person known or suspected to have died from a quarantinable communicable disease may be obtained through the CDC Division of Global Migration and Quarantine by calling the CDC Emergency Operations Center at 770-488-7100 or emailing <a href="mailto:dgmqpolicyoffice@cdc.gov">dgmqpolicyoffice@cdc.gov</a>.</li>
+</ul></li>
+</ul>
 
 Please see <a href="http://www.cdc.gov/importation/human-remains.html" target="_blank">CDC’s guidance </a>for additional information.
