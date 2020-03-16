@@ -23,11 +23,25 @@ top_questions:
 questions_box:
     box_1_header: "How to Protect yourself?"
     box_2_header: "What to Do if you feel sick"
+questions_areas:
+    - tag: about
+      title: "About Covid-19"
+    - tag: highrisk
+      title: Advice for High-Risk
+    - tag: everyone
+      title: Advice for everyone
+    - tag: hygiene
+      title: hygiene
+    - tag: travel
+      title: Travelling
+    - tag: Quarantine
+      title: Quarantine
+
     
 ---
 
 
 {% include hero.html %}
-{% include top-questions.html top_questions=top_questions %}
-{% include questions-box.html questions_box=questions_box %}
-{% include content-questions.html %}
+{% include top-questions.html top_questions=page.top_questions %}
+{% include questions-box.html questions_box=page.questions_box %}
+{% include content-questions.html questions_areas=page.questions_areas %}
