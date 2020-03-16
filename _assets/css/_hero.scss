@@ -1,0 +1,6 @@
+@import "uswds";
+
+.usa-hero.hero__no-image {
+  @include u-bg('base-lightest');
+  background-image: none !important;
+}
