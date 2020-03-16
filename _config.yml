@@ -165,9 +165,9 @@ pagination:
   indexpage: "index.html"
 
 exclude:
-  - pages/
-  - posts/
-  - index.html
+  #- pages/
+  #- posts/
+  #- index.html
   - package.json
   - package-lock.json
   - README.md
