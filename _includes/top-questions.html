@@ -1,11 +1,16 @@
 <section class="grid-container usa-section usa-prose top-questions">
-    <h2>Top Questions</h2>
+  <h2>Top Questions</h2>
   <div class="grid-row grid-gap">
     {% for question in include.top_questions %}
     <div class="tablet:grid-col-4">
-      <div class="question">
-        <a href="{{ question.link | prepend: site.baseurl }}">{{ question.question }}</a>
-      </div>
+      <a class="question" href="{{ question.link | prepend: site.baseurl }}">
+        <div class="icon margin-right-1">
+          {% capture icon_path %}icons/{{ question.icon }}.svg{% endcapture %}
+          {% asset '{{ icon_path }}' class="" alt="{{ question.icon }} icon" %}
+        </div>
+
+        <span>{{ question.question }}</span>
+      </a>
     </div>
     {% endfor %}
   </div>
