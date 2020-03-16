@@ -1,12 +1,31 @@
 <section class="grid-container usa-section usa-prose">
   <div class="grid-row grid-gap">
-    <div class="tablet:grid-col-6 question-box-1">
-      <h2>{{ include.questions_box.box_1_header }}</h2>
-      <a href="/">View All</a>
+    <div class="tablet:grid-col-6">
+      <div class="question-box question-box--info">
+        <h2>{{ include.questions_box.box_1_header }}</h2>
+        <ul>
+          {% for post in site.posts %}
+            {% if post.tag contains include.questions_box.box_1_category %}
+            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <a href="/" class="text-bold">View All »</a>
+      </div>
+      
     </div>
-    <div class="tablet:grid-col-6 question-box-2">
-      <h2>{{ include.questions_box.box_2_header }}</h2>
-      <a href="/">View All</a>
+    <div class="tablet:grid-col-6">
+      <div class="question-box question-box--warning">
+        <h2>{{ include.questions_box.box_2_header }}</h2>
+        <ul>
+          {% for post in site.posts %}
+            {% if post.tag contains include.questions_box.box_2_category %}
+            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+        <a href="/" class="text-bold">View All »</a>
+      </div>
     </div>
   </div>
 </section>

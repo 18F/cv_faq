@@ -17,7 +17,7 @@ h2, h3 {
 .top-questions .question {
   @include u-border('base-lightest');
   @include u-border('1px');
-  @include u-margin(2);
+  @include u-margin(1);
   @include u-padding(1);
 
   a {
@@ -25,13 +25,21 @@ h2, h3 {
   }
 }
 
-.question-box-1 {
-  @include u-bg('info-lighter');
+.question-box {
+  @include u-margin(1);
+  @include u-padding(2);
+
+  &.question-box--info {
+    @include u-bg('info-lighter');
+  }
+
+  &.question-box--warning {
+    @include u-bg('warning-lighter');
+  }
 }
 
-.question-box-2 {
-  @include u-bg('warning-lighter');
-}
+
+
 
 
 // Add your SASS/CSS here

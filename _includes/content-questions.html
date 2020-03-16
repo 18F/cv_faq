@@ -6,9 +6,13 @@
       <div class="usa-media-block tablet:grid-col-3">
         <h4>{{ topic.title }}</h4>
         <ul>
-
+          {% for post in site.posts %}
+            {% if post.tag contains topic.tag and post.promoted == true %}
+            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% endif %}
+          {% endfor %}
         </ul>
-        <a href="">View All >></a>
+        <a href="/" class="text-bold">View All »</a>
       </div>
       {% endfor %}
     </div>
