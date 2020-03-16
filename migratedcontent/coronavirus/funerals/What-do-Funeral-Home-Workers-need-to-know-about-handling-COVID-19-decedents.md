@@ -1,5 +1,5 @@
 ---
-title: Funerals
+title: Funeral Workers
 tag: about
 layout: post
 date: March 16, 2020
