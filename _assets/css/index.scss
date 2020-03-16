@@ -25,6 +25,11 @@ h2, h3 {
   }
 }
 
+li a {
+  @include u-text('no-underline');
+  @include u-color('primary-dark');
+}
+
 .question-box {
   @include u-margin(1);
   @include u-padding(2);
