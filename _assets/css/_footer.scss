@@ -1,7 +1,7 @@
 footer,
 footer a,
 footer a:visited {
-  @include u-color('white');
+  @include u-color('base-lightest');
   @include u-font('sans', '3xs');
   @include u-margin-bottom(0);
 
@@ -10,4 +10,28 @@ footer a:visited {
 footer h3 {
   @include u-text('uppercase');
   @include u-font-family('sans');
+  @include u-margin-top(0);
+}
+
+footer .list-inline {
+    li {
+        @include u-float('left');
+        list-style-type: none;
+    }
+    .fi {
+        @include u-width(3);
+        @include u-height(3);
+    }
+}
+
+.disclaimer {
+    @include u-bg('base-lightest');
+    @include u-padding(1);
+
+    a {
+        @include u-color('ink');
+        @include u-text('no-underline');
+        @include u-font('sans', '3xs');
+        @include u-padding-x(1);
+    }
 }

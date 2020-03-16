@@ -1,13 +1,13 @@
 
-<section class="usa-graphic-list usa-section">
+<section class="usa-section usa-section--condensed">
   <div class="grid-container border-top border-base-lightest">
-    <div class="usa-graphic-list__row grid-row grid-gap">
+    <div class="grid-row grid-gap">
       {% for topic in include.topics %}
-      <div class="usa-media-block tablet:grid-col-3">
+      <div class="usa-media-block tablet:grid-col-4">
         <h4>{{ topic.title }}</h4>
         <ul>
           {% for post in site.posts %}
-            {% if post.tag contains topic.tag and post.promoted == true %}
+            {% if post.category contains topic.category and post.promoted == true %}
             <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endif %}
           {% endfor %}
