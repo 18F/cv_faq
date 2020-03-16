@@ -14,4 +14,3 @@ have developed illness after exposure. For COVID-19, the period of quarantine is
 because 14 days is the longest incubation period seen for similar coronaviruses. Someone who has been released from COVID-19 
 quarantine is not considered a risk for spreading the virus to others because they have not developed illness during the 
 incubation period.
-

@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: CDC
+title: Agency Name
 logo_alt: Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
@@ -34,7 +34,7 @@ twitter: 18F
 google_analytics_ua: UA-????????-??
 
 
-dap_agency: HHS
+dap_agency: GSA
 # USAID   - Agency for International Development
 # USDA    - Department of Agriculture
 # DOC     - Department of Commerce
@@ -165,9 +165,6 @@ pagination:
   indexpage: "index.html"
 
 exclude:
-  - pages/
-  - posts/
-  - index.html
   - package.json
   - package-lock.json
   - README.md
