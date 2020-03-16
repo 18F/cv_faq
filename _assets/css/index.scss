@@ -2,92 +2,12 @@
 
 @import "uswds";
 
-h2, h3, h4, h5, h6 {
-  @include u-font-family('serif');
-}
-
-h2, h3 {
-  @include u-text('normal');
-}
-
-.top-questions h2 {
-  text-align: center;
-}
-
-.top-questions .question {
-  @include u-border('base-lightest');
-  @include u-border('1px');
-  @include u-margin(1);
-  @include u-padding(1);
-
-  a {
-    @include u-text('no-underline');
-  }
-}
-
-li a {
-  @include u-text('no-underline');
-  @include u-color('primary-dark');
-}
-
-.question-box {
-  @include u-margin(1);
-  @include u-padding(2);
-
-  &.question-box--info {
-    @include u-bg('info-lighter');
-  }
-
-  &.question-box--warning {
-    @include u-bg('warning-lighter');
-  }
-}
 
 
-
-
-
-// Add your SASS/CSS here
-footer, footer a, footer a:visited {
-  @include u-color('white');
-  @include u-font('sans', '3xs');
-  @include u-margin-bottom(0);
-
-}
-
-footer h3 {
-  @include u-text('uppercase');
-  @include u-font-family('sans');
-
-}
-// default mode hide banner
-.usa-banner__content {
-  display: hidden;
-}
-
-@media screen and (min-width: 640px) {
-  .tablet\:width-1\/3 {
-    width: 33%;
-  }
-  .tablet\:float-left {
-    float: left;
-  }
-}
-
-@media screen and (min-width: 640px) {
-  .paginate-link {
-    display: initial;
-  }
-  .paginate-button {
-    display: none;
-  }
-}
-
-@media screen and (max-width: 640px) {
-  .paginate-link {
-    display: none;
-  }
-  .paginate-button {
-    display: block;
-  }
-}
+@import "grid";
+@import "header";
+@import "typography";
+@import "posts";
+@import "home";
+@import "hero";
+@import "footer";

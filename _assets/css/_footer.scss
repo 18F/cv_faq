@@ -1,0 +1,13 @@
+footer,
+footer a,
+footer a:visited {
+  @include u-color('white');
+  @include u-font('sans', '3xs');
+  @include u-margin-bottom(0);
+
+}
+
+footer h3 {
+  @include u-text('uppercase');
+  @include u-font-family('sans');
+}
