@@ -1,3 +1,9 @@
+.usa-section.usa-section--condensed {
+    @include at-media('tablet') {
+      @include u-padding-y(6);
+    }
+}
+
 .top-questions h2 {
   text-align: center;
 }
