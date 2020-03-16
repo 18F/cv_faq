@@ -113,3 +113,110 @@ For additional information, refer to the following:
 * [Guidelines for Safe Work Practices in Human and Animal Medical Diagnostic Laboratories](https://www.cdc.gov/MMWR/pdf/other/su6101.pdf)
 * [Biosafety in Microbiological and Biomedical Laboratories, 5th Ed.](https://www.cdc.gov/labs/pdf/CDC-BiosafetyMicrobiologicalBiomedicalLaboratories-2009-P.PDF)
 * [Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV)](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2)
+
+### Specimen Packaging and Shipping ###
+
+#### Do people packing specimens for transport need to be trained and competent? ####
+
+Personnel should be trained in the proper safety, packing, and shipping regulations for UN 3373 Biological Substance, Category B when sending when sending clinical specimens from suspected COVID-19 PUIs. Personnel should be trained in a manner that corresponds to their function-specific responsibilities.
+
+For additional information, refer to the following:
+
+* [Guidance on regulations for the transport of infectious substances 2019 – 2020](https://apps.who.int/iris/bitstream/handle/10665/325884/WHO-WHE-CPI-2019.20-eng.pdf?ua=1)
+
+#### What specific packaging should personnel use when shipping clinical specimens from suspected COVID-19 PUIs? ####
+
+Follow shipping regulations for UN 3373 Biological Substances, Category B:
+
+1. A leakproof primary container.
+2. A rigid, leakproof, watertight secondary packaging with absorbent material.
+3. A rigid outer packaging to protect the specimens during shipment.
+
+For additional information, refer to the following:
+
+* [IATA Dangerous Goods Regulations Packaging Instruction 650](https://www.iata.org/contentassets/b08040a138dc4442a4f066e6fb99fe2a/dgr-61-en-pi650.pdf)
+* [Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens Associated with Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-nCoV/lab/lab-biosafety-guidelines.html)
+* [Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV)](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2)
+
+### At what temperature should specimens be shipped? ####
+
+Specimens should be shipped at 2-8oC with ice packs. If the specimen is frozen, ship overnight on dry ice. The primary receptacle and the secondary packaging should maintain their integrity at the temperature of the refrigerant used as well as the temperatures and the pressures which could result if refrigeration were lost. Packages containing dry ice should be designed and constructed so as to prevent the buildup of pressure and to allow the release of gas that could rupture the packaging.
+
+For additional information, refer to the following:
+
+* [CDC 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel](https://www.fda.gov/media/134922/download)
+* [Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens Associated with Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-nCoV/lab/lab-biosafety-guidelines.html)
+
+#### What information is required on the outer package for shipment of specimens with ice packs? ####
+
+Ensure the outer package has been properly marked and labeled with the following:
+
+1. Hazard labeled with UN Identification Number already on label – UN 3373
+2. Biological Substance, Category B
+3. Shipper's name, address, and phone number
+4. Receiver's name, address, and phone number
+5. Name and phone number of a responsible person is optional if it is on the airway bill
+
+For additional information, refer to the following:
+
+* [Guidance on regulations for the transport of infectious substances 2019 – 2020](https://apps.who.int/iris/bitstream/handle/10665/325884/WHO-WHE-CPI-2019.20-eng.pdf?ua=1)
+
+#### What information is required on the outer packages for shipment of specimens with dry ice? ####
+
+Ensure the outer package has been properly marked and labeled with the following:
+
+1. Hazard labeled with UN Identification Number already on label – UN 3373
+2. Biological Substance, Category B
+3. Hazard Labeled with UN Identification Number- UN 1845
+4. Dry ice, along with the net weight (kg) of the dry ice
+5. Shipper's name and address
+6. Receiver's name and address
+7. Name and phone number of a responsible person
+
+For additional information, refer to the following:
+
+* [Guidance on regulations for the transport of infectious substances 2019 – 2020](https://apps.who.int/iris/bitstream/handle/10665/325884/WHO-WHE-CPI-2019.20-eng.pdf?ua=1)
+* [IATA Dangerous Goods Regulations Packaging Instruction 650](https://www.iata.org/contentassets/b08040a138dc4442a4f066e6fb99fe2a/dgr-61-en-pi650.pdf)
+
+#### What information is required on an overpack if used for specimen shipment? ####
+
+The overpack should be marked in accordance with the packing instructions required for the outer package:
+
+1. Hazard labeled with UN Identification Number already on the label – UN 3373
+2. Biological Substance, Category B
+3. Shipper's name, address, and phone number
+4. Receiver's name, address, and phone number
+5. Package Orientation Label
+6. Marked with the word “Overpack”
+7. Name and phone number of a responsible person is optional if it is on the airway bill
+
+For additional information, refer to the following:
+
+* [IATA Dangerous Goods Regulations Packaging Instruction 650](https://www.iata.org/contentassets/b08040a138dc4442a4f066e6fb99fe2a/dgr-61-en-pi650.pdf)
+* [Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens Associated with Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-nCoV/lab/lab-biosafety-guidelines.html)
+
+#### Is a shipper's declaration required? What documentation is required for shipment? What if specimens are shipped on dry ice? ####
+
+A shipper's declaration is not required for UN 3373 Biological Substances, Category B shipped samples. If an Air Waybill is used, the “Nature and Quantity of Goods” box should show “UN 3373 Biological Substance, Category B” along with the number of packages. If specimens are shipped on dry ice, include UN 1845, Dry Ice, 9, along with the net weight of the dry ice. See IATA PI 650 for additional information.
+
+For additional information, refer to the following:
+
+* [Guidance on regulations for the transport of infectious substances 2019 – 2020](https://apps.who.int/iris/bitstream/handle/10665/325884/WHO-WHE-CPI-2019.20-eng.pdf?ua=1)
+* [IATA Dangerous Goods Regulations Packaging Instruction 650pdf icon](https://www.iata.org/contentassets/b08040a138dc4442a4f066e6fb99fe2a/dgr-61-en-pi650.pdf)
+
+#### Is a Responsible Person required on the shipping paperwork? ####
+
+A Responsible Person should be listed on the air waybill or shipper's declaration (if applicable).
+
+For additional information, refer to the following:
+
+* [Guidance on regulations for the transport of infectious substances 2019 – 2020](https://apps.who.int/iris/bitstream/handle/10665/325884/WHO-WHE-CPI-2019.20-eng.pdf?ua=1)
+* [IATA Dangerous Goods Regulations Packaging Instruction 650](https://www.iata.org/contentassets/b08040a138dc4442a4f066e6fb99fe2a/dgr-61-en-pi650.pdf)
+
+#### Once packaging of the samples is complete should staff members decontaminate the work area? ####
+
+Staff members should use products with EPA-registered emerging viral pathogens claims for SARS-CoV-2 or human coronaviruses for decontaminating hard non-porous surfaces. Follow manufacturer's recommendations for use, dilution (i.e., concentration), contact time, and care in handling.
+
+For additional information, refer to the following:
+
+* [Interim Infection Prevention and Control Recommendations for Patients with Confirmed 2019 Novel Coronavirus (2019-nCoV) or Persons Under Investigation for 2019-nCoV in Healthcare Settings](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html)
