@@ -72,6 +72,11 @@ searchgov:
 
 
 ## How to edit
+
+### Adding an urgent alert
+On the `index.html` you can add an urgent USWDS style banner by changing the front matter. If you turn the `banner.display` key to `true` to display the banner.
+
+
 - Non-developers should focus on editing markdown content in the `_posts` and `_pages` folder
 
 - We try to keep configuration options to a minimum so you can easily change functionality. You should review `_config.yml` to see the options that are available to you. There are a few values on top that you **need** to change. They refer to the agency name and contact information. The rest of `_config.yml` has a range of more advanced options.
