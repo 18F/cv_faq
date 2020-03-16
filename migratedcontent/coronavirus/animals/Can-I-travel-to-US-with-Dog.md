@@ -1,6 +1,6 @@
 ---
 title: Can I travel to the United States with dogs or import dogs to the United States during the COVID-19 outbreak?
-tag: about
+category: animals
 layout: post
 date: March 16, 2020
 excerpt: Coronavirus Disease 2019 Basics
