@@ -79,3 +79,65 @@ The ASTM has developed standards for patient examination gloves. Length requirem
 
 [CDC guidance](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html) does not recommend double gloves when providing care to suspected or confirmed COVID-19 patients.
 
+#### Are extended length gloves necessary when caring for suspected or confirmed COVID-19 patients in healthcare settings? ####
+
+According to [CDC guidance](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html), extended length gloves are not necessary when providing care to suspected or confirmed COVID-19 patients. Extended length gloves can be used, but CDC is not specifically recommending them at this time.
+
+#### How I do put on (don) and take off (doff) my gloves? ####
+
+Check to see if your facility has guidance on how to don and doff PPE. The procedure to don and doff should be tailored to the specific type of PPE that you have available at your facility.
+
+If your facility does not have specific guidance, [the CDC has recommended sequences for donning and doffing of PPE](https://www.cdc.gov/niosh/npptl/pdfs/PPE-Sequence-508.pdf).
+
+It is important for HCP to perform hand hygiene after removing PPE. Hand hygiene should be performed by using an alcohol-based hand sanitizer that contains 60-95% alcohol or washing hands with soap and water for at least 20 seconds.  If hands are visibly soiled, soap and water should be used before returning to alcohol-based hand sanitizer.
+
+### Respirators ###
+
+#### Should I wear a respirator in public? ####
+
+CDC does not recommend the routine use of respirators outside of workplace settings (in the community). Most often, [spread](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html) of respiratory viruses from person-to-person happens among [close contacts](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html) (within 6 feet). CDC recommends everyday preventive actions to prevent the spread of respiratory viruses, such as avoiding people who are sick, avoiding touching your eyes or nose, and covering your cough or sneeze with a tissue. People who are sick should [stay home](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html) and not go into crowded public places or visit people in hospitals. Workers who are sick should follow CDC guidelines and [stay home when they are sick](https://www.cdc.gov/flu/business/stay-home-when-sick.htm).
+
+#### What is a respirator? ####
+
+A respirator is a personal protective device that is worn on the face or head and covers at least the nose and mouth. A respirator is used to reduce the wearer's risk of inhaling hazardous airborne particles (including infectious agents), gases or vapors. Respirators, including those intended for use in healthcare settings, are certified by the CDC/NIOSH.
+
+#### What is an N95 filtering facepiece respirator (FFR)? ####
+
+An N95 FFR is a type of respirator which removes particles from the air that are breathed through it. These respirators filter out at least 95% of very small (0.3 micron) particles. N95 FFRs are capable of filtering out all types of particles, including bacteria and viruses.
+
+#### What makes N95 respirators different from facemasks (sometimes called a surgical mask)? ####
+
+[Infographic: Understanding the difference between surgical masks and N95 respirators](https://www.cdc.gov/niosh/npptl/pdfs/UnderstandDifferenceInfographic-508.pdf)
+
+N95 respirators reduce the wearer's exposure to airborne particles, from small particle aerosols to large droplets. N95 respirators are tight-fitting respirators that filter out at least 95% of particles in the air, including large and small particles.
+
+Not everyone is able to wear a respirator due to medical conditions that may be made worse when breathing through a respirator. Before using a respirator or getting fit-tested, workers must have a medical evaluation to make sure that they are able to wear a respirator safely.
+
+Achieving an adequate seal to the face is essential. United States regulations require that workers undergo an annual fit test and conduct a user seal check each time the respirator is used. Workers must pass a fit test to confirm a proper seal before using a respirator in the workplace.
+
+When properly fitted and worn, minimal leakage occurs around edges of the respirator when the user inhales. This means almost all of the air is directed through the filter media.
+
+Unlike NIOSH-approved N95s, facemasks are loose-fitting and provide only barrier protection against droplets, including large respiratory particles. No fit testing or seal check is necessary with facemasks. Most facemasks do not effectively filter small particles from the air and do not prevent leakage around the edge of the mask when the user inhales.
+
+The role of facemasks is for patient source control, to prevent contamination of the surrounding area when a person coughs or sneezes.  Patients with confirmed or suspected COVID-19 should wear a facemask until they are isolated in a hospital or at home. The patient does not need to wear a facemask while isolated.
+
+#### What is a surgical N95 respirator and who needs to wear it? ####
+
+A surgical N95 (also referred as a medical respirator) is recommended only for use by healthcare personnel (HCP) who need protection from both airborne and fluid hazards (e.g., splashes, sprays). These respirators are not used or needed outside of healthcare settings. In times of shortage, only HCP who are working in a sterile field or who may be exposed to high velocity splashes, sprays, or splatters of blood or body fluids should wear these respirators, such as in operative or procedural settings. Most HCP caring for confirmed or suspected COVID-19 patients should not need to use surgical N95 respirators and can use standard N95 respirators.
+
+If a surgical N95 is not available for use in operative or procedural settings, then an unvalved N95 respirator may be used with a faceshield to help block high velocity streams of blood and body fluids.
+
+#### My employees complain that Surgical N95 respirators are hot and uncomfortable – what can I do? ####
+
+The requirements for surgical N95 respirators that make them resistant to high velocity streams of body fluids and help protect the sterile field can result in a design that has a higher breathing resistance (makes it more difficult to breath) than a typical N95 respirator. Also, surgical N95 respirators are designed without exhalation valves which are sometimes perceived as warmer inside the mask than typical N95 respirators. If you are receiving complaints, you may consider having employees who are not doing surgery, not working in a sterile field, or not potentially exposed to high velocity streams of body fluids wear a standard N95 with an exhalation valve.
+
+#### My N95 respirator has an exhalation valve. Is that okay? ####
+
+An N95 respirator with an exhalation valve does provide the same level of protection to the wearer as one that does not have a valve. The presence of an exhalation valve reduces exhalation resistance, which makes it easier to breathe (exhale). Some users feel that a respirator with an exhalation valve keeps the face cooler and reduces moisture build up inside the facepiece. However, respirators with exhalation valves should not be used in situations where a sterile field must be maintained (e.g., during an invasive procedure in an operating or procedure room) because the exhalation valve allows unfiltered exhaled air to escape into the sterile field.
+
+#### How can I tell if a respirator is NIOSH-approved? ####
+
+The [NIOSH approval number and approval label](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/respsource1quest2.html) are key to identifying NIOSH-approved respirators. The NIOSH approval label can be found on or within the packaging of the respirator or sometimes on the respirator itself. The required labeling of [NIOSH-Approved N95 filtering facepiece respirators](https://www.cdc.gov/niosh/npptl/pdfs/N95-Infographic-Mask-Labeling-508.pdf) includes the NIOSH name, the approval number, filter designations, lot number, and model number to be printed on the respirator. You can verify that your respirator approvals are valid by checking the [NIOSH Certified Equipment List (CEL)](https://www.cdc.gov/niosh/npptl/topics/respirators/cel/default.html).
+
+#### How do I know if a respirator is falsely advertising NIOSH-approval? ####
+When NIOSH becomes aware of counterfeit respirators or those misrepresenting NIOSH approval on the market, these respirators are posted on the [Counterfeit Respirators / Misrepresentation of NIOSH-Approval](https://www.cdc.gov/niosh/npptl/usernotices/counterfeitResp.html) webpage to alert users, purchasers, and manufacturers.
