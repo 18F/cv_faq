@@ -110,6 +110,8 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  category:
+    output: true
 
 defaults:
   -
@@ -118,7 +120,7 @@ defaults:
     values:
       lang: en
 
-permalink: /:lang/:categories/:year/:month/:day/:title/
+permalink: /:lang/:categories:output_ext#:title
 permalink_custom_vars:
   - lang
 
