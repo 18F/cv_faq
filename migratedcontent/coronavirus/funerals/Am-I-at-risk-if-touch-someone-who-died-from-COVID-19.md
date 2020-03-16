@@ -1,12 +1,10 @@
 ---
-title: Funerals
-tag: about
+title: Am I at risk if I touch someone who died of COVID-19 after they have passed away?
+category: funerals
 layout: post
 date: March 16, 2020
 excerpt: Coronavirus Disease 2019 Basics
 ---
-
-<h2> Am I at risk if I touch someone who died of COVID-19 after they have passed away? </h2>
 
 COVID-19 is a new disease and we are still learning how it spreads. The virus that causes COVID-19 is thought to mainly spread from close contact (i.e., within about 6 feet) with a person who is currently sick with COVID-19. The virus likely spreads primarily through respiratory droplets produced when an infected person coughs or sneezes, similar to how influenza and other respiratory infections spread. These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. This type of spread is not a concern after death. It may be possible that a person can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.
 </br></br>
