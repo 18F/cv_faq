@@ -2,20 +2,46 @@
 permalink: /
 layout: wide
 title: Home
+top_questions:
+    - name: symptoms
+      question: "What are my symptoms?"
+      link: "/"
+    - name: distancing
+      question: "What is social distancing?"
+    - name: tested
+      question: "Should I get tested?"
+      link: "/"
+    - name: caseload
+      question: "Cases in the U.S."
+      link: "/"
+    - name: spread
+      question: "How does it spread?"
+      link: "/" 
+    - name: travel
+      question: "Can I travel?"
+      link: "/"
+questions_box:
+    box_1_header: "How to Protect yourself?"
+    box_2_header: "What to Do if you feel sick"
+questions_areas:
+    - tag: about
+      title: "About Covid-19"
+    - tag: highrisk
+      title: Advice for High-Risk
+    - tag: everyone
+      title: Advice for everyone
+    - tag: hygiene
+      title: hygiene
+    - tag: travel
+      title: Travelling
+    - tag: Quarantine
+      title: Quarantine
+
+    
 ---
 
-{% comment %} 
-Welcome to official Federalist Jekyll template for the U.S Web Design System 2.0
-
-You'll notice that this page only makes reference to two other html files: hero.html and highlights.html
-
-To the edit the home page, you can edit those files directly, create new ones or add content directly to
-this page. 
-
-We recommend splitting apart your site's components into their own smaller section so that its easier to 
-manage in the long term.
-{% endcomment %}
 
 {% include hero.html %}
-{% include tagline.html %}
-{% include highlights.html %}
+{% include top-questions.html top_questions=page.top_questions %}
+{% include questions-box.html questions_box=page.questions_box %}
+{% include content-questions.html questions_areas=page.questions_areas %}
