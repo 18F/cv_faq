@@ -140,4 +140,25 @@ An N95 respirator with an exhalation valve does provide the same level of protec
 The [NIOSH approval number and approval label](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/respsource1quest2.html) are key to identifying NIOSH-approved respirators. The NIOSH approval label can be found on or within the packaging of the respirator or sometimes on the respirator itself. The required labeling of [NIOSH-Approved N95 filtering facepiece respirators](https://www.cdc.gov/niosh/npptl/pdfs/N95-Infographic-Mask-Labeling-508.pdf) includes the NIOSH name, the approval number, filter designations, lot number, and model number to be printed on the respirator. You can verify that your respirator approvals are valid by checking the [NIOSH Certified Equipment List (CEL)](https://www.cdc.gov/niosh/npptl/topics/respirators/cel/default.html).
 
 #### How do I know if a respirator is falsely advertising NIOSH-approval? ####
+
 When NIOSH becomes aware of counterfeit respirators or those misrepresenting NIOSH approval on the market, these respirators are posted on the [Counterfeit Respirators / Misrepresentation of NIOSH-Approval](https://www.cdc.gov/niosh/npptl/usernotices/counterfeitResp.html) webpage to alert users, purchasers, and manufacturers.
+
+#### How do I know if my respirator is expired? ####
+
+NIOSH does not require approved N95 filtering facepiece respirators (FFRs) be marked with an expiration date. If an FFR does not have an assigned expiration date, you should refer to the user instructions or seek guidance from the specific manufacturer on whether time and storage conditions (such as temperature or humidity) are expected to have an effect on the respirator's performance and if the respirators are nearing the end of their shelf life.
+
+#### What do I do with an expired respirator? ####
+
+In times of increased demand and decreased supply, consideration can be made to use N95 respirators past their intended shelf life. However, the potential exists that the respirator will not perform to the requirements for which it was certified. Over time, components such as the strap and nose bridge may degrade, which can affect the quality of the fit and seal. Prior to use of N95 respirators, the HCP should inspect the respirator and perform a seal check. Additionally, expired respirators may potentially no longer meet the certification requirements set by NIOSH. For further guidance, visit [Release of Stockpiled N95 Filtering Facepiece Respirators Beyond the Manufacturer-Designated Shelf Life: Considerations for the COVID-19 Response](https://www.cdc.gov/coronavirus/2019-ncov/release-stockpiled-N95.html).
+
+#### What methods should healthcare facilities consider in order to avoid unintentional loss of PPE during COVID-19? ####
+
+Monitoring PPE supply inventory and maintaining control over PPE supplies may help prevent unintentional product losses that may occur due to theft, damage, or accidental loss. Inventory systems should be employed to track daily usage and identify areas of higher than expected use.  This information can be used to implement additional conservation strategies tailored to specific patient care areas such as hospital units or outpatient facilities.  Inventory tracking within a health system may also assist in confirming PPE deliveries and optimizing distribution of PPE supplies to specific facilities.
+
+<sub>1. ASTM D6319-Standard Specification for Nitrile Examination Gloves for Medical Applications</sub>
+
+<sub>2. ASTM D3578 Standard Specification for Rubber Examination Gloves</sub>
+
+<sub>3. ASTM D5250 Standard Specification for Poly(vinyl chloride) Gloves for Medical Application</sub>
+
+<sub>4. ASTMD 6977 Standard Specification for Polychloroprene Examination Gloves for Medical Application</sub>
