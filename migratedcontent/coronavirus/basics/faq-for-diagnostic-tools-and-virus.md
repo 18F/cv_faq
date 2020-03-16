@@ -7,15 +7,15 @@ date: March 16, 2020
 
 ## FAQ for Diagnostic Tools and Virus ##
 
-### How do I learn more about the CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel? ###
+#### How do I learn more about the CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel? ####
 
 The diagnostic panel's FDA-authorized [instructions for use](https://www.fda.gov/media/134922/download) contain information about the test, its intended use, test procedure and performance characteristics. [FDA's EUA website](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations) has published the FDA [Letter of Authorization](https://www.fda.gov/media/134919/download) for the diagnostic panel, which defines the authorized use and the conditions of authorization that apply to CDC and to testing laboratories.
 
-### How do I order a reagent diagnostic panel? ###
+#### How do I order a reagent diagnostic panel? ####
 
 The [International Reagent Resource (IRR)](https://www.internationalreagentresource.org/) will distribute the diagnostic panel and most of the associated reagents to public health partners. CDC has also posted a list of commercially available [lots of primer and probe sets](https://www.cdc.gov/coronavirus/2019-ncov/downloads/List-of-Acceptable-Commercial-Primers-Probes.pdf) that have passed CDC functional QC and may be used with our CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel.
 
-### Which labs will receive the diagnostic panel? ###
+#### Which labs will receive the diagnostic panel? ####
 
 The Food and Drug Administration (FDA) authorized the Emergency Use Authorization (EUA) on February 4, 2020.
 
@@ -40,7 +40,7 @@ The CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel requires the following contr
 * **Positive Control for COVID-19 (nCoVPC):** Run with each batch of specimens.  Monitors for failures of rRT-PCR reagents and reaction conditions.
 * **No Template Control (NTC):** Nuclease-free water included in each run.  Monitors for reagent and system contamination.
 
-### Should I be testing all patients for COVID-19? ###
+#### Should I be testing all patients for COVID-19? ####
 
 Clinicians should base their decisions on whether a patient should be tested for COVID-19 on:
 
@@ -50,13 +50,13 @@ Clinicians should base their decisions on whether a patient should be tested for
 
 Clinicians are encouraged to test for other causes of respiratory illness in addition to COVID-19. More details on clinical characteristics of COVID-19 are found on [Evaluating and Reporting Persons Under Investigation](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/clinical-criteria.html).
 
-### What safety equipment should labs use when using the diagnostic tool? ###
+#### What safety equipment should labs use when using the diagnostic tool? ####
 
 Use appropriate personal protective equipment when collecting and handling specimens from individuals suspected of being infected with COVID-19 as outlined in the CDC Interim Guidelines for Collecting, Handling and Testing Clinical Specimens from Persons Under Investigation (PUIs) for Coronavirus Disease 2019 (COVID-19).
 
-### How can my lab get the virus? ### 
+#### How can my lab get the virus? ####
 
 The National Institute of Health (NIH)'s [Biodefense and Emerging Infections Research Resources Repository](https://www.niaid.nih.gov/research/bei-resources-repository) (BEI Resources) will provide laboratories with COVID-19.
 
-### I believe that I have found a treatment or vaccine for COVID-19. Is CDC the best place to submit my idea? ###
+#### I believe that I have found a treatment or vaccine for COVID-19. Is CDC the best place to submit my idea? ####
 BARDA is providing a portal to support U.S. government medical countermeasure research and development. Interested stakeholders can learn more [here](https://medicalcountermeasures.gov/app/barda/coronavirus.aspx).
