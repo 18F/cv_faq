@@ -1,5 +1,5 @@
 ---
-title: Attending Funerals
+title: Overseas Death
 tag: about
 layout: post
 date: March 16, 2020
