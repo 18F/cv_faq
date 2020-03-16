@@ -5,7 +5,7 @@
         <h2>{{ include.questions_box.box_1_header }}</h2>
         <ul>
           {% for post in site.posts %}
-            {% if post.tag contains include.questions_box.box_1_category %}
+            {% if post.category contains include.questions_box.box_1_category %}
             <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endif %}
           {% endfor %}
@@ -19,7 +19,7 @@
         <h2>{{ include.questions_box.box_2_header }}</h2>
         <ul>
           {% for post in site.posts %}
-            {% if post.tag contains include.questions_box.box_2_category %}
+            {% if post.category contains include.questions_box.box_2_category %}
             <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endif %}
           {% endfor %}

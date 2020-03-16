@@ -7,7 +7,7 @@
         <h4>{{ topic.title }}</h4>
         <ul>
           {% for post in site.posts %}
-            {% if post.tag contains topic.tag and post.promoted == true %}
+            {% if post.category contains topic.category and post.promoted == true %}
             <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endif %}
           {% endfor %}
