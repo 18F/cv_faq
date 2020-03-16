@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: 18f/federalist-uswds-jekyll
-  base_url: https://federalistapp.18f.gov
+  repo: 18f/cv_faq
+  base_url: https://faq-coronavirus.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
   branch: master
@@ -10,7 +10,7 @@ backend:
 media_folder: assets/uploads
 public_folder: /images/uploads
 publish_mode: editorial_workflow
-logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
+logo_url: https://faq-coronavirus.gov/assets/images/cdc-logo.svg
 
 collections:
   - label: Posts
