@@ -1,3 +1,7 @@
+.usa-section {
+    @include u-margin(4);
+}
+
 .top-questions h2 {
   text-align: center;
 }
