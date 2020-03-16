@@ -111,7 +111,16 @@ collections:
     output: true
     permalink: /:path/
 
-permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+
+permalink: /:lang/:categories/:year/:month/:day/:title/
+permalink_custom_vars:
+  - lang
 
 markdown: kramdown
 plugins:
