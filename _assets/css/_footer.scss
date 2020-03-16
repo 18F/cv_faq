@@ -32,5 +32,6 @@ footer .list-inline {
         @include u-color('ink');
         @include u-text('no-underline');
         @include u-font('sans', '3xs');
+        @include u-padding-x(1);
     }
 }
