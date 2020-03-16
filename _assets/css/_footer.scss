@@ -9,4 +9,5 @@ footer a:visited {
 
 footer h3 {
   @include u-text('uppercase');
+  @include u-font-family('sans');
 }
