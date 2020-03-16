@@ -1,6 +1,6 @@
 ---
-title: About Covid-19
-tag: about
+title: What is a novel coronavirus?
+category: about
 layout: post
 date: March 16, 2020
 excerpt: Coronavirus Disease 2019 Basics
