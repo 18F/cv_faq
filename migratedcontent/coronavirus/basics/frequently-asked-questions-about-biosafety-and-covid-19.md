@@ -50,7 +50,7 @@ For additional information, refer to the following:
 
 #### How should specimens be stored? ####
 
-Store specimens at 2-8oC for up to 72 hours after collection. If a delay occurs in extraction, store specimens at -70oC or lower. Store extracted nucleic acid at -70oC or lower.
+Store specimens at 2-8°C for up to 72 hours after collection. If a delay occurs in extraction, store specimens at -70°C or lower. Store extracted nucleic acid at -70°C or lower.
 
 For additional information, refer to the following:
 
@@ -140,7 +140,7 @@ For additional information, refer to the following:
 
 ### At what temperature should specimens be shipped? ####
 
-Specimens should be shipped at 2-8oC with ice packs. If the specimen is frozen, ship overnight on dry ice. The primary receptacle and the secondary packaging should maintain their integrity at the temperature of the refrigerant used as well as the temperatures and the pressures which could result if refrigeration were lost. Packages containing dry ice should be designed and constructed so as to prevent the buildup of pressure and to allow the release of gas that could rupture the packaging.
+Specimens should be shipped at 2-8°C with ice packs. If the specimen is frozen, ship overnight on dry ice. The primary receptacle and the secondary packaging should maintain their integrity at the temperature of the refrigerant used as well as the temperatures and the pressures which could result if refrigeration were lost. Packages containing dry ice should be designed and constructed so as to prevent the buildup of pressure and to allow the release of gas that could rupture the packaging.
 
 For additional information, refer to the following:
 
@@ -187,7 +187,7 @@ The overpack should be marked in accordance with the packing instructions requir
 3. Shipper's name, address, and phone number
 4. Receiver's name, address, and phone number
 5. Package Orientation Label
-6. Marked with the word “Overpack”
+6. Marked with the word "Overpack"
 7. Name and phone number of a responsible person is optional if it is on the airway bill
 
 For additional information, refer to the following:
@@ -197,7 +197,7 @@ For additional information, refer to the following:
 
 #### Is a shipper's declaration required? What documentation is required for shipment? What if specimens are shipped on dry ice? ####
 
-A shipper's declaration is not required for UN 3373 Biological Substances, Category B shipped samples. If an Air Waybill is used, the “Nature and Quantity of Goods” box should show “UN 3373 Biological Substance, Category B” along with the number of packages. If specimens are shipped on dry ice, include UN 1845, Dry Ice, 9, along with the net weight of the dry ice. See IATA PI 650 for additional information.
+A shipper's declaration is not required for UN 3373 Biological Substances, Category B shipped samples. If an Air Waybill is used, the "Nature and Quantity of Goods" box should show "UN 3373 Biological Substance, Category B" along with the number of packages. If specimens are shipped on dry ice, include UN 1845, Dry Ice, 9, along with the net weight of the dry ice. See IATA PI 650 for additional information.
 
 For additional information, refer to the following:
 
