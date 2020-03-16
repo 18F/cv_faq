@@ -2,6 +2,38 @@
 
 @import "uswds";
 
+h2, h3, h4, h5, h6 {
+  @include u-font-family('serif');
+}
+
+h2, h3 {
+  @include u-text('normal');
+}
+
+.top-questions h2 {
+  text-align: center;
+}
+
+.top-questions .question {
+  @include u-border('base-lightest');
+  @include u-border('1px');
+  @include u-margin(2);
+  @include u-padding(1);
+
+  a {
+    @include u-text('no-underline');
+  }
+}
+
+.question-box-1 {
+  @include u-bg('info-lighter');
+}
+
+.question-box-2 {
+  @include u-bg('warning-lighter');
+}
+
+
 // Add your SASS/CSS here
 footer, footer a, footer a:visited {
   @include u-color('white');
@@ -12,6 +44,7 @@ footer, footer a, footer a:visited {
 
 footer h3 {
   @include u-text('uppercase');
+  @include u-font-family('sans');
 
 }
 // default mode hide banner

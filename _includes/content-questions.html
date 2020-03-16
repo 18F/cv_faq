@@ -2,9 +2,15 @@
 <section class="usa-graphic-list usa-section">
   <div class="grid-container">
     <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block tablet:grid-col">
-        {{ include.question_areas }}
+      {% for topic in include.topics %}
+      <div class="usa-media-block tablet:grid-col-3">
+        <h4>{{ topic.title }}</h4>
+        <ul>
+
+        </ul>
+        <a href="">View All >></a>
       </div>
+      {% endfor %}
     </div>
   </div>
 </section>

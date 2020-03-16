@@ -1,9 +1,11 @@
-<section class="grid-container usa-section usa-prose">
+<section class="grid-container usa-section usa-prose top-questions">
     <h2>Top Questions</h2>
   <div class="grid-row grid-gap">
     {% for question in include.top_questions %}
     <div class="tablet:grid-col-4">
-      <a href="{{ question.link | prepend: site.baseurl }}">{{ question.question }}</a>
+      <div class="question">
+        <a href="{{ question.link | prepend: site.baseurl }}">{{ question.question }}</a>
+      </div>
     </div>
     {% endfor %}
   </div>
