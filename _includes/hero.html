@@ -1,14 +1,16 @@
-{% comment %} 
-This will be displayed on the homepage. Ideally, you want to highlight key goals of the website
-{% endcomment %}
-
-<section class="usa-hero">
+<section class="usa-hero hero__no-image">
   <div class="grid-container">
-    <div class="usa-hero__callout">
-      <h2 class="usa-hero__heading"><span class="usa-hero__heading--alt">Hero callout:</span>Bring attention to a project priority
-      </h2>
-      <p>Support the callout with some short explanatory text. You don’t need more than a couple of sentences.</p>
-      <a class="usa-button" href="javascript:void(0)">Call to action</a>
-    </div>
+    <h1>Find answers about COVID-19</h1>
+
+    <form id="search_form" class="usa-search">
+
+      <div role="search">
+        <label class="usa-label usa-sr-only" for="search-box">Text input label</label>
+        <input class="usa-input" id="search-box" name="search-box" type="search"
+          placeholder="Search questions, keywords, or topics to find answers" />
+        <button class="usa-button" type="submit">Search</button>
+      </div>
+    </form>
+    <p>or you can browse the categories below to find what you are looking for.</p>
   </div>
 </section>
