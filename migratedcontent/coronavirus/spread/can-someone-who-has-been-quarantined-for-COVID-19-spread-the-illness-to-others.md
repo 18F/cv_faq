@@ -3,7 +3,7 @@ title: Can someone who has been quarantined for COVID-19 spread the illness to o
 tag: hygiene
 layout: post
 date: March 16, 2020
-excerpt: How it Spreads
+excerpt: How It Spreads
 ---
 
 <h2> Can someone who has been quarantined for COVID-19 spread the illness to others?</h2>

@@ -34,7 +34,7 @@ twitter: 18F
 google_analytics_ua: UA-????????-??
 
 
-dap_agency: GSA
+dap_agency: HHS
 # USAID   - Agency for International Development
 # USDA    - Department of Agriculture
 # DOC     - Department of Commerce
@@ -111,7 +111,16 @@ collections:
     output: true
     permalink: /:path/
 
-permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+
+permalink: /:lang/:categories/:year/:month/:day/:title/
+permalink_custom_vars:
+  - lang
 
 markdown: kramdown
 plugins:
@@ -182,3 +191,4 @@ assets:
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
+    - node_modules

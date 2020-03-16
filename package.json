@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "netlify-cms": "^2.10.23",
+    "simple-jekyll-search": "^1.7.3",
     "uswds": "~2.1.0"
   },
   "devDependencies": {
