@@ -13,12 +13,12 @@
             {% for question in category_questions limit:6 %}
               {% if page.lang == question.lang and question.promoted == true %}
               <li class="margin-y-1">
-                <a href="{{ site_category.name | prepend: site.baseurl }}/#{{ question.title|slugify }}">{{ question.title }}</a>
+                <a href="{{ site_category.name | prepend: site.baseurl }}.#{{ question.title|slugify }}">{{ question.title }}</a>
               </li>
               {% endif %}
             {% endfor %}
           </ul>
-          <a href="{{ site_category.name | prepend: site.baseurl }}" class="text-bold">View All »</a>
+          <a href="{{ site_category.name | prepend: site.baseurl }}.html" class="text-bold">View All »</a>
         </div>
       {% endfor %}
     </div>
