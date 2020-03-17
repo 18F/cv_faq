@@ -2,20 +2,24 @@
 <section class="usa-section usa-section--condensed">
   <div class="grid-container border-top border-base-lightest">
     <div class="grid-row grid-gap">
-      {% for category in site.categories %}
-      <div class="usa-media-block tablet:grid-col-4 content-questions">
-        <h4>{{ category.title }}</h4>
-        <ul class="usa-list usa-list--unstyled margin-bottom-1">
-          {% for post in site.posts %}
-            {% if post.category contains category.name and post.promoted == true and page.lang == post.lang %}
-            <li class="margin-y-1">
-              <a href="{{ category.url | prepend: site.baseurl }}/#{{ post.title|slugify }}">{{ post.title }}</a>
-            </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-        <a href="{{ category.name | prepend: site.baseurl }}" class="text-bold">View All »</a>
-      </div>
+      {% assign categories = site.content | group_by:"category" %}
+
+      {% for site_category in site.categories %}
+        {% assign current_category = categories | where:"name", site_category.name | first %}
+        {% assign category_questions = current_category.items %}
+        <div class="usa-media-block tablet:grid-col-4 content-questions">
+          <h3>{{ site_category.title }}</h3>
+          <ul class="usa-list--unstyled">
+            {% for question in category_questions limit:6 %}
+              {% if page.lang == question.lang and question.promoted == true %}
+              <li class="margin-y-1">
+                <a href="{{ site_category.name | prepend: site.baseurl }}.#{{ question.title|slugify }}">{{ question.title }}</a>
+              </li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+          <a href="{{ site_category.name | prepend: site.baseurl }}.html" class="text-bold">View All »</a>
+        </div>
       {% endfor %}
     </div>
   </div>

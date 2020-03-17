@@ -115,6 +115,8 @@ collections:
   categories:
     output: true
     permalink: /:name
+  content:
+    output: false
 
 defaults:
   -
