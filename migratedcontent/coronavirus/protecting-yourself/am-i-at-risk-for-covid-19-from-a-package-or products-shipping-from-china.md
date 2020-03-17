@@ -1,12 +1,11 @@
 ---
 title: Am I at risk for COVID-19 from a package or products shipping from China?
-tag: highrisk
+tag: high-risk
 layout: post
 date: March 16, 2020
 excerpt: How to Protect Yourself
 ---
 
-<h2>Am I at risk for COVID-19 from a package or products shipping from China?</h2>
 There is still a lot that is unknown about the newly emerged COVID-19 and how it spreads. Two other coronaviruses have emerged 
 previously to cause severe illness in people (MERS-CoV and SARS-CoV). The virus that causes COVID-19 is more genetically 
 related to SARS-CoV than MERS-CoV, but both are betacoronaviruses with their origins in bats. While we don’t know for sure 
