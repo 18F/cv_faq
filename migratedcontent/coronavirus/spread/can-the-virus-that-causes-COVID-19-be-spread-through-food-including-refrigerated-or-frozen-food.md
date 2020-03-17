@@ -1,12 +1,11 @@
 ---
 title: Can the virus that causes COVID-19 be spread through food, including refrigerated or frozen food?
-tag: hygiene
+category: about
 layout: post
 date: March 16, 2020
-excerpt: How it Spreads
+excerpt: How It Spreads
 ---
 
-<h2> Can the virus that causes COVID-19 be spread through food, including refrigerated or frozen food? </h2>
 Coronaviruses are generally thought to be spread from person-to-person through respiratory droplets. Currently there is no 
 evidence to support transmission of COVID-19 associated with food. Before preparing or eating food it is important to always 
 wash your hands with soap and water for 20 seconds for general food safety. Throughout the day wash your hands after blowing 
