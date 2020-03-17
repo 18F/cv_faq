@@ -1,5 +1,5 @@
 ---
-title: My fmaily member died from COVID-19 while overseas. What are the requirements for returning the body to the United States?
+title: My family member died from COVID-19 while overseas. What are the requirements for returning the body to the United States?
 category: funerals
 layout: post
 date: March 16, 2020

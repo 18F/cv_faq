@@ -1,0 +1,9 @@
+---
+layout: category
+name: pregnancy
+title: "Pregnant Women and COVID-19"
+banner:
+    display: false
+    heading: "This is a place to place urgent information"
+    content: "You can set this component to 'display: true' to show a banner at the top of the page."
+---
