@@ -21,10 +21,8 @@
 title: CDC
 logo_alt: Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People
 email: contact@example.gov
-description: >- # this means to ignore newlines until "baseurl:" CDC works 24/7 to protect America from health, safety and security threats, 
-both foreign and in the U.S. Whether diseases start at home or abroad, are
-chronic or acute, curable or preventable, human error or deliberate attack, 
-CDC fights disease and supports communities and citizens to do the same.
+description: >- # this means to ignore newlines until "baseurl:"
+CDC works 24/7 to protect America from health, safety and security threats
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
