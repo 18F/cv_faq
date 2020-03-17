@@ -19,9 +19,12 @@ p {
 
 a {
   @include u-color('primary-dark');
+  @include u-text('no-underline');
+
   &:visited,
   &:hover,
   &:focus {
     @include u-color('primary-dark');
+    @include u-text('underline');
   }
 }
