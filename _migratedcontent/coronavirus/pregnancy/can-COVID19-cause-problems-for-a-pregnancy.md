@@ -1,6 +1,5 @@
 ---
 title: Can COVID-19 cause problems for a pregnancy
-category: high-risk
 layout: post
 date: March 16, 2020
 excerpt: Pregnant Women and COVID-19

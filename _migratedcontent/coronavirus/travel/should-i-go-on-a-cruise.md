@@ -1,6 +1,5 @@
 ---
 title: Should I go on a cruise?
-category: travel
 layout: post
 date: March 16, 2020
 excerpt: Air and cruise travel

@@ -1,6 +1,5 @@
 ---
 title: How can pregnant women protect themselves from getting COVID-19?
-category: high-risk
 layout: post
 date: March 16, 2020
 excerpt: Pregnant women and COVID-19

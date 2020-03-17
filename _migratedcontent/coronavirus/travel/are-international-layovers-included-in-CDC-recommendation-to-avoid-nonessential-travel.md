@@ -1,6 +1,5 @@
 ---
 title: Are international layovers included in CDC's recommendation to avoid nonessential travel?
-category: travel
 layout: post
 date: March 16, 2020
 excerpt: Canceling and postponing travel

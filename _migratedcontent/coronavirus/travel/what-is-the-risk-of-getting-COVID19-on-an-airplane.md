@@ -1,7 +1,6 @@
 ---
 title: What is the risk of getting COVID-19 on an airplane?
-category: travel
-layout: post 
+layout: post
 date: March 16, 2020
 excerpt: Air or cruise travel
 ---

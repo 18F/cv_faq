@@ -1,6 +1,5 @@
 ---
 title: Should I cancel my international travel?
-category: travel
 layout: post
 date: March 16, 2020
 excerpt: Canceling or postponing travel

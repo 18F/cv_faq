@@ -1,6 +1,5 @@
 ---
 title: What can I bring when arriving to the United States?
-category: travel
 layout: post
 date: March 16, 2020
 excerpt: Returning from travel

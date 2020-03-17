@@ -1,6 +1,5 @@
 ---
 title: Should I travel within the United States?
-category: travel
 layout: post
 date: March 16, 2020
 excerpt: Coronavirus and travel in the united states
@@ -18,4 +17,4 @@ CDC does not generally issue advisories or restrictions for travel within the Un
 * **Do you live with someone who is older or has a severe chronic health condition?** If you get sick with COVID-19 upon your return from travel, your household contacts may be at risk of infection. Household contacts who are older adults or have severe chronic medical conditions are at higher risk for severe illness from COVID-19.
 * **Is COVID-19 spreading where you live?** Consider the risk of passing COVID-19 to others during travel, particularly if you will be in close contact with people who are <a href="https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html#who-is-higher-risk"> older adults or have severe chronic health condition</a>. These people are at higher risk of getting very sick. If your symptoms are mild or you don’t have a fever, you may not realize you are infectious.
 
-Depending on your unique circumstances, you may choose to delay or cancel your plans. If you do decide to travel, be sure to <a href="https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html"> practice precautions</a> to prevent getting and spreading COVID-19 and other respiratory diseases during travel. For the most up-to-date COVID-19 travel information, visit <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html"> CDC COVID-19 Travel page</a>.  
+Depending on your unique circumstances, you may choose to delay or cancel your plans. If you do decide to travel, be sure to <a href="https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html"> practice precautions</a> to prevent getting and spreading COVID-19 and other respiratory diseases during travel. For the most up-to-date COVID-19 travel information, visit <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html"> CDC COVID-19 Travel page</a>.

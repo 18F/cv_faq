@@ -1,6 +1,5 @@
 ---
 title: How are travelers from countries with level 3 travel health notice being screened when they enter the United States?
-category: travel
 layout: post
 date: March 16, 2020
 excerpt: Returning from travel

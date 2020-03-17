@@ -1,6 +1,5 @@
 ---
 title: What is the risk to pregnant women of getting COVID-19?
-category: high-risk
 layout: post
 date: March 16, 2020
 excerpt: Pregnant women and COVID-19
