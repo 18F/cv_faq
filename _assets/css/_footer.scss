@@ -26,10 +26,11 @@ footer {
             @include u-float('left');
             list-style-type: none;
         }
-        .fi {
+        .footer-icon {
             @include u-width(3);
             @include u-height(3);
             margin-right: units(2);
+            fill: white;
         }
     }
 }
