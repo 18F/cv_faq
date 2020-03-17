@@ -1,6 +1,6 @@
 ---
 title: Am I at risk for COVID-19 in the United States?
-category: high-risk
+category: about
 layout: post
 date: March 16, 2020
 excerpt: How to Protect Yourself
