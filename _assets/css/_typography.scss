@@ -12,6 +12,11 @@ h2 .usa-accordion__button {
   font-weight: normal !important;
 }
 
+.usa-accordion__button {
+  @include u-line-height('heading', 6);
+}
+
+
 p {
   @include u-font('sans', 'md');
   @include u-text('base-darkest');
@@ -28,3 +33,4 @@ a {
     @include u-text('underline');
   }
 }
+
