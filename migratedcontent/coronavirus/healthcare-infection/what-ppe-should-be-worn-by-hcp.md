@@ -1,6 +1,6 @@
 ---
 title: What PPE should be worn by HCP providing care to asymptomatic patients with a history of exposure to COVID-19 who are being evaluated for a non-infectious complaint (e.g., hypertension or hyperglycemia)?
-tag: healthcare
+tag: healthcare-infection
 layout: post
 date: March 17, 2020
 ---
