@@ -1,6 +1,6 @@
 ---
 title: What safety equipment should labs use when using the diagnostic tool?
-category: diagnostic-tools
+category: diagnostic-panels
 layout: post
 date: March 17, 2020
 promoted: false
