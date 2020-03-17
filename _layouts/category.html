@@ -18,7 +18,6 @@ This template is for a single page that does not have a date associated with it.
           <div class="usa-accordion usa-accordion--bordered">
                 {% for post in site.posts %}
                     {% if post.categories contains page.name and page.lang == post.lang %}
-                        {{ post.title }}
                         {% include accordion.html question=post.title answer=post.content %}
                     {% endif %}
                 {% endfor %}
