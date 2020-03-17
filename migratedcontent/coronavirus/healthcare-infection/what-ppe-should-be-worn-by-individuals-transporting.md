@@ -1,6 +1,6 @@
 ---
 title: What personal protective equipment (PPE) should be worn by individuals transporting patients who are confirmed with or under investigation for COVID-19 within a healthcare facility? For example, what PPE should be worn when transporting a patient to radiology for imaging that cannot be performed in the patient room?
-tag: healthcare
+tag: healthcare-infection
 layout: post
 date: March 17, 2020
 ---
