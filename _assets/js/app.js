@@ -26,16 +26,6 @@ require('./simple-jekyll-search');
   }
 })();
 
-// var urlParams = new URLSearchParams(window.location.search);
-// var question_id = urlParams.get('question_id');
-
-// if (question_id) {
-//   var accordionQuestions = document.querySelectorAll("body > .usa-accordion__content");
-//   document.ques
-// }
-
-
-//Accordians closure for category pages
 const EXPANDED = "aria-expanded";
 
 var url = window.location.href;
