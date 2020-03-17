@@ -1,12 +1,11 @@
 ---
 title: Should I be tested for COVID-19?
-tag: highrisk
+category: about
 layout: post
 date: March 16, 2020
 excerpt: Symptoms and Testing
 ---
 
-<h2>Should I be tested for COVID-19?</h2>
 If you develop symptoms such as fever, cough, and/or difficulty breathing, and have been in close contact with a person 
 known to have COVID-19 or have recently traveled from an area with <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Ftransmission.html"> ongoing spread of COVID-19</a>, stay home and call your 
 healthcare provider. Older patients and individuals who have severe underlying medical conditions or are immunocompromised 
