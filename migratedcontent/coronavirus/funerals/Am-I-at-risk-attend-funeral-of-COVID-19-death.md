@@ -1,6 +1,6 @@
 ---
 title: Am I at risk if I go to a funeral or visitation service for someone who died of COVID-19?
-category: funerals
+category: about
 layout: post
 date: March 16, 2020
 excerpt: COVID-19 and Funerals
