@@ -17,8 +17,11 @@ require('./simple-jekyll-search');
     const query = urlParams.get('query');
 
     if (query) {
-      window.sjs = sjs;
-      sjs.search(query);
+      window.addEventListener('load', function () {
+        const searchInput = document.querySelector('#search-box');
+        searchInput.setAttribute("value", query);
+        sjs.search(query);
+      });
     }
   }
 })();

@@ -19,7 +19,7 @@
   @include u-color('primary-dark');
   display: flex;
   align-items: center;
-  
+
   &:visited,
   &:hover,
   &:focus {
@@ -37,14 +37,18 @@
   }
 }
 
-li a {
-  @include u-text('no-underline');
-  @include u-color('primary-dark');
-  &:visited,
-  &:hover,
-  &:focus {
-    @include u-text('underline');
+
+li {
+  text-align: left;
+  &:hover {
+    background-color: color('accent-cool-lighter');
+  }
+
+  a {
+    @include u-font('sans', 'lg');
+    @include u-text('no-underline');
     @include u-color('primary-dark');
+    @include u-margin(1);
   }
 }
 
@@ -64,7 +68,7 @@ li a {
   &.question-box--warning {
     @include u-bg('warning-lighter');
   }
-  
+
   a {
     @include u-color('primary-dark');
     align-self: flex-end;
