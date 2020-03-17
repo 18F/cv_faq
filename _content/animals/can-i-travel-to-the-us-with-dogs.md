@@ -3,6 +3,7 @@ title: Can I travel to the United States with dogs or import dogs to the United 
 category: animals
 layout: post
 date: March 16, 2020
+source: https://www.cdc.gov/coronavirus/2019-ncov/faq.html
 excerpt: COVID-19 and Animals
 ---
  
