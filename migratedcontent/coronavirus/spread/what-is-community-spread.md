@@ -1,6 +1,6 @@
 ---
 title: What is community spread?
-tag: about
+category: about
 layout: post
 date: March 16, 2020
 excerpt: How it Spreads
