@@ -1,6 +1,6 @@
 ---
 title: What is CDC doing about COVID-19?
-tag: about
+tag: cdc-actions
 layout: post
 date: March 16, 2020
 excerpt: What CDC is Doing
