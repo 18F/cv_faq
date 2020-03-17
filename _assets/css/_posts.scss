@@ -11,10 +11,11 @@ div.usa-layout-docs.usa-section {
   }
 }
 
-.question-meta {
+.usa-prose> p.question-meta {
   @include u-text('italic');
   @include u-color('base-light');
   @include u-font('serif', '2xs');
+  @include u-margin-top(4);
 }
 
 
