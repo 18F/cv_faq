@@ -1,6 +1,6 @@
 ---
 title: If I make the decision for a school dismissal, what else should I consider?
-category: schools
+category: k12-childcare
 layout: post
 date: March 16, 2020
 excerpt: "K-12 Schools and Childcare Program Administrators: School Dismissals"
