@@ -18,7 +18,7 @@
               {% endif %}
             {% endfor %}
           </ul>
-          <a href="{{ site_category.name | prepend: site.baseurl }}.html" class="text-bold margin-top-1">View All »</a>
+          <a href="{{ site_category.name | prepend: site.baseurl | prepend: '/' }}.html" class="text-bold margin-top-1">View All »</a>
         </div>
       {% endfor %}
     </div>
