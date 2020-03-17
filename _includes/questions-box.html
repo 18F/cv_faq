@@ -10,11 +10,11 @@
         <ul>
           {% for question in category-questions %}
             {% if page.lang == question.lang %}
-            <li><a href="{{ include.questions_box.box_1_category | prepend: site.baseurl }}">{{ question.title }}</a></li>
+            <li><a href="{{ site.baseurl }}/{{ include.questions_box.box_1_category }}">{{ question.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
-        <a href="{{ include.questions_box.box_1_category | prepend: site.baseurl }}" class="text-bold">View All »</a>
+        <a href="{{ site.baseurl }}/{{ include.questions_box.box_1_category }}" class="text-bold">View All »</a>
       </div>
 
     </div>
@@ -28,11 +28,11 @@
         <ul>
           {% for question in category-questions %}
             {% if page.lang == question.lang %}
-            <li><a href="{{ include.questions_box.box_2_category | prepend: site.baseurl }}">{{ question.title }}</a></li>
+            <li><a href="{{ site.baseurl }}/{{ include.questions_box.box_2_category }}">{{ question.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
-        <a href="{{ include.questions_box.box_2_category | prepend: site.baseurl }}" class="text-bold">View All »</a>
+        <a href="{{ site.baseurl }}/{{ include.questions_box.box_2_category }}" class="text-bold">View All »</a>
       </div>
     </div>
   </div>
