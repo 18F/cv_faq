@@ -3,14 +3,7 @@
     <h1>Find answers about COVID-19</h1>
 
     <form id="search_form" class="usa-search" action="{{ site.baseurl }}/search">
-
-      <div role="search">
-        <label class="usa-label usa-sr-only" for="search-box">Text input label</label>
-        <input class="usa-input" id="search-box" name="query" type="search"
-          placeholder="Search questions, keywords, or topics to find answers" />
-        <button class="usa-button" type="submit">Search</button>
-        <ul id="autocomplete-container"></ul>
-      </div>
+    {% include search.html %}
     </form>
     <p>or you can browse the categories below to find what you are looking for.</p>
   </div>

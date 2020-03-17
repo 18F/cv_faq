@@ -23,9 +23,19 @@
   }
 }
 
-li a {
-  @include u-text('no-underline');
-  @include u-color('primary-dark');
+
+li {
+  text-align: left;
+  &:hover {
+    background-color: color('accent-cool-lighter');
+  }
+
+  a {
+    @include u-font('sans', 'lg');
+    @include u-text('no-underline');
+    @include u-color('primary-dark');
+    @include u-margin(1);
+  }
 }
 
 .question-box {
