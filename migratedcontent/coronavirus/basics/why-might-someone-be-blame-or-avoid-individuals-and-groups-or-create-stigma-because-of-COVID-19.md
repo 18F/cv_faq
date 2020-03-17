@@ -1,11 +1,11 @@
 ---
-title: Stigma
-tag: about
+title: Why might someone blame or avoid individuals and groups (create stigma) because of COVID-19?
+category: about
 layout: post
 date: March 16, 2020
 excerpt: Coronavirus Disease 2019 Basics
 ---
-<h2> Why might someone blame or avoid individuals and groups (create stigma) because of COVID-19?</h2>
+
 People in the U.S. may be worried or anxious about friends and relatives who are living in or visiting areas where COVID-19 
 is spreading. Some people are worried about the disease. Fear and anxiety can lead to social stigma, for example, towards 
 Chinese or other Asian Americans or people who were in quarantine.

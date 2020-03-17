@@ -17,23 +17,23 @@ hero:
     title: Find answers about COVID-19
     tagline: or you can browse the categories below to find what you are looking for.
 top_questions:
-    - name: symptoms
-      question: "What are my symptoms?"
-      link: "/"
-    - name: distancing
-      question: "What is social distancing?"
-    - name: tested
-      question: "Should I get tested?"
-      link: "/"
-    - name: caseload
-      question: "Cases in the U.S."
-      link: "/"
-    - name: spread
-      question: "How does it spread?"
-      link: "/" 
-    - name: travel
-      question: "Can I travel?"
-      link: "/"
+    - icon: stethoscope
+      question: What are my symptoms?
+      link: /
+    - icon: test
+      question: Should I get tested?
+      link: /
+    - icon: chart
+      question: How does it spread?
+      link: /
+    - icon: group
+      question: What is social distancing?
+    - icon: globe
+      question: Cases in the U.S.
+      link: /
+    - icon: plane
+      question: Can I travel?
+      link: /
 questions_box:
     box_1_header: "How to Protect yourself?"
     box_1_category: protectyourself
@@ -60,4 +60,4 @@ topics:
 {% include hero.html hero=page.hero %}
 {% include top-questions.html top_questions=page.top_questions %}
 {% include questions-box.html questions_box=page.questions_box %}
-{% include content-questions.html topics=page.topics %}
+{% include content-questions.html %}

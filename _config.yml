@@ -18,7 +18,7 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: CDC
+title: Agency Name
 logo_alt: Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
@@ -110,8 +110,22 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  posts:
+    output: false
+  categories:
+    output: true
+    permalink: /:name
 
-permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+
+permalink: /:lang/:categories:output_ext#:title
+permalink_custom_vars:
+  - lang
 
 markdown: kramdown
 plugins:
@@ -165,9 +179,6 @@ pagination:
   indexpage: "index.html"
 
 exclude:
-  #- pages/
-  #- posts/
-  #- index.html
   - package.json
   - package-lock.json
   - README.md
@@ -185,3 +196,4 @@ assets:
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
+    - node_modules

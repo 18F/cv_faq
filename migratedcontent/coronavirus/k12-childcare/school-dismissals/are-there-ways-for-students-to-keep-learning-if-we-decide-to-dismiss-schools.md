@@ -1,0 +1,10 @@
+---
+title: Are there ways for students to keep learning if we decide to dismiss schools?
+category: schools
+layout: post
+date: March 16, 2020
+excerpt: School Dismissals
+promoted: false
+---
+
+Yes, many schools may use e-learning plans and distance learning options for continuity of education, if available. Your school or district's emergency operations plan should have recommended strategies for ensuring continuity of education and may provide guidance on how to proceed during a school dismissal. In addition, you may be able to use and/or scale up approaches used in other situations when students have not been able to attend school (e.g. inclement weather, facility damage, power outages).

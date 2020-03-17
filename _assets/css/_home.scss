@@ -1,3 +1,9 @@
+.usa-section.usa-section--condensed {
+    @include at-media('tablet') {
+      @include u-padding-y(6);
+    }
+}
+
 .top-questions h2 {
   text-align: center;
 }
@@ -5,11 +11,21 @@
 .top-questions .question {
   @include u-border('base-lightest');
   @include u-border('1px');
-  @include u-margin(1);
+  @include u-margin(2);
   @include u-padding(1);
+  @include u-text('no-underline');
 
-  a {
-    @include u-text('no-underline');
+  display: flex;
+  align-items: center;
+
+  .icon {
+    background-color: #eef5f6;
+    border-radius: 100%;
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }
 
