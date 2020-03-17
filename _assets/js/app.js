@@ -33,13 +33,11 @@ var idx = url.indexOf("#");
 var questionAnchor = idx != -1 ? url.substring(idx+1) : "";
 
 if(questionAnchor.length > 1){
-  console.log(questionAnchor)
-  var accordianButtons = document.querySelectorAll('.usa-accordion__button');
+  var accordionButtons = document.querySelectorAll('.usa-accordion__button');
 
-  accordianButtons.forEach(accordion =>{
+  accordionButtons.forEach(accordion =>{
     if(accordion.getAttribute('id') != questionAnchor) {
       accordion.setAttribute(EXPANDED, "false");
-      console.log(accordion.getAttribute('id') + 'closed');
     }
   })
 }
