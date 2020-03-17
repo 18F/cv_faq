@@ -2,9 +2,9 @@
   <h2>Top Questions</h2>
   <div class="grid-row grid-gap">
     {% for question in include.top_questions %}
-    <div class="tablet:grid-col-4">
+    <div class="tablet:grid-col-6 desktop:grid-col-4">
       <a class="question" href="{{ question.link | prepend: site.baseurl }}">
-        <div class="icon margin-right-1">
+        <div class="icon margin-right-2">
           {% capture icon_path %}icons/{{ question.icon }}.svg{% endcapture %}
           {% asset '{{ icon_path }}' class="" alt="{{ question.icon }} icon" %}
         </div>
