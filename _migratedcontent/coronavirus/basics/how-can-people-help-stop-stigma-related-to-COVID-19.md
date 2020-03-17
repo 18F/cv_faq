@@ -1,5 +1,6 @@
 ---
 title: How can people help stop stigma related to COVID-19?
+category: about
 layout: post
 date: March 16, 2020
 excerpt: Coronavirus Disease 2019 Basics

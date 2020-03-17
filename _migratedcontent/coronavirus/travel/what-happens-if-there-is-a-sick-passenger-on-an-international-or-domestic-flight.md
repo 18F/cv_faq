@@ -1,5 +1,6 @@
 ---
 title: What happens if there is a sick passenger on an international or domestic flight?
+category: travel
 layout: post
 date: March 16, 2020
 excerpt: Air or cruise travel

@@ -1,5 +1,6 @@
 ---
 title: Should I travel within the United States?
+category: travel
 layout: post
 date: March 16, 2020
 excerpt: Coronavirus and travel in the united states

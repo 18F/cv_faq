@@ -1,5 +1,6 @@
 ---
 title: After arriving from a country with level 3 travel health notice when can I return to work?
+category: travel
 layout: post
 date: March 16, 2020
 excerpt: Returning from travel

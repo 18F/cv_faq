@@ -1,5 +1,6 @@
 ---
 title: What can I expect when departing from other countries?
+category: travel
 layout: post
 date: March 16, 2020
 excerpt: Returning from travel

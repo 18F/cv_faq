@@ -1,5 +1,6 @@
 ---
 title: Should travelers wear face masks?
+category: travel
 layout: post
 date: March 16, 2020
 excerpt: Air and cruise travel
