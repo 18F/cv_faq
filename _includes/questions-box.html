@@ -1,11 +1,11 @@
-<section class="grid-container usa-section usa-prose">
+<section class="grid-container usa-section usa-prose usa-section--condensed border-top border-base-lightest">
   <div class="grid-row grid-gap">
     <div class="tablet:grid-col-6 flex-align-stretch">
       <div class="question-box question-box--info">
         <h2>{{ include.questions_box.box_1_header }}</h2>
         <ul>
           {% for post in site.posts %}
-            {% if post.tag contains include.questions_box.box_1_category %}
+            {% if post.category contains include.questions_box.box_1_category and page.lang == post.lang %}
             <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endif %}
           {% endfor %}
@@ -18,8 +18,8 @@
       <div class="question-box question-box--warning">
         <h2>{{ include.questions_box.box_2_header }}</h2>
         <ul>
-          {% for post in site.posts %}
-            {% if post.tag contains include.questions_box.box_2_category %}
+          {% for post in site.posts  %}
+            {% if post.category contains include.questions_box.box_2_category and page.lang == post.lang %}
             <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
             {% endif %}
           {% endfor %}

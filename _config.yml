@@ -110,8 +110,21 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  posts:
+    output: false
+  categories:
+    output: true
 
-permalink: pretty
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: en
+
+permalink: /:lang/:categories:output_ext#:title
+permalink_custom_vars:
+  - lang
 
 markdown: kramdown
 plugins:

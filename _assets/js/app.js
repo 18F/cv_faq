@@ -1,4 +1,4 @@
-//= require simple-jekyll-search/dest/simple-jekyll-search.js
+//= require ./simple-jekyll-search.js
 
 (function () {
   const form = document.getElementById('search_form');
