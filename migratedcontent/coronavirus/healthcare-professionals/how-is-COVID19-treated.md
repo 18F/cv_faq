@@ -1,6 +1,6 @@
 ---
 title: How is COVID-19 treated?
-category: healthcare
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 excerpt: Healthcare professionals
