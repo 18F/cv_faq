@@ -12,7 +12,7 @@
       <div class="usa-media-block tablet:grid-col-4">
         <h4>{{ category }}</h4>
         <ul class="usa-list usa-list--unstyled margin-bottom-1">
-          {% for question in category-questions limit:5 %}
+          {% for question in category-questions limit:4 %}
             {% if page.lang == question.lang %}
             <li class="margin-y-1">
               <a href="{{ category.url | prepend: site.baseurl }}/#{{ question.title|slugify }}">{{ question.title }}</a>
