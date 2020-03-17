@@ -7,9 +7,12 @@
     class="usa-accordion__button"
     aria-expanded="true"
     aria-controls="control-{{ include.question | slugify }}">
-    {{include.question}}
+    {{ question.title }}
 </button>
 </h2>
 <div id="control-{{ include.question | slugify }}" class="usa-accordion__content usa-prose">
-    <p>{{include.answer}}</p>
+    <p>{{ question.content }}</p>
+    {% if question.source %}
+        <a href="{{ question.source }}/" class="usa-link usa-link--external">Source</a>
+    {% endif %}
 </div>
