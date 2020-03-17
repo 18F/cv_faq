@@ -1,7 +1,7 @@
 footer,
 footer {
         @include u-color('base-lightest');
-        @include u-bg('#333333');
+        background-color: #333333;
     a,
     a:visited,
     span {
