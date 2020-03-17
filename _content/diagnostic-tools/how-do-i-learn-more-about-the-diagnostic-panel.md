@@ -1,6 +1,6 @@
 ---
 title: How do I learn more about the CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel?
-category: healthcare
+category: diagnostic-tools
 layout: post
 date: March 17, 2020
 promoted: false

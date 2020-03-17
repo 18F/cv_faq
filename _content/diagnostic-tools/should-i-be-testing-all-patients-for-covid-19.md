@@ -1,6 +1,6 @@
 ---
 title: Should I be testing all patients for COVID-19?
-category: healthcare
+category: diagnostic-tools
 layout: post
 date: March 17, 2020
 promoted: false

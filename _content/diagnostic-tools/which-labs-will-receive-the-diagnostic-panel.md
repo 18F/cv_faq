@@ -1,6 +1,6 @@
 ---
 title: Which labs will receive the diagnostic panel?
-category: healthcare
+category: diagnostic-tools
 layout: post
 date: March 17, 2020
 promoted: false

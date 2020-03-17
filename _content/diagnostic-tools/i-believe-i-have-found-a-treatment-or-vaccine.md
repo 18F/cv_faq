@@ -1,6 +1,6 @@
 ---
 title: I believe that I have found a treatment or vaccine for COVID-19. Is CDC the best place to submit my idea?
-category: healthcare
+category: diagnostic-tools
 layout: post
 date: March 17, 2020
 promoted: false
