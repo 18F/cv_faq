@@ -1,12 +1,10 @@
 ---
 title: Will warm weather stop the outbreak of COVID-19?
-tag: hygiene
+tag: about
 layout: post
 date: March 16, 2020
 excerpt: How It Spreads
 ---
-
-<h2>Will warm weather stop the outbreak of COVID-19? </h2>
 
 It is not yet known whether weather and temperature impact the spread of COVID-19. Some other viruses, like the common cold 
 and flu, spread more during cold weather months but that does not mean it is impossible to become sick with these viruses 

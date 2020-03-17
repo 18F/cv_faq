@@ -1,12 +1,11 @@
 ---
 title: What is community spread?
-tag: hygiene
+tag: about
 layout: post
 date: March 16, 2020
 excerpt: How it Spreads
 ---
 
-<h2> What is community spread?</h2>
 Community spread means people have been infected with the virus in an area, including some who are not sure how or where they 
 became infected.
 
