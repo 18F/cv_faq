@@ -10,7 +10,7 @@
     "start": "npm run build:assets && concurrently --kill-others-on-fail npm:start:assets npm:start:site",
     "start:assets": "gulp watch",
     "start:site": "bundle exec jekyll serve --host 0.0.0.0",
-    "test": "bundle exec htmlproofer _site; npx a11y '_site/**/*.html'",
+    "test": "npm run build && bundle exec htmlproofer _site && npx a11y '_site/**/*.html'",
     "federalist": "npm run build:assets"
   },
   "dependencies": {
