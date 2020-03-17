@@ -1,12 +1,11 @@
 ---
 title: Does CDC recommend the use of facemask to prevent COVID-19?
-tag: highrisk
+category: high-risk
 layout: post
 date: March 16, 2020
 excerpt: How to Protect Yourself
 ---
 
-<h2>Does CDC recommend the use of facemask to prevent COVID-19?</h2>
 CDC does not recommend that people who are well wear a facemask to protect themselves from respiratory illnesses, including 
 COVID-19. You should only wear a mask if a healthcare professional recommends it. A facemask should be used by people who 
 have COVID-19 and are showing symptoms. This is to protect others from the risk of getting infected. The use of facemasks 
