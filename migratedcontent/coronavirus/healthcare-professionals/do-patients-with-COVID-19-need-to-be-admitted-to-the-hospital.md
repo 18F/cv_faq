@@ -1,6 +1,6 @@
 ---
 title: Do patients with confirmed or suspected COVID-19 need to be admitted to the hospital?
-category: healthcare
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 excerpt: Healthcare professionals
