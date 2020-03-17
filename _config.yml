@@ -119,12 +119,6 @@ collections:
     permalink: /:name
 
 defaults:
-  - { scope: { path: "_migratedcontent/coronavirus/travel" }, values:  { category: "Travel" } }
-  - { scope: { path: "_migratedcontent/coronavirus/basics" }, values:  { category: "About COVID-19" } }
-  - { scope: { path: "_migratedcontent/coronavirus/pregnancy" }, values:  { category: "Advice for High-Risk" } }
-
-  - { scope: { path: "_tutorials/getting-started" }, values:  { category: "Getting started" } }
-  - { scope: { path: "_tutorials/setup" }, values:  { category: "Setup" } }
   -
     scope:
       path: ""
