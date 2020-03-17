@@ -1,6 +1,6 @@
 ---
 title: Has anyone in the United States gotten infected?
-category: high-risk
+category: about
 layout: post
 date: March 16, 2020
 excerpt: How to Protect Yourself
