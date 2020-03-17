@@ -3,7 +3,7 @@ title: If we dismiss school, what do we need to consider when re-opening the bui
 category: schools
 layout: post
 date: March 16, 2020
-excerpt: School Dismissals
+excerpt: K-12 Schools and Childcare Program Administrators: School Dismissals
 promoted: false
 ---
 

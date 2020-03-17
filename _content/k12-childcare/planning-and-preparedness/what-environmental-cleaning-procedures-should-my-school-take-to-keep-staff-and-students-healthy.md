@@ -3,7 +3,7 @@ title: What environmental cleaning procedures should my school take to keep staf
 category: schools
 layout: post
 date: March 16, 2020
-excerpt: Planning and Preparedness
+excerpt: K-12 Schools and Childcare Program Administrators: Planning and Preparedness
 promoted: false
 ---
 

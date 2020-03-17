@@ -3,7 +3,7 @@ title: If I make the decision for a school dismissal, what else should I conside
 category: schools
 layout: post
 date: March 16, 2020
-excerpt: School Dismissals
+excerpt: K-12 Schools and Childcare Program Administrators: School Dismissals
 promoted: false
 ---
 
