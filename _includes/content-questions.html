@@ -4,7 +4,7 @@
     <div class="grid-row grid-gap">
       {% assign categories = site.content | group_by:"category" %}
 
-      {% for site_category in site.categories limit:6 %}
+      {% for site_category in site.categories %}
         {% assign current_category = categories | where:"name", site_category.name | first %}
         {% assign category_questions = current_category.items %}
         <div class="usa-media-block tablet:grid-col-4 content-questions">

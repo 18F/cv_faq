@@ -1,6 +1,6 @@
 ---
 title: What does the diagnostic panel include?
-category: healthcare
+category: diagnostic-panels
 layout: post
 date: March 17, 2020
 promoted: false
