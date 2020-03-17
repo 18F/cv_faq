@@ -1,12 +1,10 @@
 ---
 title: Can a person test negative and later test positive for COVID-19?
-tag: highrisk
+category: about
 layout: post
 date: March 16, 2020
 excerpt: Symptoms and Testing
 ---
-
-<h2>Can a person test negative and later test positive for COVID-19?</h2>
 
 Using the CDC-developed diagnostic test, a negative result means that the virus that causes COVID-19 was not found in the 
 person’s sample. In the early stages of infection, it is possible the virus will not be detected.
