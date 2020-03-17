@@ -110,7 +110,9 @@ collections:
   pages:
     output: true
     permalink: /:path/
-  category:
+  posts:
+    output: false
+  categories:
     output: true
 
 defaults:

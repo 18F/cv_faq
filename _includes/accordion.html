@@ -2,20 +2,14 @@
     USWDS Accordion for a given category and posts
 {% endcomment %}
 
-<div class="usa-accordion usa-accordion--bordered">
 
-    <h1>{{ category }}</h1>
-
-    {% for post in posts %}
-        <h2 class="usa-accordion__heading">
-        <button class="usa-accordion__button"
-            aria-expanded="true"
-            aria-controls="a{{forloop.index}}">
-            {{post.title}}
-        </button>
-        </h2>
-        <div id="a{{forloop.index}}" class="usa-accordion__content usa-prose">
-            <p>{{post.content}}</p>
-        </div>
-    {% endfor %}
+<h2 class="usa-accordion__heading">
+<button class="usa-accordion__button"
+    aria-expanded="true"
+    aria-controls="a{{ include.question }}">
+    {{include.question}}
+</button>
+</h2>
+<div id="a{{ include.question }}" class="usa-accordion__content usa-prose">
+    <p>{{include.answer}}</p>
 </div>

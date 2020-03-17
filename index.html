@@ -29,20 +29,6 @@ questions_box:
     box_1_category: protectyourself
     box_2_header: "What to Do if you feel sick"
     box_2_category: feelingsick
-topics:
-    - category: about
-      title: "About Covid-19"
-    - category: highrisk
-      title: Advice for High-Risk
-    - category: everyone
-      title: Advice for everyone
-    - category: hygiene
-      title: Hygiene
-    - category: travel
-      title: Travelling
-    - category: Quarantine
-      title: Quarantine
-
 ---
 
 {% if page.banner.display == true %}
@@ -51,4 +37,4 @@ topics:
 {% include hero.html %}
 {% include top-questions.html top_questions=page.top_questions %}
 {% include questions-box.html questions_box=page.questions_box %}
-{% include content-questions.html topics=page.topics %}
+{% include content-questions.html %}
