@@ -159,9 +159,9 @@ assets:
 
 
 top-questions:
-  - "About COVID-19"
-  - "Advice for High-Risk"
-  - "Advice for Everyone"
-  - "Hygiene"
-  - "Travel"
-  - "Quarantine"
+  - {name: about, title: "About COVID-19"}
+  - {name: high-risk, title: "Advice for High-Risk"}
+  - {name: about, title: "Advice for Everyone"}
+  - {name: protect-yourself, title: "Hygiene"}
+  - {name: travel, title: "Travel"}
+  - {name: quarantine, title: "Quarantine"}
