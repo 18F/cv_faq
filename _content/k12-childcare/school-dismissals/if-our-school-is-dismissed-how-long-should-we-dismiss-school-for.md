@@ -1,9 +1,9 @@
 ---
 title: If our school is dismissed, how long should we dismiss school for?
-category: schools
+category: k12-childcare
 layout: post
 date: March 16, 2020
-excerpt: School Dismissals
+excerpt: "K-12 Schools and Childcare Program Administrators: School Dismissals"
 promoted: false
 ---
 

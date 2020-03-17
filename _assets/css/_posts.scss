@@ -1,6 +1,23 @@
 .breadcrumb {
   padding: units(2);
+  padding-top: units(1);
 }
+
+div.usa-layout-docs.usa-section {
+  padding-top: units(2);
+
+  .usa-prose>h2 {
+    padding-bottom: units(2);
+  }
+}
+
+.usa-prose> p.question-meta {
+  @include u-text('italic');
+  @include u-color('base');
+  @include u-font('serif', '2xs');
+  @include u-margin-top(4);
+}
+
 
 @media screen and (min-width: 640px) {
   .paginate-link {

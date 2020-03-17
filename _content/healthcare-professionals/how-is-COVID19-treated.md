@@ -3,10 +3,8 @@ title: How is COVID-19 treated?
 category: healthcare-professionals
 layout: post
 date: March 16, 2020
-excerpt: Healthcare professionals
+excerpt: Healthcare Professionals
 ---
-
-## How is COVID-19 treated? ##
 
 Not all patients with COVID-19 will require medical supportive care. Clinical management for hospitalized patients with COVID-19 is focused on supportive care of complications, including advanced organ support for respiratory failure, septic shock, and multi-organ failure. Empiric testing and treatment for other viral or bacterial etiologies may be warranted.
 
