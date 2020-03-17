@@ -3,7 +3,7 @@ title: What is a novel coronavirus?
 category: basics
 layout: post
 promoted: true
-date: March 17, 2020
+date: March 16, 2020
 excerpt: Coronavirus Disease 2019 Basics
 ---
 
