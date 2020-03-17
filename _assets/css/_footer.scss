@@ -54,7 +54,7 @@ footer {
 
 .disclaimer {
     @include u-bg('base-lightest');
-    @include u-padding(1);
+    padding: units(1) 0 units(2);
 
     a {
         @include u-color('base-darkest');
