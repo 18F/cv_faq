@@ -1,6 +1,7 @@
 ---
 title: What do waste management companies need to know about wastewater and sewage coming from a healthcare facility or community setting with either a known COVID-19 patient or person under investigation (PUI)?
 category: waste-management
+source: "https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html"
 layout: post
 date: March 16, 2020
 excerpt: Healthcare professionals
