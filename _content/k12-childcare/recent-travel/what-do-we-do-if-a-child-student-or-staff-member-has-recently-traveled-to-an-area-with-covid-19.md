@@ -3,7 +3,7 @@ title: What should we do if a child, student, or staff member has recently trave
 category: schools
 layout: post
 date: March 16, 2020
-excerpt: Recent Travel
+excerpt: K-12 Schools and Childcare Program Administrators: Recent Travel
 promoted: false
 ---
 

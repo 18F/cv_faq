@@ -3,7 +3,7 @@ title: What actions should my school take if a sick student or staff member atte
 category: schools
 layout: post
 date: March 16, 2020
-excerpt: School Dismissals
+excerpt: K-12 Schools and Childcare Program Administrators: School Dismissals
 promoted: false
 ---
 

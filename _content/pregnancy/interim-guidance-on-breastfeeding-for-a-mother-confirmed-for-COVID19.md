@@ -6,15 +6,13 @@ date: March 16, 2020
 excerpt: Breastfeeding and COVID-19
 ---
 
-## Interim Guidance on Breastfeeding for a Mother Confirmed or Under Investigation For COVID-19 ##
-
 This interim guidance is intended for women who are confirmed to have COVID-19 or are <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-criteria.html"> persons-under-investigation (PUI)</a> for COVID-19 and are currently breastfeeding. This interim guidance is based on what is currently known about COVID-19 and the transmission of other viral respiratory infections. CDC will update this interim guidance as needed as additional information becomes available. For breastfeeding guidance in the immediate postpartum setting, refer to <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/inpatient-obstetric-healthcare-guidance.html"> Interim Considerations for Infection Prevention and Control of 2019 Coronavirus Disease 2019 (COVID-19) in Inpatient Obstetric Healthcare Settings</a>.
 
-### Transmission of COVID-19 through breast milk ###
+**Transmission of COVID-19 through breast milk**
 
 Much is unknown about <a href="https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html"> how COVID-19 is spread</a>. Person-to-person spread is thought to occur mainly via respiratory droplets produced when an infected person coughs or sneezes, similar to how influenza (flu) and other respiratory pathogens spread. In limited studies on women with COVID-19 and another coronavirus infection, Severe Acute Respiratory Syndrome (SARS-CoV), the virus has not been detected in breast milk; however we do not know whether mothers with COVID-19 can transmit the virus via breast milk.
 
-### CDC breastfeeding guidance for other infectious illnesses ###
+**CDC breastfeeding guidance for other infectious illnesses**
 
 Breast milk provides protection against many illnesses. There are <a href="https://www.cdc.gov/breastfeeding/breastfeeding-special-circumstances/contraindications-to-breastfeeding.html"> rare exceptions when breastfeeding or feeding expressed breast milk is not recommended</a>. CDC has no specific guidance for breastfeeding during infection with similar viruses like SARS-CoV or Middle Eastern Respiratory Syndrome (MERS-CoV).
 

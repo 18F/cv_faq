@@ -3,7 +3,7 @@ title: What resources does CDC have available to share with staff, students, and
 category: schools
 layout: post
 date: March 16, 2020
-excerpt: Planning and Preparedness
+excerpt: K-12 Schools and Childcare Program Administrators: Planning and Preparedness
 promoted: false
 ---
 

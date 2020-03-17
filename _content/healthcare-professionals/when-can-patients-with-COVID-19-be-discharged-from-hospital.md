@@ -3,10 +3,8 @@ title: When can patients with confirmed COVID-19 be discharged from the hospital
 category: healthcare
 layout: post
 date: March 16, 2020
-excerpt: Healthcare professionals
+excerpt: Healthcare Professionals
 ---
-
-## When can patients with confirmed COVID-19 be discharged from the hospital? ##
 
 Patients can be discharged from the healthcare facility whenever clinically indicated. Isolation should be maintained at home if the patient returns home before the time period recommended for discontinuation of hospital Transmission-Based Precautions described below.
 
