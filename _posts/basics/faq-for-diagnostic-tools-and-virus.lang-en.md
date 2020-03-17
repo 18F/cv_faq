@@ -1,6 +1,6 @@
 ---
 title: FAQ for Diagnostic Tools and Virus
-tag: about
+category: about
 layout: post
 date: March 16, 2020
 promoted: true

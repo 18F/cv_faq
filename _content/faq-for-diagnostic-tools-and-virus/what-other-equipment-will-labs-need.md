@@ -1,6 +1,6 @@
 ---
 title: What other equipment will labs need to perform tests using the diagnostic panel?
-tag: healthcare
+category: healthcare
 layout: post
 date: March 17, 2020
 promoted: false

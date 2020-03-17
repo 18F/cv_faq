@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions about Personal Protective Equipment
-tag: about
+category: about
 layout: post
 date: March 16, 2020
 ---

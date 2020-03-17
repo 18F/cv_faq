@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions about Biosafety and COVID-19
-tag: about
+category: about
 layout: post
 date: March 16, 2020
 ---

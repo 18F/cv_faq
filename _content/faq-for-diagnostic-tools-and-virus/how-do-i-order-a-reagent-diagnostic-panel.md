@@ -1,6 +1,6 @@
 ---
 title: How do I order a reagent diagnostic panel?
-tag: healthcare
+category: healthcare
 layout: post
 date: March 17, 2020
 promoted: false

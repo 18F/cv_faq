@@ -1,6 +1,6 @@
 ---
 title: Novel Coronavirus
-tag: about
+category: about
 layout: post
 date: March 16, 2020
 excerpt: Coronavirus Disease 2019 Basics
