@@ -1,30 +1,38 @@
+{% assign categories = site.content | group_by:"category" %}
+{% assign current-category = categories | where:"name", include.questions_box.box_1_category | first %}
+{% assign category-questions = current-category.items %}
+
 <section class="grid-container usa-section usa-prose usa-section--condensed border-top border-base-lightest">
   <div class="grid-row grid-gap">
     <div class="tablet:grid-col-6 flex-align-stretch">
       <div class="question-box question-box--info">
         <h2>{{ include.questions_box.box_1_header }}</h2>
         <ul>
-          {% for post in site.posts %}
-            {% if post.category contains include.questions_box.box_1_category and page.lang == post.lang %}
-            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+          {% for question in category-questions %}
+            {% if page.lang == question.lang %}
+            <li><a href="{{ site.baseurl }}/{{ include.questions_box.box_1_category }}">{{ question.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
-        <a href="/" class="text-bold">View All »</a>
+        <a href="{{ site.baseurl }}/{{ include.questions_box.box_1_category }}" class="text-bold">View All »</a>
       </div>
-      
+
     </div>
+
+    {% assign current-category = categories | where:"name", include.questions_box.box_2_category | first %}
+    {% assign category-questions = current-category.items %}
+
     <div class="tablet:grid-col-6 flex-align-stretch">
       <div class="question-box question-box--warning">
         <h2>{{ include.questions_box.box_2_header }}</h2>
         <ul>
-          {% for post in site.posts  %}
-            {% if post.category contains include.questions_box.box_2_category and page.lang == post.lang %}
-            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+          {% for question in category-questions %}
+            {% if page.lang == question.lang %}
+            <li><a href="{{ site.baseurl }}/{{ include.questions_box.box_2_category }}">{{ question.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
-        <a href="/" class="text-bold">View All »</a>
+        <a href="{{ site.baseurl }}/{{ include.questions_box.box_2_category }}" class="text-bold">View All »</a>
       </div>
     </div>
   </div>
