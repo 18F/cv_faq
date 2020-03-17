@@ -13,14 +13,23 @@ publish_mode: editorial_workflow
 logo_url: https://faq-coronavirus.gov/assets/images/cdc-logo.svg
 
 collections:
-  - label: Posts
-    name: posts
-    folder: _posts/
+  - label: Categories
+    name: categories
+    folder: _categories/
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     editor:
       preview: false
     fields:
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'category'}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+  - label: Content
+    name: content
+    folder: _categories/
+    create: true
+    slug: "{{slug}}"
+      fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
       - {label: "Title", name: "title", widget: "string"}
       - {
@@ -32,3 +41,6 @@ collections:
           timeFormat: false
         }
       - {label: "Body", name: "body", widget: "markdown"}
+
+
+
