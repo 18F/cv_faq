@@ -1,11 +1,21 @@
 ---
 permalink: /
 layout: wide
-title: Home
+title: Find answers about COVID-19
 banner:
     display: false
     heading: "This is a place to place urgent information"
     content: "You can set this component to 'display: true' to show a banner at the top of the page."
+hero:
+    i18n:
+      - language: chinese
+        link: ''
+        display_text: 中文
+      - language: spanish
+        link: ''
+        display_text: Español
+    title: Find answers about COVID-19
+    tagline: or you can browse the categories below to find what you are looking for.
 top_questions:
     - name: symptoms
       question: "What are my symptoms?"
@@ -42,14 +52,12 @@ topics:
       title: Travelling
     - tag: Quarantine
       title: Quarantine
-
-    
 ---
 
 {% if page.banner.display == true %}
   {% include alert-banner.html banner=page.banner %}
 {% endif %}
-{% include hero.html %}
+{% include hero.html hero=page.hero %}
 {% include top-questions.html top_questions=page.top_questions %}
 {% include questions-box.html questions_box=page.questions_box %}
 {% include content-questions.html topics=page.topics %}

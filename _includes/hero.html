@@ -1,16 +1,29 @@
 <section class="usa-hero hero__no-image">
   <div class="grid-container">
-    <h1>Find answers about COVID-19</h1>
+    <div class="grid-row">
+      <p class="i18n-controls grid-col-12">
+        {% for language in include.hero.i18n %}
+        <a href={{language.link}}>{{ language.display_text }}</a>
+        {% if forloop.last == false %}
+        |
+        {% endif %}
+        {% endfor %}
+      </p>
+      <h1 class="grid-col-12">{{ include.hero.title }}</h1>
+    </div>
 
-    <form id="search_form" class="usa-search">
-
-      <div role="search">
-        <label class="usa-label usa-sr-only" for="search-box">Text input label</label>
-        <input class="usa-input" id="search-box" name="search-box" type="search"
-          placeholder="Search questions, keywords, or topics to find answers" />
-        <button class="usa-button" type="submit">Search</button>
-      </div>
-    </form>
-    <p>or you can browse the categories below to find what you are looking for.</p>
+    <div class="grid-row">
+      <form id="search_form" class="usa-search grid-col-12 tablet:grid-col-10 tablet:grid-offset-1">
+        <div role="search">
+          <label class="usa-label usa-sr-only" for="search-box">Search for information on COVID-19</label>
+          <input class="usa-input" id="search-box" name="search-box" type="search"
+            placeholder="Search questions, keywords, or topics to find answers" />
+          <button class="usa-button" type="submit">Search</button>
+        </div>
+      </form>
+    </div>
+    <div class="grid-row">
+      <p class="hero--tagline grid-col-12">{{ include.hero.tagline }}</p>
+    </div>
   </div>
 </section>
