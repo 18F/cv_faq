@@ -1,6 +1,6 @@
 ---
 title: How can I help protect myself?
-category: high-risk
+category: about
 layout: post
 date: March 16, 2020
 excerpt: How to Protect Yourself
