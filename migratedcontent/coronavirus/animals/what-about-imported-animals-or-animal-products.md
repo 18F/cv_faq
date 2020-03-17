@@ -1,6 +1,6 @@
 ---
 title: What about imported animals or animal products?
-category: about
+category: animals
 layout: post
 date: March 16, 2020
 excerpt: COVID-19 and Animals
