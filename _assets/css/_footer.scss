@@ -15,6 +15,16 @@ footer {
             @include u-text('underline');
         }
     }
+    ul {
+        @include unstyled-list;
+    }
+    li {
+        &:hover,
+        &:focus,
+        &:active {
+            @include u-bg('transparent');
+        }
+    }
     h3 {
         @include u-text('uppercase');
         @include u-font('sans', '2xs');
@@ -27,15 +37,14 @@ footer {
         li {
             @include u-float('left');
             list-style-type: none;
-            &:hover,
-            &:focus,
-            &:active {
-                @include u-bg('transparent');
-            }
         }
     }
 }
-
+.icon-list {
+    li {
+        margin-bottom: 0.5rem;
+    }
+}
 .footer-icon {
     @include u-width(3);
     @include u-height(3);
