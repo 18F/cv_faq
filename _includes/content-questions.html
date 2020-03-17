@@ -2,17 +2,17 @@
 <section class="usa-section usa-section--condensed">
   <div class="grid-container border-top border-base-lightest">
     <div class="grid-row grid-gap">
-      {% for topic in include.topics %}
+      {% for category in site.categories %}
       <div class="usa-media-block tablet:grid-col-4">
-        <h4>{{ topic.title }}</h4>
+        <h4>{{ category.title }}</h4>
         <ul>
           {% for post in site.posts %}
-            {% if post.category contains topic.category and post.promoted == true %}
-            <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+            {% if post.category contains category.name and post.promoted == true and page.lang == post.lang %}
+            <li><a href="{{ category.url | prepend: site.baseurl }}/#{{ post.id }}">{{ post.title }}</a></li>
             {% endif %}
           {% endfor %}
         </ul>
-        <a href="/" class="text-bold">View All »</a>
+        <a href="{{ category.name | prepend: site.baseurl }}" class="text-bold">View All »</a>
       </div>
       {% endfor %}
     </div>

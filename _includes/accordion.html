@@ -1,0 +1,15 @@
+{% comment %}
+    USWDS Accordion for a given category and posts
+{% endcomment %}
+
+
+<h2 class="usa-accordion__heading">
+<button class="usa-accordion__button"
+    aria-expanded="true"
+    aria-controls="a{{ include.question }}">
+    {{include.question}}
+</button>
+</h2>
+<div id="a{{ include.question }}" class="usa-accordion__content usa-prose">
+    <p>{{include.answer}}</p>
+</div>
