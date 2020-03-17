@@ -12,7 +12,8 @@
 </h2>
 <div id="control-{{ include.question | slugify }}" class="usa-accordion__content usa-prose">
     <p>{{ question.content }}</p>
-    {% if question.source %}
-        <a href="{{ question.source }}/" class="usa-link usa-link--external">Source</a>
-    {% endif %}
+
+    <p class="text-italic base-lighter serif-3xs">Last updated {{ question.date | date:  "%B %d, %Y" }}.
+    {% if question.source %}<a href="{{ question.source }}/" class="usa-link usa-link--external">Source</a>{% endif %}
+    </p>
 </div>
