@@ -3,18 +3,29 @@
 .usa-hero.hero__no-image {
   background-image: none !important;
   @include u-bg('base-lightest');
-  padding-top: units(3);
-  padding-bottom: units(6);
+  padding-top: units(1);
+  padding-bottom: units(8);
   text-align: center;
   h1 {
     @include u-font('serif', '2xl');
     @include u-text('black', 'light');
-  }
-  p {
-    @include u-text('black', 'normal');
+    margin-top: units(3);
+    margin-bottom: units(5);
   }
 }
-
+.i18n-controls {
+  @include u-text('base-light');
+  text-align: left;
+  margin-bottom: 0;
+  a {
+    @include u-text('base-darkest');
+    &:visited,
+    &:focus,
+    &:hover {
+      @include u-text('base-darkest');
+    }
+  }
+}
 .usa-search {
   text-align: center;
   div {
@@ -23,18 +34,27 @@
   }
   #search-box {
     @include u-font('sans', 'lg');
-    @include u-border('base-light');
-    padding: units(3);
+    @include u-border('base-lighter');
+    padding: units(3) units(4);
     max-width: none;
     border-top-left-radius: 3px;
     border-bottom-left-radius: 3px;
-    height: 75px;
+    border-right: 0;
+    height: 4.5rem;
   }
 
   .usa-button {
     @include u-font('sans', 'lg'); 
     @include u-text('normal');
     padding: units(3) units(6);
-    height: 75px; //to accommodate border on input
+    height: 4.5rem;
   }
+}
+
+.hero--tagline {
+  @include u-font('sans', 'md');
+  @include u-text('base-darkest', 'light');
+  margin-top: units(4);
+  margin-bottom: 0;
+  text-align: center;
 }
