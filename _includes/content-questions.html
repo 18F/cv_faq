@@ -2,14 +2,20 @@
 <section class="usa-section usa-section--condensed">
   <div class="grid-container border-top border-base-lightest">
     <div class="grid-row grid-gap">
-      {% for category in site.categories %}
-      <div class="usa-media-block tablet:grid-col-4 content-questions">
-        <h4>{{ category.title }}</h4>
+
+      {% assign categories = site.migratedcontent | group_by:"category" %}
+
+      {% for category in site.top-questions %}
+
+      {% assign current-category = categories | where:"name", category | first %}
+      {% assign category-questions = current-category.items %}
+      <div class="usa-media-block tablet:grid-col-4">
+        <h4>{{ category }}</h4>
         <ul class="usa-list usa-list--unstyled margin-bottom-1">
-          {% for post in site.posts %}
-            {% if post.category contains category.name and post.promoted == true and page.lang == post.lang %}
+          {% for question in category-questions limit:5 %}
+            {% if page.lang == question.lang %}
             <li class="margin-y-1">
-              <a href="{{ category.url | prepend: site.baseurl }}/#{{ post.title|slugify }}">{{ post.title }}</a>
+              <a href="{{ category.url | prepend: site.baseurl }}/#{{ question.title|slugify }}">{{ question.title }}</a>
             </li>
             {% endif %}
           {% endfor %}
@@ -17,6 +23,9 @@
         <a href="{{ category.name | prepend: site.baseurl }}" class="text-bold">View All »</a>
       </div>
       {% endfor %}
+
+
+
     </div>
   </div>
 </section>
