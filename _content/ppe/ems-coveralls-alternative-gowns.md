@@ -3,7 +3,7 @@ title: Is it acceptable for emergency medical services to wear coveralls as an a
 category: ppe
 layout: post
 date: March 17, 2020
-excerpt: Personal Protective Equipment: Gowns
+excerpt: "Personal Protective Equipment: Gowns"
 ---
 
 Unlike patient care in the controlled environment of a healthcare facility, care and transport by EMS present unique challenges because of the nature of the setting. Coveralls are an acceptable alternative to gowns when caring for and transporting suspect COVID-19 patients.  

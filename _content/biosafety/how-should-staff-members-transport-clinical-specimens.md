@@ -3,7 +3,7 @@ title: How should staff members transport clinical specimens from suspected COVI
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Handling
+excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 
 Staff members should adhere to standard procedures associated with other respiratory pathogens, such as seasonal influenza and other human coronaviruses when they transport specimens within a facility. Personnel should perform site- and activity-specific risk assessments to determine if enhanced biosafety precautions are warranted based on situational needs.

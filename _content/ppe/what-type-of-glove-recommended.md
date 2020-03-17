@@ -3,7 +3,7 @@ title: What type of glove is recommended to care for suspected or confirmed COVI
 category: ppe
 layout: post
 date: March 17, 2020
-excerpt: Personal Protective Equipment: Gloves
+excerpt: "Personal Protective Equipment: Gloves"
 ---
 
 Nonsterile disposable patient examination gloves, which are used for routine patient care in healthcare settings, are appropriate for the care of patients with suspected or confirmed COVID-19.

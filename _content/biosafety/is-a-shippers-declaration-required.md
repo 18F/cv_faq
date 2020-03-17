@@ -3,7 +3,7 @@ title: Is a shipper's declaration required? What documentation is required for s
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Handling
+excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 
 A shipper's declaration is not required for UN 3373 Biological Substances, Category B shipped samples. If an Air Waybill is used, the "Nature and Quantity of Goods" box should show "UN 3373 Biological Substance, Category B" along with the number of packages. If specimens are shipped on dry ice, include UN 1845, Dry Ice, 9, along with the net weight of the dry ice. See IATA PI 650 for additional information.

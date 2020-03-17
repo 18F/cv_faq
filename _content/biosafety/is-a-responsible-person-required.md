@@ -3,7 +3,7 @@ title: Is a Responsible Person required on the shipping paperwork?
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Handling
+excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 
 A Responsible Person should be listed on the air waybill or shipper's declaration (if applicable).

@@ -3,7 +3,7 @@ title: How should the laboratory perform a risk assessment to identify and mitig
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Handling
+excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 
 Risk assessments and mitigation are dependent on the procedures to be performed, identification of the hazards involved in the process and/or procedures, the competency level of the personnel who perform the procedures, the laboratory equipment and facility, and the resources available. Risk assessments should try to identify what could go wrong, and how the laboratory will mitigate those risks.

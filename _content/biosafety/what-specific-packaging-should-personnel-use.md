@@ -3,7 +3,7 @@ title: What specific packaging should personnel use when shipping clinical speci
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Packaging and Shipping
+excerpt: "Biosafety and COVID-19: Specimen Packaging and Shipping"
 ---
 
 Follow shipping regulations for UN 3373 Biological Substances, Category B:

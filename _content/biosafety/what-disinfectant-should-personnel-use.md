@@ -3,7 +3,7 @@ title: What disinfectant should personnel use to decontaminate work surfaces?
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Handling
+excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 
 Personnel should use products with EPA-registered hospital disinfectants with label claims to be effective against other respiratory pathogens, such as seasonal influenza and other human coronaviruses. Follow manufacturer's recommendations for use – dilution (i.e., concentration), contact time, and care in handling.

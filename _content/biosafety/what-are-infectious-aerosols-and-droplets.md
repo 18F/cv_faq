@@ -3,7 +3,7 @@ title: What are infectious aerosols and droplets?
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Handling
+excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 
 **Aerosols and droplets*** containing particles that are <100 μm in diameter are not visible to the naked eye. Laboratory workers may not be aware that such particles could be generated during many laboratory procedures and that these particles could be inhaled or could cross-contaminate work surfaces, materials, and equipment.
