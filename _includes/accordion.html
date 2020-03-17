@@ -14,6 +14,8 @@
     <p>{{ question.content }}</p>
 
     <p class="question-meta">Last updated {{ question.date | date:  "%B %d, %Y" }}.
-    {% if question.source %}<a href="{{ question.source }}/" class="usa-link usa-link--external">Source</a>{% endif %}
+    {% if question.source %}
+        <a href="{{ question.source }}/" class="usa-link usa-link--external float-right">Source</a>
+     {% endif %}
     </p>
 </div>
