@@ -10,22 +10,23 @@
     "start": "npm run build:assets && concurrently --kill-others-on-fail npm:start:assets npm:start:site",
     "start:assets": "gulp watch",
     "start:site": "bundle exec jekyll serve --host 0.0.0.0",
-    "test": "bundle exec htmlproofer _site; npx a11y '_site/**/*.html'"
+    "test": "bundle exec htmlproofer _site; npx a11y '_site/**/*.html'",
+    "federalist": "npm run build:assets"
   },
   "dependencies": {
-    "netlify-cms": "^2.10.23",
-    "uswds": "~2.1.0"
-  },
-  "devDependencies": {
-    "a11y": "^0.5.1",
     "autoprefixer": "^9.7.4",
     "browserify": "^16.5.0",
     "concurrently": "^5.1.0",
     "gulp": "^4.0.2",
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.2",
-    "rimraf": "^3.0.0",
+    "netlify-cms": "^2.10.23",
+    "uswds": "~2.1.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
+  },
+  "devDependencies": {
+    "a11y": "^0.5.1",
+    "rimraf": "^3.0.0"
   }
 }
