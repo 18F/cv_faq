@@ -3,7 +3,7 @@ title: What testing and standards should I consider when looking for CDC-recomme
 category: ppe
 layout: post
 date: March 17, 2020
-excerpt: Personal Protective Equipment: Gowns
+excerpt: "Personal Protective Equipment: Gowns"
 ---
 
 CDC's guidance for [Considerations for Selecting Protective Clothing used in Healthcare for Protection against Microorganisms in Blood and Body Fluids](https://www.cdc.gov/niosh/npptl/topics/protectiveclothing/) outlines the scientific evidence and information on national and international standards, test methods, and specifications for fluid-resistant and impermeable gowns and coveralls used in healthcare.

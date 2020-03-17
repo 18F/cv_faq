@@ -3,7 +3,7 @@ title: What steps should my school take if a student or staff member shows sympt
 category: schools
 layout: post
 date: March 16, 2020
-excerpt: K-12 Schools and Childcare Program Administrators: Planning and Preparedness
+excerpt: "K-12 Schools and Childcare Program Administrators: Planning and Preparedness"
 promoted: false
 ---
 
