@@ -4,32 +4,32 @@
 
 <section class="grid-container usa-section usa-prose usa-section--condensed border-top border-base-lightest">
   <div class="grid-row grid-gap">
-    <div class="tablet:grid-col-6 flex-align-stretch">
+    <div class="tablet:grid-col-6 flex-align-stretch margin-bottom-2">
       <div class="question-box question-box--info">
         <h2>{{ include.questions_box.box_1_header }}</h2>
-        <ul>
-          <li>
+        <ul class="usa-list usa-list--unstyled">
+          <li class="padding-y-1">
             <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html">
               What are the steps to prevent the illness?
             </a>
           </li>
-          <li>
+          <li class="padding-y-1">
             <a href="{{ site.baseurl }}/protect-yourself.html">
               Am I at risk?
             </a>
           </li>
-          <li>
+          <li class="padding-y-1">
             <a href="https://www.cdc.gov/coronavirus/2019-ncov/community/index.html">
               How can I protect others?
             </a>
           </li>
-          <li>
+          <li class="padding-y-1">
             <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html">
               How can I manage anxiety and stress?
             </a>
           </li>
         </ul>
-        <a href="{{ site.baseurl }}/protect-yourself.html" class="text-bold">View All »</a>
+        <a href="{{ site.baseurl }}/protect-yourself.html" class="text-bold text-underline margin-y-1">View All »</a>
       </div>
 
     </div>
@@ -37,32 +37,32 @@
     {% assign current-category = categories | where:"name", include.questions_box.box_2_category | first %}
     {% assign category-questions = current-category.items %}
 
-    <div class="tablet:grid-col-6 flex-align-stretch">
+    <div class="tablet:grid-col-6 flex-align-stretch margin-bottom-2">
       <div class="question-box question-box--warning">
         <h2>{{ include.questions_box.box_2_header }}</h2>
-        <ul>
-          <li>
+        <ul class="usa-list usa-list--unstyled">
+          <li class="padding-y-1">
             <a href="{{ site.baseurl }}/basics.html#what-are-the-symptoms-and-complications-that-covid-19-can-cause">
               What are the symptoms of COVID-19?
             </a>
           </li>
-          <li>
+          <li class="padding-y-1">
             <a href="{{ site.baseurl }}/basics.html#should-i-be-tested-for-covid-19">
               Should I get tested?
             </a>
           </li>
-          <li>
+          <li class="padding-y-1">
             <a href="https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html">
               When should I go to the doctor?
             </a>
           </li>
-          <li>
+          <li class="padding-y-1">
             <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions">
               How do I care for someone who’s sick?
             </a>
           </li>
         </ul>
-        <a href="{{ site.baseurl }}/basics.html" class="text-bold">View All »</a>
+        <a href="{{ site.baseurl }}/basics.html" class="text-bold text-underline margin-y-1">View All »</a>
       </div>
     </div>
   </div>
