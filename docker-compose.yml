@@ -9,3 +9,4 @@ services:
       - /app/.jekyll-cache/  # do not sync to host fs for performance reasons
       - /app/_site/          # do not sync to host fs for performance reasons
       - /app/_site_assets/   # do not sync to host fs for performance reasons
+      - /app/node_modules
