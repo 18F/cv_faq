@@ -3,9 +3,9 @@
   <div class="grid-container border-top border-base-lightest">
     <div class="grid-row grid-gap">
       {% for category in site.categories %}
-      <div class="usa-media-block tablet:grid-col-4">
-        <h4>{{ category.title }}</h4>
-        <ul>
+      <div class="usa-media-block tablet:grid-col-4 content-questions">
+        <h3>{{ category.title }}</h3>
+        <ul class="usa-list--unstyled">
           {% for post in site.posts %}
             {% if post.category contains category.name and post.promoted == true and page.lang == post.lang %}
             <li><a href="{{ category.url | prepend: site.baseurl }}/#{{ post.id }}">{{ post.title }}</a></li>
