@@ -1,7 +1,25 @@
+body {
+  -moz-osx-font-smoothing: grayscale;
+}
+
 h2, h3, h4, h5, h6 {
   @include u-font-family('serif');
 }
 
 h2, h3, .usa-prose h2, .usa-prose h3 {
-  @include u-text('normal');
+  font-weight: normal !important;
+}
+
+p {
+  @include u-font('sans', 'md');
+  @include u-text('base-darkest');
+}
+
+a {
+  @include u-color('primary-dark');
+  &:visited,
+  &:hover,
+  &:focus {
+    @include u-color('primary-dark');
+  }
 }
