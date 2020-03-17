@@ -2,14 +2,14 @@
     USWDS Accordion for a given category and posts
 {% endcomment %}
 
-
 <h2 class="usa-accordion__heading">
-<button class="usa-accordion__button"
+<button id="{{ include.question | slugify }}"
+    class="usa-accordion__button"
     aria-expanded="true"
-    aria-controls="a{{ include.question }}">
+    aria-controls="control-{{ include.question | slugify }}">
     {{include.question}}
 </button>
 </h2>
-<div id="a{{ include.question }}" class="usa-accordion__content usa-prose">
+<div id="control-{{ include.question | slugify }}" class="usa-accordion__content usa-prose">
     <p>{{include.answer}}</p>
 </div>
