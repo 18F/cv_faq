@@ -12,4 +12,4 @@ CDC is reviewing all data on COVID-19 transmission as information becomes availa
 
 SARS, a similar coronavirus, has been detected in untreated sewage for up to 2 to 14 days. In the 2003 SARS outbreak, there was documented transmission associated with sewage aerosols. Data suggest that standard municipal wastewater system chlorination practices may be sufficient to inactivate coronaviruses, as long as utilities monitor free available chlorine during treatment to ensure it has not been depleted.
 
-Wastewater and sewage workers should use standard practices, practice basic hygiene precautions, and wear personal protective equipment (<a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html">PPE</a>) as prescribed for current work tasks.
+Wastewater and sewage workers should use standard practices, practice basic hygiene precautions, and wear personal protective equipment (<a href="https://www.cdc.gov/healthywater/global/sanitation/workers_handlingwaste.html">PPE</a>) as prescribed for current work tasks.
