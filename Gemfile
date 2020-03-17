@@ -17,9 +17,6 @@ gem "sprockets", "~> 3.7"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-  gem 'jekyll-redirect-from'
-  gem 'jekyll-paginate-v2', "2.0"  
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
   gem "jekyll-assets", "~> 3.0", group: :jekyll_plugins
