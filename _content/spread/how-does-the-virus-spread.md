@@ -1,6 +1,6 @@
 ---
 title: How does the virus spread?
-category: about
+category: spread
 layout: post
 date: March 16, 2020
 excerpt: How It Spreads

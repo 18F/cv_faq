@@ -1,6 +1,6 @@
 ---
 title: Interim Guidance on Breastfeeding for a Mother Confirmed or Under Investigation For COVID-19
-category: high-risk
+category: pregnancy
 layout: post
 date: March 16, 2020
 excerpt: Breastfeeding and COVID-19

@@ -1,6 +1,6 @@
 ---
 title: Can the virus that causes COVID-19 be spread through food, including refrigerated or frozen food?
-category: about
+category: spread
 layout: post
 date: March 16, 2020
 excerpt: How It Spreads

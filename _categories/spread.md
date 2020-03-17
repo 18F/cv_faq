@@ -1,7 +1,7 @@
 ---
 layout: category
-name: high-risk
-title: "Advice for High-Risk"
+name: spread
+title: "How It Spreads"
 banner:
     display: false
     heading: "This is a place to place urgent information"

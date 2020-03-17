@@ -1,6 +1,6 @@
 ---
 title: Should wastewater workers take extra precautions to protect themselves from the COVID-19 virus?
-category: about
+category: water-transmission
 layout: post
 date: March 16, 2020
 excerpt: Water transmission and COVID-19

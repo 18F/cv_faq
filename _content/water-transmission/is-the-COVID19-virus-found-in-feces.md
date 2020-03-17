@@ -1,6 +1,6 @@
 ---
 title: Is the COVID-19 virus found in feces?
-category: about
+category: water-transmission
 layout: post
 date: March 16, 2020
 excerpt: Water transmission and COVID-19

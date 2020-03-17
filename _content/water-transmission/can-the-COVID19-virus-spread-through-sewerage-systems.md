@@ -1,6 +1,6 @@
 ---
 title: Can the COVID-19 virus spread through sewerage systems?
-category: about
+category: water-transmission
 layout: post
 date: March 16, 2020
 excerpt: Water transmission and COVID-19

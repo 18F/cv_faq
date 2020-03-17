@@ -1,6 +1,6 @@
 ---
 title: Where can I find additional information about water transmission and COVID-19?
-category: about
+category: water-transmission
 layout: post
 date: March 16, 2020
 excerpt: Water transmission and COVID-19
