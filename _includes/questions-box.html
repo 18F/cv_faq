@@ -5,9 +5,9 @@
         <h2>{{ include.questions_box.box_1_header }}</h2>
         <ul>
           {% for post in site.posts %}
-            <!-- {% if post.category contains include.questions_box.box_1_category and page.lang == post.lang %} -->
+            {% if post.category contains include.questions_box.box_1_category and page.lang == post.lang %}
             <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
-            <!-- {% endif %} -->
+            {% endif %}
           {% endfor %}
         </ul>
         <a href="/" class="text-bold">View All »</a>
