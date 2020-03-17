@@ -6,8 +6,6 @@ date: March 16, 2020
 excerpt: Canceling or postponing travel
 ---
 
-## Should I cancel my international travel? ##
-
 CDC provides recommendations for international travel, including guidance on when to consider postponing or canceling travel. Most of the time, this guidance is provided through travel health notices and is based on the potential health risks associated with traveling to a certain destination.
 
 Travel health notices are designated as Level 1, 2, or 3, depending on the situation in that destination. (See below for what each level means). A list of destinations with coronavirus disease 2019(COVID-19) travel health notices is available at https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html.
