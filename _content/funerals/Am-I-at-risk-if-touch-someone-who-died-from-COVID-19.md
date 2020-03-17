@@ -1,6 +1,6 @@
 ---
 title: Am I at risk if I touch someone who died of COVID-19 after they have passed away?
-category: about
+category: funerals
 layout: post
 date: March 16, 2020
 excerpt: COVID-19 and Funerals

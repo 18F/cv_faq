@@ -1,6 +1,6 @@
 ---
 title: What should I do if my family member died from COVID-19 while overseas?
-category: about
+category: funerals
 layout: post
 date: March 16, 2020
 excerpt: COVID-19 and Funerals

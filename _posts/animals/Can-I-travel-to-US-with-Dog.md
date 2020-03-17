@@ -1,6 +1,6 @@
 ---
 title: Import dogs
-tag: about
+category: about
 layout: post
 date: March 16, 2020
 excerpt: Coronavirus Disease 2019 Basics

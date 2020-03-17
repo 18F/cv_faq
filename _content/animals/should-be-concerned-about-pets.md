@@ -1,6 +1,6 @@
 ---
 title: Should I be concerned about pets or other animals and COVID-19?
-category: about
+category: animals
 layout: post
 date: March 16, 2020
 excerpt: COVID-19 and Animals
