@@ -1,6 +1,6 @@
 ---
 title: Can people who recover from COVID-19 be infected again?
-category: healthcare
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 excerpt: Healthcare professionals
