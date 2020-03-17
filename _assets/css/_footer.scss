@@ -29,6 +29,7 @@ footer {
         @include u-text('uppercase');
         @include u-font('sans', '2xs');
         @include u-margin-top(0);
+        @include u-margin-bottom(0);
         font-weight: bold;
     }
     .list-inline {
