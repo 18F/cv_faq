@@ -1,12 +1,11 @@
 ---
 title: Can someone who has had COVID-19 spread the illness to others?
-tag: hygiene
+category: about
 layout: post
 date: March 16, 2020
-excerpt: How it Spreads
+excerpt: How It Spreads
 ---
 
-<h2> Can someone who has had COVID-19 spread the illness to others?</h2>
 The virus that causes COVID-19 is spreading from <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Ftransmission.html"> person-to-person</a>. 
 Someone who is actively sick with COVID-19 can spread the illness to others. That is why CDC recommends that these patients 
 be isolated either in the hospital or at home (depending on how sick they are) until they are better and no longer pose a risk 
