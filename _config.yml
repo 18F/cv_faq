@@ -115,8 +115,16 @@ collections:
   categories:
     output: true
     permalink: /:name
+  migratedcontent:
+    permalink: /:name
 
 defaults:
+  - { scope: { path: "_migratedcontent/coronavirus/travel" }, values:  { category: "Travel" } }
+  - { scope: { path: "_migratedcontent/coronavirus/basics" }, values:  { category: "About COVID-19" } }
+  - { scope: { path: "_migratedcontent/coronavirus/pregnancy" }, values:  { category: "Advice for High-Risk" } }
+
+  - { scope: { path: "_tutorials/getting-started" }, values:  { category: "Getting started" } }
+  - { scope: { path: "_tutorials/setup" }, values:  { category: "Setup" } }
   -
     scope:
       path: ""
@@ -153,3 +161,13 @@ assets:
     - _site_assets
     - node_modules/uswds/dist/img
     - node_modules/netlify-cms/dist
+    - node_modules
+
+
+top-questions:
+  - "About COVID-19"
+  - "Advice for High-Risk"
+  - "Advice for Everyone"
+  - "Hygiene"
+  - "Travel"
+  - "Quarantine"
