@@ -1,6 +1,6 @@
 ---
 title: What is a novel coronavirus?
-category: about
+category: basics
 layout: post
 promoted: true
 date: March 16, 2020
