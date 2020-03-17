@@ -3,10 +3,9 @@ title: How does the virus spread?
 tag: about
 layout: post
 date: March 16, 2020
-excerpt: How it Spreads
+excerpt: How It Spreads
 ---
 
-<h2> How does the virus spread</h2>
 This virus was first detected in Wuhan City, Hubei Province, China. The first infections were linked to a live animal market, 
 but the virus is now spreading from person-to-person. It’s important to note that person-to-person spread can happen on a 
 continuum. Some viruses are highly contagious (like measles), while other viruses are less so.
