@@ -1,9 +1,9 @@
 ---
 title: Are there ways for students to keep learning if we decide to dismiss schools?
-category: schools
+category: k12-childcare
 layout: post
 date: March 16, 2020
-excerpt: School Dismissals
+excerpt: "K-12 Schools and Childcare Program Administrators: School Dismissals"
 promoted: false
 ---
 

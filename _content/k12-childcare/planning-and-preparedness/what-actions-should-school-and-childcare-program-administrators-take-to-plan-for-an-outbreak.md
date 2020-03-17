@@ -1,9 +1,9 @@
 ---
 title: What actions should school and childcare program administrators take to plan for an outbreak?
-category: schools
+category: k12-childcare
 layout: post
 date: March 16, 2020
-excerpt: Planning and Preparedness
+excerpt: "K-12 Schools and Childcare Program Administrators: Planning and Preparedness"
 promoted: false
 ---
 

@@ -6,8 +6,6 @@ date: March 16, 2020
 excerpt: Pregnant women and COVID-19
 ---
 
-## How can pregnant women protect themselves from getting COVID-19? ##
-
 Pregnant women should do the same things as the general public to avoid infection. You can help stop the spread of COVID-19 by taking these actions:
 * Cover your cough (using your elbow is a good technique)
 * Avoid people who are sick

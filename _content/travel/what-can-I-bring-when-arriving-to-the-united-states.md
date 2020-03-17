@@ -6,8 +6,6 @@ date: March 16, 2020
 excerpt: Returning from travel
 ---
 
-## What can I bring when arriving to the United States? ##
-
 At this time, travel restrictions and entry screening only apply to travelers arriving from countries with a level 3 travel health notice. [Note: US policies are subject to change as the COVID-19 pandemic evolves.]
 
 This means that if you traveled from countries other than those listed above, you:

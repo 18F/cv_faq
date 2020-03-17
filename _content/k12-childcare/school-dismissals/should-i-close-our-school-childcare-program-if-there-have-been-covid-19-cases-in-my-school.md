@@ -1,9 +1,9 @@
 ---
 title: What actions should my school take if a sick student or staff member attended school before being confirmed as a COVID-19 case?
-category: schools
+category: k12-childcare
 layout: post
 date: March 16, 2020
-excerpt: School Dismissals
+excerpt: "K-12 Schools and Childcare Program Administrators: School Dismissals"
 promoted: false
 ---
 
