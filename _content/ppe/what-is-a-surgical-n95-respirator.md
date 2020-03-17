@@ -3,7 +3,7 @@ title: What is a surgical N95 respirator and who needs to wear it?
 category: ppe
 layout: post
 date: March 17, 2020
-excerpt: Personal Protective Equipment: Respirators
+excerpt: "Personal Protective Equipment: Respirators"
 ---
 
 A surgical N95 (also referred as a medical respirator) is recommended only for use by healthcare personnel (HCP) who need protection from both airborne and fluid hazards (e.g., splashes, sprays). These respirators are not used or needed outside of healthcare settings. In times of shortage, only HCP who are working in a sterile field or who may be exposed to high velocity splashes, sprays, or splatters of blood or body fluids should wear these respirators, such as in operative or procedural settings. Most HCP caring for confirmed or suspected COVID-19 patients should not need to use surgical N95 respirators and can use standard N95 respirators.

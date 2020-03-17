@@ -3,7 +3,7 @@ title: What information is required on an overpack if used for specimen shipment
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Packaging and Shipping
+excerpt: "Biosafety and COVID-19: Specimen Packaging and Shipping"
 ---
 
 The overpack should be marked in accordance with the packing instructions required for the outer package:

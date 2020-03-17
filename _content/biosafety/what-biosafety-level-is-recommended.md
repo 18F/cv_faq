@@ -3,7 +3,7 @@ title: What biosafety level is recommended for handling clinical specimens from 
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Handling
+excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 
 In clinical laboratories, personnel handling respiratory specimens, whole blood, serum, plasma, and urine specimens should use Standard Precautions at BSL-2. Conduct work using intact, full-length genomic RNA at BSL-2 (BMBL 6thed.– prepublication). Personnel should perform site- and activity-specific risk assessments to determine if enhanced biosafety precautions are warranted based on situational needs.

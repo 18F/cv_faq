@@ -3,7 +3,7 @@ title: Do people packing specimens for transport need to be trained and competen
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Packaging and Shipping
+excerpt: "Biosafety and COVID-19: Specimen Packaging and Shipping"
 ---
 
 Personnel should be trained in the proper safety, packing, and shipping regulations for UN 3373 Biological Substance, Category B when sending when sending clinical specimens from suspected COVID-19 PUIs. Personnel should be trained in a manner that corresponds to their function-specific responsibilities.

@@ -3,7 +3,7 @@ title: What makes N95 respirators different from facemasks (sometimes called a s
 category: ppe
 layout: post
 date: March 17, 2020
-excerpt: Personal Protective Equipment: Respirators
+excerpt: "Personal Protective Equipment: Respirators"
 ---
 
 [Infographic: Understanding the difference between surgical masks and N95 respirators](https://www.cdc.gov/niosh/npptl/pdfs/UnderstandDifferenceInfographic-508.pdf)

@@ -3,7 +3,7 @@ title: What procedures can generate aerosols and droplets?
 category: biosafety
 layout: post
 date: March 17, 2020
-excerpt: Biosafety and COVID-19: Specimen Handling
+excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 
 Many routine laboratory procedures can potentially generate aerosols and droplets that are often undetectable. The following laboratory procedures have been associated with the generation of infectious aerosols and droplets: centrifugation, pipetting, vortexing, mixing, shaking, sonicating, removing caps, decanting liquids, preparing smears, flaming slides, aliquoting and loading specimens, loading syringes, manipulating needles, syringes or sharps, aspirating and transferring blood and body fluids, subculturing blood culture bottles, spilling specimens, and cleaning up spills.

@@ -3,7 +3,7 @@ title: What types of gowns are available for healthcare personnel to protect fro
 category: ppe
 layout: post
 date: March 17, 2020
-excerpt: Personal Protective Equipment: Gowns
+excerpt: "Personal Protective Equipment: Gowns"
 ---
 
 While the transmissibility of COVID-19 is not fully understood, gowns are available that protect against microorganisms. The choice of gown should be made based on the level of risk of contamination. Certain areas of surgical and isolation gowns are defined as “critical zones” where direct contact with blood, body fluids, and/or other potentially infectious materials is most likely to occur. [(ANSI/AAMI PB70)](http://my.aami.org/aamiresources/previewfiles/pb70_1206_preview.pdf)
