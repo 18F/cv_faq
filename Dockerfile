@@ -10,6 +10,6 @@ COPY package*.json /app/
 WORKDIR /app
 
 RUN bundle install
-RUN npm ci
+RUN npm install
 
-CMD bundle exec jekyll serve --host 0.0.0.0
+CMD npm start
