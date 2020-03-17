@@ -13,7 +13,7 @@ div.usa-layout-docs.usa-section {
 
 .usa-prose> p.question-meta {
   @include u-text('italic');
-  @include u-color('base-light');
+  @include u-color('base');
   @include u-font('serif', '2xs');
   @include u-margin-top(4);
 }
