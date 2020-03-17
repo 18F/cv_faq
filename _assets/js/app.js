@@ -7,11 +7,26 @@ require('./simple-jekyll-search');
     const urlParams = new URLSearchParams(window.location.search);
     const autocomplete = document.getElementById('autocomplete-container');
     const fullPageResults = document.getElementById('search-results');
+    const searchBox = document.getElementById('search-box');
 
     const sjs = SimpleJekyllSearch({
-      searchInput: document.getElementById('search-box'),
+      searchInput: searchBox,
       resultsContainer: fullPageResults || autocomplete,
-      json: form.action + '.json'
+      json: form.action + '.json',
+      noResultsText: 'No results found.',
+      searchResultTemplate: '<li class="padding-1 font-sans-md"><a href="{url}" title="{desc}">{title}</a></li>',
+      templateMiddleware: function (prop, value, template) {
+        if (prop === 'url') return value;
+
+        const inputValue = searchBox.value;
+        const regex = new RegExp(inputValue, 'i');
+
+        const output = value.replace(regex, function (v) {
+          return '<b>'+ v +'</b>'
+        });
+        return output
+      },
+      limit: 10
     });
 
     const query = urlParams.get('query');
