@@ -3,7 +3,7 @@
   <div class="grid-row grid-gap">
     <div class="breadcrumb">
       {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
-      <a href="{{ site.baseburl }}/">FAQ</a>
+      <a href="{{ site.baseurl }}/">FAQ</a>
       {% for crumb in crumbs offset: 1 %}
         {% if forloop.last %}
           > {{ page.title }}
