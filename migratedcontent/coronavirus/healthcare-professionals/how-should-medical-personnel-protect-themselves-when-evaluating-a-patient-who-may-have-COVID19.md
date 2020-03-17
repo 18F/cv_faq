@@ -1,6 +1,6 @@
 ---
 title: How should healthcare personnel protect themselves when evaluating a patient who may have COVID-19?
-category: healthcare
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 excerpt: Healthcare professionals
