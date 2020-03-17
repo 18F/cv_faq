@@ -22,7 +22,7 @@ title: CDC
 logo_alt: Centers for Disease Control and Prevention. CDC twenty four seven. Saving Lives, Protecting People
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
-CDC works 24/7 to protect America from health, safety and security threats
+  CDC works 24/7 to protect America from health, safety and security threats
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
