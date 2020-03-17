@@ -189,11 +189,13 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
+  - _assets/css  # built via gulp
+  - _assets/js   # built via gulp
 
+# CSS and JS assets are compiled by gulp and placed in the intermediary
+# output directory _site_assets for use by jekyll-assets
 assets:
   sources:
+    - _site_assets
     - node_modules/uswds/dist/img
-    - node_modules/uswds/dist/js
-    - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
-    - node_modules
