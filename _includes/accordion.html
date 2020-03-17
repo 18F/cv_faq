@@ -6,6 +6,7 @@
 <button id="{{ include.question | slugify }}"
     class="usa-accordion__button"
     aria-expanded="true"
+    aria-multiselectable="true"
     aria-controls="control-{{ include.question | slugify }}">
     {{include.question}}
 </button>
