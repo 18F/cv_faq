@@ -7,6 +7,8 @@ backend:
   branch: dev #this will need to be changed once we deploy
   use_graphql: true
 
+local_backend: true
+
 media_folder: assets/uploads
 public_folder: /images/uploads
 publish_mode: editorial_workflow
@@ -17,10 +19,17 @@ collections:
     name: categories
     folder: _categories/
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     editor:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'category'}
-      - {label: "Name", name: "name", widget: "string"}
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: 'Name', name: 'name', widget: 'string'}
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - label: 'Banner'
+        name: 'banner'
+        widget: 'object'
+        fields:
+            - {label: 'Display', name: 'display', widget: 'boolean', default: false}
+            - {label: 'Heading', name: 'heading', widget: 'string'}
+            - {label: 'Content', name: 'content', widget: 'text'}
