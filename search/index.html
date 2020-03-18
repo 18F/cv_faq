@@ -46,7 +46,13 @@ title: Search
     // Translation
 
     const translate_fromSearchGov = (response) => {
-      return response.text_best_bets;
+      return response.web.results.map(result => {
+        return {
+          url: result.url,
+          title: result.title,
+          description: result.snippet
+        };
+      });
     };
 
     //////////////////////////////////
@@ -57,7 +63,8 @@ title: Search
     Object.entries({
       affiliate: '{{site.searchgov.affiliate}}',
       access_key: '{{site.searchgov.access_key}}',
-      query: new URLSearchParams(window.location.search).get('query')
+      query: new URLSearchParams(window.location.search).get('query'),
+      limit: 50
     }).forEach(([key, value]) => searchEndpoint.searchParams.append(key, value));
 
     const searchgov = fetch(searchEndpoint)
