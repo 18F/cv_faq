@@ -22,22 +22,21 @@
     };
 
     const renderResults_noResults = () => {
-      return `<h4 class="title">No results found</h4>`;
+      return '';
     };
 
     const renderResults_result = (result) => {
       return `
         <li>
           <a href="${result.url}">
-            <h2 class="title">${highlight(result.title)}</h2>
-            <p>${highlight(result.description)}... <span class="read-more">Continue reading</span></p>
+            <p class="title">${highlight(result.title)}</p>
           </a>
         </li>
       `;
     };
 
     const highlight = (text) => {
-      return text.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>');
+      return text.replace(/\uE000/g, '<strong>').replace(/\uE001/g, '</strong>');
     };
 
     const typeAheadInput = document.getElementById('search-box');

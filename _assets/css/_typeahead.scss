@@ -1,15 +1,22 @@
 #autocomplete-results {
-  @include u-bg('white');
-  @include u-radius('lg');
-  text-align: left;
-  position: absolute;
-  z-index: 100;
+  position: relative;
+  @include u-margin-top(1);
+
   ol {
     @include u-margin(0);
     @include u-padding(0);
     @include u-border('1px', 'solid', 'base-lighter');
+    @include u-bg('white');
+    @include u-radius('lg');
+    @include u-shadow(1);
+    position: absolute;
+    text-align: left;
+    z-index: 100;
+    width: 100%;
   } 
   li {
+    padding: units(2) units(4);
+    display: block;
     &:hover,
     &:focus,
     &:active {
@@ -18,12 +25,18 @@
 
     a {
       @include u-text('no-underline');
-      @include u-color('primary-dark');
+      p {
+        @include u-color('primary-dark');
+        @include u-margin(0);
+      }
 
       &:hover,
       &:focus,
       &:active {
         @include u-text('underline');
+      }
+      .title {
+        @include u-margin-top(0);
       }
     }
   }
