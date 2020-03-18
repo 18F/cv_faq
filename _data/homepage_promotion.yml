@@ -24,9 +24,6 @@ top_questions:
     - icon: plane
       question: 'Can I travel?'
       link: /travel/
-    - icon: group
-      qustion: test 2
-      link: www.usa.gov
 questions_box_1:
     header: 'How to protect yourself'
     questions:
