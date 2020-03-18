@@ -2,7 +2,7 @@
 <section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
   <div class="grid-row grid-gap">
     {% assign categories = site.content | group_by:"category" %}
-    {% assign promoted_site_categories = site.categories | where "promoted" %}
+    {% assign promoted_site_categories = site.categories | where: "promoted", "true" %}
 
     {% for site_category in promoted_site_categories limit:6 %}
       {% assign current_category = categories | where:"name", site_category.name | first %}
