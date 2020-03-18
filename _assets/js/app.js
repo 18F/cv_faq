@@ -1,5 +1,5 @@
 //= require uswds/dist/js/uswds.min
-//= require fuse.js/dist/fuse
+//= require ./search
 
 const EXPANDED = "aria-expanded";
 
