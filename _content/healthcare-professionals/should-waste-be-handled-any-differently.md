@@ -1,5 +1,5 @@
 ---
-title: Should medical waste or general waste from healthcare facilities treating PUIs and patients with confirmed COVID-19 be handled any differently or need any additional disinfection?
+title: Should waste be handled any differently?
 category: waste-management
 source: "https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html"
 layout: post

@@ -1,6 +1,6 @@
 ---
 title: When is someone infectious?
-category: healthcare
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 source: CDC

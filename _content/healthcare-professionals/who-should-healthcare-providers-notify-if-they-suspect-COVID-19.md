@@ -1,6 +1,6 @@
 ---
-title: Whom should healthcare providers notify if they suspect a patient has COVID-19?
-category: healthcare
+title: Who should healthcare staff notify if they suspect a patient has COVID-19?
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 source: CDC

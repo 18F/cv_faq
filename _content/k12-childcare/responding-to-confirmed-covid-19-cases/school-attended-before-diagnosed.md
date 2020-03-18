@@ -1,5 +1,5 @@
 ---
-title: What actions should my school take if a sick student or staff member attended school before being confirmed as a COVID-19 case?
+title: What should my school do if a sick student or staff member attended school before being diagnosed with COVID-19?
 category: k12-childcare
 layout: post
 date: March 16, 2020
