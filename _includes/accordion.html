@@ -2,6 +2,7 @@
     USWDS Accordion for a given category and posts
 {% endcomment %}
 
+{% assign question = include.accordion_content %}
 <h2 class="usa-accordion__heading">
 <button id="{{ question.title | slugify }}"
     class="usa-accordion__button"
@@ -14,6 +15,7 @@
     <p>{{ question.content | markdownify }}</p>
 
     <p class="question-meta">Last updated {{ question.date | date:  "%B %d, %Y" }}.
-    {% if question.source %} | <a href="{{ question.source }}/" class="usa-link usa-link--external">Source</a>{% endif %}
+    {% if question.source %} | <cite>Source: <a href="{{question.source_link}}" class="usa-link usa-link--external">{{ question.source }}</a></cite>
+    {% endif %}
     </p>
 </div>
