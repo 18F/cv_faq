@@ -3,6 +3,8 @@ title: Do wastewater and sewage workers need any additional protection when hand
 category: waste-management
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html
 excerpt: Healthcare professionals
 ---
 

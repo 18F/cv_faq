@@ -22,7 +22,7 @@ This template is for a single page that does not have a date associated with it.
           <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=true>
                 {% for question in category_questions %}
                     {% if page.lang == question.lang %}
-                        {% include accordion.html question=question.title answer=question.content %}
+                        {% include accordion.html question=question.title answer=question.content source=question.source source_link=question.source_url %}
                     {% endif %}
                 {% endfor %}
           </div>

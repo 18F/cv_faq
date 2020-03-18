@@ -3,6 +3,8 @@ title: How I do put on (don) and take off (doff) my gloves?
 category: ppe
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#gloves
 excerpt: "Personal Protective Equipment: Gloves"
 ---
 

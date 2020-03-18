@@ -12,4 +12,5 @@
 </h2>
 <div id="control-{{ include.question | slugify }}" class="usa-accordion__content usa-prose">
     <p>{{include.answer}}</p>
+    <p><cite>Source: <a href="{{include.source_link}}">{{ include.source }}</a></cite></p>
 </div>

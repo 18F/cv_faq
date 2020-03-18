@@ -3,6 +3,8 @@ title: How do I learn more about the CDC 2019-nCoV Real-Time RT-PCR Diagnostic P
 category: diagnostic-panels
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/tool-virus-requests.html
 promoted: false
 ---
 

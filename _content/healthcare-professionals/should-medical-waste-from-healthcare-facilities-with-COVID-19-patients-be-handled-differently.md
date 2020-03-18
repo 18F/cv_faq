@@ -3,6 +3,8 @@ title: Should medical waste or general waste from healthcare facilities treating
 category: waste-management
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html
 excerpt: Healthcare professionals
 ---
 Medical waste (trash) coming from healthcare facilities treating COVID-2019 patients is no different than waste coming from facilities without COVID-19 patients. CDC’s guidance states that management of laundry, food service utensils, and medical waste should be performed in accordance with routine procedures. There is no evidence to suggest that facility waste needs any additional disinfection.
