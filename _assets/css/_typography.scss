@@ -7,7 +7,7 @@ h2 .usa-accordion__button {
   @include u-font-family('serif');
 }
 
-h2, h3, .usa-prose h2, .usa-prose h3,
+h2, h3, .usa-prose h1, .usa-prose h2, .usa-prose h3,
 h2 .usa-accordion__button {
   font-weight: normal !important;
 }
