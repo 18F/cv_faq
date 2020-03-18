@@ -4,7 +4,7 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  branch: master
+  branch: dev #this will need to be changed once we deploy
   use_graphql: true
 
 media_folder: assets/uploads
@@ -13,22 +13,21 @@ publish_mode: editorial_workflow
 logo_url: https://faq-coronavirus.gov/assets/images/cdc-logo.svg
 
 collections:
-  - label: Posts
-    name: posts
-    folder: _posts/
+  - label: Categories
+    name: categories
+    folder: _categories/
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: '{{slug}}'
     editor:
       preview: false
     fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
-      - {label: "Title", name: "title", widget: "string"}
-      - {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          format: 'MMMM D, YYYY',
-          dateFormat: 'MMMM D, YYYY',
-          timeFormat: false
-        }
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'category'}
+      - {label: 'Name', name: 'name', widget: 'string'}
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - label: 'Banner'
+        name: 'banner'
+        widget: 'object'
+        fields:
+            - {label: 'Display', name: 'display', widget: 'boolean', default: false}
+            - {label: 'Heading', name: 'heading', widget: 'string'}
+            - {label: 'Content', name: 'content', widget: 'text'}
