@@ -1,7 +1,7 @@
 ---
 layout: category
 name: community-events
-title: "Community Events"
+title: "Community events"
 promoted: false
 banner:
     display: false
