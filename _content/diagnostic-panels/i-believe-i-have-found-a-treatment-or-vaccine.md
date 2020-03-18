@@ -9,3 +9,4 @@ promoted: false
 ---
 
 BARDA is providing a portal to support U.S. government medical countermeasure research and development. Interested stakeholders can learn more [here](https://medicalcountermeasures.gov/app/barda/coronavirus.aspx).
+{: .usa-link .usa-link--external}

@@ -13,4 +13,5 @@ Specimens should be shipped at 2-8°C with ice packs. If the specimen is frozen,
 For additional information, refer to the following:
 
 * [CDC 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel](https://www.fda.gov/media/134922/download)
+{: .usa-link .usa-link--external}
 * [Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens Associated with Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-nCoV/lab/lab-biosafety-guidelines.html)

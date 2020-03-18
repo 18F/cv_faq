@@ -14,5 +14,5 @@ In addition, Standard Precautions include protection of mucous membranes (eyes, 
 
 For additional information, refer to the following:
 
-* [2007 Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settingspdf icon](https://www.cdc.gov/infectioncontrol/pdf/guidelines/isolation-guidelines-H.pdf)
+* [2007 Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings (PDF)](https://www.cdc.gov/infectioncontrol/pdf/guidelines/isolation-guidelines-H.pdf)
 * [CDC Isolation Precautions](https://www.cdc.gov/infectioncontrol/guidelines/isolation/index.html#5)

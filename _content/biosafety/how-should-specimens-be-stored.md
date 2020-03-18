@@ -14,3 +14,4 @@ For additional information, refer to the following:
 
 * [Interim Infection Prevention and Control Recommendations for Patients with Confirmed 2019 Novel Coronavirus (2019-nCoV) or Persons Under Investigation for 2019-nCoV in Healthcare Settings](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html)
 * [CDC 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel](https://www.fda.gov/media/134922/download)
+{: .usa-link .usa-link--external}

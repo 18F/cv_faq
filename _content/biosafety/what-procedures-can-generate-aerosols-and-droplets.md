@@ -12,6 +12,8 @@ Many routine laboratory procedures can potentially generate aerosols and droplet
 
 For additional information, refer to the following:
 
-* [Guidelines for Safe Work Practices in Human and Animal Medical Diagnostic Laboratories](https://www.cdc.gov/MMWR/pdf/other/su6101.pdf)
+* [Guidelines for Safe Work Practices in Human and Animal Medical Diagnostic Laboratories (PDF)](https://www.cdc.gov/MMWR/pdf/other/su6101.pdf)
 * [Biosafety in Microbiological and Biomedical Laboratories, 5th Ed.](https://www.cdc.gov/labs/pdf/CDC-BiosafetyMicrobiologicalBiomedicalLaboratories-2009-P.PDF)
-* [Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV)](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2)
+{: .usa-link .usa-link--external}
+* [Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV) (PDF)](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2)
+{: .usa-link .usa-link--external}

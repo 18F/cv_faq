@@ -13,5 +13,7 @@ Staff members should adhere to standard procedures associated with other respira
 For additional information, refer to the following:
 
 * [Infection prevention and control during health care when novel coronavirus (nCoV) infection is suspected](https://www.who.int/publications-detail/infection-prevention-and-control-during-health-care-when-novel-coronavirus-(ncov)-infection-is-suspected-20200125)
+{: .usa-link .usa-link--external}
 * [Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens Associated with Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-nCoV/lab/lab-biosafety-guidelines.html)
-* [Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV)](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2) 
+* [Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV)](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2)
+{: .usa-link .usa-link--external}

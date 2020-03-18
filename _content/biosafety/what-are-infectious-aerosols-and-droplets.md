@@ -20,6 +20,8 @@ Examples of infectious agents that are transmitted via the droplet route include
 
 For additional information, refer to the following:
 
-* [WHO Laboratory Biosafety Manual, 3rd](https://www.who.int/csr/resources/publications/biosafety/Biosafety7.pdf?ua=1)
-* [2007 Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings](https://www.cdc.gov/infectioncontrol/pdf/guidelines/isolation-guidelines-H.pdf)
+* [WHO Laboratory Biosafety Manual, 3rd (PDF)](https://www.who.int/csr/resources/publications/biosafety/Biosafety7.pdf?ua=1)
+{: .usa-link .usa-link--external}
+* [2007 Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings (PDF)](https://www.cdc.gov/infectioncontrol/pdf/guidelines/isolation-guidelines-H.pdf)
+{: .usa-link .usa-link--external}
 * [CDC Isolation Precautions](https://www.cdc.gov/infectioncontrol/guidelines/isolation/index.html#5)

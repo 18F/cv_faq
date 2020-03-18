@@ -12,6 +12,9 @@ Risk assessments and mitigation are dependent on the procedures to be performed,
 
 For additional information, refer to the following:
 
-* [Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV)](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2)
-* [Risk Assessment Best Practices](https://www.aphl.org/programs/preparedness/Documents/APHL%20Risk%20Assessment%20Best%20Practices%20and%20Examples.pdf)
-* [World Health Organization Laboratory Biosafety Manual, 3rd](https://www.who.int/csr/resources/publications/biosafety/Biosafety7.pdf?ua=1)
+* [Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV) (PDF)](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2)
+{: .usa-link .usa-link--external}
+* [Risk Assessment Best Practices (PDF)](https://www.aphl.org/programs/preparedness/Documents/APHL%20Risk%20Assessment%20Best%20Practices%20and%20Examples.pdf)
+{: .usa-link .usa-link--external}
+* [World Health Organization Laboratory Biosafety Manual, 3rd (PDF)](https://www.who.int/csr/resources/publications/biosafety/Biosafety7.pdf?ua=1)
+{: .usa-link .usa-link--external}

@@ -20,5 +20,6 @@ The overpack should be marked in accordance with the packing instructions requir
 
 For additional information, refer to the following:
 
-* [IATA Dangerous Goods Regulations Packaging Instruction 650](https://www.iata.org/contentassets/b08040a138dc4442a4f066e6fb99fe2a/dgr-61-en-pi650.pdf)
+* [IATA Dangerous Goods Regulations Packaging Instruction 650 (PDF)](https://www.iata.org/contentassets/b08040a138dc4442a4f066e6fb99fe2a/dgr-61-en-pi650.pdf)
+{: .usa-link .usa-link--external}
 * [Interim Laboratory Biosafety Guidelines for Handling and Processing Specimens Associated with Coronavirus Disease 2019 (COVID-19)](https://www.cdc.gov/coronavirus/2019-nCoV/lab/lab-biosafety-guidelines.html)

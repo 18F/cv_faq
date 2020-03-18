@@ -14,4 +14,6 @@ For additional information, refer to the following:
 
 * [Interim Infection Prevention and Control Recommendations for Patients with Confirmed 2019 Novel Coronavirus (2019-nCoV) or Persons Under Investigation for 2019-nCoV in Healthcare Settings](https://www.cdc.gov/coronavirus/2019-nCoV/hcp/infection-control.html)
 * [CDC 2019-Novel Coronavirus (2019-nCoV) Real-Time RT-PCR Diagnostic Panel](https://www.fda.gov/media/134922/download)
-* [Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV)](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2)
+{: .usa-link .usa-link--external}
+* [Laboratory biosafety guidance related to the novel coronavirus (2019-nCoV) (PDF)](https://www.who.int/docs/default-source/coronaviruse/laboratory-biosafety-novel-coronavirus-version-1-1.pdf?sfvrsn=912a9847_2)
+{: .usa-link .usa-link--external}

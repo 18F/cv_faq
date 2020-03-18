@@ -10,7 +10,7 @@ excerpt: COVID-19 and Funerals
 
 CDC does not require an autopsy before the remains of a person who died overseas are returned to the United States. Depending on the circumstances surrounding the death, some countries may require an autopsy. Sources of support to the family include the local consulate or embassy, travel insurance provider, tour operator, faith-based and aid organizations, and the deceased’s employer. There likely will need to be an official identification of the body and official documents issued by the consular office.
 
-CDC requirements for importing human remains depend upon if the body has been embalmed, cremated, or if the person died from a <a href="https://www.cdc.gov/quarantine/aboutlawsregulationsquarantineisolation.html" target="_blank">quarantinable communicable disease</a>.
+CDC requirements for importing human remains depend upon if the body has been embalmed, cremated, or if the person died from a <a href="https://www.cdc.gov/quarantine/aboutlawsregulationsquarantineisolation.html">quarantinable communicable disease</a>.
 
 At this time, COVID-19 is a quarantinable communicable disease in the United States and the remains must meet the standards for importation found in 42 Code of Federal Regulations Part 71.55 and may be cleared, released, and authorized for entry into the United States only under the following conditions:
 
@@ -23,4 +23,4 @@ At this time, COVID-19 is a quarantinable communicable disease in the United Sta
 </ul></li>
 </ul>
 
-Please see <a href="http://www.cdc.gov/importation/human-remains.html" target="_blank">CDC’s guidance </a>for additional information.
+Please see <a href="http://www.cdc.gov/importation/human-remains.html">CDC’s guidance </a>for additional information.
