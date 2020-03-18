@@ -32,10 +32,14 @@ title: Search
     const renderResults_result = (result) => {
       return `
         <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
-          <h2 class="title"><a href="${result.url}">${result.title}</a></h2>
-          <div>${result.description.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>')}</div>
+          <h2 class="title"><a href="${result.url}">${highlight(result.title)}</a></h2>
+          <div>${highlight(result.description)}</div>
         </li>
       `;
+    };
+
+    const highlight = (text) => {
+      return text.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>');
     };
 
     //////////////////////////////////
