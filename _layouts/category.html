@@ -10,6 +10,9 @@ This template is for a single page that does not have a date associated with it.
 {% assign this_category = categories | where:"name", page.name | first %}
 {% assign category_questions = this_category.items %}
 
+{% if page.banner.display == true %}
+  {% include alert-banner.html banner=page.banner %}
+{% endif %}
 <div class="usa-layout-docs usa-section" id="top">
   <div class="grid-container">
     <div class="grid-row grid-gap">
@@ -18,11 +21,11 @@ This template is for a single page that does not have a date associated with it.
       {% endif %}
 
       <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-          <h2>{{ page.title }}</h2>
+          <h1>{{ page.title }}</h1>
           <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=true>
                 {% for question in category_questions %}
                     {% if page.lang == question.lang %}
-                        {% include accordion.html %}
+                        {% include accordion.html accordion_content=question %}
                     {% endif %}
                 {% endfor %}
           </div>

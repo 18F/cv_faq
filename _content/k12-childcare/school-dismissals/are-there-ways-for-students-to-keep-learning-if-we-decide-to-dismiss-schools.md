@@ -3,6 +3,8 @@ title: Are there ways for students to keep learning if we decide to dismiss scho
 category: k12-childcare
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
 excerpt: "K-12 Schools and Childcare Program Administrators: School Dismissals"
 promoted: false
 ---

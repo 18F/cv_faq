@@ -3,6 +3,8 @@ title: If we dismiss school, what do we need to consider when re-opening the bui
 category: k12-childcare
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
 excerpt: "K-12 Schools and Childcare Program Administrators: School Dismissals"
 promoted: false
 ---

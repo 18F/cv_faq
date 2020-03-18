@@ -3,6 +3,8 @@ title: What are the clinical features of COVID-19?
 Category: healthcare
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html
 Excerpt: Healthcare Professionals
 ---
 

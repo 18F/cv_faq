@@ -4,6 +4,8 @@ category: basics
 layout: post
 promoted: true
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#basics
 excerpt: Coronavirus Disease 2019 Basics
 ---
 
