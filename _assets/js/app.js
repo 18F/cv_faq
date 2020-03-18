@@ -1,4 +1,5 @@
 //= require uswds/dist/js/uswds.min
+//= require fuse.js/dist/fuse
 
 const EXPANDED = "aria-expanded";
 
