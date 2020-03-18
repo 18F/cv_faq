@@ -3,6 +3,8 @@ title: Interim Guidance on Breastfeeding for a Mother Confirmed or Under Investi
 category: pregnancy
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
 excerpt: Breastfeeding and COVID-19
 ---
 

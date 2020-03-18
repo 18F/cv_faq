@@ -3,6 +3,8 @@ title: Has anyone in the United States gotten infected?
 category: protect-yourself
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#protect
 excerpt: How to Protect Yourself
 ---
 

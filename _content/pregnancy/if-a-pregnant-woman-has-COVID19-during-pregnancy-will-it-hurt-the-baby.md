@@ -3,6 +3,8 @@ title: If a pregnant woman has COVID-19 during pregnancy, will it hurt the baby?
 category: high-risk
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
 excerpt: Pregnant women and COVID-19
 ---
 
