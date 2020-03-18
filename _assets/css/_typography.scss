@@ -1,7 +1,0 @@
-h2, h3, h4, h5, h6 {
-  @include u-font-family('serif');
-}
-
-h2, h3 {
-  @include u-text('normal');
-}
