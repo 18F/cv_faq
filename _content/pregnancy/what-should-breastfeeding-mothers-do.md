@@ -1,5 +1,5 @@
 ---
-title: Interim Guidance on Breastfeeding for a Mother Confirmed or Under Investigation For COVID-19
+title: What should breastfeeding mothers do if they are diagnosed with or under investigation for COVID-19?
 category: pregnancy
 layout: post
 date: March 16, 2020

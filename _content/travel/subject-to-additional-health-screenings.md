@@ -1,5 +1,5 @@
 ---
-title: What can I expect when arriving to the United States?
+title: Will I be subject to additional health screenings when I arrive in the United States?
 category: travel
 layout: post
 date: March 16, 2020

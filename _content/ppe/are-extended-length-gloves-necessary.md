@@ -1,5 +1,5 @@
 ---
-title: Are extended length gloves necessary when caring for suspected or confirmed COVID-19 patients in healthcare settings?
+title: Are extended length gloves necessary when caring for patients?
 category: ppe
 layout: post
 date: March 17, 2020

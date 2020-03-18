@@ -1,6 +1,6 @@
 ---
 title: Can COVID-19 be passed from a pregnant woman to the fetus or newborn?
-category: high-risk
+category: pregnancy
 layout: post
 date: March 16, 2020
 source: CDC
