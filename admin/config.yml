@@ -4,7 +4,7 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  branch: dev #this will need to be changed once we deploy
+  branch: netlify-cms-test #this will need to be changed once we deploy
   use_graphql: true
 
 media_folder: assets/uploads
