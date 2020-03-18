@@ -1,7 +1,7 @@
 ---
 layout: category
 name: cdc-actions
-title: "What CDC Is Doing"
+title: "What CDC is doing"
 promoted: false
 banner:
     display: false

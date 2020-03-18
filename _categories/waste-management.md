@@ -1,7 +1,7 @@
 ---
 layout: category
 name: waste-management
-title: "Waste Management"
+title: "Waste management"
 promoted: false
 banner:
     display: false

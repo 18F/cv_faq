@@ -1,5 +1,5 @@
 ---
-title: Is it acceptable for emergency medical services to wear coveralls as an alternative to gowns when COVID-19 is suspected in a patient needing emergency transport?
+title: Can emergency medical services wear coveralls as an alternative to gowns?
 category: ppe
 layout: post
 date: March 17, 2020

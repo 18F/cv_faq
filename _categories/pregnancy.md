@@ -1,7 +1,7 @@
 ---
 layout: category
 name: pregnancy
-title: "Pregnant Women and COVID-19"
+title: "Pregnant women and COVID-19"
 promoted: false
 banner:
     display: false

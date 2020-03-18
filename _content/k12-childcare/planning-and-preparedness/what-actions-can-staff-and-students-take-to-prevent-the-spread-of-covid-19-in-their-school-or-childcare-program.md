@@ -1,5 +1,5 @@
 ---
-title: What actions can staff and students take to prevent the spread of COVID-19 in their school or childcare program?
+title: What actions can staff and students take to prevent the spread of COVID-19?
 category: k12-childcare
 layout: post
 date: March 16, 2020
