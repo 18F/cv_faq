@@ -1,5 +1,5 @@
 ---
-title: What types of gowns are available for healthcare personnel to protect from COVID-19?
+title: What types of gowns should healthcare staff use?
 category: ppe
 layout: post
 date: March 17, 2020

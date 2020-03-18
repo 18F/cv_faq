@@ -1,6 +1,6 @@
 ---
 title: What should I do if I had close contact with someone who has COVID-19?
-category: about
+category: protect-yourself
 layout: post
 date: March 16, 2020
 source: CDC
