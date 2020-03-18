@@ -1,5 +1,5 @@
 ---
-title: What information is required on the outer package for shipment of specimens with ice packs?
+title: What information is required on outer packages when shipping specimens with dry ice?
 category: biosafety
 layout: post
 date: March 17, 2020
