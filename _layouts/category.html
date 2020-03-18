@@ -10,6 +10,9 @@ This template is for a single page that does not have a date associated with it.
 {% assign this_category = categories | where:"name", page.name | first %}
 {% assign category_questions = this_category.items %}
 
+{% if page.banner.display == true %}
+  {% include alert-banner.html banner=page.banner %}
+{% endif %}
 <div class="usa-layout-docs usa-section" id="top">
   <div class="grid-container">
     <div class="grid-row grid-gap">
