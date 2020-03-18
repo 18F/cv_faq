@@ -3,6 +3,8 @@ title: What do I need to know if a patient with confirmed or suspected COVID-19 
 category: healthcare-professionals
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html
 excerpt: Healthcare professionals
 ---
 

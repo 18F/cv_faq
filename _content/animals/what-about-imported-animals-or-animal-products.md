@@ -3,7 +3,8 @@ title: What about imported animals or animal products?
 category: animals
 layout: post
 date: March 16, 2020
-source: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals
 excerpt: COVID-19 and Animals
 ---
 

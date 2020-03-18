@@ -21,7 +21,7 @@ This template is for a single page that does not have a date associated with it.
       {% endif %}
 
       <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-          <h2>{{ page.title }}</h2>
+          <h1>{{ page.title }}</h1>
           <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=true>
                 {% for question in category_questions %}
                     {% if page.lang == question.lang %}

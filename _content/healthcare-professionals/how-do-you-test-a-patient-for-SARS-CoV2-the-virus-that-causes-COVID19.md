@@ -3,6 +3,8 @@ title: How do you test a patient for SARS-CoV-2, the virus that causes COVID-19?
 category: healthcare-professionals
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html
 excerpt: Healthcare Professionals
 ---
 

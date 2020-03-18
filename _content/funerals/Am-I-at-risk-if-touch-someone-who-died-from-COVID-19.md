@@ -3,6 +3,8 @@ title: Am I at risk if I touch someone who died of COVID-19 after they have pass
 category: funerals
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#funerals
 excerpt: COVID-19 and Funerals
 ---
 

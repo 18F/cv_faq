@@ -3,6 +3,8 @@ title: Can the virus that causes COVID-19 be spread through food, including refr
 category: spread
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#spreads
 excerpt: How It Spreads
 ---
 

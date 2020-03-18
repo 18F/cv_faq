@@ -3,6 +3,8 @@ title: What personal protective equipment (PPE) should be worn by environmental 
 category: healthcare-infection
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/infection-control/infection-prevention-control-faq.html
 ---
 
 In general, only essential personnel should enter the room of patients with COVID-19. Healthcare facilities should consider assigning daily cleaning and disinfection of high-touch surfaces to nursing personnel who will already be in the room providing care to the patient. If this responsibility is assigned to EVS personnel, they should wear all recommended PPE when in the room. PPE should be removed upon leaving the room, immediately followed by performance of hand hygiene.

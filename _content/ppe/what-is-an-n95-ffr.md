@@ -3,6 +3,8 @@ title: What is an N95 filtering facepiece respirator (FFR)?
 category: ppe
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#respirators
 excerpt: "Personal Protective Equipment: Respirators"
 ---
 
