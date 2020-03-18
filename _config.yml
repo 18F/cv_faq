@@ -129,6 +129,9 @@ permalink_custom_vars:
   - lang
 
 markdown: kramdown
+
+#TO UPDATE BEFORE LAUNCH:
+url: https://cg-dae9433e-23a0-46d7-bafb-dc79d2d3756c.app.cloud.gov/preview/18f/cv_faq/dev/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
