@@ -5,7 +5,7 @@ layout: post
 date: March 16, 2020
 source: CDC
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#basics
-excerpt: Coronavirus Disease 2019 Basics
+excerpt: About COVID-19
 ---
 
 People can fight stigma and help, not hurt, others by providing social support. Counter stigma by learning and sharing facts. 

@@ -1,5 +1,5 @@
 ---
-title: What biosafety level is recommended for handling clinical specimens from suspected COVID-19 PUIs?
+title: What biosafety level is recommended for handling clinical specimens?
 category: biosafety
 layout: post
 date: March 17, 2020

@@ -1,5 +1,5 @@
 ---
-title: What specific packaging should personnel use when shipping clinical specimens from suspected COVID-19 PUIs?
+title: What packaging should staff use when shipping clinical specimens?
 category: biosafety
 layout: post
 date: March 17, 2020
