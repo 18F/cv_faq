@@ -147,6 +147,7 @@ exclude:
   - Gemfile.lock
   - _assets/css  # built via gulp
   - _assets/js   # built via gulp
+  - admin/config.yml
 
 # CSS and JS assets are compiled by gulp and placed in the intermediary
 # output directory _site_assets for use by jekyll-assets
