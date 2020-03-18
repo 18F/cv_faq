@@ -17,6 +17,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
         'fields' => [
           {'label' => 'Layout', 'name' => 'layout', 'widget' => 'hidden', 'default' => 'post'},
           {'label' => 'Title', 'name' => 'title', 'widget' => 'string'},
+          {'label' => 'Category', 'name' => 'category', 'widget' => 'string'},
           {'label' => 'Tag', 'name' => 'tag', 'widget' => 'string'},
           {
             'label' => 'Publish Date',
