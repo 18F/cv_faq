@@ -1,7 +1,7 @@
 ---
 layout: category
 name: diagnostic-panels
-title: "Laboratory Diagnostic Panels"
+title: "Laboratory diagnostic panels"
 promoted: false
 banner:
     display: false

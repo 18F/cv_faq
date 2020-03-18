@@ -1,7 +1,7 @@
 ---
 layout: category
 name: biosafety
-title: "Laboratory Biosafety"
+title: "Laboratory biosafety"
 promoted: false
 banner:
     display: false

@@ -2,21 +2,19 @@
   "name": "federalist-uswds-jekyll",
   "version": "1.3.0",
   "scripts": {
-    "build": "npm run build:assets && npm run build:site",
-    "build:assets": "gulp build",
+    "build": "npm run build:site",
     "build:site": "bundle exec jekyll build",
     "clean": "bundle exec jekyll clean",
     "reset": "npx rimraf Gemfile.lock package-lock.json LICENSE.md CONTRIBUTING.md degit.json .git",
-    "start": "npm run build:assets && concurrently --kill-others-on-fail npm:start:assets npm:start:site",
-    "start:assets": "gulp watch",
+    "start": "npm run start:site",
     "start:site": "bundle exec jekyll serve --host 0.0.0.0",
-    "test": "npm run build && bundle exec htmlproofer _site && npx a11y '_site/**/*.html'",
-    "federalist": "npm run build:assets"
+    "test": "npm run build && bundle exec htmlproofer _site && npx a11y '_site/**/*.html'"
   },
   "dependencies": {
     "autoprefixer": "^9.7.4",
     "browserify": "^16.5.0",
     "concurrently": "^5.1.0",
+    "fuse.js": "^5.0.5-beta",
     "gulp": "^4.0.2",
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.2",
