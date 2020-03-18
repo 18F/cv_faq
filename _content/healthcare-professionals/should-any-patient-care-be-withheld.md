@@ -1,5 +1,5 @@
 ---
-title: Should any diagnostic or therapeutic interventions be withheld due to concerns about transmission of COVID-19?
+title: Should any patient care be withheld due to concerns about transmission of COVID-19?
 category: healthcare
 layout: post
 date: March 16, 2020

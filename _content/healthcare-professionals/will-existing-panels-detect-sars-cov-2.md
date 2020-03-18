@@ -1,6 +1,6 @@
 ---
-title: Will existing respiratory virus panels, such as those manufactured by Biofire or Genmark, detect SARS-CoV-2, the virus that causes COVID-19?
-category: healthcare
+title: Will existing respiratory virus panels detect SARS-CoV-2, the virus that causes COVID-19?
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 source: CDC

@@ -1,5 +1,5 @@
 ---
-title: What do I need to know if a patient with confirmed or suspected COVID-19 asks about having a pet or other animal in the home?
+title: What should staff tell patients about having pets in their homes?
 category: healthcare-professionals
 layout: post
 date: March 16, 2020
