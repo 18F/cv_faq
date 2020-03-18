@@ -46,8 +46,6 @@
     const searchEndpoint = new URL(`${SEARCHGOV_ENDPOINT}/api/v2/search/i14y`);
     const searchTimeout = 3; // seconds
 
-    reject(new Error('Not an error, debugging locally.'));
-
     window.setTimeout(() => {
       reject(new Error(`Request for search.gov results timed out after ${searchTimeout} seconds.`));
     }, searchTimeout * 1000);
