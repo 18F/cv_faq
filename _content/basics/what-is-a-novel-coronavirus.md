@@ -6,7 +6,7 @@ promoted: true
 date: March 16, 2020
 source: CDC
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#basics
-excerpt: Coronavirus Disease 2019 Basics
+excerpt: About COVID-19
 ---
 
 A novel coronavirus is a new coronavirus that has not been previously identified. The virus causing coronavirus disease 2019 
