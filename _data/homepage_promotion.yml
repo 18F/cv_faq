@@ -1,7 +1,7 @@
 banner:
-    display: false
-    heading: 'This is a place to place urgent information'
-    content: 'You can set this component to ''display: true'' to show a banner at the top of the page.'
+    display: true
+    heading: '<a href="https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html#cdc-response">See how CDC is responding to COVID-19 and the coronavirus that causes it</a>.'
+    content: 
 hero:
     title: 'Find answers about COVID-19'
     tagline: 'or you can browse the categories below to find what you are looking for.'
@@ -17,7 +17,7 @@ top_questions:
       link: /spread/how-does-the-virus-spread
     - icon: group
       question: 'What is social distancing?'
-      link: 'https://www.cdc.gov/coronavirus/2019-ncov/community/index.html'
+      link: '/basics/what-is-social-distancing'
     - icon: globe
       question: 'Cases in the U.S.'
       link: '/protect-yourself/#has-anyone-in-the-united-states-gotten-infected'
@@ -31,7 +31,7 @@ questions_box_1:
     header: 'How to protect yourself'
     questions:
         - question: 'What are the steps to prevent the illness?'
-          link: 'https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html'
+          link: '/basics/steps-to-prevent-the-illness'
         - question: 'Am I at risk?'
           link: /protect-yourself/
         - question: 'How can I protect others?'
@@ -43,11 +43,11 @@ questions_box_2:
     header: 'What to do if you feel sick'
     questions:
         - question: 'What are the symptoms of COVID-19?'
-          link: '/basics/#what-are-the-symptoms-and-complications-that-covid-19-can-cause'
+          link: '/symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause'
         - question: 'Should I get tested?'
-          link: '/basics/#should-i-be-tested-for-covid-19'
+          link: '/symptoms-and-testing/#should-i-be-tested-for-covid-19'
         - question: 'When should I go to the doctor?'
-          link: 'https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html'
+          link: '/symptoms-and-testing/when-should-i-call-my-doctor'
         - question: 'How do I care for someone who’s sick?'
           link: 'https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions'
     view_all_link: /protect-yourself/

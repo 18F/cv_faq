@@ -14,11 +14,7 @@
           </li>
           {% endfor %}
         </ul>
-<<<<<<< HEAD
         <a href="{{ question_box_1.view_all_link | relative_url }}" class="text-bold text-underline margin-y-1">View All <span class="usa-sr-only">questions about {{ question_box_1.header }}</span><span aria-hidden="true">»</span></a>
-=======
-        <a href="{{ site.baseurl }}/protect-yourself/" class="text-bold text-underline margin-y-1">View all <span class="usa-sr-only">questions about {{ include.questions_box.box_1_header }}</span><span aria-hidden="true">»</span></a>
->>>>>>> 0389b98041ca22f76562356474fdff75c9557566
       </div>
 
     </div>
@@ -29,37 +25,13 @@
         <ul class="usa-list usa-list--unstyled">
           {% for question in question_box_2.questions %}
           <li class="padding-y-1">
-<<<<<<< HEAD
             <a href="{{ question.link | relative_url }}">
               {{ question.question }}
-=======
-            <a href="{{ site.baseurl }}/symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause">
-              What are the symptoms of COVID-19?
-            </a>
-          </li>
-          <li class="padding-y-1">
-            <a href="{{ site.baseurl }}/symptoms-and-testing/#should-i-be-tested-for-covid-19">
-              Should I get tested?
-            </a>
-          </li>
-          <li class="padding-y-1">
-            <a href="https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html">
-              When should I go to the doctor?
-            </a>
-          </li>
-          <li class="padding-y-1">
-            <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions">
-              How do I care for someone who’s sick?
->>>>>>> 0389b98041ca22f76562356474fdff75c9557566
             </a>
           </li>
           {% endfor %}
         </ul>
-<<<<<<< HEAD
         <a href="{{ question_box_2.view_all_link | relative_url }}" class="text-bold text-underline margin-y-1">View All <span class="usa-sr-only">questions about {{ question_box_2.header }}</span><span aria-hidden="true">»</span></a>
-=======
-        <a href="{{ site.baseurl }}/basics/" class="text-bold text-underline margin-y-1">View all <span class="usa-sr-only">questions about {{ include.questions_box.box_2_header }}</span><span aria-hidden="true">»</span></a>
->>>>>>> 0389b98041ca22f76562356474fdff75c9557566
       </div>
     </div>
   </div>
