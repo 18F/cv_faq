@@ -2,13 +2,26 @@
 layout: null
 ---
 [
-  {% for post in site.posts %}
+  {% for content in site.content %}
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
+      "title"    : "{{ content.title | escape }}",
+      "desc"     : "{{ content.slug }}",
+      "category" : "{{ content.category }}",
+      "excerpt"  : "{{ content.excerpt | strip_html | strip }}",
+      "url"      : "{{ site.baseurl }}/{{ content.category }}.html#{{ content.slug }}",
+      "date"     : "{{ content.date }}",
+      "content"  : "{{ content.content | strip_html | strip_newlines | remove_chars | escape }}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ,
+  {% for category in site.categories %}
+    {
+      "title"    : "{{ category.title | escape }}",
+      "desc"     : "{{ category.slug }}",
+      "name"     : "{{ category.name }}",
+      "url"      : "{{ site.baseurl }}/{{ category.name }}.html",
+      "heading"  : "{{ category.banner.heading }}",
+      "content"  : "{{ category.banner.content }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

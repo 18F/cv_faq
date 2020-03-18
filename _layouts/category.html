@@ -19,16 +19,16 @@ This template is for a single page that does not have a date associated with it.
 
       <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
           <h2>{{ page.title }}</h2>
-          <div class="usa-accordion usa-accordion--bordered">
+          <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=true>
                 {% for question in category_questions %}
                     {% if page.lang == question.lang %}
-                        {% include accordion.html question=question.title answer=question.content %}
+                        {% include accordion.html %}
                     {% endif %}
                 {% endfor %}
           </div>
       </div>
     </div>
-    <div class="grid-row grid-gap margin-top-1">
+    <div class="grid-row grid-gap margin-top-5">
       <div class="desktop:grid-col-9 display-flex flex-column flex-align-end">
             <a class="usa-link display-flex flex-justify-center flex-align-center" href="#top">
               Return to top

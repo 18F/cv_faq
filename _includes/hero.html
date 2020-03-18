@@ -1,29 +1,23 @@
 <section class="usa-hero hero__no-image">
   <div class="grid-container">
     <div class="grid-row">
+      {% comment %}
+      <!-- removing the comment and endcomment will re-enable this section -->
       <p class="i18n-controls grid-col-12">
         {% for language in include.hero.i18n %}
-        <a href={{language.link}}>{{ language.display_text }}</a>
+        <a href="{{language.link}}" lang="{{language.lang}}">{{ language.display_text }}</a>
         {% if forloop.last == false %}
         |
         {% endif %}
         {% endfor %}
       </p>
+      {% endcomment %}
       <h1 class="grid-col-12">{{ include.hero.title }}</h1>
     </div>
 
-    <div class="grid-row">
-      <form id="search_form" class="usa-search grid-col-12 tablet:grid-col-10 tablet:grid-offset-1"
-        action="{{ site.baseurl }}/search">
-        <div role="search">
-          <label class="usa-label usa-sr-only" for="search-box">Search CDC for information on COVID-19</label>
-          <input class="usa-input" id="search-box" name="query" type="search"
-            placeholder="Search questions, keywords, or topics to find answers" />
-          <button class="usa-button" type="submit">Search</button>
-          <ul id="autocomplete-container"></ul>
-        </div>
-      </form>
-    </div>
+    <form id="search_form" class="usa-search" action="{{ site.baseurl }}/search">
+      {% include search.html %}
+    </form>
     <div class="grid-row">
       <p class="hero--tagline grid-col-12">or you can browse the categories below to find what you are looking for.</p>
     </div>

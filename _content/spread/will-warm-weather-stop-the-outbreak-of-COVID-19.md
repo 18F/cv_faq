@@ -1,6 +1,6 @@
 ---
 title: Will warm weather stop the outbreak of COVID-19?
-category: about
+category: spread
 layout: post
 date: March 16, 2020
 excerpt: How It Spreads

@@ -14,12 +14,10 @@
   @include u-border('1px');
   @include u-margin(2);
   @include u-padding(1);
-  @include u-text('no-underline');
   @include u-radius('lg');
-  @include u-color('primary-dark');
   display: flex;
   align-items: center;
-  
+
   &:visited,
   &:hover,
   &:focus {
@@ -37,14 +35,21 @@
   }
 }
 
-li a {
-  @include u-text('no-underline');
-  @include u-color('primary-dark');
-  &:visited,
-  &:hover,
-  &:focus {
-    @include u-text('underline');
-    @include u-color('primary-dark');
+.autocomplete {
+  li {
+    text-align: left;
+    &:hover {
+      background-color: color('accent-cool-lighter');
+    }
+
+    a {
+      @include u-text('no-underline');
+      @include u-color('primary-dark');
+
+      &:hover {
+        @include u-text('underline');
+      }
+    }
   }
 }
 
@@ -64,7 +69,7 @@ li a {
   &.question-box--warning {
     @include u-bg('warning-lighter');
   }
-  
+
   a {
     @include u-color('primary-dark');
     align-self: flex-end;
@@ -74,14 +79,5 @@ li a {
     &:focus {
       @include u-color('primary-dark');
     }
-  }
-}
-
-.content-questions {
-  h3 {
-    @include u-font('serif', 'md');
-  }
-  li {
-    @include u-margin-x(1);
   }
 }

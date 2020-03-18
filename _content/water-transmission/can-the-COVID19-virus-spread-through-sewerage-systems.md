@@ -1,12 +1,10 @@
 ---
 title: Can the COVID-19 virus spread through sewerage systems?
-category: about
+category: water-transmission
 layout: post
 date: March 16, 2020
 excerpt: Water transmission and COVID-19
 ---
-
-## Can the COVID-19 virus spread through sewerage systems? ##
 
 CDC is reviewing all data on COVID-19 transmission as information becomes available. At this time, the risk of transmission of the virus that causes COVID-19 through sewerage systems is thought to be low. Although transmission of COVID-19 through sewage may be possible, there is no evidence to date that this has occurred. This guidance will be updated as necessary as new evidence is assessed.
 

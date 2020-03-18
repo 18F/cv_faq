@@ -1,37 +1,72 @@
 footer,
-footer a,
-footer a:visited {
-  @include u-color('base-lightest');
-  @include u-font('sans', '3xs');
-  @include u-margin-bottom(0);
-
-}
-
-footer h3 {
-  @include u-text('uppercase');
-  @include u-font-family('sans');
-  @include u-margin-top(0);
-}
-
-footer .list-inline {
+footer {
+        @include u-color('base-lightest');
+        background-color: #333333;
+    a,
+    a:visited,
+    span {
+        @include u-color('base-lightest');
+        @include u-font('sans', '3xs');
+        @include u-margin-bottom(0);
+        
+        &:hover,
+        &:focus {
+            @include u-color('base-lightest');
+            @include u-bg('transparent');
+            @include u-text('underline');
+        }
+    }
+    ul {
+        @include unstyled-list;
+    }
     li {
-        @include u-float('left');
-        list-style-type: none;
+        &:hover,
+        &:focus,
+        &:active {
+            @include u-bg('transparent');
+        }
     }
-    .fi {
-        @include u-width(3);
-        @include u-height(3);
+    h3 {
+        @include u-text('uppercase');
+        @include u-font('sans', '2xs');
+        @include u-margin-top(0);
+        @include u-margin-bottom(0);
+        font-weight: bold;
     }
+    .list-inline {
+        padding-left: 0;
+        clear: both;
+        li {
+            @include u-float('left');
+            list-style-type: none;
+        }
+    }
+}
+.icon-list {
+    li {
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+        display: flex;
+    }
+}
+.footer-icon {
+    @include u-width(3);
+    @include u-height(3);
+    margin-right: units(2);
 }
 
 .disclaimer {
     @include u-bg('base-lightest');
-    @include u-padding(1);
+    padding: units(1) 0 units(2);
 
     a {
-        @include u-color('ink');
+        @include u-color('base-darkest');
         @include u-text('no-underline');
         @include u-font('sans', '3xs');
         @include u-padding-x(1);
+        &:hover,
+        &:focus {
+            @include u-text('underline');
+        }
     }
 }

@@ -6,8 +6,6 @@ date: March 16, 2020
 excerpt: Air and cruise travel
 ---
 
-## Should travelers wear face masks? ##
-
 CDC does not recommend that healthy travelers wear facemasks to protect themselves from COVID-19. Wear a facemask only if you are sick and coughing or sneezing to help prevent the spread of respiratory viruses to others. If you are well, it is more important to take these important steps to reduce your chances of getting sick:
 
 * Avoid close contact with people who are sick.

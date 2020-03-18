@@ -1,12 +1,10 @@
 ---
 title: Is the COVID-19 virus found in feces?
-category: about
+category: water-transmission
 layout: post
 date: March 16, 2020
 excerpt: Water transmission and COVID-19
 ---
-
-## Is the COVID-19 virus found in feces? ##
 
 The virus that causes COVID-19 has been detected in the feces of some patients diagnosed with COVID-19. The amount of virus released from the body (shed) in stool, how long the virus is shed, and whether the virus in stool is infectious are not known.
 

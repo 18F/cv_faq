@@ -1,8 +1,9 @@
 ---
 title: Should I avoid contact with pets or other animals if I am sick with COVID-19?
-category: about
+category: animals
 layout: post
 date: March 16, 2020
+source: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals
 excerpt: COVID-19 and Animals
 ---
 

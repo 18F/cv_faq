@@ -3,13 +3,17 @@
 {% endcomment %}
 
 <h2 class="usa-accordion__heading">
-<button id="{{ include.question | slugify }}"
+<button id="{{ question.title | slugify }}"
     class="usa-accordion__button"
     aria-expanded="true"
-    aria-controls="control-{{ include.question | slugify }}">
-    {{include.question}}
+    aria-controls="control-{{ question.title | slugify }}">
+    {{ question.title }}
 </button>
 </h2>
-<div id="control-{{ include.question | slugify }}" class="usa-accordion__content usa-prose">
-    <p>{{include.answer}}</p>
+<div id="control-{{ question.title | slugify }}" class="usa-accordion__content usa-prose">
+    <p>{{ question.content | markdownify }}</p>
+
+    <p class="question-meta">Last updated {{ question.date | date:  "%B %d, %Y" }}.
+    {% if question.source %} | <a href="{{ question.source }}/" class="usa-link usa-link--external">Source</a>{% endif %}
+    </p>
 </div>

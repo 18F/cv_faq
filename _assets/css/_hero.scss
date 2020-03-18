@@ -1,5 +1,3 @@
-@import "uswds";
-
 .usa-hero.hero__no-image {
   background-image: none !important;
   @include u-bg('base-lightest');
@@ -44,7 +42,7 @@
   }
 
   .usa-button {
-    @include u-font('sans', 'lg'); 
+    @include u-font('sans', 'lg');
     @include u-text('normal');
     padding: units(3) units(6);
     height: 4.5rem;
