@@ -41,9 +41,9 @@ collections:
             name: "top_question"
             widget: "list"
             fields:
-              - {label: 'Image Icon', name: icon, widget: string}
-              - {label: 'Question', name: 'question', widget: string}
-              - {label: 'Link to answer', name: 'link', widget: string}
+              - {label: 'Image Icon', name: 'icon', widget: 'string'}
+              - {label: 'Question', name: 'question', widget: 'string'}
+              - {label: 'Link to answer', name: 'link', widget: 'string'}
           - label: 'Highlighted Questions Left Area (blue box)'
             name: 'questions_box_1'
             widget: 'object'
@@ -53,8 +53,8 @@ collections:
                 name: 'question'
                 widget: 'object'
                 fields:
-                  - {label: 'Question', name: 'question', widget: string}
-                  - {label: 'Link to answer', name: 'link', widget: string}
+                  - {label: 'Question', name: 'question', widget: 'string'}
+                  - {label: 'Link to answer', name: 'link', widget: 'string'}
               - {label: 'View all link', name: 'view_all_link', widget: 'string'}
           - label: 'Highlighted Questions Right Area (yellow box)'
             name: 'questions_box_2'
@@ -65,8 +65,8 @@ collections:
                 name: 'question'
                 widget: 'object'
                 fields:
-                  - {label: 'Question', name: 'question', widget: string}
-                  - {label: 'Link to answer', name: 'link', widget: string}
+                  - {label: 'Question', name: 'question', widget: 'string'}
+                  - {label: 'Link to answer', name: 'link', widget: 'string'}
               - {label: 'View all link', name: 'view_all_link', widget: 'string'}
   - label: Categories
     name: categories
