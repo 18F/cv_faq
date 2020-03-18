@@ -1,5 +1,5 @@
 ---
-title: What happens if there is a sick passenger on an international or domestic flight? 
+title: What happens if there is a sick passenger on my flight? 
 category: travel
 layout: post
 date: March 16, 2020

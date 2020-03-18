@@ -1,7 +1,7 @@
 ---
 layout: category
 name: basics
-title: "Coronavirus Disease 2019 Basics"
+title: "About COVID-19"
 promoted: true
 banner:
     display: false

@@ -159,7 +159,6 @@ exclude:
   - admin/config.yml
   - Dockerfile
   - docker-compose.yml
-  - gulpfile.js
 
 # CSS and JS assets are compiled by gulp and placed in the intermediary
 # output directory _site_assets for use by jekyll-assets

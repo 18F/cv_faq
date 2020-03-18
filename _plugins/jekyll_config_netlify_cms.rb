@@ -11,7 +11,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
     .uniq
     .map do |path|
       {
-        'label' => 'Manage '+ path.split('/')[1..].join(' | ').gsub(/-/, ' ').capitalize(),
+        'label' => path.split('/')[1..].join(' | ').gsub(/-/, ' ').capitalize(),
         'name' => path.split('/')[1..].join('--'),
         'folder' => path,
         'create' => true,

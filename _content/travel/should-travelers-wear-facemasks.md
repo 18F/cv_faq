@@ -1,5 +1,5 @@
 ---
-title: Should travelers wear face masks?
+title: Should travelers wear facemasks?
 category: travel
 layout: post
 date: March 16, 2020

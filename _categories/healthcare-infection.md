@@ -1,7 +1,7 @@
 ---
 layout: category
 name: healthcare-infection
-title: "Healthcare Infection"
+title: "Healthcare infection"
 promoted: true
 banner:
     display: false

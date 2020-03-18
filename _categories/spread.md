@@ -1,7 +1,7 @@
 ---
 layout: category
 name: spread
-title: "How It Spreads"
+title: "How it spreads"
 promoted: true
 banner:
     display: false
