@@ -8,6 +8,22 @@
   const SEARCHGOV_ACCESS_KEY = document.querySelector("meta[name='searchgov_access_key']").content;
 
   //////////////////////////////////
+  // Utils
+  const debounce = (func, timeout) => {
+    let timer;
+
+    return (...args) => {
+      const next = () => func(...args);
+      if (timer) {
+        clearTimeout(timer);
+      }
+      timer = setTimeout(next, timeout > 0 ? timeout : 300);
+    };
+  }
+
+  window.Debounce = debounce;
+
+  //////////////////////////////////
   // Translation
 
   const translate_fromSearchGov = (response) => {
@@ -94,5 +110,21 @@
       });
   });
 
-})();
+  //////////////////////////////////
+  // Type Ahead Search
 
+  window.TypeAheadSearch = query => new Promise((resolve, reject) => {
+    if (query.length < 3) {
+      return resolve({});
+    }
+
+    return search_searchGov(query)
+      .then(resolve)
+      .catch(error => {
+        console.warn('Using local search fallback.', error);
+        search_local(query)
+          .then(resolve)
+          .catch(reject);
+      });
+  });
+})();
