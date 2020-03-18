@@ -1,4 +1,4 @@
-#search-results {
+#search-results ol {
   padding-left: 0;
   li {
     @include u-border-bottom('solid', '1px', 'base-lighter');
@@ -6,7 +6,7 @@
     margin-bottom: units(3);
     list-style: none;
     &:before {
-      
+
     }
     a {
       @include u-text('no-underline');

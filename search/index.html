@@ -33,9 +33,9 @@ title: Search
       return `
         <li>
           <a href="${result.url}">
-          <h2 class="title">${highlight(result.title)}</h2>
-          <p>${highlight(result.description)}... <span class="read-more">Continue reading</span></p>
-        </a>
+            <h2 class="title">${highlight(result.title)}</h2>
+            <p>${highlight(result.description)}... <span class="read-more">Continue reading</span></p>
+          </a>
         </li>
       `;
     };
@@ -84,7 +84,7 @@ title: Search
 
 {% if site.searchgov %}
 <h1>Search Results</h1>
-<ol id="search-results"></ol>
+<div id="search-results"></div>
 {% else %}
 <script>
   window.location = "/";
