@@ -113,10 +113,10 @@ collections:
     output: false
   categories:
     output: true
-    permalink: /:name
+    permalink: /:name/
   content:
     output: true
-    permalink: /:categories/:name
+    permalink: /:categories/:name/
 
 defaults:
   -
