@@ -6,8 +6,8 @@
   }
   .usa-navbar {
     [role='search'] {
-      min-width: 100%;
-      @include u-padding-top(3);
+      min-width: 90%;
+      @include u-padding-top(4);
       input[type='search'] {
         height: 100%;
         @include u-border('base-lighter');

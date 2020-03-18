@@ -10,7 +10,9 @@ where we provide an easy way to manage your navigation system
         {% include logo.html %}
       </div>
       <div class="grid-col-12 tablet:grid-col-6">
+        {% if page.url != '/'' %}
         {% include search.html %}
+        {% endif %}
       </div>
     </div>
   </div>
