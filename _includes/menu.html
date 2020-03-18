@@ -4,7 +4,16 @@ where we provide an easy way to manage your navigation system
 {% endcomment %}
 
 <header class="usa-header usa-header--extended" role="banner" aria-label="primary site header">
-  <div class="usa-navbar">
-    {% include logo.html %} 
+  <div class="usa-navbar grid-container">
+    <div class="grid-row">
+      <div class="grid-col-12 tablet:grid-col-6">
+        {% include logo.html %}
+      </div>
+      <div class="grid-col-12 tablet:grid-col-6">
+        {% if page.url != '/'' %}
+        {% include search.html %}
+        {% endif %}
+      </div>
+    </div>
   </div>
 </header>
