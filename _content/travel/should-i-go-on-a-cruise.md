@@ -3,6 +3,8 @@ title: Should I go on a cruise?
 category: travel
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
 excerpt: Air and cruise travel
 ---
 

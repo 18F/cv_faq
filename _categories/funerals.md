@@ -2,6 +2,7 @@
 layout: category
 name: funerals
 title: "COVID-19 and Funerals"
+promoted: false
 banner:
     display: false
     heading: "This is a place to place urgent information"

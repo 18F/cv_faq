@@ -3,7 +3,9 @@ title: Why might someone blame or avoid individuals and groups (create stigma) b
 category: basics
 layout: post
 date: March 16, 2020
-excerpt: Coronavirus Disease 2019 Basics
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#basics
+excerpt: About COVID-19
 ---
 
 People in the U.S. may be worried or anxious about friends and relatives who are living in or visiting areas where COVID-19 
@@ -14,5 +16,4 @@ Stigma is discrimination against an identifiable group of people, a place, or a 
 knowledge about how COVID-19 spreads, a need to blame someone, fears about disease and death, and gossip that spreads rumors 
 and myths.
 
-Stigma hurts everyone by creating more fear or anger towards ordinary people instead of the disease that is causing the 
-problem.
+Stigma hurts everyone by creating more fear or anger towards ordinary people instead of the disease that is causing the problem.

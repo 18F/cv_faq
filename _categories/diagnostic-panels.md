@@ -2,6 +2,7 @@
 layout: category
 name: diagnostic-panels
 title: "Laboratory Diagnostic Panels"
+promoted: false
 banner:
     display: false
     heading: "This is a place to place urgent information"

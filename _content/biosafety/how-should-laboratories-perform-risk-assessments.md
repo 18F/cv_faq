@@ -1,8 +1,10 @@
 ---
-title: How should the laboratory perform a risk assessment to identify and mitigate risks? 
+title: How should laboratories perform risk assessments?
 category: biosafety
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
 excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 

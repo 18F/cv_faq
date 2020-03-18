@@ -1,8 +1,10 @@
 ---
-title: How should personnel remove biohazardous waste from the laboratory or testing area for decontamination and disposal? Does an autoclave need to be available in the facility?
+title: How should staff remove biohazardous waste? Does an autoclave need to be used?
 category: biosafety
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
 excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 

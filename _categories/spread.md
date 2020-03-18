@@ -2,6 +2,7 @@
 layout: category
 name: spread
 title: "How It Spreads"
+promoted: true
 banner:
     display: false
     heading: "This is a place to place urgent information"

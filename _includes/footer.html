@@ -1,14 +1,18 @@
 <footer class="usa-footer site-footer" role="contentinfo">
   <div class="footer-section-bottom bg-base-darkest padding-y-2">
     <div class="grid-container">
-      <!-- <div class="grid-row grid-gap">
+      <div class="grid-row grid-gap">
         <div class="tablet:grid-col">
-          <h3>Have Questions</h3>
-          <ul class="add-list-reset">
-            <li><a href="https://www.cdc.gov/cdc-info/index.html">Visit CDC-INFO</a></li>
-            <li><span class="pl-1" itemprop="telephone">Call 800-232-4636</span></li>
-            <li><a href="https://wwwn.cdc.gov/dcs/contactus/form">Email CDC-INFO</a></li>
-            <li><a href="https://www.cdc.gov/cdc-info/index.html">Open 24/7</a></li>
+          <h3>Have Questions?</h3>
+          <ul class="icon-list">
+            <li>{% asset 'icons/cdc-icon-desktop.svg' class="footer-icon" alt="" %}<a
+                href="https://www.cdc.gov/cdc-info/index.html">Visit CDC-INFO</a></li>
+            <li>{% asset 'icons/cdc-icon-phone.svg' class="footer-icon" alt="" %}<span itemprop="telephone">Call
+                800-232-4636</span></li>
+            <li>{% asset 'icons/cdc-icon-email.svg' class="footer-icon" alt="" %}<a
+                href="https://wwwn.cdc.gov/dcs/contactus/form">Email CDC-INFO</a></li>
+            <li>{% asset 'icons/cdc-icon-hours.svg' class="footer-icon" alt="" %}<a
+                href="https://www.cdc.gov/cdc-info/index.html">Open 24/7</a></li>
           </ul>
         </div>
         <div class="tablet:grid-col">
@@ -34,31 +38,45 @@
         <div class="tablet:grid-col">
           <h3>Connect with CDC</h3>
           <ul class="list-inline">
-            <li><a href="https://www.facebook.com/CDC" target="_blank"><span class="sr-only">Facebook</span><span class="fi cdc-icon-fb-white x24" aria-hidden="true"></span></a></li>
-            <li><a href="https://twitter.com/CDCgov" target="_blank"><span class="sr-only">Twitter</span><span class="fi cdc-icon-twitter-white x24" aria-hidden="true"></span></a></li>
-            <li><a href="https://www.youtube.com/user/CDCstreamingHealth" target="_blank"><span class="sr-only">Youtube</span><span class="fi cdc-icon-youtube-white x24" aria-hidden="true"></span></a></li>
-            <li><a href="https://www.instagram.com/CDCgov/" target="_blank"><span class="sr-only">Instagram</span><span class="fi cdc-icon-insta x24" aria-hidden="true"></span></a></li>
-        </ul>
-        <ul class="list-inline">
-          <li><a href="https://tools.cdc.gov/medialibrary/index.aspx#/sharecontent/https://www.cdc.gov/index.htm" class="footer-syndlink"><span class="sr-only">Syndicate</span><span class="fi cdc-icon-syndication-white x24" aria-hidden="true"></span></a></li>
-          <li><a href="https://www.cdc.gov/cdctv"><span class="sr-only">CDC TV</span><span class="fi cdc-icon-cdc-tv-white x24" aria-hidden="true"></span></a></li>
-          <li><a href="https://tools.cdc.gov/podcasts/rss.asp"><span class="sr-only">RSS</span><span class="fi cdc-icon-rss-white x24" aria-hidden="true"></span></a></li>
-           <li><a href="https://wwwn.cdc.gov/dcs/RequestForm.aspx"><span class="sr-only">Email</span><span class="fi cdc-icon-email x24" aria-hidden="true"></span></a></li>
-      </ul>
+            <li><a href="https://www.facebook.com/CDC" target="_blank">
+                <span class="usa-sr-only">Facebook</span>
+                {% asset 'icons/cdc-icon-facebook.svg' class="footer-icon" alt="" %}
+              </a></li>
+            <li><a href="https://twitter.com/CDCgov" target="_blank"><span class="usa-sr-only">Twitter</span>
+                {% asset 'icons/cdc-icon-twitter.svg' class="footer-icon" alt="" %}</a></li>
+            <li><a href="https://www.youtube.com/user/CDCstreamingHealth" target="_blank"><span
+                  class="usa-sr-only">Youtube</span>
+                {% asset 'icons/cdc-icon-youtube.svg' class="footer-icon" alt="" %}</a></li>
+            <li><a href="https://www.instagram.com/CDCgov/" target="_blank"><span class="usa-sr-only">Instagram</span>
+                {% asset 'icons/cdc-icon-instagram.svg' class="footer-icon" alt="" %}</a></li>
+          </ul>
+          <ul class="list-inline">
+            <li><a href="https://tools.cdc.gov/medialibrary/index.aspx#/media/id/131979" class="footer-syndlink"><span
+                  class="usa-sr-only">Syndicate</span>
+                {% asset 'icons/cdc-icon-media-library.svg' class="footer-icon" alt="" %}</a></li>
+            <li><a href="https://www.cdc.gov/cdctv"><span class="usa-sr-only">CDC TV</span>
+                {% asset 'icons/cdc-icon-cdctv.svg' class="footer-icon" alt="" %}</a></li>
+            <li><a href="https://tools.cdc.gov/podcasts/rss.asp"><span class="usa-sr-only">RSS</span>
+                {% asset 'icons/cdc-icon-rss.svg' class="footer-icon" alt="" %}</a></li>
+            <li><a href="https://wwwn.cdc.gov/dcs/RequestForm.aspx"><span class="usa-sr-only">Email</span>
+                {% asset 'icons/cdc-icon-email.svg' class="footer-icon" alt="" %}</a></li>
+          </ul>
         </div>
-    </div> -->
-  </div>
+      </div>
+    </div>
 </footer>
 <section class="disclaimer">
-  <div class="grid-row grid-gap">
-    <!-- <div class="tablet:grid-col">
-      <a href="https://www.hhs.gov">U.S. Department of Health &amp; Human Services</a>
+  <div class="grid-container">
+    <div class="grid-row grid-gap">
+      <div class="grid-col-12 tablet:grid-col-6">
+        <a href="https://www.hhs.gov">U.S. Department of Health &amp; Human Services</a>
       </div>
-      <div class="tablet:grid-col">
+      <div class="grid-col-12 tablet:grid-col">
         <a href="https://www.usa.gov/">USA.gov</a>
       </div>
-      <div class="tablet:grid-col">
+      <div class="grid-col-12 tablet:grid-col">
         <a href="https://www.cdc.gov/Other/disclaimer.html" class="footer-ext">CDC Website Exit Disclaimer</a>
-      </div> -->
+      </div>
     </div>
+  </div>
 </section>

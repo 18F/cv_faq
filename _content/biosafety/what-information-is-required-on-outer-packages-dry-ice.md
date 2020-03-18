@@ -1,8 +1,10 @@
 ---
-title: What information is required on the outer package for shipment of specimens with dry ice?
+title: What information is required on outer packages when shipping specimens with dry ice?
 category: biosafety
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
 excerpt: "Biosafety and COVID-19: Specimen Packaging and Shipping"
 ---
 

@@ -2,6 +2,7 @@
 layout: category
 name: cdc-actions
 title: "What CDC Is Doing"
+promoted: false
 banner:
     display: false
     heading: "This is a place to place urgent information"

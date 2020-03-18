@@ -1,8 +1,10 @@
 ---
-title: Are certified Class II biological safety cabinets (BSCs) required to process COVID-19 specimens? Should laboratory staff put procedures in place to minimize personnel exposure if there is no certified Class II BSC?
+title: Are certified Class II biological safety cabinets (BSCs) required to process COVID-19 specimens? Should staff put procedures in place to minimize exposure if there is no certified Class II BSC?
 category: biosafety
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
 excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 

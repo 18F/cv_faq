@@ -3,6 +3,8 @@ title: After arriving from a country with level 3 travel health notice when can 
 category: travel
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
 excerpt: Returning from travel
 ---
 

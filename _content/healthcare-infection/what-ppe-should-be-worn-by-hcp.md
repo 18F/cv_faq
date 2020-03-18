@@ -3,6 +3,8 @@ title: What PPE should be worn by HCP providing care to asymptomatic patients wi
 category: healthcare-infection
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/infection-control/infection-prevention-control-faq.html
 ---
 
 Standard Precautions should be followed when caring for any patient, regardless of suspected or confirmed COVID-19. If the patient is afebrile (temperature is less than 100.0°F) and otherwise without even mild symptoms* that might be consistent with COVID-19 (e.g., cough, sore throat, shortness of breath), then precautions specific to COVID-19 are not required. However, until the patient is determined to be without such symptoms, HCP should wear all recommended PPE for the patient encounter. If the primary evaluation confirms the patient is without symptoms, management and need for any Transmission-Based Precautions should be based with the condition for which they are being evaluated (e.g., patient colonized with a drug-resistant organism), rather than potential exposure to COVID-19.

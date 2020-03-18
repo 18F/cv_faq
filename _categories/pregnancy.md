@@ -2,6 +2,7 @@
 layout: category
 name: pregnancy
 title: "Pregnant Women and COVID-19"
+promoted: false
 banner:
     display: false
     heading: "This is a place to place urgent information"

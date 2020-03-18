@@ -2,6 +2,7 @@
 layout: category
 name: water-transmission
 title: "Water Transmission"
+promoted: false
 banner:
     display: false
     heading: "This is a place to place urgent information"

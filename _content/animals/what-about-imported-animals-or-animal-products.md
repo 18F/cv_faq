@@ -1,8 +1,10 @@
 ---
-title: What about imported animals or animal products?
+title: Should I be concerned about imported animals or animal products?
 category: animals
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#animals
 excerpt: COVID-19 and Animals
 ---
 

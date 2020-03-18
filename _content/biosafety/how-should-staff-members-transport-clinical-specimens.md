@@ -1,8 +1,10 @@
 ---
-title: How should staff members transport clinical specimens from suspected COVID-19 PUIs within a facility?
+title: How should staff members transport clinical specimens within facilities?
 category: biosafety
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
 excerpt: "Biosafety and COVID-19: Specimen Handling"
 ---
 

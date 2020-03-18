@@ -2,6 +2,7 @@
 layout: category
 name: waste-management
 title: "Waste Management"
+promoted: false
 banner:
     display: false
     heading: "This is a place to place urgent information"

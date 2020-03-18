@@ -3,7 +3,9 @@ title: Why is the disease called COVID-19?
 category: basics
 layout: post
 date: March 16, 2020
-excerpt: Coronavirus Disease 2019 Basics
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#basics
+excerpt: About COVID-19
 ---
 
 On February 11, 2020 the World Health Organization <a href="https://twitter.com/DrTedros/status/1227297754499764230"> announced

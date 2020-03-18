@@ -3,6 +3,8 @@ title:  What do Funeral Home Workers need to know about handling decedents who h
 category: funerals
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#funerals
 excerpt: COVID-19 and Funerals
 ---
 

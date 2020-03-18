@@ -3,6 +3,8 @@ title: What additional resources about COVID-19 are available for healthcare pro
 category: healthcare-professionals
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html
 excerpt: Healthcare professionals
 ---
 

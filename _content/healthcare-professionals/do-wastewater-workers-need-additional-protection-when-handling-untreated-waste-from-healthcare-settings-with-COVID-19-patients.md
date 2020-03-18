@@ -1,8 +1,11 @@
 ---
 title: Do wastewater and sewage workers need any additional protection when handling untreated waste from healthcare or community settings with either a known COVID-19 patient or PUI?
 category: waste-management
+source: "https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html"
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html
 excerpt: Healthcare professionals
 ---
 
