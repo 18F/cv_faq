@@ -1,6 +1,6 @@
 // default mode hide banner
 .usa-header--extended {
-  @include u-bg('base-lighter');
+  @include u-border-bottom('1px', 'solid', 'base-lighter');
   .usa-logo {
     max-width: 100%;
   }
@@ -10,8 +10,10 @@
       @include u-padding-top(3);
       input[type='search'] {
         height: 100%;
+        @include u-border('base-lighter');
       }
       button {
+        @include u-text('normal');
         border-top-left-radius: 0;
         border-bottom-left-radius: 0;
       }
