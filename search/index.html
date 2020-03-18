@@ -19,11 +19,11 @@ title: Search
   fetch(searchEndpoint).then(function(response) {
       return response.json()
     }).then(function(posts) {
-      for (item in posts.web.results){
+      for (item in posts.text_best_bets){
         render_result(`
           <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
-            <b class="title"><a href="${posts.web.results[item]['url']}">${posts.web.results[item]['title']}</a></b>
-            <div> ${posts.web.results[item]['snippet'].replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>')} </div>
+            <b class="title"><a href="${posts.text_best_bets[item]['url']}">${posts.text_best_bets[item]['title']}</a></b>
+            <div> ${posts.text_best_bets[item]['description'].replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>')} </div>
           </li>
           `, true)
 
