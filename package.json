@@ -8,8 +8,7 @@
     "reset": "npx rimraf Gemfile.lock package-lock.json LICENSE.md CONTRIBUTING.md degit.json .git",
     "start": "npm run start:site",
     "start:site": "bundle exec jekyll serve --host 0.0.0.0",
-    "test": "npm run build && bundle exec htmlproofer _site && npx a11y '_site/**/*.html'",
-    "federalist": "echo DEFAULT RUBY VERSION!!!! $(ruby -v)"
+    "test": "npm run build && bundle exec htmlproofer _site && npx a11y '_site/**/*.html'"
   },
   "dependencies": {
     "autoprefixer": "^9.7.4",
