@@ -1,5 +1,5 @@
 ---
-title: What disinfectant should personnel use to decontaminate work surfaces?
+title: What disinfectants should staff use to decontaminate work surfaces?
 category: biosafety
 layout: post
 date: March 17, 2020
