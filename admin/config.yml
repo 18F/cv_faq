@@ -14,7 +14,10 @@ logo_url: https://faq-coronavirus.gov/assets/images/cdc-logo.svg
 
 collections:
   - label: "Homepage promotion"
-        name: "hompage_promotion"
+    name: "hompage_promotion"
+    files: 
+      - label: 'Homepage Configuration'
+        name: "homepage_promotion"
         file: "_data/homepage_promotion.yml"
         fields:
           - label: 'Banner'

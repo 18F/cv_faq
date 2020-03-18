@@ -3,13 +3,15 @@ require 'yaml'
 NETLIFY_CONFIG_DEST_DIR = File.join('_site', 'admin')
 NETLIFY_CONFIG_SOURCE_DIR = 'admin'
 
+SITE_CATEGORIES_DIR = '_categoreis'
+
 Jekyll::Hooks.register :site, :post_write do |site|
   collections = site.collections['content'].docs
     .map { |doc| doc.relative_path.split('/')[0..-2].join('/') }
     .uniq
     .map do |path|
       {
-        'label' => path.split('/')[1..].join(' | ').gsub(/-/, ' ').capitalize(),
+        'label' => 'Manage '+ path.split('/')[1..].join(' | ').gsub(/-/, ' ').capitalize(),
         'name' => path.split('/')[1..].join('--'),
         'folder' => path,
         'create' => true,
@@ -17,7 +19,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
         'fields' => [
           {'label' => 'Layout', 'name' => 'layout', 'widget' => 'hidden', 'default' => 'post'},
           {'label' => 'Title', 'name' => 'title', 'widget' => 'string'},
-          {'label' => 'Category', 'name' => 'category', 'widget' => 'relation', 'collections' => 'categories', 'searchFields' => ['name', 'title'], 'valueField' => 'name'},
+          {'label' => 'Category', 'name' => 'category', 'widget' => 'string'},
           {'label' => 'Source name', 'name' => 'source', 'widget' => 'string'},
           {'label' => 'Source link', 'name' => 'source_url', 'widget' => 'string'},
           {'label' => 'Promoted', 'name' => 'promoted', 'widget' => 'boolean', 'default' => false},
