@@ -3,6 +3,8 @@ title: Can the COVID-19 virus spread through pools and hot tubs?
 category: water-transmission
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html
 excerpt: Water transmission and COVID-19
 ---
 

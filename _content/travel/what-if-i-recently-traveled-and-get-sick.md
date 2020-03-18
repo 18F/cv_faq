@@ -3,6 +3,8 @@ title: What if I recently traveled and get sick?
 category: travel
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
 excerpt: Returning from travel
 ---
 
