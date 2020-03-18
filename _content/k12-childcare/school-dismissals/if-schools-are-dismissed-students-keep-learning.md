@@ -1,5 +1,5 @@
 ---
-title: Are there ways for students to keep learning if we decide to dismiss schools?
+title: If schools are dismissed, how can students keep learning?
 category: k12-childcare
 layout: post
 date: March 16, 2020

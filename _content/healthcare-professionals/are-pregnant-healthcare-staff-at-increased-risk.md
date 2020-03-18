@@ -1,5 +1,5 @@
 ---
-title: Are pregnant healthcare personnel at increased risk for adverse outcomes if they care for patients with COVID-19?
+title: Are pregnant healthcare staff at increased risk if they care for patients with COVID-19?
 category: healthcare-professionals
 layout: post
 date: March 16, 2020

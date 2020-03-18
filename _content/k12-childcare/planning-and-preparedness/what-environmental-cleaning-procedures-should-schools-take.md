@@ -1,5 +1,5 @@
 ---
-title: What environmental cleaning procedures should my school take to keep staff and students healthy?
+title: What environmental cleaning procedures should schools take to keep staff and students healthy?
 category: k12-childcare
 layout: post
 date: March 16, 2020

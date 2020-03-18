@@ -1,5 +1,5 @@
 ---
-title: What should we do if a child, student, or staff member has recently traveled to an area with COVID-19 or has a family member who has traveled to an area with COVID-19?
+title: What should my school do if someone has recently traveled to an area with COVID-19 or has a family member who has?
 category: k12-childcare
 layout: post
 date: March 16, 2020

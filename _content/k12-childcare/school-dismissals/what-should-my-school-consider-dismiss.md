@@ -1,5 +1,5 @@
 ---
-title: If I make the decision for a school dismissal, what else should I consider?
+title: What should my school consider when making the decision to dismiss classes?
 category: k12-childcare
 layout: post
 date: March 16, 2020
