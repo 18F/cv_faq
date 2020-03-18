@@ -6,48 +6,74 @@ title: Search
 
 
 <script>
-  //<![CDATA[
+  (() => {
+    //////////////////////////////////
+    // Rendering
 
-  var urlParams = new URLSearchParams(window.location.search);
-  var searchEndpoint = new URL("{{site.searchgov.endpoint}}/api/v2/search/i14y");
-  var query = urlParams.get('query');
-  params = { affiliate: "{{site.searchgov.affiliate}}", access_key: "{{site.searchgov.access_key}}", query: query }
+    const renderResults = (results) => {
+      const element = document.getElementById('search-results');
 
+      if (!results.length) {
+        element.innerHTML = renderResults_noResults();
+      }
+      else {
+        element.innerHTML = `
+          <ol>
+            ${results.map(renderResults_result).join('')}
+          </ol>
+        `;
+      }
+    };
 
-  Object.keys(params).forEach(key => searchEndpoint.searchParams.append(key, params[key]))
+    const renderResults_noResults = () => {
+      return `<h4 class="title">No results found</h4>`;
+    };
 
-  fetch(searchEndpoint).then(function (response) {
-    return response.json()
-  }).then(function (posts) {
-    for (item in posts.web.results) {
-      render_result(`
-          <li>
-            <a href="${posts.web.results[item]['url']}">
-              <h2 class="title">${posts.web.results[item]['title']}</h2>
-              <p> ${posts.web.results[item]['snippet'].replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>')}... <span class="read-more">Continue reading<span class="usa-sr-only"> this article</span> </p>
-            </a>
-          </li>
-          `, true)
+    const renderResults_result = (result) => {
+      return `
+        <li>
+          <a href="${result.url}">
+          <h2 class="title">${highlight(result.title)}</h2>
+          <p>${highlight(result.description)}... <span class="read-more">Continue reading</span></p>
+        </a>
+        </li>
+      `;
+    };
 
-    }
-  }).catch(function (ex) {
-    console.log('parsing failed', ex);
-  }).finally(function (e) {
+    const highlight = (text) => {
+      return text.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>');
+    };
 
-    if (document.getElementById('search-results').childNodes.length == 0) {
-      render_result(`<h4 class="title">No results found</h4>`, false)
-    }
+    //////////////////////////////////
+    // Translation
 
-  })
+    const translate_fromSearchGov = (response) => {
+      return response.text_best_bets;
+    };
 
-  function render_result(content, append = true) {
-    const previous = document.getElementById('search-results').innerHTML;
-    document.getElementById('search-results').innerHTML = (append == true) ? previous + content : content;
-  }
+    //////////////////////////////////
+    // Performing search
 
-//]]>
+    const searchEndpoint = new URL('{{site.searchgov.endpoint}}/api/v2/search/i14y');
+
+    Object.entries({
+      affiliate: '{{site.searchgov.affiliate}}',
+      access_key: '{{site.searchgov.access_key}}',
+      query: new URLSearchParams(window.location.search).get('query')
+    }).forEach(([key, value]) => searchEndpoint.searchParams.append(key, value));
+
+    const searchgov = fetch(searchEndpoint)
+      .then(response => response.json());
+
+    searchgov.catch(error => {
+      console.error('Request for json from search.gov failed', error);
+      // Start fallback here, if implemented
+      // If timeout is needed, wrap in a promise which rejects after a setTimeout interval.
+    });
+
+    searchgov.then(results => renderResults(translate_fromSearchGov(results)));
+  })();
 </script>
-
 
 {% if site.searchgov %}
 <h1>Search Results</h1>
