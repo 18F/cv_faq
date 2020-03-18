@@ -5,7 +5,6 @@
     "build": "npm run build:site",
     "build:site": "bundle exec jekyll build",
     "clean": "bundle exec jekyll clean",
-    "reset": "npx rimraf Gemfile.lock package-lock.json LICENSE.md CONTRIBUTING.md degit.json .git",
     "start": "npm run start:site",
     "start:site": "bundle exec jekyll serve --host 0.0.0.0",
     "test": "npm run build && bundle exec htmlproofer _site && npx a11y '_site/**/*.html'"
@@ -23,7 +22,6 @@
     "vinyl-source-stream": "^2.0.0"
   },
   "devDependencies": {
-    "a11y": "^0.5.1",
-    "rimraf": "^3.0.0"
+    "a11y": "^0.5.1"
   }
 }

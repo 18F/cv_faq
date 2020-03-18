@@ -6,4 +6,3 @@ node_modules
 .bundle
 .jekyll-cache/
 .DS_Store
-.ruby-version
