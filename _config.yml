@@ -62,7 +62,16 @@ dap_agency: HHS
 # SBA     - Small Business Administration
 # SSA     - Social Security Administration
 
-
+#Site internationalization
+i18n:
+  - language: simplified chinese
+    lang: zh
+    link: 
+    display_text: 中文
+  - language: spanish
+    lang: es
+    link: 
+    display_text: Español
 
 # Site Navigation
 primary_navigation:

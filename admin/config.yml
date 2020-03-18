@@ -12,6 +12,17 @@ public_folder: /images/uploads
 publish_mode: editorial_workflow
 logo_url: https://faq-coronavirus.gov/assets/images/cdc-logo.svg
 
+files:
+    - label: "Homepage promotion"
+      name: "hompage_promotion"
+      file: "_data/homepage_promotion.yml"
+      fields:
+        - label: "Item on "
+          name: "items"
+          widget: "list"
+          fields:
+            - {label: Name, name: name, widget: string}
+            - {label: Link, name: link, widget: string}
 collections:
   - label: Categories
     name: categories

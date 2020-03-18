@@ -1,0 +1,42 @@
+banner:
+    display: false
+    heading: "This is a place to place urgent information"
+    content: "You can set this component to 'display: true' to show a banner at the top of the page."
+hero:
+    title: Find answers about COVID-19
+    tagline: or you can browse the categories below to find what you are looking for.
+top_questions:
+    - icon: stethoscope
+      question: What are the symptoms?
+      link: /symptoms-and-testing.html#what-are-the-symptoms-and-complications-that-covid-19-can-cause
+    - icon: test
+      question: Should I get tested?
+      link: /symptoms-and-testing.html#should-i-be-tested-for-covid-19
+    - icon: chart
+      question: How does it spread?
+      link: /spread.html#how-does-the-virus-spread
+    - icon: group
+      question: What is social distancing?
+      link: https://www.cdc.gov/coronavirus/2019-ncov/community/index.html
+    - icon: globe
+      question: Cases in the U.S.
+      link: /protect-yourself.html#has-anyone-in-the-united-states-gotten-infected
+    - icon: plane
+      question: Can I travel?
+      link: /travel.html
+questions_box:
+    box_1:
+      header: "How to protect yourself"
+      questions:
+        - question: What are the steps to prevent the illness?
+          link: https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html
+        - question: Am I at risk?
+          link: "{{ site.baseurl }}/protect-yourself.html"
+        - question: How can I protect others?
+          link: https://www.cdc.gov/coronavirus/2019-ncov/community/index.html
+        - question: How can I manage anxiety and stress?
+          link: https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html
+        view_all:
+          link: "{{ site.baseurl }}/protect-yourself.html"
+    box_2:
+      header: "What to do if you feel sick"

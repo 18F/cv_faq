@@ -1,14 +1,19 @@
-{% assign categories = site.content | group_by:"category" %}
-{% assign current-category = categories | where:"name", include.questions_box.box_1_category | first %}
-{% assign category-questions = current-category.items %}
+{% assign question_box = site.data.homepage_promotion.questions_box %}
 
 <section class="grid-container usa-section usa-prose usa-section--condensed border-top border-base-lightest">
   <div class="grid-row grid-gap">
     <div class="tablet:grid-col-6 flex-align-stretch margin-bottom-2">
       <div class="question-box question-box--info">
-        <h2>{{ include.questions_box.box_1_header }}</h2>
+        <h2>{{ question_box.box_1.header }}</h2>
         <ul class="usa-list usa-list--unstyled">
+          {% for question in questions_box.box_1.questions %}
           <li class="padding-y-1">
+            <a href="{{ question.link }}">
+              {{ question.question }}
+            </a>
+          </li>
+          {% endfor %}
+          <!-- <li class="padding-y-1">
             <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html">
               What are the steps to prevent the illness?
             </a>
@@ -27,19 +32,16 @@
             <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html">
               How can I manage anxiety and stress?
             </a>
-          </li>
+          </li> -->
         </ul>
         <a href="{{ site.baseurl }}/protect-yourself.html" class="text-bold text-underline margin-y-1">View All <span class="usa-sr-only">questions about {{ include.questions_box.box_1_header }}</span><span aria-hidden="true">»</span></a>
       </div>
 
     </div>
 
-    {% assign current-category = categories | where:"name", include.questions_box.box_2_category | first %}
-    {% assign category-questions = current-category.items %}
-
     <div class="tablet:grid-col-6 flex-align-stretch margin-bottom-2">
       <div class="question-box question-box--warning">
-        <h2>{{ include.questions_box.box_2_header }}</h2>
+        <h2>{{ question_box.box_2.header }}</h2>
         <ul class="usa-list usa-list--unstyled">
           <li class="padding-y-1">
             <a href="{{ site.baseurl }}/basics.html#what-are-the-symptoms-and-complications-that-covid-19-can-cause">
