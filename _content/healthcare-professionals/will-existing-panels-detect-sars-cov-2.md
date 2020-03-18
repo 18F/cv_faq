@@ -3,6 +3,8 @@ title: Will existing respiratory virus panels, such as those manufactured by Bio
 category: healthcare
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html
 excerpt: Healthcare Professionals
 ---
 

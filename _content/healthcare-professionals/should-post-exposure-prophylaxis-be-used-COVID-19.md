@@ -3,6 +3,8 @@ title: Should post-exposure prophylaxis be used for people who may have been exp
 category: healthcare
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html
 excerpt: Healthcare Professionals
 ---
 

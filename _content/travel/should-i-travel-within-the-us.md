@@ -3,6 +3,8 @@ title: Should I travel within the United States?
 category: travel
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
 excerpt: Coronavirus and travel in the united states
 ---
 

@@ -3,6 +3,8 @@ title: My N95 respirator has an exhalation valve. Is that okay?
 category: ppe
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#respirators
 excerpt: "Personal Protective Equipment: Respirators"
 ---
 

@@ -3,6 +3,8 @@ title: Should I be tested for COVID-19?
 category: symptoms-and-testing
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#symptoms
 excerpt: Symptoms and Testing
 ---
 

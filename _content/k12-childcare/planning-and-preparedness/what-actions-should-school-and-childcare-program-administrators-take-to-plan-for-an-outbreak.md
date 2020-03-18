@@ -3,6 +3,8 @@ title: What actions should school and childcare program administrators take to p
 category: k12-childcare
 layout: post
 date: March 16, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
 excerpt: "K-12 Schools and Childcare Program Administrators: Planning and Preparedness"
 promoted: false
 ---

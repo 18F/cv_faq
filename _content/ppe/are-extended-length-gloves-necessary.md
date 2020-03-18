@@ -3,6 +3,8 @@ title: Are extended length gloves necessary when caring for suspected or confirm
 category: ppe
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#gloves
 excerpt: "Personal Protective Equipment: Gloves"
 ---
 

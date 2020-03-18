@@ -3,6 +3,8 @@ title: How do I put on (don) and take off (doff) my gown?
 category: ppe
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#gowns
 excerpt: "Personal Protective Equipment: Gowns"
 ---
 

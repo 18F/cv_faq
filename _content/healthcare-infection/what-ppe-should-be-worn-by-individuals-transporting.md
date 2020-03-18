@@ -3,6 +3,8 @@ title: What personal protective equipment (PPE) should be worn by individuals tr
 category: healthcare-infection
 layout: post
 date: March 17, 2020
+source: CDC
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/infection-control/infection-prevention-control-faq.html
 ---
 
 In general, transport and movement of the patient outside of  their room should be limited to medically essential purposes. If being transported outside of the room, such as to radiology, healthcare personnel (HCP) in the receiving area should be notified in advance of transporting the patient. For transport, the patient should wear a facemask to contain secretions and be covered with a clean sheet.
