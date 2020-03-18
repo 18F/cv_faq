@@ -115,7 +115,8 @@ collections:
     output: true
     permalink: /:name
   content:
-    output: false
+    output: true
+    permalink: /:categories/:name
 
 defaults:
   -
@@ -124,7 +125,6 @@ defaults:
     values:
       lang: en
 
-permalink: /:lang/:categories:output_ext#:title
 permalink_custom_vars:
   - lang
 

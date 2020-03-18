@@ -2,6 +2,7 @@
     USWDS Accordion for a given category and posts
 {% endcomment %}
 
+{% assign question = include.accordion_content %}
 <h2 class="usa-accordion__heading">
 <button id="{{ question.title | slugify }}"
     class="usa-accordion__button"
