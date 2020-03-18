@@ -1,7 +1,7 @@
 ---
 layout: category
 name: symptoms-and-testing
-title: "Symptoms and Testing"
+title: "Symptoms and testing"
 promoted: true
 banner:
     display: false

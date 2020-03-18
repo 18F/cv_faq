@@ -1,6 +1,6 @@
 ---
-title: What should people at higher risk of serious illness with COVID-19 do?
-category: about
+title: What should people at higher risk of serious illness from COVID-19 do?
+category: protect-yourself
 layout: post
 date: March 16, 2020
 source: CDC
