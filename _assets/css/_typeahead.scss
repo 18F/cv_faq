@@ -1,0 +1,30 @@
+#autocomplete-results {
+  @include u-bg('white');
+  @include u-radius('lg');
+  text-align: left;
+  position: absolute;
+  z-index: 100;
+  ol {
+    @include u-margin(0);
+    @include u-padding(0);
+    @include u-border('1px', 'solid', 'base-lighter');
+  } 
+  li {
+    &:hover,
+    &:focus,
+    &:active {
+      background-color: color('accent-cool-lighter');
+    }
+
+    a {
+      @include u-text('no-underline');
+      @include u-color('primary-dark');
+
+      &:hover,
+      &:focus,
+      &:active {
+        @include u-text('underline');
+      }
+    }
+  }
+}
