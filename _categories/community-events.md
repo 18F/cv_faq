@@ -1,7 +1,7 @@
 ---
 layout: category
-name: water-transmission
-title: "Water transmission"
+name: community-events
+title: "Community events"
 promoted: false
 banner:
     display: false
