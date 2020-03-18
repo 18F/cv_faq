@@ -17,7 +17,7 @@ Jekyll::Hooks.register :site, :post_write do |site|
         'fields' => [
           {'label' => 'Layout', 'name' => 'layout', 'widget' => 'hidden', 'default' => 'post'},
           {'label' => 'Title', 'name' => 'title', 'widget' => 'string'},
-          {'label' => 'Category', 'name' => 'category', 'widget' => 'string'},
+          {'label' => 'Category', 'name' => 'category', 'widget' => 'relation', 'collections' => 'categories', 'searchFields' => ['name', 'title'], 'valueField' => 'name'},
           {'label' => 'Source name', 'name' => 'source', 'widget' => 'string'},
           {'label' => 'Source link', 'name' => 'source_url', 'widget' => 'string'},
           {'label' => 'Promoted', 'name' => 'promoted', 'widget' => 'boolean', 'default' => false},
