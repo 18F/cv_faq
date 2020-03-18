@@ -2,6 +2,7 @@
 layout: category
 name: biosafety
 title: "Laboratory Biosafety"
+promoted: false
 banner:
     display: false
     heading: "This is a place to place urgent information"

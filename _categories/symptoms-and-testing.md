@@ -2,6 +2,7 @@
 layout: category
 name: symptoms-and-testing
 title: "Symptoms and Testing"
+promoted: true
 banner:
     display: false
     heading: "This is a place to place urgent information"

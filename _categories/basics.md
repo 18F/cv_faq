@@ -2,6 +2,7 @@
 layout: category
 name: basics
 title: "Coronavirus Disease 2019 Basics"
+promoted: true
 banner:
     display: false
     heading: "This is a place to place urgent information"

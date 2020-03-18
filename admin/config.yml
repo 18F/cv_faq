@@ -24,6 +24,7 @@ collections:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'category'}
       - {label: 'Name', name: 'name', widget: 'string'}
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Show on homepage', name: 'promoted', widget: "boolean", default: false}
       - label: 'Banner'
         name: 'banner'
         widget: 'object'
