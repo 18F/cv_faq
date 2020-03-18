@@ -1,6 +1,6 @@
 ---
 title: Who is at risk for COVID-19?
-category: healthcare
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 source: CDC

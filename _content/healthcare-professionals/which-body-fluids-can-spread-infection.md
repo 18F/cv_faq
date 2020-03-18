@@ -1,6 +1,6 @@
 ---
 title: Which body fluids can spread infection?
-category: healthcare
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 source: CDC

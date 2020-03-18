@@ -1,5 +1,5 @@
 ---
-title: If we dismiss school, what do we need to consider when re-opening the building to students?
+title: What does my school need to consider when re-opening buildings to students?
 category: k12-childcare
 layout: post
 date: March 16, 2020

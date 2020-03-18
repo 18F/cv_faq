@@ -1,5 +1,5 @@
 ---
-title: What personal protective equipment (PPE) should be worn by environmental services (EVS) personnel who clean and disinfect rooms of hospitalized patients with COVID-19?
+title: What personal protective equipment (PPE) should be worn by staff who clean and disinfect patient rooms?
 category: healthcare-infection
 layout: post
 date: March 17, 2020

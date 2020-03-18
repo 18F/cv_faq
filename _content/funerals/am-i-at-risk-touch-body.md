@@ -1,5 +1,5 @@
 ---
-title: Am I at risk if I touch someone who died of COVID-19 after they have passed away?
+title: Am I at risk if I touch the body of someone who died of COVID-19?
 category: funerals
 layout: post
 date: March 16, 2020

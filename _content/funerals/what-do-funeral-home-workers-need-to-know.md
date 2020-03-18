@@ -1,5 +1,5 @@
 ---
-title:  What do Funeral Home Workers need to know about handling decedents who had COVID-19?
+title:  What do funeral home workers need to know about handling the bodies of people who die of COVID-19?
 category: funerals
 layout: post
 date: March 16, 2020
