@@ -15,10 +15,12 @@ publish_mode: editorial_workflow
 logo_url: https://faq-coronavirus.gov/assets/images/cdc-logo.svg
 
 collections:
-  - label: "Homepage promotion"
+  - label: "Promoted content"
     name: "hompage_promotion"
+    editor:
+     preview: false
     files: 
-      - label: 'Homepage Configuration'
+      - label: 'Content promoted on homepage'
         name: "homepage_promotion"
         file: "_data/homepage_promotion.yml"
         fields:
