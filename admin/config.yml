@@ -12,56 +12,54 @@ public_folder: /images/uploads
 publish_mode: editorial_workflow
 logo_url: https://faq-coronavirus.gov/assets/images/cdc-logo.svg
 
-files:
-    - label: "Homepage promotion"
-      name: "hompage_promotion"
-      file: "_data/homepage_promotion.yml"
-      fields:
-        - label: 'Banner'
-          name: 'banner'
-          widget: 'object'
-          fields:
-              - {label: 'Display', name: 'display', widget: 'boolean', default: false}
-              - {label: 'Heading', name: 'heading', widget: 'string'}
-              - {label: 'Content', name: 'content', widget: 'text'}
-        - label: 'Hero'
-          name: 'hero'
-          fields:
-            - {label: 'Title', name: 'title', widget: 'string'}
-            - {label: 'tagline', name: 'tageline', widget: 'text'}
-        - label: "Top questions"
-          name: "top_question"
-          widget: "list"
-          fields:
-            - {label: 'Image Icon', name: icon, widget: string}
-            - {label: 'Question', name: 'question', widget: string}
-            - {label: 'Link to answer', name: 'link', widget: string}
-        - label: 'Highlighted Questions Left Area (blue box)'
-          name: 'questions_box_1'
-          widget: 'object'
-          fields: 
-            - {label: 'Header', name: 'headers', widget: 'string'}
-            - label: 'questions'
-              name: 'question'
-              widget: 'string'
-              fields:
-                - {label: 'Question', name: 'question', widget: string}
-                - {label: 'Link to answer', name: 'link', widget: string}
-            - {label: 'View all link', name: 'view_all_link', widget: 'string'}
-        - label: 'Highlighted Questions Right Area (yellow box)'
-          name: 'questions_box_1'
-          widget: 'object'
-          fields: 
-            - {label: 'Header', name: 'headers', widget: 'string'}
-            - label: 'questions'
-              name: 'question'
-              widget: 'string'
-              fields:
-                - {label: 'Question', name: 'question', widget: string}
-                - {label: 'Link to answer', name: 'link', widget: string}
-            - {label: 'View all link', name: 'view_all_link', widget: 'string'}
-
 collections:
+  - label: "Homepage promotion"
+        name: "hompage_promotion"
+        file: "_data/homepage_promotion.yml"
+        fields:
+          - label: 'Banner'
+            name: 'banner'
+            widget: 'object'
+            fields:
+                - {label: 'Display', name: 'display', widget: 'boolean', default: false}
+                - {label: 'Heading', name: 'heading', widget: 'string'}
+                - {label: 'Content', name: 'content', widget: 'text'}
+          - label: 'Hero'
+            name: 'hero'
+            fields:
+              - {label: 'Title', name: 'title', widget: 'string'}
+              - {label: 'tagline', name: 'tageline', widget: 'text'}
+          - label: "Top questions"
+            name: "top_question"
+            widget: "list"
+            fields:
+              - {label: 'Image Icon', name: icon, widget: string}
+              - {label: 'Question', name: 'question', widget: string}
+              - {label: 'Link to answer', name: 'link', widget: string}
+          - label: 'Highlighted Questions Left Area (blue box)'
+            name: 'questions_box_1'
+            widget: 'object'
+            fields: 
+              - {label: 'Header', name: 'headers', widget: 'string'}
+              - label: 'questions'
+                name: 'question'
+                widget: 'string'
+                fields:
+                  - {label: 'Question', name: 'question', widget: string}
+                  - {label: 'Link to answer', name: 'link', widget: string}
+              - {label: 'View all link', name: 'view_all_link', widget: 'string'}
+          - label: 'Highlighted Questions Right Area (yellow box)'
+            name: 'questions_box_1'
+            widget: 'object'
+            fields: 
+              - {label: 'Header', name: 'headers', widget: 'string'}
+              - label: 'questions'
+                name: 'question'
+                widget: 'string'
+                fields:
+                  - {label: 'Question', name: 'question', widget: string}
+                  - {label: 'Link to answer', name: 'link', widget: string}
+              - {label: 'View all link', name: 'view_all_link', widget: 'string'}
   - label: Categories
     name: categories
     folder: _categories/
