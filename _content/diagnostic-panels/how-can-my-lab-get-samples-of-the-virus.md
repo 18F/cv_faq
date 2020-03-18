@@ -1,5 +1,5 @@
 ---
-title: How can my lab get the virus?
+title: How can my lab get samples of the virus for research?
 category: diagnostic-panels
 layout: post
 date: March 17, 2020
