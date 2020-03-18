@@ -2,7 +2,7 @@
 //= require ./simple-jekyll-search
 
 (function () {
-  const form = document.getElementById('search_form');
+  // const form = document.getElementById('search_form');
   if (form) {
     const urlParams = new URLSearchParams(window.location.search);
     const autocomplete = document.getElementById('autocomplete-container');
@@ -22,7 +22,7 @@
         const regex = new RegExp(inputValue, 'i');
 
         const output = value.replace(regex, function (v) {
-          return '<b>'+ v +'</b>'
+          return '<b>' + v + '</b>'
         });
         return output
       },
@@ -46,13 +46,13 @@ const EXPANDED = "aria-expanded";
 
 var url = window.location.href;
 var idx = url.indexOf("#");
-var questionAnchor = idx != -1 ? url.substring(idx+1) : "";
+var questionAnchor = idx != -1 ? url.substring(idx + 1) : "";
 
-if(questionAnchor.length > 1){
+if (questionAnchor.length > 1) {
   var accordionButtons = document.querySelectorAll('.usa-accordion__button');
 
-  accordionButtons.forEach(accordion =>{
-    if(accordion.getAttribute('id') != questionAnchor) {
+  accordionButtons.forEach(accordion => {
+    if (accordion.getAttribute('id') != questionAnchor) {
       accordion.setAttribute(EXPANDED, "false");
     }
   })
