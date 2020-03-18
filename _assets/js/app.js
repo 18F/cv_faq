@@ -1,4 +1,5 @@
 //= require uswds/dist/js/uswds.min
+//= require ./search
 
 //////////////// Utils
 const debounce = (func, timeout) => {

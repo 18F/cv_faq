@@ -1,7 +1,7 @@
 ---
 layout: category
 name: healthcare-professionals
-title: "Healthcare Professionals"
+title: "Healthcare professionals"
 promoted: true
 banner:
     display: false

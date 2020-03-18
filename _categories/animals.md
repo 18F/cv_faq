@@ -1,7 +1,7 @@
 ---
 layout: category
 name: animals
-title: "COVID-19 and Animals"
+title: "COVID-19 and animals"
 promoted: false
 banner:
     display: false

@@ -1,6 +1,6 @@
 ---
 title: Who is at higher risk for serious illness from COVID-19?
-category: about
+category: protect-yourself
 layout: post
 date: March 16, 2020
 source: CDC

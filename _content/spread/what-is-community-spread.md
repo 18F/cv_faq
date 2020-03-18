@@ -8,6 +8,5 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#spreads
 excerpt: How it Spreads
 ---
 
-Community spread means people have been infected with the virus in an area, including some who are not sure how or where they 
-became infected.
+Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected.
 

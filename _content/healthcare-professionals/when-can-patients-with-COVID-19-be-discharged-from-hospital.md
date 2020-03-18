@@ -1,6 +1,6 @@
 ---
 title: When can patients with confirmed COVID-19 be discharged from the hospital?
-category: healthcare
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 source: CDC
