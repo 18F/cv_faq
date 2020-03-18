@@ -144,8 +144,6 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
-  - _assets/css  # built via gulp
-  - _assets/js   # built via gulp
   - admin/config.yml
   - Dockerfile
   - docker-compose.yml
@@ -155,6 +153,8 @@ exclude:
 # output directory _site_assets for use by jekyll-assets
 assets:
   sources:
-    - _site_assets
     - node_modules/uswds/dist/img
+    - node_modules/uswds/dist/js
+    - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
+    - node_modules
