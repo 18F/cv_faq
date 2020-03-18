@@ -1,5 +1,5 @@
 ---
-title: What about imported animals or animal products?
+title: Should I be concerned about imported animals or animal products?
 category: animals
 layout: post
 date: March 16, 2020

@@ -1,5 +1,5 @@
 ---
-title: Once packaging of the samples is complete should staff members decontaminate the work area?
+title: Once packaging of samples is complete, should staff members decontaminate work areas?
 category: biosafety
 layout: post
 date: March 17, 2020
