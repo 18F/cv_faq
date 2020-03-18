@@ -1,7 +1,7 @@
 ---
 layout: category
 name: water-transmission
-title: "Water Transmission"
+title: "Water transmission"
 promoted: false
 banner:
     display: false

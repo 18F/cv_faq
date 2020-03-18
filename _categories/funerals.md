@@ -1,7 +1,7 @@
 ---
 layout: category
 name: funerals
-title: "COVID-19 and Funerals"
+title: "COVID-19 and funerals"
 promoted: false
 banner:
     display: false
