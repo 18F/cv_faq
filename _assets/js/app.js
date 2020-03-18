@@ -26,7 +26,8 @@ require('./simple-jekyll-search');
         });
         return output
       },
-      limit: 10
+      limit: 10,
+      fuzzy: true
     });
 
     const query = urlParams.get('query');
@@ -56,5 +57,3 @@ if(questionAnchor.length > 1){
     }
   })
 }
-
-
