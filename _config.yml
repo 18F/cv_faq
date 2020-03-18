@@ -113,10 +113,10 @@ collections:
     output: false
   categories:
     output: true
-    permalink: /:name
+    permalink: /:name/
   content:
     output: true
-    permalink: /:categories/:name
+    permalink: /:categories/:name/
 
 defaults:
   -
@@ -129,6 +129,9 @@ permalink_custom_vars:
   - lang
 
 markdown: kramdown
+
+#TO UPDATE BEFORE LAUNCH:
+url: https://cg-dae9433e-23a0-46d7-bafb-dc79d2d3756c.app.cloud.gov/preview/18f/cv_faq/dev/
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -144,8 +147,6 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
-  - _assets/css  # built via gulp
-  - _assets/js   # built via gulp
   - admin/config.yml
   - Dockerfile
   - docker-compose.yml
@@ -155,6 +156,8 @@ exclude:
 # output directory _site_assets for use by jekyll-assets
 assets:
   sources:
-    - _site_assets
     - node_modules/uswds/dist/img
+    - node_modules/uswds/dist/js
+    - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
+    - node_modules

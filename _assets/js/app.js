@@ -1,5 +1,5 @@
-require('uswds/dist/js/uswds.min');
-require('./simple-jekyll-search');
+//= require uswds/dist/js/uswds.min
+//= require ./simple-jekyll-search
 
 (function () {
   const form = document.getElementById('search_form');
