@@ -113,7 +113,7 @@
   //////////////////////////////////
   // Type Ahead Input
 
-  const autocompleteContainer = document.querySelector('.usa-hero #autocomplete_container');
+  const autocompleteContainer = document.querySelector('#autocomplete_container');
 
   const highlight = (text) => {
     return text.replace(/\uE000/g, '<strong>').replace(/\uE001/g, '</strong>');
