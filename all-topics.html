@@ -1,0 +1,10 @@
+---
+layout: default
+---
+{% assign categories = site.content | group_by:"category" %}
+
+{% for category in categories %}
+
+{{ category.name }}
+
+{% endfor $}

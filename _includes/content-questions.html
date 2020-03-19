@@ -2,6 +2,7 @@
   <div class="grid-row grid-gap">
     {% assign categories = site.content | group_by:"category" %}
     {% assign promoted_site_categories = site.categories | where: "promoted", "true" | sort: "homepage_order" %}
+    {% assign additional_site_categories = site.categories | where: "more_topics_promoted", "true" | sort: "more_topics_order" %}
 
     {% for site_category in promoted_site_categories limit:5 %}
     {% assign current_category = categories | where:"name", site_category.name | first %}
@@ -21,5 +22,22 @@
           class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
     </div>
     {% endfor %}
+    <div class="usa-media-block tablet:grid-col-4 margin-bottom-3 more-topics">
+      <h3>More topics</h3>
+      <ul class="usa-list usa-list--unstyled">
+        {% for site_category in additional_site_categories %}
+        {% assign current_category = categories | where:"name", site_category.name | first %}
+        {% assign category_questions = current_category.items %}
+        <li>
+          <h4 class="title">
+            <a href="{{ site.baseurl }}/{{ site_category.name}}/">{{ site_category.title }}</a>
+          </h4>
+        </li>
+        {% endfor %}
+      </ul>
+      <a href="{{ site.baseurl }}/{{ site_category.name}}/" class="text-bold text-underline margin-y-1">View all <span
+          class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
+
+    </div>
   </div>
 </section>
