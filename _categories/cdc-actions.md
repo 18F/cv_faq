@@ -3,6 +3,7 @@ layout: category
 name: cdc-actions
 title: "What CDC is doing"
 promoted: false
+owner: CDC
 more_topics_promoted: true 
 more_topics_order: 6
 banner:
