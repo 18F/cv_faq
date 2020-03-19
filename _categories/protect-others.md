@@ -2,7 +2,7 @@
 layout: category
 name: protect-others
 title: "How to protect others"
-promoted: true
+promoted: false
 banner:
     display: false
     heading: "This is a place to place urgent information"
