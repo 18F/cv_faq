@@ -67,4 +67,8 @@
 .more-topics {
   @include u-bg('base-lightest');
   @include u-radius('lg');
+
+  @include at-media('mobile'){
+    @include u-padding-bottom(3);
+  }
 }
