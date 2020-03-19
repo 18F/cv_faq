@@ -4,7 +4,7 @@ category: symptoms-and-testing
 layout: post
 date: March 16, 2020
 source: CDC
-promoted: false
+promoted: true
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#symptoms
 excerpt: Symptoms and testing
 ---

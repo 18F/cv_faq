@@ -9,10 +9,8 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#spreads
 excerpt: How it spreads
 ---
 
-The virus that causes COVID-19 is spreading from <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Ftransmission.html"> person-to-person</a>. 
-Someone who is actively sick with COVID-19 can spread the illness to others. That is why CDC recommends that these patients 
-be isolated either in the hospital or at home (depending on how sick they are) until they are better and no longer pose a risk 
-of infecting others.
+The virus that causes COVID-19 is spreading from <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Ftransmission.html"> person to person</a>. 
+Someone who is actively sick with COVID-19 can spread the illness to others. That is why CDC recommends that these patients be isolated either in the hospital or at home (depending on how sick they are) until they are better and no longer pose a risk of infecting others.
 
 How long someone is actively sick can vary so the decision on when to release someone from isolation is made on a 
 case-by-case basis in consultation with doctors, infection prevention and control experts, and public health officials and 
