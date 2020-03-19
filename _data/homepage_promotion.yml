@@ -50,7 +50,7 @@ questions_box_2:
     - link: /symptoms-and-testing/when-should-i-call-my-doctor
       question: When should I go to the doctor?
     - link: >-
-        https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions
+        /protect-yourself/how-to-care-for-someone-who-is-sick
       question: How do I care for someone who’s sick?
   title: What to do if you feel sick
   view_all_link: /symptoms-and-testing/
