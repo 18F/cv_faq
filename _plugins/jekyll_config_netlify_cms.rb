@@ -3,8 +3,6 @@ require 'yaml'
 NETLIFY_CONFIG_DEST_DIR = File.join('_site', 'admin')
 NETLIFY_CONFIG_SOURCE_DIR = 'admin'
 
-SITE_CATEGORIES_DIR = '_categoreis'
-
 Jekyll::Hooks.register :site, :post_write do |site|
   collections = site.collections['content'].docs
     .map { |doc| doc.relative_path.split('/')[0..-2].join('/') }

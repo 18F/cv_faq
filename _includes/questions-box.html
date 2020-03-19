@@ -4,12 +4,12 @@
   <div class="grid-row grid-gap">
     <div class="tablet:grid-col-6 flex-align-stretch margin-bottom-2">
       <div class="question-box question-box--info">
-        <h2>{{ question_box_1.header }}</h2>
+        <h2>{{ question_box_1.title }}</h2>
         <ul class="usa-list usa-list--unstyled">
-          {% for question in question_box_1.questions %}
+          {% for q in question_box_1.questions %}
           <li class="padding-y-1">
-            <a href="{{ question.link | relative_url }}">
-              {{ question.question }}
+            <a href="{{ q.link | relative_url }}">
+              {{ q.question }}
             </a>
           </li>
           {% endfor %}
@@ -21,12 +21,12 @@
 
     <div class="tablet:grid-col-6 flex-align-stretch margin-bottom-2">
       <div class="question-box question-box--warning">
-        <h2>{{ question_box_2.header }}</h2>
+        <h2>{{ question_box_2.title }}</h2>
         <ul class="usa-list usa-list--unstyled">
-          {% for question in question_box_2.questions %}
+          {% for q in question_box_2.questions %}
           <li class="padding-y-1">
-            <a href="{{ question.link | relative_url }}">
-              {{ question.question }}
+            <a href="{{ q.link | relative_url }}">
+              {{ q.question }}
             </a>
           </li>
           {% endfor %}

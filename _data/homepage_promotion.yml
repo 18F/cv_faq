@@ -25,7 +25,7 @@ top_questions:
       question: 'Can I travel?'
       link: /travel/
 questions_box_1:
-    header: 'How to protect yourself'
+    title: 'How to protect yourself'
     questions:
         - question: 'What are the steps to prevent the illness?'
           link: '/basics/steps-to-prevent-the-illness'
@@ -37,7 +37,7 @@ questions_box_1:
           link: 'https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html'
     view_all_link: /protect-yourself/
 questions_box_2:
-    header: 'What to do if you feel sick'
+    title: 'What to do if you feel sick'
     questions:
         - question: 'What are the symptoms of COVID-19?'
           link: '/symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause'
