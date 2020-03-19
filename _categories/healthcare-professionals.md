@@ -3,6 +3,7 @@ layout: category
 name: healthcare-professionals
 title: "Healthcare professionals"
 promoted: true
+homepage_order: 6
 banner:
     display: false
     heading: "This is a place to place urgent information"
