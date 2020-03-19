@@ -33,3 +33,14 @@ a {
     @include u-text('underline');
   }
 }
+
+div.usa-accordion__content a {
+  @include u-text('underline');
+
+  &:visited,
+  &:hover,
+  &:focus {
+    @include u-color('primary-dark');
+    @include u-text('no-underline');
+  }
+}
