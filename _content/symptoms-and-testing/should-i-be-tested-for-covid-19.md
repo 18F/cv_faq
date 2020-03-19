@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: true
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#symptoms
-excerpt: Symptoms and Testing
+excerpt: Symptoms and testing
 ---
 
 If you develop symptoms such as fever, cough, and/or difficulty breathing, and have been in close contact with a person 

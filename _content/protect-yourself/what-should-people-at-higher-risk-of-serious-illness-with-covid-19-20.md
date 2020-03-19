@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#protect
-excerpt: How to Protect Yourself
+excerpt: How to protect yourself
 ---
 
 If you are at higher risk of getting very sick from COVID-19, you should: stock up on supplies; take everyday precautions to 

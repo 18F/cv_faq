@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
-excerpt: Breastfeeding and COVID-19
+excerpt: Pregnant women and COVID-19
 ---
 
 This interim guidance is intended for women who are confirmed to have COVID-19 or are <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/clinical-criteria.html"> persons-under-investigation (PUI)</a> for COVID-19 and are currently breastfeeding. This interim guidance is based on what is currently known about COVID-19 and the transmission of other viral respiratory infections. CDC will update this interim guidance as needed as additional information becomes available. For breastfeeding guidance in the immediate postpartum setting, refer to <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/inpatient-obstetric-healthcare-guidance.html"> Interim Considerations for Infection Prevention and Control of 2019 Coronavirus Disease 2019 (COVID-19) in Inpatient Obstetric Healthcare Settings</a>.

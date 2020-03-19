@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Handling"
+excerpt: "Biosafety and COVID-19: Specimen handling"
 ---
 
 In clinical laboratories, personnel handling respiratory specimens, whole blood, serum, plasma, and urine specimens should use Standard Precautions at BSL-2. Conduct work using intact, full-length genomic RNA at BSL-2 (BMBL 6thed.– prepublication). Personnel should perform site- and activity-specific risk assessments to determine if enhanced biosafety precautions are warranted based on situational needs.

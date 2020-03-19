@@ -6,6 +6,7 @@ date: March 18, 2020
 source: CDC
 promoted: true
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html
+excerpt: Symptoms and testing
 ---
 
  If you think you have been exposed to COVID-19 and develop a fever and symptoms, such as cough or difficulty breathing, call your healthcare provider for medical advice.

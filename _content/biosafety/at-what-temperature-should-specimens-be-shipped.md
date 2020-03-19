@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Packaging and Shipping"
+excerpt: "Biosafety and COVID-19: Specimen packaging and shipping"
 ---
 
 Specimens should be shipped at 2-8°C with ice packs. If the specimen is frozen, ship overnight on dry ice. The primary receptacle and the secondary packaging should maintain their integrity at the temperature of the refrigerant used as well as the temperatures and the pressures which could result if refrigeration were lost. Packages containing dry ice should be designed and constructed so as to prevent the buildup of pressure and to allow the release of gas that could rupture the packaging.

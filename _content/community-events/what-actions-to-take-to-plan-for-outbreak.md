@@ -6,7 +6,7 @@ date: March 18, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html
-excerpt: Planning and preparedness
+excerpt: Community events
 ---
 
 Creating an emergency plan for mass gatherings and large community events, such as concerts and sporting events, can help protect the health of your staff, attendees, and the local community. This planning should include:

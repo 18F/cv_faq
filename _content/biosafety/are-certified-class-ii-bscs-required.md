@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Handling"
+excerpt: "Biosafety and COVID-19: Specimen handling"
 ---
 
 Clinical laboratories that perform routine diagnostic tests on serum, stool, blood, or urine specimens should follow standard laboratory practices, including Standard Precautions, when handling potential COVID-19 patient specimens. However, any procedure with the potential to generate aerosols or droplets (e.g., vortexing, centrifuging, pipetting) should be performed in a certified Class II BSC. If no certified Class II BSC is available, or if instruments (e.g., centrifuges, analyzers, automated extraction equipment) cannot be used inside a BSC, extra precautions can be used to provide a barrier between the specimen and personnel. Examples of these precautions include using additional personal protective equipment (PPE) (e.g., mask, respirator, face shield) or other physical barriers (e.g., splash shield, centrifuge safety cups, sealed centrifuge rotors) to reduce the risk of exposure to laboratory personnel.

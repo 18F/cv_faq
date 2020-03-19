@@ -1,7 +1,7 @@
 ---
 layout: category
 name: ppe
-title: "Personal Protective Equipment"
+title: "Personal protective equipment"
 promoted: false
 banner:
     display: false

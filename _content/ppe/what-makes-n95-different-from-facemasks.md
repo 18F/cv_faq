@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#respirators
-excerpt: "Personal Protective Equipment: Respirators"
+excerpt: "Personal protective equipment: Respirators"
 ---
 
 [Infographic: Understanding the difference between surgical masks and N95 respirators](https://www.cdc.gov/niosh/npptl/pdfs/UnderstandDifferenceInfographic-508.pdf)
