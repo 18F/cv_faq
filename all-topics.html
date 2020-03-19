@@ -1,10 +1,16 @@
 ---
-layout: default
+layout: page
 ---
-{% assign categories = site.content | group_by:"category" %}
+{% assign categories = site.content | group_by:"category" | sort: 'title' %}
+<section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
+  <div class="grid-row">
+    {% for category in categories %}
+    <div class="grid-col-12">
+      <h2>{{ category.title }}</h2>
+      <a href="{{ site.baseurl }}/{{ category.name}}/" class="text-bold text-underline margin-y-1">View all <span
+          class="usa-sr-only">questions about {{ category.title }} </span><span aria-hidden="true">»</span></a>
 
-{% for category in categories %}
-
-{{ category.name }}
-
-{% endfor $}
+    </div>
+    {% endfor %}
+  </div>
+</section>
