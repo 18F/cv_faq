@@ -4,9 +4,9 @@ category: k12-childcare
 layout: post
 date: March 16, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
 excerpt: "K-12 Schools and Childcare Program Administrators: Responding To Confirmed COVID-19 Cases"
-promoted: false
 ---
 
 * **Local health officials may recommend temporary school dismissals.** Local health officials' recommendations for the scope (e.g., a single school, a full district) and duration of school dismissals will be made on a case-by-case basis based on the most up-to-date information about COVID-19 and the specific cases in the impacted community. Dismissals may be 14 days or longer, depending on the situation in your community.
