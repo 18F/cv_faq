@@ -30,6 +30,9 @@
 
 header {
   .menu-search {
+    @media screen and (max-width: 640px) {
+      @include u-padding-x(0);
+    }
     input {
       width: 100%;
       max-width: 100%;
