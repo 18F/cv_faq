@@ -11,6 +11,7 @@
     "test": "npm run build && bundle exec htmlproofer _site && npx a11y '_site/**/*.html'"
   },
   "dependencies": {
+    "accessible-autocomplete": "^2.0.2",
     "autoprefixer": "^9.7.4",
     "browserify": "^16.5.0",
     "concurrently": "^5.1.0",

@@ -1,4 +1,5 @@
 //= require fuse.js/dist/fuse
+//= require accessible-autocomplete/dist/accessible-autocomplete.min
 
 (() => {
   const RESULTS_LIMIT = 50;
@@ -18,10 +19,9 @@
         clearTimeout(timer);
       }
       timer = setTimeout(next, timeout > 0 ? timeout : 300);
+      return timer;
     };
   }
-
-  window.Debounce = debounce;
 
   //////////////////////////////////
   // Translation
@@ -111,20 +111,55 @@
   });
 
   //////////////////////////////////
-  // Type Ahead Search
+  // Type Ahead Input
 
-  window.TypeAheadSearch = query => new Promise((resolve, reject) => {
-    if (query.length < 3) {
-      return resolve({});
-    }
+  const autocompleteContainer = document.querySelector('.usa-hero #autocomplete_container');
 
-    return search_searchGov(query)
-      .then(resolve)
-      .catch(error => {
-        console.warn('Using local search fallback.', error);
-        search_local(query)
-          .then(resolve)
-          .catch(reject);
-      });
-  });
+  const highlight = (text) => {
+    return text.replace(/\uE000/g, '<strong>').replace(/\uE001/g, '</strong>');
+  };
+
+  if (autocompleteContainer) {
+    const previousInput = autocompleteContainer.querySelector('input');
+    autocompleteContainer.innerHTML = '';
+    let runningRequest = null;
+
+    accessibleAutocomplete({
+      element: autocompleteContainer,
+      id: 'search-box',
+      name: 'query',
+      placeholder: previousInput.getAttribute('placeholder'),
+      confirmOnBlur: false,
+      onConfirm: (item) => {
+        if (item && item.url) {
+          window.location.href = item.url;
+        }
+      },
+      templates: {
+        inputValue: () => '',
+        suggestion: (item) => highlight(item.title)
+      },
+      tNoResults: () => {
+        console.log(runningRequest);
+        return runningRequest ?  'Loading…' : 'No results found';
+      },
+      source: (query, populateResults) => {
+        const thisRequest = makeDebouncedRequest(query, (results) => {
+          // Do not update results if another request has started since.
+          if (runningRequest === thisRequest) {
+            runningRequest = null;
+            populateResults(results);
+          }
+        });
+
+        console.log('setting runningRequest', thisRequest);
+        runningRequest = thisRequest;
+      }
+    });
+
+    const makeDebouncedRequest = debounce((query, completed) => {
+      window.SearchService(query)
+        .then(results => completed(results.slice(0, 5)));
+    }, 300);
+  }
 })();
