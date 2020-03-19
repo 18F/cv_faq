@@ -1,50 +1,57 @@
 banner:
-    display: true
-    heading: '<a href="https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html#cdc-response">See how CDC is responding to COVID-19 and the coronavirus that causes it</a>.'
-    content:
+  content: ' '
+  display: true
+  heading: >-
+    <a
+    href="https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html#cdc-response">See
+    how CDC is responding to COVID-19 and the coronavirus that causes it</a>.
 hero:
-    title: 'Find answers about COVID-19'
-    tagline: 'or you can browse the categories below to find what you are looking for.'
+  tagline: or browse the categories below.
+  title: Find answers about coronavirus (COVID-19)
 top_questions:
-    - icon: stethoscope
-      question: 'What are the symptoms?'
-      link: '/symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause'
-    - icon: test
-      question: 'Should I get tested?'
-      link: '/symptoms-and-testing/#should-i-be-tested-for-covid-19'
-    - icon: chart
-      question: 'How does it spread?'
-      link: /spread/how-does-the-virus-spread
-    - icon: group
-      question: 'What is social distancing?'
-      link: '/basics/what-is-social-distancing'
-    - icon: globe
-      question: 'Cases in the U.S.'
-      link: '/protect-yourself/#has-anyone-in-the-united-states-gotten-infected'
-    - icon: plane
-      question: 'Can I travel?'
-      link: /travel/
+  - icon: stethoscope
+    link: >-
+      /symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause
+    question: What are the symptoms?
+  - icon: test
+    link: '/symptoms-and-testing/#should-i-be-tested-for-covid-19'
+    question: Should I get tested?
+  - icon: chart
+    link: /spread/how-does-the-virus-spread
+    question: How does it spread?
+  - icon: group
+    link: /basics/what-is-social-distancing
+    question: What is social distancing?
+  - icon: globe
+    link: '/protect-yourself/#has-anyone-in-the-united-states-gotten-infected'
+    question: Cases in the U.S.
+  - icon: plane
+    link: /travel/
+    question: Can I travel?
 questions_box_1:
-    title: 'How to protect yourself'
-    questions:
-        - question: 'What are the steps to prevent the illness?'
-          link: '/basics/steps-to-prevent-the-illness'
-        - question: 'Am I at risk?'
-          link: /protect-yourself/
-        - question: 'How can I protect others?'
-          link: /protect-others/
-        - question: 'How can I manage anxiety and stress?'
-          link: 'https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html'
-    view_all_link: /protect-yourself/
+  questions:
+    - link: /basics/steps-to-prevent-the-illness
+      question: What are the steps to prevent the illness?
+    - link: /protect-yourself/
+      question: Am I at risk?
+    - link: /protect-others/
+      question: How can I protect others?
+    - link: >-
+        https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html
+      question: How can I manage anxiety and stress?
+  title: How to protect yourself
+  view_all_link: /protect-yourself/
 questions_box_2:
-    title: 'What to do if you feel sick'
-    questions:
-        - question: 'What are the symptoms of COVID-19?'
-          link: '/symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause'
-        - question: 'Should I get tested?'
-          link: '/symptoms-and-testing/#should-i-be-tested-for-covid-19'
-        - question: 'When should I go to the doctor?'
-          link: '/symptoms-and-testing/when-should-i-call-my-doctor'
-        - question: 'How do I care for someone who’s sick?'
-          link: 'https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions'
-    view_all_link: /symptoms-and-testing/
+  questions:
+    - link: >-
+        /symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause
+      question: What are the symptoms of COVID-19?
+    - link: '/symptoms-and-testing/#should-i-be-tested-for-covid-19'
+      question: Should I get tested?
+    - link: /symptoms-and-testing/when-should-i-call-my-doctor
+      question: When should I go to the doctor?
+    - link: >-
+        https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions
+      question: How do I care for someone who’s sick?
+  title: What to do if you feel sick
+  view_all_link: /symptoms-and-testing/
