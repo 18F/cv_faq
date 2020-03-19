@@ -1,10 +1,10 @@
-
 ---
 title: When should I call my doctor?
 category: symptoms-and-testing
 layout: post
 date: March 18, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html
 ---
 

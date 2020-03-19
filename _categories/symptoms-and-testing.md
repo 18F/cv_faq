@@ -3,6 +3,7 @@ layout: category
 name: symptoms-and-testing
 title: "Symptoms and testing"
 promoted: true
+homepage_order: 3
 banner:
     display: false
     heading: "This is a place to place urgent information"

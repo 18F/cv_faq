@@ -1,6 +1,9 @@
 //= require uswds/dist/js/uswds.min
 //= require ./search
 
+
+//////////////////////////////////
+// Accordions
 const EXPANDED = "aria-expanded";
 
 var url = window.location.href;

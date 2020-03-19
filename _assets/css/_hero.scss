@@ -35,8 +35,8 @@
     @include u-border('base-lighter');
     padding: units(3) units(4);
     max-width: none;
-    border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
     border-right: 0;
     height: 4.5rem;
   }

@@ -1,4 +1,4 @@
-FROM ruby:2.5.7
+FROM ruby:2.6.3-stretch
 ENV LC_ALL=C.UTF-8
 
 RUN curl -sL https://deb.nodesource.com/setup_10.x | bash -

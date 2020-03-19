@@ -2,52 +2,12 @@
 permalink: /
 layout: wide
 title: Find answers about COVID-19
-banner:
-    display: false
-    heading: "This is a place to place urgent information"
-    content: "You can set this component to 'display: true' to show a banner at the top of the page."
-hero:
-    i18n:
-      - language: simplified chinese
-        lang: zh
-        link: 
-        display_text: 中文
-      - language: spanish
-        lang: es
-        link: 
-        display_text: Español
-    title: Find answers about COVID-19
-    tagline: or you can browse the categories below to find what you are looking for.
-top_questions:
-    - icon: stethoscope
-      question: What are the symptoms?
-      link: /symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause
-    - icon: test
-      question: Should I get tested?
-      link: /symptoms-and-testing/#should-i-be-tested-for-covid-19
-    - icon: chart
-      question: How does it spread?
-      link: /spread/how-does-the-virus-spread
-    - icon: group
-      question: What is social distancing?
-      link: https://www.cdc.gov/coronavirus/2019-ncov/community/index.html
-    - icon: globe
-      question: Cases in the U.S.
-      link: /protect-yourself/#has-anyone-in-the-united-states-gotten-infected
-    - icon: plane
-      question: Can I travel?
-      link: /travel/
-questions_box:
-    box_1_header: "How to protect yourself"
-    box_1_category: protectyourself
-    box_2_header: "What to do if you feel sick"
-    box_2_category: feelingsick
 ---
 
-{% if page.banner.display == true %}
-  {% include alert-banner.html banner=page.banner %}
+{% if site.data.homepage_promotion.banner.display == true %}
+  {% include alert-banner.html banner=site.data.homepage_promotion.banner %}
 {% endif %}
-{% include hero.html hero=page.hero %}
-{% include top-questions.html top_questions=page.top_questions %}
-{% include questions-box.html questions_box=page.questions_box %}
+{% include hero.html hero=site.data.homepage_promotion.hero %}
+{% include top-questions.html top_questions=site.data.homepage_promotion.top_questions %}
+{% include questions-box.html %}
 {% include content-questions.html %}
