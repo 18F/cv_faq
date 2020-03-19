@@ -3,6 +3,7 @@ layout: category
 name: travel
 title: "Traveling"
 promoted: true
+homepage_order: 5
 banner:
     display: false
     heading: "This is a place to place urgent information"

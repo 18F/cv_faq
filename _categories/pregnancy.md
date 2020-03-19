@@ -3,6 +3,8 @@ layout: category
 name: pregnancy
 title: "Pregnant women and COVID-19"
 promoted: false
+more_topics_promoted: true 
+more_topics_order: 8
 banner:
     display: false
     heading: "This is a place to place urgent information"

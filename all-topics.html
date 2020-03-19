@@ -1,0 +1,18 @@
+---
+layout: default
+---
+{% assign categories = site.categories | sort: 'title' %}
+<section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
+  <div class="grid-row">
+    <div class="grid-col-12">
+      <h1>All COVID-19 topics</h1>
+    </div>
+    {% for category in categories %}
+    <div class="grid-col-12 ">
+      <a href="{{ site.baseurl }}/{{ category.name}}/" class="text-bold text-underline margin-y-1">
+        <h2>{{ category.title }} <span class="usa-sr-only"> topics </span><span aria-hidden="true">»</span></h2>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>

@@ -63,3 +63,8 @@
     }
   }
 }
+
+.more-topics {
+  @include u-bg('base-lightest');
+  @include u-radius('lg');
+}
