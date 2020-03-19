@@ -3,6 +3,7 @@ title: How do I care for someone who’s sick?
 category: protect-yourself
 layout: post
 date: March 19, 2020
+promoted: true
 source: CDC
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions
 ---
