@@ -140,7 +140,6 @@
         suggestion: (item) => highlight(item.title)
       },
       tNoResults: () => {
-        console.log(runningRequest);
         return runningRequest ?  'Loading…' : 'No results found';
       },
       source: (query, populateResults) => {
@@ -152,7 +151,6 @@
           }
         });
 
-        console.log('setting runningRequest', thisRequest);
         runningRequest = thisRequest;
       }
     });
