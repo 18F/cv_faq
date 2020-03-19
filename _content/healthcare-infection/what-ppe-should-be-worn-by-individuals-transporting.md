@@ -4,6 +4,7 @@ category: healthcare-infection
 layout: post
 date: March 17, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/infection-control/infection-prevention-control-faq.html
 ---
 

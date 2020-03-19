@@ -156,7 +156,8 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
-  - admin/config.yml
+  - admin/_config.yml
+  - admin/_content_collection_template.yml
   - Dockerfile
   - docker-compose.yml
 

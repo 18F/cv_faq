@@ -35,24 +35,6 @@
   }
 }
 
-.autocomplete {
-  li {
-    text-align: left;
-    &:hover {
-      background-color: color('accent-cool-lighter');
-    }
-
-    a {
-      @include u-text('no-underline');
-      @include u-color('primary-dark');
-
-      &:hover {
-        @include u-text('underline');
-      }
-    }
-  }
-}
-
 .question-box {
   @include u-margin(1);
   @include u-radius('lg');
@@ -80,4 +62,9 @@
       @include u-color('primary-dark');
     }
   }
+}
+
+.more-topics {
+  @include u-bg('base-lightest');
+  @include u-radius('lg');
 }
