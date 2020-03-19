@@ -7,6 +7,8 @@ backend:
   branch: dev #this will need to be changed once we deploy
   use_graphql: true
 
+local_backend: true
+
 media_folder: assets/uploads
 public_folder: /images/uploads
 publish_mode: editorial_workflow
@@ -36,7 +38,7 @@ collections:
               - {label: 'Site title', name: 'title', widget: 'string'}
               - {label: 'Site Tagline', name: 'tagline', widget: 'string'}
           - label: "Top questions"
-            name: "top_question"
+            name: "top_questions"
             widget: "list"
             fields:
               - {label: 'Image Icon', name: 'icon', widget: 'string'}
@@ -48,8 +50,8 @@ collections:
             fields: 
               - {label: 'Title', name: 'title', widget: 'string'}
               - label: 'questions'
-                name: 'question'
-                widget: 'object'
+                name: 'questions'
+                widget: 'list'
                 fields:
                   - {label: 'Question', name: 'question', widget: 'string'}
                   - {label: 'Link to answer', name: 'link', widget: 'string'}
@@ -60,8 +62,8 @@ collections:
             fields: 
               - {label: 'Title', name: 'title', widget: 'string'}
               - label: 'questions'
-                name: 'question'
-                widget: 'object'
+                name: 'questions'
+                widget: 'list'
                 fields:
                   - {label: 'Question', name: 'question', widget: 'string'}
                   - {label: 'Link to answer', name: 'link', widget: 'string'}
