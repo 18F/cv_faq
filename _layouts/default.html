@@ -14,10 +14,10 @@ The home page uses wide.html layout, since it extends full width of page
 
   {% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
 
-  {% if page.layout == 'category' or page.layout == 'post' %}
-    {% include breadcrumb.html %}
-  {% endif %}
   <main id="main-content">
+    {% if page.layout == 'category' or page.layout == 'post' %}
+    {% include breadcrumb.html %}
+    {% endif %}
     {{ content }}
   </main>
 
