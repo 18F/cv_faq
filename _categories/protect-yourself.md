@@ -1,8 +1,9 @@
 ---
 layout: category
 name: protect-yourself
-title: "Protect yourself"
+title: "How to protect yourself"
 promoted: true
+homepage_order: 2
 banner:
     display: false
     heading: "This is a place to place urgent information"

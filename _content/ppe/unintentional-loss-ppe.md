@@ -1,9 +1,10 @@
 ---
-title: What methods should healthcare facilities consider in order to avoid unintentional loss of PPE during COVID-19?
+title: How can healthcare facilities avoid unintentional loss of personal protective equipment (PPE)?
 category: ppe
 layout: post
 date: March 17, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#respirators
 excerpt: "Personal Protective Equipment: Respirators"
 ---

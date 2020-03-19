@@ -1,8 +1,9 @@
 ---
 layout: category
 name: spread
-title: "How It Spreads"
+title: "How it spreads"
 promoted: true
+homepage_order: 4
 banner:
     display: false
     heading: "This is a place to place urgent information"

@@ -1,8 +1,8 @@
 ---
 layout: category
 name: healthcare-infection
-title: "Healthcare Infection"
-promoted: true
+title: "Healthcare infection"
+promoted: false 
 banner:
     display: false
     heading: "This is a place to place urgent information"

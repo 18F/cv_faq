@@ -1,9 +1,10 @@
 ---
-title: My employees complain that Surgical N95 respirators are hot and uncomfortable – what can I do?
+title: What can I do if my employees complain about their N95 respirators being hot and uncomfortable?
 category: ppe
 layout: post
 date: March 17, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#respirators
 excerpt: "Personal Protective Equipment: Respirators"
 ---

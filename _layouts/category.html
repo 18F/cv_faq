@@ -23,11 +23,15 @@ This template is for a single page that does not have a date associated with it.
       <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
           <h1>{{ page.title }}</h1>
           <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=true>
-                {% for question in category_questions %}
-                    {% if page.lang == question.lang %}
-                        {% include accordion.html accordion_content=question %}
-                    {% endif %}
+            {% assign promoted_in_category = category_questions | group_by:"promoted" | reverse %}
+              {% for is_promoted in promoted_in_category %}
+                {% for question in is_promoted.items %}
+                {% if page.lang == question.lang  %}
+                  {% include accordion.html accordion_content=question %}
+                {% endif %}
                 {% endfor %}
+
+              {% endfor %}
           </div>
       </div>
     </div>

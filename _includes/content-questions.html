@@ -1,25 +1,43 @@
-
 <section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
   <div class="grid-row grid-gap">
     {% assign categories = site.content | group_by:"category" %}
-    {% assign promoted_site_categories = site.categories | where: "promoted", "true" %}
+    {% assign promoted_site_categories = site.categories | where: "promoted", "true" | sort: "homepage_order" %}
+    {% assign additional_site_categories = site.categories | where: "more_topics_promoted", "true" | sort: "more_topics_order" %}
 
-    {% for site_category in promoted_site_categories limit:6 %}
-      {% assign current_category = categories | where:"name", site_category.name | first %}
-      {% assign category_questions = current_category.items %}
-      <div class="usa-media-block tablet:grid-col-4 margin-bottom-3">
-        <h3>{{ site_category.title }}</h3>
-        <ul class="usa-list usa-list--unstyled">
-          {% for question in category_questions limit:4 %}
-            {% if page.lang == question.lang %}
-            <li class="padding-y-1">
-              <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
-            </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-        <a href="{{ site.baseurl }}/{{ site_category.name}}/" class="text-bold text-underline margin-y-1">View All <span class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
-      </div>
+    {% for site_category in promoted_site_categories limit:5 %}
+    {% assign current_category = categories | where:"name", site_category.name | first %}
+    {% assign category_questions = current_category.items %}
+    <div class="usa-media-block tablet:grid-col-4 margin-bottom-3">
+      <h3>{{ site_category.title }}</h3>
+      <ul class="usa-list usa-list--unstyled">
+        {% for question in category_questions | where: "promoted", "true" | limit:3 %}
+        {% if page.lang == question.lang %}
+        <li class="padding-y-1">
+          <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+      <a href="{{ site.baseurl }}/{{ site_category.name}}/" class="text-bold text-underline margin-y-1">View all <span
+          class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
+    </div>
     {% endfor %}
+    <div class="usa-media-block tablet:grid-col-4 margin-bottom-3 more-topics">
+      <h3>More topics</h3>
+      <ul class="usa-list usa-list--unstyled">
+        {% for site_category in additional_site_categories %}
+        {% assign current_category = categories | where:"name", site_category.name | first %}
+        {% assign category_questions = current_category.items %}
+        <li>
+          <h4 class="title">
+            <a href="{{ site.baseurl }}/{{ site_category.name}}/">{{ site_category.title }}</a>
+          </h4>
+        </li>
+        {% endfor %}
+      </ul>
+      <a href="{{ site.baseurl }}/all-topics.html" class="text-bold text-underline margin-y-1">View all <span
+          class="usa-sr-only">topics about coronavirus </span><span aria-hidden="true">»</span></a>
+
+    </div>
   </div>
 </section>

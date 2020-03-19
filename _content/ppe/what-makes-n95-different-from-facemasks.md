@@ -1,9 +1,10 @@
 ---
-title: What makes N95 respirators different from facemasks (sometimes called a surgical mask)?
+title: What makes N95 respirators different from facemasks (sometimes called surgical masks)?
 category: ppe
 layout: post
 date: March 17, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#respirators
 excerpt: "Personal Protective Equipment: Respirators"
 ---
