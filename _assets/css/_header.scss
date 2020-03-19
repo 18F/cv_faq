@@ -1,6 +1,10 @@
 // default mode hide banner
 .usa-header--extended {
   @include u-border-bottom('1px', 'solid', 'base-lighter');
+  .nav {
+    height: auto;
+    max-height: auto;
+  }
   .usa-logo {
     max-width: 100%;
   }
