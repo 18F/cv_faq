@@ -6,7 +6,7 @@
       <a class="question" href="{{ question.link | relative_url }}">
         <div class="icon margin-right-2">
           {% capture icon_path %}icons/{{ question.icon }}.svg{% endcapture %}
-          {% asset '{{ icon_path }}' class="" alt="{{ question.icon }} icon" %}
+          {% asset '{{ icon_path }}' class="" alt="" %}
         </div>
 
         <span>{{ question.question }}</span>
