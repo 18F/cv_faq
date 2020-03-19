@@ -32,7 +32,7 @@ questions_box_1:
         - question: 'Am I at risk?'
           link: /protect-yourself/
         - question: 'How can I protect others?'
-          link: 'https://www.cdc.gov/coronavirus/2019-ncov/community/index.html'
+          link: /protect-others/
         - question: 'How can I manage anxiety and stress?'
           link: 'https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html'
     view_all_link: /protect-yourself/
