@@ -13,6 +13,7 @@ backend:
   branch: dev #this will need to be changed once we deploy
   use_graphql: true
 
+local_backend: true 
 
 media_folder: assets/uploads
 public_folder: /images/uploads
