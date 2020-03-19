@@ -79,7 +79,7 @@ On the `index.html` you can add an urgent USWDS style banner by changing the fro
 ### Netlify CMS
 
 #### Icons
-Adding an top questions icon - if you need to add an additional icon add it to the `_assets/images/icons` directory and then add it as an option in netlify configuration in `admin/config:collections[0]files[0]fields-Image icon.options`.
+Adding an top questions icon - if you need to add an additional icon add it to the `_assets/images/icons` directory and then add it as an option in Netlify CMS configuration in `admin/config:collections[0]files[0]fields-Image icon.options`.
 
 And then if you'd like to use in a top question - add it in the `_data/homepage_promotion.yml` or update it through Netlify CMS.
 
