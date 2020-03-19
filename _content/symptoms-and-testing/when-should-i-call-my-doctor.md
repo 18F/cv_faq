@@ -1,4 +1,3 @@
-
 ---
 title: When should I call my doctor?
 category: symptoms-and-testing

@@ -62,7 +62,16 @@ dap_agency: HHS
 # SBA     - Small Business Administration
 # SSA     - Social Security Administration
 
-
+#Site internationalization
+i18n:
+  - language: simplified chinese
+    lang: zh
+    link: 
+    display_text: 中文
+  - language: spanish
+    lang: es
+    link: 
+    display_text: Español
 
 # Site Navigation
 primary_navigation:
@@ -150,7 +159,6 @@ exclude:
   - admin/config.yml
   - Dockerfile
   - docker-compose.yml
-  - gulpfile.js
 
 # CSS and JS assets are compiled by gulp and placed in the intermediary
 # output directory _site_assets for use by jekyll-assets
