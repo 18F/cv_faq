@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign categories = site.categories %}
+{% assign categories = site.categories | sort: 'title' %}
 <section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
   <div class="grid-row">
     <div class="grid-col-12">
