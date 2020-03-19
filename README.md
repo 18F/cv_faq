@@ -76,7 +76,7 @@ searchgov:
 ### Adding an urgent alert
 On the `index.html` you can add an urgent USWDS style banner by changing the front matter. If you turn the `banner.display` key to `true` to display the banner.
 
-### Netlify
+### Netlify CMS
 
 #### Icons
 Adding an top questions icon - if you need to add an additional icon add it to the `_assets/images/icons` directory and then add it as an option in netlify configuration in `admin/config:collections[0]files[0]fields-Image icon.options`.
