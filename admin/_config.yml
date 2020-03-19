@@ -10,10 +10,8 @@ backend:
   base_url: https://federalistapp.18f.gov
   auth_endpoint: external/auth/github
   preview_context: federalist/build
-  branch: dc/netlify-cms-upates #this will need to be changed once we deploy
+  branch: dev #this will need to be changed once we deploy
   use_graphql: true
-
-local_backend: true
 
 media_folder: assets/uploads
 public_folder: /images/uploads
