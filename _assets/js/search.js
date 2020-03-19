@@ -1,4 +1,5 @@
 //= require fuse.js/dist/fuse
+//= require accessible-autocomplete/dist/accessible-autocomplete.min
 
 (() => {
   const RESULTS_LIMIT = 50;
@@ -6,6 +7,21 @@
   const SEARCHGOV_ENDPOINT = document.querySelector("meta[name='searchgov_endpoint']").content;
   const SEARCHGOV_AFFILIATE = document.querySelector("meta[name='searchgov_affiliate']").content;
   const SEARCHGOV_ACCESS_KEY = document.querySelector("meta[name='searchgov_access_key']").content;
+
+  //////////////////////////////////
+  // Utils
+  const debounce = (func, timeout) => {
+    let timer;
+
+    return (...args) => {
+      const next = () => func(...args);
+      if (timer) {
+        clearTimeout(timer);
+      }
+      timer = setTimeout(next, timeout > 0 ? timeout : 300);
+      return timer;
+    };
+  }
 
   //////////////////////////////////
   // Translation
@@ -94,5 +110,63 @@
       });
   });
 
-})();
+  //////////////////////////////////
+  // Type Ahead Input
 
+  const autocompleteContainer = document.querySelector('.autocomplete_container');
+
+  const highlight = (text) => {
+    return text.replace(/\uE000/g, '<strong>').replace(/\uE001/g, '</strong>');
+  };
+
+  if (autocompleteContainer) {
+    const previousInput = autocompleteContainer.querySelector('input');
+    autocompleteContainer.innerHTML = '';
+    let runningRequest = null;
+
+    const makeDebouncedRequest = debounce((query, completed) => {
+      window.SearchService(query)
+        .then(results => completed(results.slice(0, 5)));
+    }, 300);
+
+    accessibleAutocomplete({
+      element: autocompleteContainer,
+      id: 'search-box',
+      name: 'query',
+      placeholder: previousInput.getAttribute('placeholder'),
+      confirmOnBlur: false,
+      onConfirm: (item) => {
+        if (item && item.url) {
+          window.location.href = item.url;
+        }
+      },
+      templates: {
+        inputValue: () => '',
+        suggestion: (item) => highlight(item.title)
+      },
+      tNoResults: () => {
+        return runningRequest ?  'Loading…' : 'No results found';
+      },
+      source: (query, populateResults) => {
+        const thisRequest = makeDebouncedRequest(query, (results) => {
+          // Do not update results if another request has started since.
+          if (runningRequest === thisRequest) {
+            runningRequest = null;
+            populateResults(results);
+          }
+        });
+
+        runningRequest = thisRequest;
+      }
+    });
+
+    const newInput = autocompleteContainer.querySelector('input');
+
+    // Still perform search if pressing enter when the dropdown is open but no item selected.
+    newInput.addEventListener('keydown', (evt) => {
+      if (evt.keyCode === 13) { // enter
+        evt.currentTarget.form.submit();
+      }
+    });
+  }
+})();

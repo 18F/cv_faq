@@ -1,0 +1,93 @@
+# This is only part of the Netlify CMS Configuration
+#
+# The configuration for the _content collections is generated dynamically using
+# admin/_content_collection_template.yml and _plugins/jekyll_config_netlify_cms.rb
+#
+#
+backend:
+  name: github
+  repo: 18f/cv_faq
+  base_url: https://federalistapp.18f.gov
+  auth_endpoint: external/auth/github
+  preview_context: federalist/build
+  branch: dev #this will need to be changed once we deploy
+  use_graphql: true
+
+media_folder: assets/uploads
+public_folder: /images/uploads
+publish_mode: editorial_workflow
+logo_url: https://faq-coronavirus.gov/assets/images/cdc-logo.svg
+
+collections:
+  - label: "Promoted content"
+    name: "promotion"
+    editor:
+     preview: false
+    files: 
+      - label: 'Content promoted on homepage'
+        name: "homepage_promotion"
+        file: "_data/homepage_promotion.yml"
+        fields:
+          - label: 'Banner'
+            name: 'banner'
+            widget: 'object'
+            fields:
+                - {label: 'Display', name: 'display', widget: 'boolean', default: false}
+                - {label: 'Heading', name: 'heading', widget: 'string'}
+                - {label: 'Content', name: 'content', widget: 'string'}
+          - label: 'Hero'
+            name: 'hero'
+            widget: 'object'
+            fields:
+              - {label: 'Site title', name: 'title', widget: 'string'}
+              - {label: 'Site Tagline', name: 'tagline', widget: 'string'}
+          - label: "Top questions"
+            name: "top_questions"
+            widget: "list"
+            fields:
+              - {label: 'Image Icon', name: 'icon', widget: 'string'}
+              - {label: 'Question', name: 'question', widget: 'string'}
+              - {label: 'Link to answer', name: 'link', widget: 'string'}
+          - label: 'Highlighted Questions Left Area (blue box)'
+            name: 'questions_box_1'
+            widget: 'object'
+            fields: 
+              - {label: 'Title', name: 'title', widget: 'string'}
+              - label: 'questions'
+                name: 'questions'
+                widget: 'list'
+                fields:
+                  - {label: 'Question', name: 'question', widget: 'string'}
+                  - {label: 'Link to answer', name: 'link', widget: 'string'}
+              - {label: 'View all link', name: 'view_all_link', widget: 'string'}
+          - label: 'Highlighted Questions Right Area (yellow box)'
+            name: 'questions_box_2'
+            widget: 'object'
+            fields: 
+              - {label: 'Title', name: 'title', widget: 'string'}
+              - label: 'questions'
+                name: 'questions'
+                widget: 'list'
+                fields:
+                  - {label: 'Question', name: 'question', widget: 'string'}
+                  - {label: 'Link to answer', name: 'link', widget: 'string'}
+              - {label: 'View all link', name: 'view_all_link', widget: 'string'}
+  - label: Categories
+    name: categories
+    folder: _categories/
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'category'}
+      - {label: 'Name', name: 'name', widget: 'string'}
+      - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Show on homepage', name: 'promoted', widget: "boolean", default: false}
+      - label: 'Banner'
+        name: 'banner'
+        widget: 'object'
+        fields:
+            - {label: 'Display', name: 'display', widget: 'boolean', default: false}
+            - {label: 'Heading', name: 'heading', widget: 'string'}
+            - {label: 'Content', name: 'content', widget: 'text'}

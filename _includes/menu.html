@@ -3,17 +3,21 @@ To modify the menu system, you are welcome to edit this HTML directly or you can
 where we provide an easy way to manage your navigation system
 {% endcomment %}
 
-<header class="usa-header usa-header--extended" role="banner" aria-label="primary site header">
-  <div class="usa-navbar grid-container">
-    <div class="grid-row">
-      <div class="grid-col-12 tablet:grid-col-6">
-        {% include logo.html %}
-      </div>
-      <div class="grid-col-12 tablet:grid-col-6">
-        {% if page.url != '/'' %}
-        {% include search.html %}
-        {% endif %}
-      </div>
+<header
+  class="
+    grid-container
+  "
+  role="banner"
+  aria-label="primary site header"
+>
+  <div class="grid-row flex-wrap flex-align-center">
+    <div class="grid-col-12 tablet:grid-col-6 padding-y-2">
+      {% include logo.html %}
     </div>
+      {% if page.url != '/'' %}
+      <div class="grid-col-12 tablet:grid-col-6 padding-y-2 tablet:padding-x-2">
+        {% include search.html %}
+      </div>
+      {% endif %}
   </div>
 </header>
