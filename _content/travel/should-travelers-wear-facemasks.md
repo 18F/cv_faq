@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
-excerpt: Air and cruise travel
+excerpt: "Travel: Air or cruise travel"
 ---
 
 CDC does not recommend that healthy travelers wear facemasks to protect themselves from COVID-19. Wear a facemask only if you are sick and coughing or sneezing to help prevent the spread of respiratory viruses to others. If you are well, it is more important to take these important steps to reduce your chances of getting sick:

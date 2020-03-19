@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Packaging and Shipping"
+excerpt: "Biosafety and COVID-19: Specimen packaging and shipping"
 ---
 
 Personnel should be trained in the proper safety, packing, and shipping regulations for UN 3373 Biological Substance, Category B when sending when sending clinical specimens from suspected COVID-19 PUIs. Personnel should be trained in a manner that corresponds to their function-specific responsibilities.

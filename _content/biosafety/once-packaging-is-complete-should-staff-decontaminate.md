@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Handling"
+excerpt: "Biosafety and COVID-19: Specimen handling"
 ---
 
 Staff members should use products with EPA-registered emerging viral pathogens claims for SARS-CoV-2 or human coronaviruses for decontaminating hard non-porous surfaces. Follow manufacturer's recommendations for use, dilution (i.e., concentration), contact time, and care in handling.

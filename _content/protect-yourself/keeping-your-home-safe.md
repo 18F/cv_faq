@@ -5,8 +5,9 @@ layout: post
 date: March 16, 2020
 source: CDC
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/downloads/workplace-school-and-home-guidance.pdf
-excerpt: How to Protect Yourself
+excerpt: How to protect yourself
 ---
+
 What every American and community can do now to decrease the spread of the coronavirus
 
 *All households*

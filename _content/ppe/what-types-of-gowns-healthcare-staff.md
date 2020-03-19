@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#gowns
-excerpt: "Personal Protective Equipment: Gowns"
+excerpt: "Personal protective equipment: Gowns"
 ---
 
 While the transmissibility of COVID-19 is not fully understood, gowns are available that protect against microorganisms. The choice of gown should be made based on the level of risk of contamination. Certain areas of surgical and isolation gowns are defined as “critical zones” where direct contact with blood, body fluids, and/or other potentially infectious materials is most likely to occur. [(ANSI/AAMI PB70)](http://my.aami.org/aamiresources/previewfiles/pb70_1206_preview.pdf)

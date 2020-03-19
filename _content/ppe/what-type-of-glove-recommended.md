@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#gloves
-excerpt: "Personal Protective Equipment: Gloves"
+excerpt: "Personal protective equipment: Gloves"
 ---
 
 Nonsterile disposable patient examination gloves, which are used for routine patient care in healthcare settings, are appropriate for the care of patients with suspected or confirmed COVID-19.

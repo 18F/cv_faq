@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Packaging and Shipping"
+excerpt: "Biosafety and COVID-19: Specimen packaging and shipping"
 ---
 
 Ensure the outer package has been properly marked and labeled with the following:
