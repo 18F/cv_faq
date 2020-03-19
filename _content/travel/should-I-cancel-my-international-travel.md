@@ -11,7 +11,7 @@ excerpt: "Travel: Canceling and postponing travel"
 
 CDC provides recommendations for international travel, including guidance on when to consider postponing or canceling travel. Most of the time, this guidance is provided through travel health notices and is based on the potential health risks associated with traveling to a certain destination.
 
-Travel health notices are designated as Level 1, 2, or 3, depending on the situation in that destination. (See below for what each level means). A list of destinations with coronavirus disease 2019(COVID-19) travel health notices is available at https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html.
+Travel health notices are designated as Level 1, 2, or 3, depending on the situation in that destination. (See below for what each level means). A list of destinations with coronavirus disease 2019(COVID-19) travel health notices is available <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/map-and-travel-notices.html"> here </a>.
 
 * Warning Level 3: CDC recommends travelers avoid all nonessential travel to these destinations.
 * Alert Level 2: CDC recommends older adults and people of any age with serious chronic medical conditions consider postponing nonessential travel.
