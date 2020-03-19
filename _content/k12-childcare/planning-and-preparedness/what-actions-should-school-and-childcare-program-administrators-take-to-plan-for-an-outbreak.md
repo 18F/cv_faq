@@ -7,7 +7,6 @@ source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
 excerpt: "K-12 Schools and Childcare Program Administrators: Planning and Preparedness"
-promoted: false
 ---
 
 Administrators of childcare programs and K-12 schools should take the following actions to plan and prepare for COVID-19:

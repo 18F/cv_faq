@@ -7,7 +7,6 @@ source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
 excerpt: "K-12 Schools and Childcare Program Administrators: Planning and Preparedness"
-promoted: false
 ---
 
 Share resources with the school community to help them understand COVID-19 and steps they can take to protect themselves:
