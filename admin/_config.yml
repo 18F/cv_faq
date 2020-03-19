@@ -1,3 +1,9 @@
+# This is only part of the Netlify CMS Configuration
+#
+# The configuration for the _content collections is generated dynamically using
+# admin/_content_collection_template.yml and _plugins/jekyll_config_netlify_cms.rb
+#
+#
 backend:
   name: github
   repo: 18f/cv_faq
