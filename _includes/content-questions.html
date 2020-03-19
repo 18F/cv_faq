@@ -10,7 +10,7 @@
     <div class="usa-media-block tablet:grid-col-4 margin-bottom-3">
       <h3>{{ site_category.title }}</h3>
       <ul class="usa-list usa-list--unstyled">
-        {% for question in category_questions limit:3 %}
+        {% for question in category_questions | where: "promoted", "true" | limit:3 %}
         {% if page.lang == question.lang %}
         <li class="padding-y-1">
           <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
