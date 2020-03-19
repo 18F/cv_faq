@@ -75,8 +75,9 @@ collections:
   - label: Categories
     name: categories
     folder: _categories/
+    identifier_field: title
     create: true
-    slug: '{{slug}}'
+    slug: '{{name}}'
     editor:
       preview: false
     fields:
