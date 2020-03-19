@@ -1,7 +1,7 @@
 ---
 layout: category
 name: protect-yourself
-title: "Protect yourself"
+title: "How to protect yourself"
 promoted: true
 banner:
     display: false
