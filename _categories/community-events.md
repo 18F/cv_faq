@@ -2,6 +2,7 @@
 layout: category
 name: community-events
 title: "Community events"
+promoted: false
 more_topics_promoted: true 
 more_topics_order: 7
 banner:
