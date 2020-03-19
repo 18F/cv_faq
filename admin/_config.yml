@@ -34,6 +34,7 @@ collections:
             widget: 'object'
             fields:
                 - {label: 'Display', name: 'display', widget: 'boolean', default: false}
+                - {label: 'Hide Icon', name: 'hide-icon', widget: 'boolean', default: false}
                 - {label: 'Heading', name: 'heading', widget: 'string'}
                 - {label: 'Content', name: 'content', widget: 'string'}
           - label: 'Hero'

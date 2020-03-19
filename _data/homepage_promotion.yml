@@ -1,10 +1,9 @@
 banner:
   content: ' '
   display: true
+  hide-icon: true
   heading: >-
-    <a
-    href="https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html#cdc-response">See
-    how CDC is responding to COVID-19 and the coronavirus that causes it</a>.
+    The President’s Coronavirus Guidelines for America -- 15 Days to Slow the Spread of Coronavirus (COVID-19) More at <a href="https://www.whitehouse.gov/wp-content/uploads/2020/03/03.16.20_coronavirus-guidance_8.5x11_315PM.pdf">Whitehouse.gov</a>. <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/pdfs/Coronavirus-guidelines_SPANISH.pdf" lang="es">Español</a>
 hero:
   tagline: or browse the categories below.
   title: Find answers about coronavirus (COVID-19)
