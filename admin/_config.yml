@@ -45,7 +45,7 @@ collections:
             name: "top_questions"
             widget: "list"
             fields:
-              - {label: 'Image Icon', name: 'icon', widget: 'string'}
+              - {label: 'Image Icon', name: 'icon', widget: 'select', options: ['chart', 'globe', 'group', 'plane', 'test', 'stethoscope']}
               - {label: 'Question', name: 'question', widget: 'string'}
               - {label: 'Link to answer', name: 'link', widget: 'string'}
           - label: 'Highlighted Questions Left Area (blue box)'
