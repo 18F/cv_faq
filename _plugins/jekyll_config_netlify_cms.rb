@@ -49,13 +49,12 @@ def dump_yaml(path, hash)
 end
 
 def find_owner(folder_path, categories)
-  puts folder_path
   return "" if folder_path.nil?
   category = categories.find { |category| category.data['name'] == folder_path }
-  "Owner:#{category.data['owner']} Posts:"
+  "Owner: #{category.data['owner']} "
 end
 
 def make_label(paths, categories)
   owner = find_owner(paths.first, categories)
-  owner + paths.join(' | ').gsub(/-/, ' ').capitalize()
+  owner + "Category: " + paths.join(' | ').gsub(/-/, ' ').capitalize()
 end
