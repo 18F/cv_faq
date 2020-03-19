@@ -8,7 +8,7 @@ hero:
 top_questions:
     - icon: stethoscope
       question: 'What are the symptoms?'
-      link: '/symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause'''
+      link: '/symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause'
     - icon: test
       question: 'Should I get tested?'
       link: '/symptoms-and-testing/#should-i-be-tested-for-covid-19'
