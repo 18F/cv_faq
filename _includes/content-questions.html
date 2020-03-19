@@ -3,13 +3,13 @@
     {% assign categories = site.content | group_by:"category" %}
     {% assign promoted_site_categories = site.categories | where: "promoted", "true" | sort: "homepage_order" %}
 
-    {% for site_category in promoted_site_categories limit:6 %}
+    {% for site_category in promoted_site_categories limit:5 %}
     {% assign current_category = categories | where:"name", site_category.name | first %}
     {% assign category_questions = current_category.items %}
     <div class="usa-media-block tablet:grid-col-4 margin-bottom-3">
       <h3>{{ site_category.title }}</h3>
       <ul class="usa-list usa-list--unstyled">
-        {% for question in category_questions limit:4 %}
+        {% for question in category_questions limit:2 %}
         {% if page.lang == question.lang %}
         <li class="padding-y-1">
           <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>

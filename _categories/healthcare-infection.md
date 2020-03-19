@@ -2,8 +2,7 @@
 layout: category
 name: healthcare-infection
 title: "Healthcare infection"
-promoted: true
-homepage_order: 6
+promoted: false 
 banner:
     display: false
     heading: "This is a place to place urgent information"
