@@ -124,6 +124,11 @@
     autocompleteContainer.innerHTML = '';
     let runningRequest = null;
 
+    const makeDebouncedRequest = debounce((query, completed) => {
+      window.SearchService(query)
+        .then(results => completed(results.slice(0, 5)));
+    }, 300);
+
     accessibleAutocomplete({
       element: autocompleteContainer,
       id: 'search-box',
@@ -155,9 +160,13 @@
       }
     });
 
-    const makeDebouncedRequest = debounce((query, completed) => {
-      window.SearchService(query)
-        .then(results => completed(results.slice(0, 5)));
-    }, 300);
+    const newInput = autocompleteContainer.querySelector('input');
+
+    // Still perform search if pressing enter when the dropdown is open but no item selected.
+    newInput.addEventListener('keydown', (evt) => {
+      if (evt.keyCode === 13) { // enter
+        evt.currentTarget.form.submit();
+      }
+    });
   }
 })();

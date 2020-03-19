@@ -20,7 +20,7 @@
 
     &.autocomplete__menu--hidden { display: none; }
 
-    li {
+    .autocomplete__option {
       @include u-color('primary-dark');
       padding: units(2) units(4);
       display: block;
@@ -33,20 +33,15 @@
         @include u-text('underline');
       }
 
-      a {
-        @include u-text('no-underline');
-        p {
-          @include u-color('primary-dark');
-          @include u-margin(0);
-        }
+      &.autocomplete__option--no-results {
+        @include u-text('base-darkest');
+        cursor: default;
 
         &:hover,
         &:focus,
         &:active {
-          @include u-text('underline');
-        }
-        .title {
-          @include u-margin-top(0);
+          background-color: inherit;
+          @include u-text('no-underline');
         }
       }
     }
