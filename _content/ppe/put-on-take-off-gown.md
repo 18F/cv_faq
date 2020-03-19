@@ -4,8 +4,9 @@ category: ppe
 layout: post
 date: March 17, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#gowns
-excerpt: "Personal Protective Equipment: Gowns"
+excerpt: "Personal protective equipment: Gowns"
 ---
 
 Check to see if your facility has guidance on how to don and doff PPE. The procedure to don and doff should be tailored to the specific type of PPE that you have available at your facility.

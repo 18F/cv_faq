@@ -4,8 +4,9 @@ category: diagnostic-panels
 layout: post
 date: March 17, 2020
 source: CDC
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/tool-virus-requests.html
 promoted: false
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/tool-virus-requests.html
+excerpt: Diagnostic panels
 ---
 
 Clinicians should base their decisions on whether a patient should be tested for COVID-19 on:

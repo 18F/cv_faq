@@ -4,8 +4,9 @@ category: diagnostic-panels
 layout: post
 date: March 17, 2020
 source: CDC
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/tool-virus-requests.html
 promoted: false
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/tool-virus-requests.html
+excerpt: Diagnostic panels
 ---
 
 The CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel also requires the use of additional authorized materials and authorized ancillary reagents that are not included with the test but are commonly used in clinical laboratories and are described in the authorized CDC 2019-nCoV Real-Time RT-PCR Diagnostic Panel Instructions for Use Package Insert.

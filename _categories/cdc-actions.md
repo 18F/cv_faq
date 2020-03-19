@@ -1,10 +1,12 @@
 ---
 layout: category
 name: cdc-actions
-title: "What CDC Is Doing"
+title: "What CDC is doing"
 promoted: false
+more_topics_promoted: true 
+more_topics_order: 6
 banner:
-    display: false
-    heading: "This is a place to place urgent information"
-    content: "You can set this component to 'display: true' to show a banner at the top of the page."
+    display: true
+    heading: "What CDC is doing"
+    content: "See how CDC is responding to COVID-19 <a href="https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html#cdc-response">here</a>."
 ---

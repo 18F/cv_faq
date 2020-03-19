@@ -4,8 +4,9 @@ category: biosafety
 layout: post
 date: March 17, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Handling"
+excerpt: "Biosafety and COVID-19: Specimen handling"
 ---
 
 **Aerosols and droplets*** containing particles that are <100 μm in diameter are not visible to the naked eye. Laboratory workers may not be aware that such particles could be generated during many laboratory procedures and that these particles could be inhaled or could cross-contaminate work surfaces, materials, and equipment.

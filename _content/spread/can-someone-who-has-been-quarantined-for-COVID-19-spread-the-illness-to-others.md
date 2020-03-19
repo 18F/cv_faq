@@ -4,8 +4,9 @@ category: spread
 layout: post
 date: March 16, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#spreads
-excerpt: How It Spreads
+excerpt: How it spreads
 ---
 
 Quarantine means separating a person or group of people who have been exposed to a contagious disease but have not developed 

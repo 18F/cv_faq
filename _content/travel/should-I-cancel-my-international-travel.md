@@ -4,8 +4,9 @@ category: travel
 layout: post
 date: March 16, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
-excerpt: Canceling or postponing travel
+excerpt: "Travel: Canceling and postponing travel"
 ---
 
 CDC provides recommendations for international travel, including guidance on when to consider postponing or canceling travel. Most of the time, this guidance is provided through travel health notices and is based on the potential health risks associated with traveling to a certain destination.

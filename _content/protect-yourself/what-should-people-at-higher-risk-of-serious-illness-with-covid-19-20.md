@@ -1,11 +1,12 @@
 ---
-title: What should people at higher risk of serious illness with COVID-19 do?
-category: about
+title: What should people at higher risk of serious illness from COVID-19 do?
+category: protect-yourself
 layout: post
 date: March 16, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#protect
-excerpt: How to Protect Yourself
+excerpt: How to protect yourself
 ---
 
 If you are at higher risk of getting very sick from COVID-19, you should: stock up on supplies; take everyday precautions to 
@@ -13,4 +14,4 @@ keep space between yourself and others; when you go out in public, keep away fro
 wash your hands often; and avoid crowds, cruise travel, and non-essential travel. If there is an outbreak in your community, 
 stay home as much as possible. Watch for symptoms and emergency signs. Watch for symptoms and emergency signs. If you get 
 sick, stay home and call your doctor. More information on how to prepare, what to do if you get sick, and how communities and 
-caregivers can support those at higher risk is available on <a href="https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html"> People at Risk for Serious Illness from COVID-19</a> .
+caregivers can support those at higher risk is available on <a href="https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html"> People at Risk for Serious Illness from COVID-19</a>.

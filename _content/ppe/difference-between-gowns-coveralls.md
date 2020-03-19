@@ -4,8 +4,9 @@ category: ppe
 layout: post
 date: March 17, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#gowns
-excerpt: "Personal Protective Equipment: Gowns"
+excerpt: "Personal protective equipment: Gowns"
 ---
 
 CDC's guidance for [Considerations for Selecting Protective Clothing used in Healthcare for Protection against Microorganisms in Blood and Body Fluids](https://www.cdc.gov/niosh/npptl/topics/protectiveclothing/) provides additional comparisons between gowns and coveralls.

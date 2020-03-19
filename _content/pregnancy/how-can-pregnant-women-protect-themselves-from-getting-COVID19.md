@@ -1,9 +1,10 @@
 ---
 title: How can pregnant women protect themselves from getting COVID-19?
-category: high-risk
+category: pregnancy
 layout: post
 date: March 16, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
 excerpt: Pregnant women and COVID-19
 ---

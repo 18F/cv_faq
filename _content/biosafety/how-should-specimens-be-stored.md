@@ -4,8 +4,9 @@ category: biosafety
 layout: post
 date: March 17, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Handling"
+excerpt: "Biosafety and COVID-19: Specimen handling"
 ---
 
 Store specimens at 2-8°C for up to 72 hours after collection. If a delay occurs in extraction, store specimens at -70°C or lower. Store extracted nucleic acid at -70°C or lower.

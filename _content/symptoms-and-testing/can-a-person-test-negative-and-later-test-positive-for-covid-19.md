@@ -4,8 +4,9 @@ category: symptoms-and-testing
 layout: post
 date: March 16, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#symptoms
-excerpt: Symptoms and Testing
+excerpt: Symptoms and testing
 ---
 
 Using the CDC-developed diagnostic test, a negative result means that the virus that causes COVID-19 was not found in the 

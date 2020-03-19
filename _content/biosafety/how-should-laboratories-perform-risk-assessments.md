@@ -4,8 +4,9 @@ category: biosafety
 layout: post
 date: March 17, 2020
 source: CDC
+promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Handling"
+excerpt: "Biosafety and COVID-19: Specimen handling"
 ---
 
 Risk assessments and mitigation are dependent on the procedures to be performed, identification of the hazards involved in the process and/or procedures, the competency level of the personnel who perform the procedures, the laboratory equipment and facility, and the resources available. Risk assessments should try to identify what could go wrong, and how the laboratory will mitigate those risks.
