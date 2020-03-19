@@ -1,6 +1,6 @@
 ---
 title: What are the steps to prevent the illness?
-category: basics
+category: protect-yourself
 layout: post
 date: March 18, 2020
 promoted: true
