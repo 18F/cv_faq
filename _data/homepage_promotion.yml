@@ -1,7 +1,7 @@
 banner:
     display: true
     heading: '<a href="https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/summary.html#cdc-response">See how CDC is responding to COVID-19 and the coronavirus that causes it</a>.'
-    content: 
+    content:
 hero:
     title: 'Find answers about COVID-19'
     tagline: 'or you can browse the categories below to find what you are looking for.'
@@ -47,4 +47,4 @@ questions_box_2:
           link: '/symptoms-and-testing/when-should-i-call-my-doctor'
         - question: 'How do I care for someone who’s sick?'
           link: 'https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions'
-    view_all_link: /protect-yourself/
+    view_all_link: /symptoms-and-testing/
