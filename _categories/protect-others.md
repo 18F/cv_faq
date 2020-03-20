@@ -2,8 +2,8 @@
 layout: category
 name: protect-others
 title: "How to protect others"
-promoted: false
 owner: CDC
+homepage_order: 15
 banner:
     display: false
     heading: "This is a place to place urgent information"

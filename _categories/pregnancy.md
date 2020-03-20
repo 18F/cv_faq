@@ -2,10 +2,8 @@
 layout: category
 name: pregnancy
 title: "Women who are pregnant"
-promoted: false
 owner: CDC
-more_topics_promoted: true 
-more_topics_order: 8
+homepage_order: 8
 banner:
     display: false
     heading: "This is a place to place urgent information"

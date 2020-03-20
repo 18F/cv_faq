@@ -1,56 +1,90 @@
+{% assign categories = site.content | group_by:"category" %}
+{% assign display_categories = site.categories | sort: "homepage_order" %}
+
 <section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
   <div class="grid-row grid-gap">
-    {% assign categories = site.content | group_by:"category" %}
-    {% assign promoted_site_categories = site.categories | where: "promoted", "true" | sort: "homepage_order" %}
-    {% assign additional_site_categories = site.categories | where: "more_topics_promoted", "true" | sort: "more_topics_order" %}
 
-    {% for site_category in promoted_site_categories limit:5 %}
-    {% assign current_category = categories | where:"name", site_category.name | first %}
-    {% assign category_questions = current_category.items | where: "promoted", "true" %}
-    {% if category_questions.size < 3 %}
-      {% assign extra_questions = current_category.items | where: "promoted", "false" %}
-    {% endif %}
-    <div class="usa-media-block tablet:grid-col-4 margin-bottom-3">
-      <h3>{{ site_category.title }}</h3>
-      <ul class="usa-list usa-list--unstyled">
-        {% for question in category_questions | limit:3 %}
-          {% if page.lang == question.lang %}
-          <li class="padding-y-1">
-            <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
-          </li>
-          {% endif %}
-        {% endfor %}
-        {% if extra_questions %}
-          {% assign deficit = 3 | minus: category_questions.size %}
-          {% for question in extra_questions | limit:deficit %}
+    {% for site_category in display_categories | limit: 6 %}
+      {% assign current_category = categories | where:"name", site_category.name | first %}
+      {% assign category_questions = current_category.items | where: "promoted", "true" %}
+      {% if category_questions.size < 3 %}
+        {% assign extra_questions = current_category.items | where: "promoted", "false" %}
+      {% endif %}
+
+      <div class="usa-media-block tablet:grid-col-4 margin-bottom-3">
+        <h3>{{ site_category.title }}</h3>
+        <ul class="usa-list usa-list--unstyled">
+          {% for question in category_questions | limit:3 %}
             {% if page.lang == question.lang %}
-            <li class="padding-y-1">
-              <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
-            </li>
+              <li class="padding-y-1">
+                <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
+              </li>
             {% endif %}
           {% endfor %}
-        {% endif %}
-      </ul>
-      <a href="{{ site.baseurl }}/{{ site_category.name}}/" class="text-bold text-underline margin-y-1">View all <span
-          class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
-    </div>
+          {% if extra_questions %}
+            {% assign deficit = 3 | minus: category_questions.size %}
+            {% for question in extra_questions | limit:deficit %}
+              {% if page.lang == question.lang %}
+                <li class="padding-y-1">
+                  <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        </ul>
+        <a href="{{ site.baseurl }}/{{ site_category.name}}/" class="text-bold text-underline margin-y-1">View all <span
+            class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
+      </div>
     {% endfor %}
-    <div class="usa-media-block tablet:grid-col-4 margin-bottom-3 more-topics">
-      <h3>More topics</h3>
-      <ul class="usa-list usa-list--unstyled">
-        {% for site_category in additional_site_categories %}
-        {% assign current_category = categories | where:"name", site_category.name | first %}
-        {% assign category_questions = current_category.items %}
-        <li>
-          <h4 class="title">
-            <a href="{{ site.baseurl }}/{{ site_category.name}}/">{{ site_category.title }}</a>
-          </h4>
-        </li>
-        {% endfor %}
-      </ul>
-      <a href="{{ site.baseurl }}/all-topics.html" class="text-bold text-underline margin-y-1">View all <span
-          class="usa-sr-only">topics about coronavirus </span><span aria-hidden="true">»</span></a>
-
-    </div>
   </div>
+
+  {% comment %}
+    If we've got more than 6 categories, reveal them by clicking this buton
+  {% endcomment %}
+  {% if display_categories.size > 6 %}
+    <div class="grid-row grid-gap display-none load-questions-wrapper">
+      <button class="usa-button usa-button--outline margin-x-auto" id="more-questions-button"
+      load-questions
+      aria-expanded="false"
+      aria-controls="more-questions"
+      >
+        Load more questions
+    </button>
+    </div>
+
+      <div id="more-questions" class="grid-row grid-gap display-none">
+      {% for site_category in display_categories | offset: 6 %}
+          {% assign current_category = categories | where:"name", site_category.name | first %}
+          {% assign category_questions = current_category.items | where: "promoted", "true" %}
+          {% if category_questions.size < 3 %}
+          {% assign extra_questions = current_category.items | where: "promoted", "false" %}
+          {% endif %}
+
+          <div class="usa-media-block tablet:grid-col-4 margin-bottom-3">
+            <h3>{{ site_category.title }}</h3>
+            <ul class="usa-list usa-list--unstyled">
+              {% for question in category_questions | limit:3 %}
+              {% if page.lang == question.lang %}
+              <li class="padding-y-1">
+                <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
+              </li>
+              {% endif %}
+              {% endfor %}
+              {% if extra_questions %}
+              {% assign deficit = 3 | minus: category_questions.size %}
+              {% for question in extra_questions | limit:deficit %}
+              {% if page.lang == question.lang %}
+              <li class="padding-y-1">
+                <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
+              </li>
+              {% endif %}
+              {% endfor %}
+              {% endif %}
+            </ul>
+            <a href="{{ site.baseurl }}/{{ site_category.name}}/" class="text-bold text-underline margin-y-1">View all <span
+                class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
+          </div>
+        {% endfor %}
+        </div>
+  {% endif %}
 </section>

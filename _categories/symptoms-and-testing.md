@@ -2,7 +2,6 @@
 layout: category
 name: symptoms-and-testing
 title: "Symptoms and testing"
-promoted: false
 owner: CDC
 homepage_order: 3
 banner:
