@@ -8,9 +8,8 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/downloads/workplace-school
 promoted: false
 excerpt: How to protect others
 ---
-What every American and community can do now to decrease the spread of the coronavirus
 
-Encourage your employees to…
+Encourage your employees to...
 
 ### Practice good hygiene
 - Stop handshaking – use other, non-contact methods of greeting
