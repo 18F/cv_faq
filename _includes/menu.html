@@ -3,21 +3,19 @@ To modify the menu system, you are welcome to edit this HTML directly or you can
 where we provide an easy way to manage your navigation system
 {% endcomment %}
 
-<header
-  class="
+<header>
+  <div class="
     grid-container
-  "
-  role="banner"
-  aria-label="primary site header"
->
+  " role="banner" aria-label="primary site header">
   <div class="grid-row flex-wrap flex-align-center">
-    <div class="grid-col-12 tablet:grid-col-6 padding-y-2">
+    <div class="grid-col-12 desktop:grid-col-6 padding-y-2">
       {% include logo.html %}
     </div>
-      {% if page.url != '/'' %}
-      <div class="grid-col-12 tablet:grid-col-6 padding-y-2 tablet:padding-x-2 menu-search">
-        {% include search.html placeholder="Search questions, keywords, or topics" %}
-      </div>
-      {% endif %}
+    {% if page.url != '/'' %}
+    <div class="grid-col-12 desktop:grid-col-6 padding-y-2 tablet:padding-x-2 menu-search">
+      {% include search.html placeholder="Search questions, keywords, or topics" %}
+    </div>
+    {% endif %}
   </div>
+</div>
 </header>
