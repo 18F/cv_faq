@@ -75,7 +75,6 @@ header {
   .grid__extra-wide {
     @include u-margin-x('auto');
     max-width: 1280px;
-    flex-direction: column;
   }
 
   .menu-search {
@@ -93,6 +92,9 @@ header {
 }
 
 @include at-media-max('desktop'){
+  .grid__extra-wide {
+    flex-direction: column;
+  }  
   .usa-logo {
     text-align: center;
   }
