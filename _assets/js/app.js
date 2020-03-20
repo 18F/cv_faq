@@ -34,6 +34,7 @@ if (content) {
 
       event.target.setAttribute('aria-expanded', true);
       content.classList.remove('display-none');
+      content.focus();
       wrapper.classList.add('display-none');
   });
 }
