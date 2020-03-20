@@ -1,7 +1,7 @@
 footer,
 footer {
         @include u-color('base-lightest');
-        background-color: #333333;
+        background-color: #15223B;
     a,
     a:visited,
     span {
@@ -42,31 +42,76 @@ footer {
         }
     }
 }
-.icon-list {
-    li {
-        margin-top: 0.5rem;
-        margin-bottom: 0.5rem;
-        display: flex;
-    }
-}
 .footer-icon {
     @include u-width(3);
     @include u-height(3);
-    margin-right: units(2);
+    margin-right: units(1);
+    &:last-child {
+       margin-right: 0; 
+    }
 }
 
 .disclaimer {
-    @include u-bg('base-lightest');
-    padding: units(1) 0 units(2);
+    @include u-border-top('base-dark', '1px', 'solid');
+    padding-top: units(2);
+    ul {
+        list-style: none;
+        float: left;
+    }
 
+    @media screen and (min-width: 640px) {
+        .disclaimer--right ul {
+            float: right;
+        }
+    }
+    li {
+        display: inline;
+    }
     a {
-        @include u-color('base-darkest');
+        @include u-color('base-lighter');
         @include u-text('no-underline');
         @include u-font('sans', '3xs');
         @include u-padding-x(1);
         &:hover,
         &:focus {
             @include u-text('underline');
+        }
+    }
+}
+
+.flagpole {
+    @media screen and (max-width: 639px){
+        text-align: center;
+    }
+}
+.giant-flag {
+    width: 7rem;
+    margin-top: units(2);
+    @media screen and (min-width: 640px) {
+        float: right;
+        margin-top: 0;
+    }
+}
+
+.footer-nav-top {
+    padding-top: units(4);
+    padding-bottom: units(4);
+}
+
+@media screen and (max-width: 639px) {
+    footer ul {
+        text-align: center;
+    }
+    .disclaimer {
+        .disclaimer--left,
+        .disclaimer--right {
+            ul {
+                float: none;
+                text-align: center;
+            }
+        }
+        .disclaimer--right {
+            margin-top: units(2);
         }
     }
 }
