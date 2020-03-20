@@ -92,7 +92,8 @@
     searchjson
       .then(pages => {
         return new Fuse(pages, {
-          keys: ["title", "excerpt", "content"]
+          keys: ["title", "excerpt", "content"],
+          distance: 1000
         }).search(query);
       })
       .then(translate_fromSearchJson)
