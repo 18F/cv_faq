@@ -1,5 +1,5 @@
 ---
-title: Should I go to work  if there's an outbreak in my community?
+title: Should I go to work if there's an outbreak in my community?
 category: if-outbreak
 layout: post
 date: March 20, 2020

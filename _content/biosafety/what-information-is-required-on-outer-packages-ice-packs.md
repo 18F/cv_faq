@@ -15,7 +15,8 @@ Ensure the outer package has been properly marked and labeled with the following
 2. Biological Substance, Category B
 3. Shipper's name, address, and phone number
 4. Receiver's name, address, and phone number
-5. Name and phone number of a responsible person is optional if it is on the airway bill
+
+The name and phone number of a responsible person is optional if it is already on the airway bill.
 
 For additional information, refer to the following:
 
