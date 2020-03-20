@@ -2,10 +2,8 @@
 layout: category
 name: spread
 title: "How it spreads"
-promoted: false
 owner: CDC
 homepage_order: 4
-more_topics_promoted: false
 banner:
     display: false
     heading: "This is a place to place urgent information"

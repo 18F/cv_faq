@@ -2,10 +2,8 @@
 layout: category
 name: travel
 title: "Traveling"
-promoted: false
 owner: CDC
 homepage_order: 5
-more_topics_promoted: false
 banner:
     display: false
     heading: "This is a place to place urgent information"
