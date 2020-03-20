@@ -17,7 +17,8 @@ The overpack should be marked in accordance with the packing instructions requir
 4. Receiver's name, address, and phone number
 5. Package Orientation Label
 6. Marked with the word "Overpack"
-7. Name and phone number of a responsible person is optional if it is on the airway bill
+
+The name and phone number of a responsible person is optional if it is already on the airway bill.
 
 For additional information, refer to the following:
 

@@ -9,7 +9,7 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/eve
 excerpt: Community events
 ---
 
-Encourage staff and attendees to take <a href="https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html"> everyday preventive actions</a> to help prevent the spread of respiratory illnesses, such as COVID-19. This includes:
+Encourage staff and attendees to take <a href="https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html"> everyday preventive actions</a> to help prevent the spread of respiratory illnesses such as COVID-19. This includes:
 
 * **Cleaning your hands often.**
 * **Avoiding close contact** with people who are sick.
