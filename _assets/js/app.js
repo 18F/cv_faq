@@ -4,18 +4,17 @@
 
 //////////////////////////////////
 // Accordions
-const EXPANDED = "aria-expanded";
 
-var url = window.location.href;
-var idx = url.indexOf("#");
-var questionAnchor = idx != -1 ? url.substring(idx + 1) : "";
+(() => {
+  const NAMESPACE = '#main-content';
+  const BUTTON = '.usa-accordion__button';
+  const EXPANDED = 'aria-expanded';
 
-if (questionAnchor.length > 1) {
-  var accordionButtons = document.querySelectorAll('.usa-accordion__button');
+  const accordionButtons = document.querySelectorAll(`${NAMESPACE} ${BUTTON}`);
+  const target = document.querySelector(`${NAMESPACE} ${BUTTON}${window.location.hash}`);
 
-  accordionButtons.forEach(accordion => {
-    if (accordion.getAttribute('id') != questionAnchor) {
-      accordion.setAttribute(EXPANDED, "false");
-    }
-  })
-}
+  if (accordionButtons.length) {
+    accordionButtons.forEach(a => a.setAttribute(EXPANDED, false));
+    (target || accordionButtons[0]).setAttribute(EXPANDED, true);
+  }
+})();
