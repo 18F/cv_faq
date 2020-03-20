@@ -1,6 +1,6 @@
 ---
 title: If a pregnant woman has COVID-19 during pregnancy, will it hurt the baby?
-category: high-risk
+category: pregnancy
 layout: post
 date: March 16, 2020
 source: CDC

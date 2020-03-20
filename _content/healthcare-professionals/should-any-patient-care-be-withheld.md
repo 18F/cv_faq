@@ -1,6 +1,6 @@
 ---
 title: Should any patient care be withheld due to concerns about transmission of COVID-19?
-category: healthcare
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 source: CDC
