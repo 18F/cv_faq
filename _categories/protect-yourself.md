@@ -2,7 +2,6 @@
 layout: category
 name: protect-yourself
 title: "How to protect yourself"
-promoted: false
 owner: CDC
 homepage_order: 2
 banner:
