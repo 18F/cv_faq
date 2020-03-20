@@ -27,6 +27,10 @@
 .usa-banner__content {
   display: hidden;
 }
+.usa-banner__inner {
+  @include u-padding-x(3);
+  align-items: left;
+}
 
 
 
@@ -40,7 +44,7 @@
   }
 
   a {
-    display: block;
+    display: inline-block;
   }
   
   a .usa-logo__text , 
@@ -64,7 +68,6 @@
   }
 
 }
-
 
 header {
   @include u-border-bottom('base-lightest', '1px', 'solid');
@@ -91,6 +94,16 @@ header {
   }
 }
 
+.fema {
+  height: 32px;
+}
+.hhs {
+  height: 40px;
+}
+.cdc {
+  height: 36px;
+}
+
 @include at-media-max('desktop'){
   .grid__extra-wide {
     flex-direction: column;
@@ -105,13 +118,22 @@ header {
     order: 3;
   }
 }
+
+
+
 .header--logo-row__top {
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   @include u-margin-top(2);
   @include u-margin-bottom(1);
 }
 
 .header--logo-row__right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   @include at-media-max('desktop') {
     text-align: center;
   }
@@ -122,6 +144,6 @@ header {
 
   @include at-media('desktop') {
     @include u-float('right');
-    @include u-margin-right(4);
+    @include u-margin-right(2);
   }
 }

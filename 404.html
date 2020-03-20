@@ -1,11 +1,9 @@
 ---
 layout: default
+hide_search_in_header: true
+hero:
+  title: This page isn’t here.
 ---
 
-
-<div class="grid-row grid-gap">
-  <div class="usa-layout-docs-main_content desktop:grid-col-9 usa-prose">
-    <h1>>Page not found</strong></h1>
-    <p>The requested page could not be found (404).</p>
-  </div>
-</div>
+{% include hero.html hero=page.hero %}
+{% include content-questions.html %}

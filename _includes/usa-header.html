@@ -2,30 +2,30 @@
   <!-- {% if page.url != '/'' %}<div class="grid-container">{% endif %} -->
   {% capture logos %}
   <a href="https://www.whitehouse.gov/"
-    class="margin-right-2">{% asset whitehouse.svg class="height-6" alt="Whitehouse" %}</a>
+    class="margin-right-2">{% asset whitehouse.svg class="whitehouse height-6" alt="Whitehouse" %}</a>
   <a href="https://www.cdc.gov/"
-    class="margin-right-2">{% asset cdc.svg class="height-6" alt="Centers for Disease Control and Prevention" %}</a>
+    class="margin-right-2">{% asset cdc.svg class="cdc height-6" alt="Centers for Disease Control and Prevention" %}</a>
   <a href="https://www.hhs.gov/"
-    class="margin-right-2">{% asset hhs.svg class="height-6" alt="U.S. Department of Health & Human Services" %}</a>
+    class="margin-right-2">{% asset hhs.svg class="hhs height-6" alt="U.S. Department of Health & Human Services" %}</a>
   <a
-    href="https://www.fema.gov/">{% asset fema.svg class="height-6" alt="US Department of Homeland Security - Federal Emergency Management Agency" %}</a>
+    href="https://www.fema.gov/">{% asset fema.svg class="fema height-6" alt="US Department of Homeland Security - Federal Emergency Management Agency" %}</a>
   {% endcapture %}
 
   <div class="grid__extra-wide grid-row flex-wrap flex-align-center">
-    {% if page.url != '/'' %}
+    {% unless page.hide_search_in_header %}
     <div class="header--logo-row__top grid-col-12">
       {{ logos }}
     </div>
-    {% endif %}
+    {% endunless %}
     <div class="logo-text--container grid-col-12  desktop:grid-col-6 padding-y-2">
       {% include logo-text.html %}
     </div>
 
     <div class="menu-search grid-col-12 desktop:grid-col-6 padding-y-2">
-      {% if page.url != '/'' %}
+      {% unless page.hide_search_in_header %}
       {% include search.html placeholder="Search questions, keywords, or topics" %}
-      {% endif %}
-      {% if page.url == '/' %}
+      {% endunless %}
+      {% if page.hide_search_in_header %}
       <div class="header--logo-row__right">
         {{ logos }}
       </div>
