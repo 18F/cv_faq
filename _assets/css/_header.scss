@@ -32,26 +32,41 @@ header[role=banner] {
   @include u-border-top('primary-dark');
 }
 
-.usa-logo__text {
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 24px;
-  margin-bottom: -0.25rem;
+.usa-logo {
+  .usa-logo__text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: -0.25rem;
+  }
+
+  a {
+    display: block;
+  }
+  
+  a .usa-logo__text , 
+  a:visited .usa-logo__text, 
+  a:hover .usa-logo__text {
+    @include u-color('ink');
+  }
+  
+  a:hover {
+    .usa-logo__text, span {
+      font-style: normal;
+    }
+  }
+
+  
+  span {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    @include u-color('base');
+  }
+
 }
 
-.usa-logo__text a, 
-.usa-logo__text a:visited, 
-.usa-logo__text a:hover {
-  @include u-color('ink');
-}
-
-.usa-logo span {
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 24px;
-  @include u-color('base');
-}
 
 header {
   @include u-border-bottom('base-lightest', '1px', 'solid');
@@ -71,12 +86,17 @@ header {
 
 .header--logo-row__top {
   text-align: center;
-  @include u-margin-y(2);
+  @include u-margin-top(2);
+  @include u-margin-bottom(2);
 }
 
 .header--logo-row__right {
   @media screen and (max-width:640px) {
     text-align: center;
+  }
+  @include at-media('tablet'){
+    @include u-float('right');
+    @include u-margin-right(2);
   }
 }
 
