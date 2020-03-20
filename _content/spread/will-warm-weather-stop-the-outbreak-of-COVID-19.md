@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#spreads
-excerpt: How It Spreads
+excerpt: How it spreads
 ---
 
 It is not yet known whether weather and temperature impact the spread of COVID-19. Some other viruses, like the common cold and flu, spread more during cold weather months but that does not mean it is impossible to become sick with these viruses 

@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: true
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
-excerpt: Coronavirus and travel in the united states
+excerpt: "Travel: Canceling or postponing travel"
 ---
 
 CDC does not generally issue advisories or restrictions for travel within the United States. However, cases of COVID-19 have been reported in many states, and some areas are experiencing community spread of the disease. Crowded travel settings, like airports, may increase your risk of exposure to COVID-19, if there are other travelers with COVID-19. There are several things you should consider when deciding whether it is safe for you to travel.

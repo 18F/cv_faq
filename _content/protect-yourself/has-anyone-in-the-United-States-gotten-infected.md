@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#protect
-excerpt: How to Protect Yourself
+excerpt: How to protect yourself
 ---
 
 Yes. There have been cases of COVID-19 in the U.S. related to travel and through close contact. U.S. case counts are updated 

@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#gowns
-excerpt: "Personal Protective Equipment: Gowns"
+excerpt: "Personal protective equipment: Gowns"
 ---
 
 Unlike patient care in the controlled environment of a healthcare facility, care and transport by EMS present unique challenges because of the nature of the setting. Coveralls are an acceptable alternative to gowns when caring for and transporting suspect COVID-19 patients.  

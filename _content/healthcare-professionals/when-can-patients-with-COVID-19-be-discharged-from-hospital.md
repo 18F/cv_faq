@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html
-excerpt: Healthcare Professionals
+excerpt: Healthcare professionals
 ---
 
 Patients can be discharged from the healthcare facility whenever clinically indicated. Isolation should be maintained at home if the patient returns home before the time period recommended for discontinuation of hospital Transmission-Based Precautions described below.

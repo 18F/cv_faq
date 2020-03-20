@@ -3,6 +3,7 @@ layout: category
 name: protect-others
 title: "How to protect others"
 promoted: false
+owner: CDC
 banner:
     display: false
     heading: "This is a place to place urgent information"

@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
-excerpt: Returning from travel
+excerpt: "Travel: Returning from travel"
 ---
 
 At this time, travel restrictions and entry screening only apply to travelers arriving from countries with a level 3 travel health notice. [Note: US policies are subject to change as the COVID-19 pandemic evolves.]

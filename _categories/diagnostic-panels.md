@@ -3,6 +3,7 @@ layout: category
 name: diagnostic-panels
 title: "Laboratory diagnostic panels"
 promoted: false
+owner: CDC
 banner:
     display: false
     heading: "This is a place to place urgent information"

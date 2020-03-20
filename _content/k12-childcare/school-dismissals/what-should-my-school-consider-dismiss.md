@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
-excerpt: "K-12 Schools and Childcare Program Administrators: School Dismissals"
+excerpt: "K-12 schools and childcare program administrators: School dismissals"
 ---
 
 In the event of a school dismissal, extracurricular group activities and large events, such as performances, field trips, and sporting events should also be cancelled. This may require close coordination with other partners and organizations (e.g., high school athletics associations, music associations). In addition, discourage students and staff from gathering or socializing anywhere, like at a friend's house, a favorite restaurant, or the local shopping mall.
