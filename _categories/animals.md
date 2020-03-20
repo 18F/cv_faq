@@ -1,9 +1,8 @@
 ---
 layout: category
 name: animals
-title: "COVID-19 and animals"
+title: "Animals"
 promoted: false
-owner: CDC
 banner:
     display: false
     heading: "This is a place to place urgent information"
