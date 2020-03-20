@@ -87,7 +87,7 @@ header {
 .header--logo-row__top {
   text-align: center;
   @include u-margin-top(2);
-  @include u-margin-bottom(2);
+  @include u-margin-bottom(1);
 }
 
 .header--logo-row__right {
