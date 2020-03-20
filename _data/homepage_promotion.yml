@@ -1,5 +1,5 @@
 banner:
-  content: 'More at <a href="https://www.whitehouse.gov/wp-content/uploads/2020/03/03.16.20_coronavirus-guidance_8.5x11_315PM.pdf">whitehouse.gov</a>. <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/pdfs/Coronavirus-guidelines_SPANISH.pdf" lang="es">Español</a>'
+  content: 'More at <a href="https://www.whitehouse.gov/wp-content/uploads/2020/03/03.16.20_coronavirus-guidance_8.5x11_315PM.pdf">whitehouse.gov</a>. <a href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/pdfs/Coronavirus-guidelines_SPANISH.pdf" lang="es">(español)</a>'
   display: true
   hide-icon: true
   heading: >-
