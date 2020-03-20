@@ -13,7 +13,6 @@ backend:
   branch: dev #this will need to be changed once we deploy
   use_graphql: true
 
-
 media_folder: assets/uploads
 public_folder: /images/uploads
 publish_mode: editorial_workflow
@@ -34,6 +33,7 @@ collections:
             widget: 'object'
             fields:
                 - {label: 'Display', name: 'display', widget: 'boolean', default: false}
+                - {label: 'Hide Icon', name: 'hide-icon', widget: 'boolean', default: false}
                 - {label: 'Heading', name: 'heading', widget: 'string'}
                 - {label: 'Content', name: 'content', widget: 'string'}
           - label: 'Hero'
@@ -46,7 +46,7 @@ collections:
             name: "top_questions"
             widget: "list"
             fields:
-              - {label: 'Image Icon', name: 'icon', widget: 'string'}
+              - {label: 'Image Icon', name: 'icon', widget: 'select', options: ['chart', 'globe', 'group', 'plane', 'test', 'stethoscope']}
               - {label: 'Question', name: 'question', widget: 'string'}
               - {label: 'Link to answer', name: 'link', widget: 'string'}
           - label: 'Highlighted Questions Left Area (blue box)'
@@ -76,14 +76,16 @@ collections:
   - label: Categories
     name: categories
     folder: _categories/
+    identifier_field: title
     create: true
-    slug: '{{slug}}'
+    slug: '{{name}}'
     editor:
       preview: false
     fields:
       - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'category'}
       - {label: 'Name', name: 'name', widget: 'string'}
       - {label: 'Title', name: 'title', widget: 'string'}
+      - {label: 'Owner', name: 'owner', widget: 'string'}
       - {label: 'Show on homepage', name: 'promoted', widget: "boolean", default: false}
       - label: 'Banner'
         name: 'banner'

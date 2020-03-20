@@ -145,7 +145,7 @@
         suggestion: (item) => highlight(item.title)
       },
       tNoResults: () => {
-        return runningRequest ?  'Loading…' : 'No results found';
+        return runningRequest ? 'Loading…' : `No results for “${newInput.value}”`;
       },
       source: (query, populateResults) => {
         const thisRequest = makeDebouncedRequest(query, (results) => {

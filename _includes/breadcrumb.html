@@ -5,13 +5,14 @@
       {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
       <a href="{{ site.baseurl }}/">FAQ</a>
       {% for crumb in crumbs offset: 1 %}
-        {% if forloop.last %}
-         <span class="text-base padding-x-1">></span> {{ page.title | upcase }}
-        {% else %}
-         <span class="text-base padding-x-1">></span> <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | upcase | replace:'-',' ' | remove:'.html'  }}</a>
-        {% endif %}
+      {% if forloop.last %}
+      <span class="text-base padding-x-1">></span> {{ page.title | upcase }}
+      {% else %}
+      <span class="text-base padding-x-1">></span> <a
+        href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' | replace:'without-plugin/','without-plugins/' }}{% endfor %}">{{ crumb | upcase | replace:'-',' ' | remove:'.html'  }}</a>
+      {% endif %}
       {% endfor %}
-      </div>
+    </div>
   </div>
 </div>
 {% endif %}

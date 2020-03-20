@@ -8,11 +8,11 @@ where we provide an easy way to manage your navigation system
   aria-label="primary site header"
 >
   <div class="grid-row flex-wrap flex-align-center">
-    <div class="grid-col-12 tablet:grid-col-6 padding-y-2">
+    <div class="grid-col-12 desktop:grid-col-6 padding-y-2">
       {% include logo.html %}
     </div>
 
-      <div class="grid-col-12 tablet:grid-col-6 padding-y-2 tablet:padding-x-2 menu-search">
+      <div class="grid-col-12 desktop:grid-col-6 padding-y-2 tablet:padding-x-2 menu-search">
         {% if page.url != '/'' %}
           {% include search.html placeholder="Search questions, keywords, or topics" %}
         {% else %}

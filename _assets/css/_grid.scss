@@ -1,3 +1,18 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
+main {
+  flex-grow: 1;
+}
+
+footer {
+  flex-shrink: 0;
+}
+
 @media screen and (min-width: 640px) {
   .tablet\:width-1\/3 {
     width: 33%;
