@@ -1,4 +1,11 @@
+.usa-alert__heading {
+    @include u-font('serif', 'lg');
+}
 .usa-alert--no-icon {
     background-image: unset;
     /* padding-left: 0; */
+}
+
+h1 + .usa-alert {
+    margin-bottom: units(2);
 }
