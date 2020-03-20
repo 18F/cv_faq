@@ -21,7 +21,7 @@
 
 //////////////////////////////////
 // Load more questions
-var wrapper = document.querySelector('#load-questions-wrapper')
+var wrapper = document.querySelector('.load-questions-wrapper')
 var button = document.querySelector('[load-questions]');
 var content = document.querySelector('#' + button.getAttribute('aria-controls'));
 
