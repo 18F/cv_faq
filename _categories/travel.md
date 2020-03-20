@@ -2,7 +2,6 @@
 layout: category
 name: travel
 title: "Traveling"
-promoted: false
 owner: CDC
 homepage_order: 5
 banner:

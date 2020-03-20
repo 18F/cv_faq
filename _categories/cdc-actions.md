@@ -2,10 +2,8 @@
 layout: category
 name: cdc-actions
 title: "What CDC is doing"
-promoted: false
 owner: CDC
-more_topics_promoted: true 
-more_topics_order: 6
+homepage_order: 6
 banner:
     display: false
     heading: "This is a place to place urgent information"
