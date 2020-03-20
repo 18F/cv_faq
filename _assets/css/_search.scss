@@ -44,7 +44,7 @@
   @include at-media('mobile'){
     @include u-padding-left('105');
   }
-  @include at-media('tablet'){
+  @include at-media('desktop'){
     @include u-padding-left(0);
   }
 }

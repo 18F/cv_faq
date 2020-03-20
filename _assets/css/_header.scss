@@ -30,6 +30,7 @@
 
 header[role=banner] {
   @include u-border-top('primary-dark');
+  max-width: 1280px;
 }
 
 .usa-logo {
@@ -94,9 +95,14 @@ header {
   @media screen and (max-width:640px) {
     text-align: center;
   }
-  @include at-media('tablet'){
+
+  @include at-media('mobile') {
+    @include u-margin-left(3);
+  }
+
+  @include at-media('desktop') {
     @include u-float('right');
-    @include u-margin-right(2);
+    @include u-margin-right(4);
   }
 }
 
