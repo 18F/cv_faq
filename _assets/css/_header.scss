@@ -28,7 +28,49 @@
   display: hidden;
 }
 
+header[role=banner] {
+  @include u-border-top('primary-dark');
+  max-width: 1280px;
+}
+
+.usa-logo {
+  .usa-logo__text {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: -0.25rem;
+  }
+
+  a {
+    display: block;
+  }
+  
+  a .usa-logo__text , 
+  a:visited .usa-logo__text, 
+  a:hover .usa-logo__text {
+    @include u-color('ink');
+  }
+  
+  a:hover {
+    .usa-logo__text, span {
+      font-style: normal;
+    }
+  }
+
+  
+  span {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    @include u-color('base');
+  }
+
+}
+
+
 header {
+  @include u-border-bottom('base-lightest', '1px', 'solid');
   .menu-search {
     @media screen and (max-width: 640px) {
       @include u-padding-x(0);
@@ -36,6 +78,36 @@ header {
     input {
       width: 100%;
       max-width: 100%;
+      border-top-left-radius: 5px;
+      border-bottom-left-radius: 5px;
+      @include u-border('base-lighter');
     }
+  }
+}
+
+.header--logo-row__top {
+  text-align: center;
+  @include u-margin-top(2);
+  @include u-margin-bottom(1);
+}
+
+.header--logo-row__right {
+  @media screen and (max-width:640px) {
+    text-align: center;
+  }
+
+  @include at-media('mobile') {
+    @include u-margin-left(3);
+  }
+
+  @include at-media('desktop') {
+    @include u-float('right');
+    @include u-margin-right(4);
+  }
+}
+
+.usa-logo {
+  @media screen and (max-width: 639px) {
+    text-align: center;
   }
 }
