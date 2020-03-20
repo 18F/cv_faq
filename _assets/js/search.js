@@ -92,7 +92,8 @@
     searchjson
       .then(pages => {
         return new Fuse(pages, {
-          keys: ["title", "excerpt", "content"]
+          keys: ["title", "excerpt", "content"],
+          distance: 1000
         }).search(query);
       })
       .then(translate_fromSearchJson)
@@ -125,7 +126,7 @@
     let runningRequest = null;
 
     const makeDebouncedRequest = debounce((query, completed) => {
-      window.SearchService(query)
+      search_local(query)
         .then(results => completed(results.slice(0, 5)));
     }, 300);
 

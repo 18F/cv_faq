@@ -1,5 +1,5 @@
 ---
-title: What things should I consider when deciding to postpone or cancel an event? 
+title: What should I consider when deciding to postpone or cancel an event? 
 category: community-events
 layout: post
 date: March 18, 2020
@@ -9,7 +9,7 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/eve
 excerpt: Community events
 ---
 
-Consult with local public health officials and continually assess, based on current conditions, whether to postpone, cancel, or significantly reduce the number of attendees (if possible) at an event or gathering. When determining if you should postpone or cancel a large gathering or event, consider the:
+Consult with local public health officials and keep asking yourself, based on current conditions, whether to postpone, cancel, or significantly reduce the number of attendees (if possible) at an event or gathering. When determining if you should postpone or cancel a large gathering or event, consider the:
 
 * Overall number of attendees or crowd size.
 * Number of attendees who are at higher risk of developing serious illness from COVID-19. This includes older adults and people with underlying health problems such as lung or heart disease and diabetes.
@@ -17,3 +17,5 @@ Consult with local public health officials and continually assess, based on curr
 * Potential ways to minimize economic impact to attendees, staff, and the local community.
 * Amount of spread in local community and the communities from where your attendees are likely to travel.
 * Needs and capacity of the local community to host or participate in your event.
+
+**UPDATE as of 3/16/2020:** During the next 15 days, all U.S. events of 10+ people should be cancelled or held virtually.

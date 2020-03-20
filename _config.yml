@@ -140,7 +140,7 @@ permalink_custom_vars:
 markdown: kramdown
 
 #TO UPDATE BEFORE LAUNCH:
-url: https://cg-dae9433e-23a0-46d7-bafb-dc79d2d3756c.app.cloud.gov
+url: https://faq.coronavirus.gov
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

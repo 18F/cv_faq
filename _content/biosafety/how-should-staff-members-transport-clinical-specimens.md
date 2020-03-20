@@ -9,7 +9,7 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
 excerpt: "Biosafety and COVID-19: Specimen handling"
 ---
 
-Staff members should adhere to standard procedures associated with other respiratory pathogens, such as seasonal influenza and other human coronaviruses when they transport specimens within a facility. Personnel should perform site- and activity-specific risk assessments to determine if enhanced biosafety precautions are warranted based on situational needs.
+Staff members should adhere to standard procedures associated with other respiratory pathogens, such as seasonal influenza and other human coronaviruses, when they transport specimens within a facility. Personnel should perform site- and activity-specific risk assessments to determine if enhanced biosafety precautions are warranted based on situational needs.
 
 For additional information, refer to the following:
 

@@ -11,9 +11,9 @@ excerpt: "Biosafety and COVID-19: Specimen packaging and shipping"
 
 Follow shipping regulations for UN 3373 Biological Substances, Category B:
 
-1. A leakproof primary container.
-2. A rigid, leakproof, watertight secondary packaging with absorbent material.
-3. A rigid outer packaging to protect the specimens during shipment.
+1. A leakproof primary container
+2. A rigid, leakproof, watertight secondary packaging with absorbent material
+3. A rigid outer packaging to protect the specimens during shipment
 
 For additional information, refer to the following:
 

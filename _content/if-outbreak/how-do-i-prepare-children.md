@@ -1,5 +1,5 @@
 ---
-title: How do I prepare my children during a community outbreak?
+title: How do I prepare my children if there's an outbreak in my community?
 category: if-outbreak
 layout: post
 date: March 20, 2020
