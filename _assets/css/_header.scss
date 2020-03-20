@@ -1,26 +1,30 @@
 // default mode hide banner
-.usa-header--extended {
-  @include u-border-bottom('1px', 'solid', 'base-lighter');
-  .usa-logo {
-    max-width: 100%;
-  }
-  .usa-navbar {
-    [role='search'] {
-      min-width: 90%;
-      @include u-padding-top(4);
-      input[type='search'] {
-        height: 100%;
-        @include u-border('base-lighter');
-      }
-      button {
-        @include u-text('normal');
-        border-top-left-radius: 0;
-        border-bottom-left-radius: 0;
-      }
-    }
-  }
-}
 
 .usa-banner__content {
   display: hidden;
+}
+
+header[role=banner] {
+  @include u-border-top('primary-dark');
+}
+
+.usa-logo__text {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  margin-bottom: -0.25rem;
+}
+
+.usa-logo__text a, 
+.usa-logo__text a:visited, 
+.usa-logo__text a:hover {
+  @include u-color('ink');
+}
+
+.usa-logo span {
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  @include u-color('base');
 }
