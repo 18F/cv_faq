@@ -105,6 +105,19 @@ header {
     order: 3;
   }
 }
+
+[class^='.header--logo-row'] {
+  .fema {
+    height: 32px;
+  }
+  .hhs {
+    height: 40px;
+  }
+  .cdc {
+    height: 36px;
+  }
+}
+
 .header--logo-row__top {
   text-align: center;
   @include u-margin-top(2);
@@ -122,6 +135,6 @@ header {
 
   @include at-media('desktop') {
     @include u-float('right');
-    @include u-margin-right(4);
+    @include u-margin-right(2);
   }
 }
