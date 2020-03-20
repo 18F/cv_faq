@@ -1,7 +1,7 @@
 ---
 layout: category
 name: pregnancy
-title: "Pregnant women and COVID-19"
+title: "Women who are pregnant"
 owner: CDC
 homepage_order: 8
 banner:

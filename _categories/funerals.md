@@ -1,7 +1,7 @@
 ---
 layout: category
 name: funerals
-title: "COVID-19 and funerals"
+title: "Funerals"
 owner: CDC
 homepage_order: 11
 banner:

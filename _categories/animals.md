@@ -1,7 +1,7 @@
 ---
 layout: category
 name: animals
-title: "COVID-19 and animals"
+title: "Animals"
 owner: CDC
 homepage_order: 9
 banner:
