@@ -1,10 +1,5 @@
 {% assign categories = site.content | group_by:"category" %}
-{% assign promoted_site_categories = site.categories | where: "promoted", "true" | sort: "homepage_order" %}
-{% assign additional_site_categories = site.categories | where: "more_topics_promoted", "true" | sort: "more_topics_order" %}
-{% assign remaining_site_categories = site.categories | where: "promoted", "false" | where: "more_topics_promoted", "false" %}
-
-{% assign display_categories = promoted_site_categories | concat: additional_site_categories | concat: remaining_site_categories %}
-
+{% assign display_categories = site.categories | sort: "homepage_order" %}
 
 <section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
   <div class="grid-row grid-gap">
