@@ -112,7 +112,7 @@ header {
 }
 
 .header--logo-row__right {
-  @media screen and (max-width:640px) {
+  @include at-media-max('desktop') {
     text-align: center;
   }
 
