@@ -29,15 +29,11 @@ if (content) {
   content.classList.add('display-none');
   wrapper.classList.remove('display-none');
 
-
   document.addEventListener('click', function (event) {
-
     var content = document.querySelector('#' + event.target.getAttribute('aria-controls'));
 
       event.target.setAttribute('aria-expanded', true);
       content.classList.remove('display-none');
       wrapper.classList.add('display-none');
-
   });
 }
-
