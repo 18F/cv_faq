@@ -26,12 +26,19 @@ title: Search
       return `<h2 class="title">No results found</h2>`;
     };
 
+    const continueReading = (result) => {
+      if (result.description) {
+        return `... <span class="read-more">Continue reading</span>`;
+      }
+      return '';
+    }
+
     const renderResults_result = (result) => {
       return `
         <li>
           <a href="${result.url}">
             <h2 class="title">${highlight(result.title)}</h2>
-            <p>${highlight(result.description)}... <span class="read-more">Continue reading</span></p>
+            <p>${highlight(result.description)}${continueReading(result)}</p>
           </a>
         </li>
       `;

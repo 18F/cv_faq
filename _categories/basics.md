@@ -2,7 +2,7 @@
 layout: category
 name: basics
 title: "About COVID-19"
-promoted: true
+owner: CDC
 homepage_order: 1
 banner:
     display: false

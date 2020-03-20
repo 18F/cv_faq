@@ -1,11 +1,12 @@
 ---
 title: What are the steps to prevent the illness?
-category: basics
+category: protect-yourself
 layout: post
 date: March 18, 2020
 promoted: true
 source: CDC 
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html 
+excerpt: How to protect yourself
 ---
 
 ## Take steps to protect yourself

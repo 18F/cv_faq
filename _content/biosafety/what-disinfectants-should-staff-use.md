@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Handling"
+excerpt: "Biosafety and COVID-19: Specimen handling"
 ---
 
 Personnel should use products with EPA-registered hospital disinfectants with label claims to be effective against other respiratory pathogens, such as seasonal influenza and other human coronaviruses. Follow manufacturer's recommendations for use – dilution (i.e., concentration), contact time, and care in handling.

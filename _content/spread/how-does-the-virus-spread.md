@@ -4,9 +4,9 @@ category: spread
 layout: post
 date: March 16, 2020
 source: CDC
-promoted: false
+promoted: true
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#spreads
-excerpt: How It Spreads
+excerpt: How it spreads
 ---
 
 This virus was first detected in Wuhan City, Hubei Province, China. The first infections were linked to a live animal market, 

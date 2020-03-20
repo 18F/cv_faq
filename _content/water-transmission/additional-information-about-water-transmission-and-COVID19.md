@@ -9,8 +9,6 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html
 excerpt: Water transmission and COVID-19
 ---
 
-## Where can I find additional information about water transmission and COVID-19? ##
-
 * <a href="https://www.cdc.gov/healthywater/global/sanitation/workers_handlingwaste.html">CDC: Guidance for reducing health risks to workers handling human waste or sewage</a>
 * <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/faq.html">CDC: Healthcare professionals: Frequently asked questions and answers</a>
 * <a href="https://www.cdc.gov/healthywater/index.html">CDC: Healthy Water</a>

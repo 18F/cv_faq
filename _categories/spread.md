@@ -2,7 +2,7 @@
 layout: category
 name: spread
 title: "How it spreads"
-promoted: true
+owner: CDC
 homepage_order: 4
 banner:
     display: false

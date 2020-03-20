@@ -2,7 +2,8 @@
 layout: category
 name: biosafety
 title: "Laboratory biosafety"
-promoted: false
+owner: CDC
+homepage_order: 10
 banner:
     display: false
     heading: "This is a place to place urgent information"

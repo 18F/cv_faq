@@ -4,9 +4,9 @@ category: protect-yourself
 layout: post
 date: March 16, 2020
 source: CDC
-promoted: false
+promoted: true
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#protect
-excerpt: How to Protect Yourself
+excerpt: How to protect yourself
 ---
 
 There is information for <a href="https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html"> people who have had close contact,</a> with a person confirmed to have, or being evaluated for, COVID-19 

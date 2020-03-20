@@ -6,7 +6,7 @@ date: March 16, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#protect
-excerpt: How to Protect Yourself
+excerpt: How to protect yourself
 ---
 
 CDC does not recommend that people who are well wear a facemask to protect themselves from respiratory illnesses, including 

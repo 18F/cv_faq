@@ -1,4 +1,11 @@
-<div class="usa-alert usa-alert--warning" >
+{% capture alert_class %}
+  {% if include.banner.hide-icon %}
+  usa-alert--no-icon
+  {% else %}
+  usa-alert--chat-plus
+{% endif %}
+{% endcapture %}
+<div class="usa-alert usa-alert--warning {{ alert_class }}" >
     <div class="usa-alert__body">
       <h3 class="usa-alert__heading">{{ include.banner.heading }}</h3>
       <p class="usa-alert__text">{{ include.banner.content }}</p>

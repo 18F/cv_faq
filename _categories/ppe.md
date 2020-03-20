@@ -1,8 +1,9 @@
 ---
 layout: category
 name: ppe
-title: "Personal Protective Equipment"
-promoted: false
+title: "Personal protective equipment"
+owner: CDC
+homepage_order: 14
 banner:
     display: false
     heading: "This is a place to place urgent information"

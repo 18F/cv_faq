@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
-excerpt: "Biosafety and COVID-19: Specimen Handling"
+excerpt: "Biosafety and COVID-19: Specimen handling"
 ---
 
 A shipper's declaration is not required for UN 3373 Biological Substances, Category B shipped samples. If an Air Waybill is used, the "Nature and Quantity of Goods" box should show "UN 3373 Biological Substance, Category B" along with the number of packages. If specimens are shipped on dry ice, include UN 1845, Dry Ice, 9, along with the net weight of the dry ice. See IATA PI 650 for additional information.

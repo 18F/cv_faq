@@ -10,41 +10,39 @@ This template is for a single page that does not have a date associated with it.
 {% assign this_category = categories | where:"name", page.name | first %}
 {% assign category_questions = this_category.items %}
 
-{% if page.banner.display == true %}
-  {% include alert-banner.html banner=page.banner %}
-{% endif %}
-<div class="usa-layout-docs usa-section" id="top">
-  <div class="grid-container">
-    <div class="grid-row grid-gap">
-      {% if page.sidenav == true %}
-      {% include sidenav.html %}
+<div class="usa-layout-docs usa-section grid-container" id="top">
+  <div class="grid-row grid-gap">
+    {% if page.sidenav == true %}
+    {% include sidenav.html %}
+    {% endif %}
+
+    <div class="usa-layout-docs__main desktop:grid-col-12 usa-prose">
+      <h1>{{ page.title }}</h1>
+      {% if page.banner.display == true %}
+      {% include alert-banner.html banner=page.banner %}
       {% endif %}
+      <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=true>
+        {% assign promoted_in_category = category_questions | group_by:"promoted" | reverse %}
+        {% for is_promoted in promoted_in_category %}
+        {% for question in is_promoted.items %}
+        {% if page.lang == question.lang  %}
+        {% include accordion.html accordion_content=question %}
+        {% endif %}
+        {% endfor %}
 
-      <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-          <h1>{{ page.title }}</h1>
-          <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=true>
-            {% assign promoted_in_category = category_questions | group_by:"promoted" | reverse %}
-              {% for is_promoted in promoted_in_category %}
-                {% for question in is_promoted.items %}
-                {% if page.lang == question.lang  %}
-                  {% include accordion.html accordion_content=question %}
-                {% endif %}
-                {% endfor %}
-
-              {% endfor %}
-          </div>
+        {% endfor %}
       </div>
     </div>
-    <div class="grid-row grid-gap margin-top-5">
-      <div class="desktop:grid-col-9 display-flex flex-column flex-align-end">
-            <a class="usa-link display-flex flex-justify-center flex-align-center" href="#top">
-              Return to top
-              <span class="margin-left-1">
-                {% capture icon_path %}icons/return-to-top.svg{% endcapture %}
-                {% asset '{{ icon_path }}' class="" alt="return-to-top icon" %}
-              </span>
-            </a>
-      </div>
+  </div>
+  <div class="grid-row grid-gap margin-top-5">
+    <div class="grid-col-12 display-flex flex-column flex-align-end">
+      <a class="usa-link display-flex flex-justify-center flex-align-center" href="#top">
+        Return to top
+        <span class="margin-left-1">
+          {% capture icon_path %}icons/return-to-top.svg{% endcapture %}
+          {% asset '{{ icon_path }}' class="" alt="return-to-top icon" %}
+        </span>
+      </a>
     </div>
   </div>
 </div>

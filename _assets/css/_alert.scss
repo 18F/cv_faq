@@ -1,0 +1,21 @@
+.usa-layout-docs__main {
+    .usa-alert {
+        @include u-margin-bottom(4);
+        h3.usa-alert__heading {
+            @include u-font('serif', 'lg');
+        }
+        .usa-alert__body {
+            padding-left: 4rem;
+        }
+    }
+}
+
+.usa-alert--no-icon {
+    background-image: unset;
+}
+
+
+
+.usa-alert--chat-plus {
+    background-image: asset_url('chat-plus.svg');
+}

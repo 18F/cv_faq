@@ -6,7 +6,7 @@ date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/respirator-use-faq.html#gowns
-excerpt: "Personal Protective Equipment: Gowns"
+excerpt: "Personal protective equipment: Gowns"
 ---
 
 Nonsterile, disposable patient isolation gowns, which are used for routine patient care in healthcare settings, are appropriate for use by patients with suspected or confirmed COVID-19.

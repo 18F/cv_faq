@@ -2,7 +2,8 @@
 layout: category
 name: k12-childcare
 title: "K-12 schools and childcare program administrators"
-promoted: false
+owner: CDC
+homepage_order: 13
 banner:
     display: false
     heading: "This is a place to place urgent information"

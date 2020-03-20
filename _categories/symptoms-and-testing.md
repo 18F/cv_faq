@@ -2,10 +2,10 @@
 layout: category
 name: symptoms-and-testing
 title: "Symptoms and testing"
-promoted: true
+owner: CDC
 homepage_order: 3
 banner:
-    display: false
-    heading: "This is a place to place urgent information"
-    content: "You can set this component to 'display: true' to show a banner at the top of the page."
+    display: true
+    heading: "Call your doctor"
+    content: "If you think you have been exposed to COVID-19 and develop a fever and symptoms, such as cough or difficulty breathing, call your healthcare provider for medical advice."
 ---

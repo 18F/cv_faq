@@ -1,8 +1,9 @@
 ---
 layout: category
-name: healthcare-infection
-title: "Healthcare infection"
-promoted: false 
+name: protect-others
+title: "How to protect others"
+owner: CDC
+homepage_order: 15
 banner:
     display: false
     heading: "This is a place to place urgent information"
