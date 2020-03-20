@@ -1,18 +1,18 @@
 banner:
   content: >-
     More at <a
-    href="https://www.whitehouse.gov/wp-content/uploads/2020/03/03.16.20_coronavirus-guidance_8.5x11_315PM.pdf">whitehouse.gov</a>
+    href="https://www.whitehouse.gov/wp-content/uploads/2020/03/03.16.20_coronavirus-guidance_8.5x11_315PM.pdf">Whitehouse.gov</a>
     and <a
     href="https://www.cdc.gov/coronavirus/2019-ncov/prepare/pdfs/Coronavirus-guidelines_SPANISH.pdf"
     lang="es">en español.</a>
-  display: true
+  display: false
   heading: >-
     The President’s Coronavirus Guidelines for America: 15 days to slow the
-    spread of coronavirus (COVID-19). 
+    spread of Coronavirus (COVID-19). 
   hide-icon: true
 hero:
   tagline: or browse the categories below.
-  title: Find answers about coronavirus (COVID-19)
+  title: Find answers about Coronavirus (COVID-19)
 top_questions:
   - icon: stethoscope
     link: >-
