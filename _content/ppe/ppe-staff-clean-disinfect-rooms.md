@@ -1,6 +1,6 @@
 ---
 title: What personal protective equipment (PPE) should be worn by staff who clean and disinfect patient rooms?
-category: healthcare-infection
+category: ppe
 layout: post
 date: March 17, 2020
 source: CDC

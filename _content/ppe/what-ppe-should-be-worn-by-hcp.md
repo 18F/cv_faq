@@ -1,6 +1,6 @@
 ---
 title: What personal protective equipment (PPE) should be worn by staff who are providing care to asymptomatic patients with a history of exposure to COVID-19?
-category: healthcare-infection
+category: ppe
 layout: post
 date: March 17, 2020
 source: CDC

@@ -1,6 +1,6 @@
 ---
 title: What personal protective equipment (PPE) should be worn by staff transporting patients within a healthcare facility?
-category: healthcare-infection
+category: ppe
 layout: post
 date: March 17, 2020
 source: CDC

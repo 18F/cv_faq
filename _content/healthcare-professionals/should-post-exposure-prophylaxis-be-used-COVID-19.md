@@ -1,6 +1,6 @@
 ---
 title: Should post-exposure prophylaxis be used for people who may have been exposed to COVID-19?
-category: healthcare
+category: healthcare-professionals
 layout: post
 date: March 16, 2020
 source: CDC
