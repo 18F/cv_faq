@@ -1,8 +1,8 @@
 .usa-hero.hero__no-image {
   background-image: none !important;
   @include u-bg('base-lightest');
-  padding-top: units(2);
-  padding-bottom: units(0);
+  padding-top: units(6);
+  padding-bottom: units(10);
   text-align: center;
   h1 {
     @include u-font('serif', '2xl');
@@ -26,6 +26,10 @@
 }
 .usa-search {
   text-align: center;
+  margin: auto;
+  @include at-media('tablet'){
+    max-width: 80%;
+  }
   div {
     align-items: center;
     justify-content: center;
@@ -47,12 +51,4 @@
     padding: units(3) units(6);
     height: 4.5rem;
   }
-}
-
-.hero--tagline {
-  @include u-font('sans', 'md');
-  @include u-text('base-darkest', 'light');
-  margin-top: units(4);
-  margin-bottom: units(3);
-  text-align: center;
 }
