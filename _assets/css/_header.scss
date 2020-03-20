@@ -27,6 +27,10 @@
 .usa-banner__content {
   display: hidden;
 }
+.usa-banner__inner {
+  @include u-padding-x(3);
+  align-items: left;
+}
 
 
 
@@ -129,6 +133,7 @@ header {
 .header--logo-row__right {
   display: flex;
   align-items: center;
+  justify-content: center;
   @include at-media-max('desktop') {
     text-align: center;
   }
