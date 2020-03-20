@@ -6,9 +6,8 @@ date: March 16, 2020
 source: CDC
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/downloads/workplace-school-and-home-guidance.pdf
 promoted: true
-excerpt: How to protect others
+excerpt: Keeping your home safe
 ---
-What every American and community can do now to decrease the spread of the coronavirus
 
 ### All households
 - Clean hands at the door and at regular intervals practice regular handwashing

@@ -9,7 +9,7 @@ source_url: https://www.cdc.gov/handwashing/when-how-handwashing.html
 
 **Handwashing is one of the best ways to protect yourself and your family from getting sick. Learn when and how you should wash your hands to stay healthy.**
 
-### Wash Your Hands Often to Stay Healthy
+### Wash your hands often to stay healthy
 
 You can help yourself and your loved ones stay healthy by washing your hands often, especially during these key times when you are likely to get and spread germs:
 * **Before, during,** and **after** preparing food
@@ -17,13 +17,13 @@ You can help yourself and your loved ones stay healthy by washing your hands oft
 * **Before** and after caring for someone at home who is sick with vomiting or diarrhea
 * **Before** and after treating a cut or wound
 * **After** using the toilet
-* **After** <a href="https://www.cdc.gov/healthywater/hygiene/diapering/index.html"> changing diapers or cleaning up a child who has used the toilet</a>
+* **After** [changing diapers or cleaning up a child who has used the toilet](https://www.cdc.gov/healthywater/hygiene/diapering/index.html)
 * **After** blowing your nose, coughing, or sneezing
 * **After** touching an animal, animal feed, or animal waste
 * **After** handling pet food or pet treats
 * **After** touching garbage
 
-###Follow Five Steps to Wash Your Hands the Right Way
+### Follow five steps to wash your hands the right way
 
 Washing your hands is easy, and it’s one of the most effective ways to prevent the spread of germs. Clean hands can stop germs from spreading from one person to another and throughout an entire community—from your home and workplace to childcare facilities and hospitals.
 Follow these five steps every time.
@@ -33,11 +33,11 @@ Follow these five steps every time.
 4. **Rinse** your hands well under clean, running water.
 5. **Dry** your hands using a clean towel or air dry them.
 
-<a href="https://www.cdc.gov/handwashing/show-me-the-science-handwashing.html"> Why? Read the science behind the recommendations.</a>
+[Why? Read the science behind the recommendations.](https://www.cdc.gov/handwashing/show-me-the-science-handwashing.html)
 
-### Use Hand Sanitizer When You Can’t Use Soap and Water
+### Use hand sanitizer when you can't use soap and water
 
-Washing hands with soap and water is the best way to get rid of germs in most situations. If soap and water are not readily available, you can use an alcohol-based <a href="https://www.cdc.gov/handwashing/show-me-the-science-hand-sanitizer.html"> hand sanitizer</a> that contains at least 60% alcohol. You can tell if the sanitizer contains at least 60% alcohol by looking at the product label.
+Washing hands with soap and water is the best way to get rid of germs in most situations. If soap and water are not readily available, you can use an alcohol-based [hand sanitizer](https://www.cdc.gov/handwashing/show-me-the-science-hand-sanitizer.html) that contains at least 60% alcohol. You can tell if the sanitizer contains at least 60% alcohol by looking at the product label.
 
 **Sanitizers can quickly reduce the number of germs on hands in many situations. However,**
 * Sanitizers do not get rid of all types of germs.
@@ -50,11 +50,10 @@ Washing hands with soap and water is the best way to get rid of germs in most si
 * Rub your hands together.
 * Rub the gel over all the surfaces of your hands and fingers until your hands are dry. This should take around 20 seconds.
 
-**Caution!** Swallowing alcohol-based hand sanitizers can cause alcohol poisoning if more than a couple of mouthfuls are swallowed. Keep it out of reach of young children and supervise their use. Learn more <a href="https://www.cdc.gov/handwashing/show-me-the-science-hand-sanitizer.html#swallowing"> here</a>.
+**Caution!** Swallowing alcohol-based hand sanitizers can cause alcohol poisoning if more than a couple of mouthfuls are swallowed. Keep it out of reach of young children and supervise their use. [Learn more about safely using hand sanitizer](https://www.cdc.gov/handwashing/show-me-the-science-hand-sanitizer.html#swallowing).
 
-For more information on handwashing, visit CDC’s <a href="https://www.cdc.gov/handwashing/index.html"> Handwashing website</a> and resources on hand hygiene:
-* <a href="https://www.cdc.gov/handhygiene/index.html"> Hand Hygiene in Healthcare Settings</a>
-* <a href="https://www.cdc.gov/disasters/floods/sanitation.html"> Hand Hygiene After a Disaster</a>
-* <a href="https://www.cdc.gov/healthywater/hygiene/index.html" Water-related Hygiene</a>
-* <a href="https://www.cdc.gov/nceh/vsp/pub/Handwashing/HandwashingTips.htm" Keeping Your Hands Clean on a Cruise</a>
-
+For more information on handwashing, visit [CDC’s handwashing website](https://www.cdc.gov/handwashing/index.html) and resources on hand hygiene:
+- [Hand hygiene in healthcare settings](https://www.cdc.gov/handhygiene/index.html)
+- [Hand hygiene after a disaster](https://www.cdc.gov/disasters/floods/sanitation.html)
+- [Water-related hygiene](https://www.cdc.gov/healthywater/hygiene/index.html)
+- [Keeping your hands clean on a cruise](https://www.cdc.gov/nceh/vsp/pub/Handwashing/HandwashingTips.htm)
