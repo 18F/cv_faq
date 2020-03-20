@@ -8,10 +8,10 @@ banner:
   display: false
   heading: >-
     The President’s Coronavirus Guidelines for America: 15 days to slow the
-    spread of Coronavirus (COVID-19). 
+    spread of Coronavirus (COVID-19).
   hide-icon: true
 hero:
-  tagline: or browse the categories below.
+  tagline: ""
   title: Find answers about Coronavirus (COVID-19)
 top_questions:
   - icon: stethoscope
