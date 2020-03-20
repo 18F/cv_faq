@@ -10,7 +10,7 @@ slug: '{{slug}}'
 fields:
   - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
   - {label: 'Title', name: 'title', widget: 'string'}
-  - {label: 'Category', name: 'category', widget: 'string'}
+  - {label: 'Category - from existing', name: 'category', widget: 'relation', collection: 'categories', searchFields: ['title', 'name'], valueField: 'name',  displayFields: 'title'}
   - {label: 'Source name', name: 'source', widget: 'string'}
   - {label: 'Source link', name: 'source_url', widget: 'string'}
   - {label: 'Promoted', name: 'promoted', widget: 'boolean', default: false}

@@ -3,6 +3,7 @@ layout: category
 name: funerals
 title: "COVID-19 and funerals"
 promoted: false
+owner: CDC
 banner:
     display: false
     heading: "This is a place to place urgent information"
