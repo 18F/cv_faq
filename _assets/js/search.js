@@ -5,6 +5,8 @@
   const RESULTS_LIMIT = 50;
   const BASE_URL = document.querySelector("meta[name='baseurl']").content;
   const SEARCHGOV_ENDPOINT = document.querySelector("meta[name='searchgov_endpoint']").content;
+  const SEARCHGOV_TA_ENDPOINT = document.querySelector("meta[name='searchgov_ta_endpoint']").content;
+
   const SEARCHGOV_AFFILIATE = document.querySelector("meta[name='searchgov_affiliate']").content;
   const SEARCHGOV_ACCESS_KEY = document.querySelector("meta[name='searchgov_access_key']").content;
 
@@ -54,6 +56,35 @@
       };
     });
   }
+
+  const translate_fromSearchTA = (response) => {
+    return response;
+  }
+
+    //////////////////////////////////
+  // Performing search.gov search term typeahead query
+  const search_ta_searchGov = (query) => new Promise((resolve, reject) => {
+    const searchEndpoint = new URL(`${SEARCHGOV_TA_ENDPOINT}`);
+    const searchTimeout = 3; // seconds
+
+    window.setTimeout(() => {
+      reject(new Error(`Request for search.gov results timed out after ${searchTimeout} seconds.`));
+    }, searchTimeout * 1000);
+
+    Object.entries({
+      name: SEARCHGOV_AFFILIATE,
+      q: query,
+    }).forEach(([key, value]) => searchEndpoint.searchParams.append(key, value));
+
+    const searchgov = fetch(searchEndpoint)
+      .then(response => response.json());
+
+    searchgov.catch(reject);
+
+    searchgov
+      .then(translate_fromSearchTA)
+      .then(resolve);
+  });
 
   //////////////////////////////////
   // Performing search
@@ -110,6 +141,17 @@
       });
   });
 
+  window.TaSearchService = (query) => new Promise((resolve, reject) => {
+    search_ta_searchGov(query)
+      .then(resolve)
+      .catch(error => {
+        console.warn('Using local search fallback.', error);
+        search_local(query)
+          .then(resolve)
+          .catch(reject);
+      });
+  });
+
   //////////////////////////////////
   // Type Ahead Input
 
@@ -125,7 +167,7 @@
     let runningRequest = null;
 
     const makeDebouncedRequest = debounce((query, completed) => {
-      window.SearchService(query)
+      window.TaSearchService(query)
         .then(results => completed(results.slice(0, 5)));
     }, 300);
 
@@ -136,13 +178,8 @@
       placeholder: previousInput.getAttribute('placeholder'),
       confirmOnBlur: false,
       onConfirm: (item) => {
-        if (item && item.url) {
-          window.location.href = item.url;
-        }
-      },
-      templates: {
-        inputValue: () => '',
-        suggestion: (item) => highlight(item.title)
+        document.getElementById('search-box').value = item;
+        document.getElementById('search_form').submit();
       },
       tNoResults: () => {
         return runningRequest ? 'Loading…' : `No results for “${newInput.value}”`;
