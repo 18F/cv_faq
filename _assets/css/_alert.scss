@@ -1,4 +1,23 @@
+.usa-layout-docs__main {
+    .usa-alert {
+        @include u-margin-bottom(4);
+
+        .usa-alert__body {
+            padding-left: 4rem;
+
+            .usa_alert__heading {
+                @include u-font-family('serif');
+            }
+        }
+    }
+}
+
 .usa-alert--no-icon {
     background-image: unset;
-    /* padding-left: 0; */
 }
+
+.usa-alert--chat-plus {
+    background-image: asset_url('chat-plus.svg');
+}
+
+

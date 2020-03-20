@@ -10,9 +10,6 @@ This template is for a single page that does not have a date associated with it.
 {% assign this_category = categories | where:"name", page.name | first %}
 {% assign category_questions = this_category.items %}
 
-{% if page.banner.display == true %}
-{% include alert-banner.html banner=page.banner %}
-{% endif %}
 <div class="usa-layout-docs usa-section grid-container" id="top">
   <div class="grid-row grid-gap">
     {% if page.sidenav == true %}
@@ -21,6 +18,9 @@ This template is for a single page that does not have a date associated with it.
 
     <div class="usa-layout-docs__main desktop:grid-col-12 usa-prose">
       <h1>{{ page.title }}</h1>
+      {% if page.banner.display == true %}
+        {% include alert-banner.html banner=page.banner %}
+      {% endif %}
       <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=true>
         {% assign promoted_in_category = category_questions | group_by:"promoted" | reverse %}
         {% for is_promoted in promoted_in_category %}

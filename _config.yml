@@ -165,6 +165,7 @@ exclude:
 # output directory _site_assets for use by jekyll-assets
 assets:
   sources:
+    - _assets/images/icons
     - node_modules/uswds/dist/img
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
