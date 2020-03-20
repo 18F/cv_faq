@@ -54,6 +54,7 @@ header[role=banner] {
 }
 
 header {
+  @include u-border-bottom('base-lightest', '1px', 'solid');
   .menu-search {
     @media screen and (max-width: 640px) {
       @include u-padding-x(0);
@@ -61,6 +62,26 @@ header {
     input {
       width: 100%;
       max-width: 100%;
+      border-top-left-radius: 5px;
+      border-bottom-left-radius: 5px;
+      @include u-border('base-lighter');
     }
+  }
+}
+
+.header--logo-row__top {
+  text-align: center;
+  @include u-margin-y(2);
+}
+
+.header--logo-row__right {
+  @media screen and (max-width:640px) {
+    text-align: center;
+  }
+}
+
+.usa-logo {
+  @media screen and (max-width: 639px) {
+    text-align: center;
   }
 }
