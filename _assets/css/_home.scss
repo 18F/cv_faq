@@ -72,3 +72,7 @@
     @include u-padding-bottom(3);
   }
 }
+
+#more-questions:focus {
+  outline: none;
+}
