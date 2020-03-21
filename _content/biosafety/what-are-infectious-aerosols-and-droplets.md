@@ -9,7 +9,7 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/biosafety-faqs.html
 excerpt: "Biosafety and COVID-19: Specimen handling"
 ---
 
-**Aerosols and droplets*** containing particles that are <100 μm in diameter are not visible to the naked eye. Laboratory workers may not be aware that such particles could be generated during many laboratory procedures and that these particles could be inhaled or could cross-contaminate work surfaces, materials, and equipment.
+**Aerosols and droplets** containing particles that are <100 μm in diameter are not visible to the naked eye. Laboratory workers may not be aware that such particles could be generated during many laboratory procedures, and that these particles could be inhaled or could cross-contaminate work surfaces, materials, and equipment.
 
 **Infectious aerosols** are small liquid or solid particles suspended in the air that contain infectious agents.  They can disperse throughout the laboratory and remain infective over time and distance. These particles are of a size that may be inhaled into the lower respiratory tract (<5 μm in diameter).
 
