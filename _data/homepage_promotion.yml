@@ -16,10 +16,10 @@ hero:
 top_questions:
   - icon: stethoscope
     link: >-
-      /symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause
+      /symptoms-and-testing/what-are-the-symptoms-and-complications-that-covid-19-can-cause
     question: What are the symptoms?
   - icon: test
-    link: '/symptoms-and-testing/#should-i-be-tested-for-covid-19'
+    link: '/symptoms-and-testing/should-i-be-tested-for-covid-19'
     question: Should I get tested?
   - icon: chart
     link: /spread/how-does-the-virus-spread
@@ -28,7 +28,7 @@ top_questions:
     link: /basics/what-is-social-distancing
     question: What is social distancing?
   - icon: globe
-    link: '/protect-yourself/#has-anyone-in-the-united-states-gotten-infected'
+    link: '/protect-yourself/how-many-cases-are-there-in-the-US'
     question: Cases in the U.S.
   - icon: plane
     link: /travel/should-i-travel-within-the-us/
@@ -51,7 +51,7 @@ questions_box_2:
     - link: >-
         /symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause
       question: What are the symptoms of COVID-19?
-    - link: '/symptoms-and-testing/#should-i-be-tested-for-covid-19'
+    - link: '/symptoms-and-testing/should-i-be-tested-for-covid-19'
       question: Should I get tested?
     - link: /symptoms-and-testing/when-should-i-call-my-doctor
       question: When should I go to the doctor?
