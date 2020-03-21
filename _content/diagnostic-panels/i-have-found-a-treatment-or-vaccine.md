@@ -9,4 +9,4 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/lab/tool-virus-requests.ht
 excerpt: Diagnostic panels
 ---
 
-BARDA is providing a portal to support U.S. government medical countermeasure research and development. Interested stakeholders can learn more [here](https://medicalcountermeasures.gov/app/barda/coronavirus.aspx).
+BARDA (Biomedical Advanced Research and Development Authority) is providing a portal to support U.S. government medical countermeasure research and development. [Interested stakeholders can learn more about the medical countermeasures task force here](https://medicalcountermeasures.gov/app/barda/coronavirus.aspx).
