@@ -17,7 +17,7 @@ If you are coming from a country or a region with <a href="https://www.cdc.gov/c
 2. **Monitor your health**. Take your temperature with a thermometer two times a day and monitor for fever (temperature of 100.4°F/38°C or higher). Also watch for cough or trouble breathing.
 3. **Practice social distancing** within the home. Avoid contact with other people for the 14 days. Maintain distance (approximately 6 feet or 2 meters) from family members and others in the home when possible.
 
-If you are coming from a country with <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html#transmission"> ongoing community transmission</a> (<a href="https://wwwnc.cdc.gov/travel/notices/alert/coronavirus-global"> Level 2 Travel Health Notice</a>), take the following steps to protect yourself and others:
+If you are coming from a country with <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html#transmission"> ongoing community transmission</a> (<a href="https://wwwnc.cdc.gov/travel/notices/alert/coronavirus-global">Level 2 Travel Health Notice</a>), take the following steps to protect yourself and others:
 
 1. **Monitor your health**. Take your temperature with a thermometer two times a day and monitor for fever (temperature of 100.4°F/38°C or higher). Also watch for cough or trouble breathing.
 
