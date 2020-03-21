@@ -3,7 +3,7 @@ layout: category
 name: cdc-actions
 title: "What CDC is doing"
 owner: CDC
-homepage_order: 5
+homepage_order: 18
 banner:
   display: false
   heading: "This is a place to place urgent information"
