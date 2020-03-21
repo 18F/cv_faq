@@ -8,7 +8,7 @@
 
 .top-questions h2 {
   @include u-text('black');
-  @include u-font('sans', 'lg');
+  @include u-font('sans', 'xl');
   font-weight: bold;
   text-align: center;
 }
@@ -17,7 +17,7 @@
   @include u-border('base-lightest');
   @include u-border('1px');
   @include u-margin(2);
-  @include u-padding(1);
+  @include u-radius('sm');
   display: flex;
   align-items: center;
 
@@ -28,12 +28,12 @@
   }
 
   .icon {
+    @include u-radius('md');
     background-color: $blue-lighter;
-    border-radius: 0;
-    width: 3rem;
-    height: 3rem;
-    min-width: 3rem;
-    min-height: 3rem;
+    width: 3.2rem;
+    height: 3.2rem;
+    min-width: 3.2rem;
+    min-height: 3.2rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -60,7 +60,9 @@
     color: $vivid-blue;
     align-self: flex-end;
     width: 100%;
-    &:visited,
+    &:visited {
+      color: $vivid-blue;
+    }
     &:hover,
     &:focus {
       @include u-color('primary-dark');
