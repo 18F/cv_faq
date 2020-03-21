@@ -12,14 +12,14 @@ banner:
   hide-icon: true
 hero:
   tagline: ""
-  title: Find answers about Coronavirus (COVID-19)
+  title: Find answers about Coronavirus
 top_questions:
   - icon: stethoscope
     link: >-
       /symptoms-and-testing/what-are-the-symptoms-and-complications-that-covid-19-can-cause
     question: What are the symptoms?
   - icon: test
-    link: '/symptoms-and-testing/should-i-be-tested-for-covid-19'
+    link: "/symptoms-and-testing/should-i-be-tested-for-covid-19"
     question: Should I get tested?
   - icon: chart
     link: /spread/how-does-the-virus-spread
@@ -28,7 +28,7 @@ top_questions:
     link: /basics/what-is-social-distancing
     question: What is social distancing?
   - icon: globe
-    link: '/protect-yourself/how-many-cases-are-there-in-the-US'
+    link: "/protect-yourself/how-many-cases-are-there-in-the-US"
     question: How many cases are there in the U.S.?
   - icon: plane
     link: /travel/should-i-travel-within-the-us/
@@ -51,7 +51,7 @@ questions_box_2:
     - link: >-
         /symptoms-and-testing/what-are-the-symptoms-and-complications-that-covid-19-can-cause
       question: What are the symptoms of COVID-19?
-    - link: '/symptoms-and-testing/should-i-be-tested-for-covid-19'
+    - link: "/symptoms-and-testing/should-i-be-tested-for-covid-19"
       question: Should I get tested?
     - link: /symptoms-and-testing/when-should-i-call-my-doctor
       question: When should I go to the doctor?
