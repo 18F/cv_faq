@@ -8,6 +8,7 @@ div.usa-layout-docs.usa-section {
 
   .usa-prose>h2 {
     padding-bottom: units(2);
+    @include u-font-family('sans');
   }
 }
 

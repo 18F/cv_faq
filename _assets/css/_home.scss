@@ -1,3 +1,5 @@
+@import 'settings';
+
 .usa-section.usa-section--condensed {
     @include at-media('tablet') {
       @include u-padding-y(6);
@@ -5,7 +7,9 @@
 }
 
 .top-questions h2 {
-  @include u-text('black', 'light');
+  @include u-text('black');
+  @include u-font('sans', 'lg');
+  font-weight: bold;
   text-align: center;
 }
 
@@ -14,7 +18,6 @@
   @include u-border('1px');
   @include u-margin(2);
   @include u-padding(1);
-  @include u-radius('lg');
   display: flex;
   align-items: center;
 
@@ -25,7 +28,7 @@
   }
 
   .icon {
-    background-color: #eef5f6;
+    background-color: $blue-lighter;
     border-radius: 100%;
     width: 3rem;
     height: 3rem;
@@ -37,7 +40,6 @@
 
 .question-box {
   @include u-margin(1);
-  @include u-radius('lg');
   @include u-padding-x(4);
   @include u-padding-y(2);
   height: 100%;
@@ -45,17 +47,15 @@
   flex-direction: column;
 
   &.question-box--info {
-    /* @include u-bg('info-lighter'); */
-      background-color:#eaf1fb
+    background-color: $blue-lighter;
   }
 
   &.question-box--warning {
-   /* @include u-bg('warning-lighter'); */
-         background-color:#eaf1fb
+    background-color:$blue-lighter;
   }
 
   a {
-    @include u-color('primary-dark');
+    color: $vivid-blue;
     align-self: flex-end;
     width: 100%;
     &:visited,
@@ -68,9 +68,16 @@
 
 .more-topics {
   @include u-bg('base-lightest');
-  @include u-radius('lg');
 
   @include at-media('mobile'){
     @include u-padding-bottom(3);
   }
+}
+
+#more-questions-button {
+  border-radius: 0;
+}
+
+.usa-button {
+  border-radius: 0!important;
 }
