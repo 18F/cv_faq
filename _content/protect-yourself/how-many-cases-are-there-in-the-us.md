@@ -1,5 +1,5 @@
 ---
-title: Has anyone in the US been infected?
+title: How many cases are there in the U.S.?
 category: protect-yourself
 layout: post
 date: March 21, 2020
