@@ -73,11 +73,10 @@
     @include u-padding-bottom(3);
   }
 }
-
-#more-questions-button {
-  border-radius: 0;
-}
-
 .usa-button {
   border-radius: 0!important;
 }
+#more-questions:focus {
+  outline: none;
+}
+
