@@ -2,19 +2,25 @@
 title: What can I expect when arriving to the United States?
 category: travel
 layout: post
-date: March 16, 2020
+date: March 21, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
 excerpt: "Travel: Returning from travel"
 ---
 
-At this time, travel restrictions and entry screening only apply to travelers arriving from countries with a level 3 travel health notice. **US policies are subject to change as the COVID-19 pandemic evolves.**
+At this time, travel restrictions and entry screening apply only to travelers arriving from some countries or regions with widespread ongoing spread of COVID-19. [Note: US policies are subject to change as the COVID-19 pandemic evolves.]
 
-This means that if you traveled from countries other than those listed above, you:
-* Won’t be subject to additional health screening upon arrival in the United States, and
-* Won’t be under mandatory quarantine orders upon entry to the United States.
+If you are coming from a country or a region with <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html#transmission"> widespread ongoing transmission</a> of COVID-19 (Level 3 Travel Heath Notice), you may be screened when you arrive in the United States. After you arrive home, take the following steps to protect yourself and others:
 
-If you are arriving to the United States from a country with <a href="https://wwwnc.cdc.gov/travel/notices/"> level 2 travel health notice</a>, you will be asked to monitor your health and practice social distancing. Social distancing means staying out of crowded places, avoiding group gatherings, and maintaining distance (approximately 6 feet or 2 meters) from others when possible.
+1. **Stay at home**. Do not go to work, school, or leave your house for 14 days. Discuss your work situation with your employer.
+2. **Monitor your health**. Take your temperature with a thermometer two times a day and monitor for fever (temperature of 100.4°F/38°C or higher). Also watch for cough or trouble breathing.
+3. **Practice social distancing** within the home. Avoid contact with other people for the 14 days. Maintain distance (approximately 6 feet or 2 meters) from family members and others in the home when possible.
 
-If you are coming from an international destination with a <a href="https://wwwnc.cdc.gov/travel/notices/"> level 3 Travel Health Notice</a>, you will be asked to stay home for 14 days from the time you return from travel, monitor your health and practice social distancing. Social distancing means staying out of crowded places, avoiding group gatherings, and maintaining distance (approximately 6 feet or 2 meters) from others when possible.
+If you are coming from a country with <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html#transmission"> ongoing community transmission</a> <a href="https://wwwnc.cdc.gov/travel/notices/alert/coronavirus-global"> (Level 2 Travel Health Notice)</a>, take the following steps to protect yourself and others:
+
+1. **Monitor your health**. Take your temperature with a thermometer two times a day and monitor for fever (temperature of 100.4°F/38°C or higher). Also watch for cough or trouble breathing.
+
+2. **Practice social distancing**. Stay out of crowded places and avoid group gatherings. Do not go to shopping malls or to the movies. Keep your distance from others (about 6 feet or 2 meters). Do not take public transportation, taxis, or ride-shares during this time.
+
+Check CDC’s <a href="https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html#transmission"> Coronavirus Disease 2019 (COVID-19) Travel webpage</a> to find the current travel health notice level for your international travel.
