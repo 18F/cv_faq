@@ -1,8 +1,8 @@
 ---
-title: Has anyone in the United States gotten infected?
+title: What are the rates of infection in the United States?
 category: protect-yourself
 layout: post
-date: March 16, 2020
+date: March 21, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#protect
