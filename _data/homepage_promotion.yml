@@ -29,7 +29,7 @@ top_questions:
     question: What is social distancing?
   - icon: globe
     link: '/protect-yourself/#has-anyone-in-the-united-states-gotten-infected'
-    question: Cases in the U.S.
+    question: How many cases are there in the U.S.?
   - icon: plane
     link: /travel/should-i-travel-within-the-us/
     question: Can I travel?
