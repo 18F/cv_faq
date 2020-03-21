@@ -1,5 +1,5 @@
 ---
-title: What are the rates of infection in the United States?
+title: Has anyone in the US been infected?
 category: protect-yourself
 layout: post
 date: March 21, 2020
