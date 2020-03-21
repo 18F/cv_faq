@@ -17,8 +17,7 @@
       }
       button {
         @include u-text('normal');
-        border-top-left-radius: 0;
-        border-bottom-left-radius: 0;
+        border-radius: 0;
       }
     }
   }
@@ -87,8 +86,6 @@ header {
     input {
       width: 100%;
       max-width: 100%;
-      border-top-left-radius: 5px;
-      border-bottom-left-radius: 5px;
       @include u-border('base-lighter');
     }
   }
