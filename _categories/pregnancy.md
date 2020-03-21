@@ -1,7 +1,7 @@
 ---
 layout: category
 name: pregnancy
-title: "Women who are pregnant"
+title: "Pregnancy"
 owner: CDC
 homepage_order: 8
 banner:
