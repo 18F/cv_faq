@@ -1,12 +1,13 @@
 .usa-hero.hero__no-image {
   background-image: none !important;
-  @include u-bg('base-lightest');
+  @include u-bg($theme-color-primary);
+  @include u-color('white');
   padding-top: units(6);
   padding-bottom: units(10);
   text-align: center;
   h1 {
-    @include u-font('serif', '2xl');
-    @include u-text('black', 'light');
+    @include u-font('sans', '2xl');
+    @include u-text('white', 'bold');
     margin-top: units(3);
     margin-bottom: units(5);
   }
