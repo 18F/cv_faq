@@ -29,7 +29,7 @@ top_questions:
     question: What is social distancing?
   - icon: globe
     link: '/protect-yourself/how-many-cases-are-there-in-the-US'
-    question: Cases in the U.S.
+    question: How many cases are there in the U.S.?
   - icon: plane
     link: /travel/should-i-travel-within-the-us/
     question: Can I travel?
@@ -49,7 +49,7 @@ questions_box_1:
 questions_box_2:
   questions:
     - link: >-
-        /symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause
+        /symptoms-and-testing/what-are-the-symptoms-and-complications-that-covid-19-can-cause
       question: What are the symptoms of COVID-19?
     - link: '/symptoms-and-testing/should-i-be-tested-for-covid-19'
       question: Should I get tested?
