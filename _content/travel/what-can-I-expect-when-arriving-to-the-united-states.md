@@ -9,7 +9,7 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
 excerpt: "Travel: Returning from travel"
 ---
 
-At this time, travel restrictions and entry screening only apply to travelers arriving from countries with a level 3 travel health notice. [Note: US policies are subject to change as the COVID-19 pandemic evolves.]
+At this time, travel restrictions and entry screening only apply to travelers arriving from countries with a level 3 travel health notice. **US policies are subject to change as the COVID-19 pandemic evolves.**
 
 This means that if you traveled from countries other than those listed above, you:
 * Won’t be subject to additional health screening upon arrival in the United States, and
