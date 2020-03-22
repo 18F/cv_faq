@@ -9,6 +9,7 @@
 .top-questions h2 {
   @include u-text('black');
   @include u-font('sans', 'xl');
+  font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   text-align: center;
 }

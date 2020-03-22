@@ -1,11 +1,13 @@
 body {
   -moz-osx-font-smoothing: grayscale;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6,
 h2 .usa-accordion__button,
 .usa-prose > h1 {
   @include u-font-family('sans');
+  font-family: 'Open Sans', sans-serif;
 }
 
 .usa-accordion__button {
@@ -15,6 +17,7 @@ h2 .usa-accordion__button,
 
 p {
   @include u-font('sans', 'md');
+  font-family: 'Open Sans', sans-serif;
   @include u-text('base-darkest');
 }
 
