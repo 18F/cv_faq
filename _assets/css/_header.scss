@@ -13,6 +13,8 @@
       @include u-padding-top(4);
       input[type='search'] {
         height: 100%;
+        border-top-left-radius: 4px;
+        border-bottom-left-radius: 4px;
         @include u-border('base-lighter');
       }
       button {
@@ -86,6 +88,8 @@ header {
     input {
       width: 100%;
       max-width: 100%;
+      border-top-left-radius: 4px;
+      border-bottom-left-radius: 4px;
       @include u-border('base-lighter');
     }
   }
