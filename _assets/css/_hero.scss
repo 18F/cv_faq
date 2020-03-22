@@ -9,7 +9,7 @@
   text-align: center;
   h1 {
     @include u-font('sans', '2xl');
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
     @include u-text('white', 'bold');
     margin-top: units(3);
     margin-bottom: units(5);
@@ -53,7 +53,7 @@
   }
   #search-box {
     @include u-font('sans', 'lg');
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
     @include u-border('base-lighter');
     padding: units(3) units(4);
     max-width: none;
@@ -63,7 +63,7 @@
 
   .usa-button {
     @include u-font('sans', 'lg');
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
     @include u-text('normal');
     border-radius: 4px;
     padding: units(3) units(6);
