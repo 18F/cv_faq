@@ -18,5 +18,5 @@ groups, it can put everyone at risk.
 
   * This includes spring break and other group travel. Parents should help their older children revise spring break plans that included non-essential travel to crowded areas.
 
-* Information about COVID-19 in children is somewhat limited, but current data suggest children with COVID-19 may show only mild symptoms. However, they can still pass this virus onto others who may be at higher risk, including 
+* Information about [COVID-19 in children](https://www.cdc.gov/coronavirus/2019-ncov/faq.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fchildren-faq.html#school-dismissals) is somewhat limited, but current data suggest children with COVID-19 may show only mild symptoms. However, they can still pass this virus onto others who may be at higher risk, including 
 [older adults and people who have serious chronic medical conditions](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html).
