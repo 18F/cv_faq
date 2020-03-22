@@ -35,6 +35,8 @@
   }
   .usa-button {
     font-weight: bold !important;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
     &:hover,
     &:focus,
     &:active {
@@ -60,7 +62,7 @@
   .usa-button {
     @include u-font('sans', 'lg');
     @include u-text('normal');
-    border-radius: 0;
+    border-radius: 4px;
     padding: units(3) units(6);
     height: 4.5rem;
     background-color: $blue-dark;

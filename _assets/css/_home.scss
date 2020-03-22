@@ -17,7 +17,7 @@
   @include u-border('base-lightest');
   @include u-border('1px');
   @include u-margin(2);
-  @include u-radius('sm');
+  @include u-radius('md');
   display: flex;
   align-items: center;
 
@@ -78,7 +78,7 @@
   }
 }
 .usa-button {
-  border-radius: 0!important;
+  border-radius: 4px;
 }
 #more-questions:focus {
   outline: none;
