@@ -5,15 +5,16 @@ layout: post
 date: March 16, 2020
 source: CDC
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#returning-from-travel
 excerpt: "Travel: Returning from travel"
 ---
 
 At this time, travel restrictions and entry screening only apply to travelers arriving from countries with a level 3 travel health notice. **US policies are subject to change as the COVID-19 pandemic evolves.**
 
 This means that if you traveled from countries other than those listed above, you:
-* won’t be subject to additional health screening upon arrival in the United States
-* won’t be under mandatory quarantine orders upon entry to the United States.
+
+- won’t be subject to additional health screening upon arrival in the United States
+- won’t be under mandatory quarantine orders upon entry to the United States.
 
 If you are arriving to the United States from a country with <a href="https://wwwnc.cdc.gov/travel/notices/"> level 2 travel health notice</a>, you will be asked to monitor your health and practice social distancing. Social distancing means staying out of crowded places, avoiding group gatherings, and maintaining distance (approximately 6 feet or 2 meters) from others when possible.
 

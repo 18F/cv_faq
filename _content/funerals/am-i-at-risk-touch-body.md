@@ -9,7 +9,7 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390222
 excerpt: COVID-19 and funerals
 ---
 
-People should consider not touching the body of someone who has died of COVID-19, especially older people and anyone with severe underlying health conditions, who are at higher risk of developing serious COVID-19 illness. There may be less of a chance of the virus spreading from certain types of touching, such as holding the hand or hugging after the body has been prepared for viewing. However, other activities such as kissing, washing, and shrouding should be avoided before, during, and after the body has been prepared, if possible. 
+People should consider not touching the body of someone who has died of COVID-19, especially older people and anyone with severe underlying health conditions, who are at higher risk of developing serious COVID-19 illness. There may be less of a chance of the virus spreading from certain types of touching, such as holding the hand or hugging after the body has been prepared for viewing. However, other activities such as kissing, washing, and shrouding should be avoided before, during, and after the body has been prepared, if possible.
 
 If washing the body or shrouding are important religious or cultural practices, families are encouraged to work with their community cultural and religious leaders and funeral home staff on how to reduce their exposure as much as possible. At a minimum, people conducting these activities should wear disposable gloves. If splashing of fluids is expected, additional personal protective equipment (PPE) may be required, such as disposable gowns, faceshields, or goggles and facemasks).
 

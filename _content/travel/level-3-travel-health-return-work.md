@@ -1,5 +1,5 @@
 ---
-title: If I have been in a country with a Level 3 Travel Health Notice, when can I return to work? 
+title: If I have been in a country with a Level 3 Travel Health Notice, when can I return to work?
 category: travel
 layout: post
 date: March 16, 2020

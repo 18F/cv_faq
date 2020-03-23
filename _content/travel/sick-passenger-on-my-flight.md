@@ -1,11 +1,11 @@
 ---
-title: What happens if there is a sick passenger on my flight? 
+title: What happens if there is a sick passenger on my flight?
 category: travel
 layout: post
 date: March 16, 2020
 source: CDC
 promoted: true
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#air-cruise-travel
 excerpt: "Travel: Air or cruise travel"
 ---
 
