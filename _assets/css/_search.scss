@@ -35,14 +35,16 @@
   .usa-button {
     border-bottom-left-radius: 0;
     border-top-left-radius: 0;
+    height: 2.5rem;
   }
+
 }
 
-.autocomplete_container {
+.usa-search--interior {
   @include at-media('mobile'){
-    @include u-padding-left('105');
+    @include u-padding-x('105');
   }
   @include at-media('desktop'){
-    @include u-padding-left(0);
+    @include u-padding-x(0);
   }
 }
