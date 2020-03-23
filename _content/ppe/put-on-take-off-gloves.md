@@ -1,5 +1,5 @@
 ---
-title: How I do put on (don) and take off (doff) my gloves?
+title: How do I put on (don) and take off (doff) my gloves?
 category: ppe
 layout: post
 date: March 17, 2020
