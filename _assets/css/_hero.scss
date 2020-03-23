@@ -1,8 +1,6 @@
-@import 'settings';
-
 .usa-hero.hero__no-image {
   background-image: none !important;
-  background-color: $vivid-blue;
+  @include u-bg('primary-vivid');
   @include u-color('white');
   padding-top: units(6);
   padding-bottom: units(10);
@@ -28,11 +26,11 @@
     }
   }
 }
-.usa-search {
+.usa-search--hero {
   text-align: center;
   margin: auto;
   input:not([disabled]):focus, select:not([disabled]):focus, textarea:not([disabled]):focus, button:not([disabled]):focus {
-    outline: 0.25rem solid $gray-hover;
+    outline: 0.25rem solid $theme-color-base-lightest;
   }
   .usa-button {
     font-weight: bold !important;
@@ -71,11 +69,11 @@
     border-bottom-right-radius: 0.22rem;
     padding: units(3) units(6);
     height: 4.5rem;
-    background-color: $blue-dark;
+    @include u-bg('primary-darkest');
     &:hover,
     &:focus,
     &:active {
-      background-color: $blue-hover;
+      @include u-bg('primary-darker');
     }
   }
 }

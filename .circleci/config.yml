@@ -23,7 +23,6 @@ jobs:
           key: v2-bundle-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
-      - run: npm run build
       - run: npm run test
 
 

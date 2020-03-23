@@ -23,7 +23,7 @@
 
     <div class="menu-search grid-col-12 desktop:grid-col-6 padding-y-2">
       {% unless page.hide_search_in_header %}
-      {% include search.html placeholder="Search questions, keywords, or topics" %}
+      {% include search.html placeholder="Search keywords or topics" extra_class="usa-search--interior" %}
       {% endunless %}
       {% if page.hide_search_in_header %}
       <div class="header--logo-row__right">

@@ -16,22 +16,22 @@ hero:
 top_questions:
   - icon: stethoscope
     link: >-
-      /symptoms-and-testing/what-are-the-symptoms-and-complications-that-covid-19-can-cause
+      /symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause
     question: What are the symptoms?
   - icon: test
-    link: "/symptoms-and-testing/should-i-be-tested-for-covid-19"
+    link: "/symptoms-and-testing/#should-i-be-tested-for-covid-19"
     question: Should I get tested?
   - icon: chart
     link: /spread/how-does-the-virus-spread
     question: How does it spread?
   - icon: group
-    link: /basics/what-is-social-distancing
+    link: /basics/#what-is-social-distancing
     question: What is social distancing?
   - icon: globe
-    link: "/protect-yourself/how-many-cases-are-there-in-the-us/"
+    link: "/protect-yourself/#how-many-cases-are-there-in-the-u-s"
     question: Cases in the U.S.?
   - icon: plane
-    link: /travel/should-i-travel-within-the-us/
+    link: /travel/#should-i-travel-within-the-united-states
     question: Can I travel?
 questions_box_1:
   questions:
