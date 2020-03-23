@@ -8,7 +8,7 @@
     "start": "npm run start:site",
     "start:site": "bundle exec jekyll serve --host 0.0.0.0",
     "test": "npm run build && npm run test:htmlproofer && npm run test:jest",
-    "test:htmlproofer": "bundle exec htmlproofer _site --empty-alt-ignore",
+    "test:htmlproofer": "bundle exec rake htmlproof",
     "test:jest": "jest"
   },
   "dependencies": {
