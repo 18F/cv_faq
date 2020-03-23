@@ -1,5 +1,3 @@
-@import 'settings';
-
 .usa-section.usa-section--condensed {
     @include at-media('tablet') {
       @include u-padding-y(6);
@@ -30,7 +28,7 @@
 
   .icon {
     @include u-radius('md');
-    background-color: $blue-lighter;
+    @include u-bg('primary-lighter');
     border-bottom-left-radius: 0.22rem;
     border-top-left-radius: 0.22rem;
     border-bottom-right-radius: 0px;
@@ -55,19 +53,19 @@
   flex-direction: column;
 
   &.question-box--info {
-    background-color: $blue-lighter;
+    @include u-bg('primary-lighter');
   }
 
   &.question-box--warning {
-    background-color:$blue-lighter;
+    @include u-bg('primary-lighter');
   }
 
   a {
-    color: $vivid-blue;
+    @include u-color('primary-vivid');
     align-self: flex-end;
     width: 100%;
     &:visited {
-      color: $vivid-blue;
+      @include u-color('primary-vivid');
     }
     &:hover,
     &:focus {
