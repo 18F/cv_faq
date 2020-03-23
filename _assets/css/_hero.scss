@@ -69,7 +69,7 @@
     border-bottom-right-radius: 0.22rem;
     padding: units(3) units(6);
     height: 4.5rem;
-    @include u-bg('primary-dark');
+    @include u-bg('primary-darkest');
     &:hover,
     &:focus,
     &:active {
