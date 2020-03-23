@@ -5,11 +5,7 @@ layout: post
 date: March 16, 2020
 source: CDC
 promoted: false
-<<<<<<< HEAD
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390773118
-=======
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390773118
->>>>>>> a1ea7b235d6c1d656f32732591ec88c56a73b3a1
 excerpt: COVID-19 and animals
 ---
 
