@@ -1,0 +1,48 @@
+
+// General
+//This corresponds to the variables set in: 
+//https://github.com/uswds/uswds/blob/develop/src/stylesheets/theme/_uswds-theme-general.scss
+
+
+// Typographic
+// This corresponds to variables set in:
+// https://github.com/uswds/uswds/blob/develop/src/stylesheets/theme/_uswds-theme-typography.scss
+$theme-font-type-sans: 'open-sans';
+$theme-font-role-heading:   'sans';
+
+// Spacing
+// This corresponds to variables set in:
+// https://github.com/uswds/uswds/blob/develop/src/stylesheets/theme/_uswds-theme-spacing.scss
+
+//Color
+// This corresponds to variables set in:
+// https://github.com/uswds/uswds/blob/develop/src/stylesheets/theme/_uswds-theme-color.scss
+
+$site-palette: (
+    'custom-dark-blue': #14223B,
+    'custom-vivid-blue': #065fa9,
+    'custom-blue-lighter': #eaf1fb,
+    'custom-blue-hover': #0A4577,
+    'custom-gray-hover': #dcdee0,
+);
+
+$project-color-shortcodes: $site-palette;
+$custom-dark-blue: #14223B;
+$custom-vivid-blue: #065fa9;
+$custom-blue-lighter: #eaf1fb; // replacing primary lighter
+$custom-blue-hover: #0A4577;
+
+
+$custom-gray-hover: #dcdee0;
+
+$theme-color-base-lightest: 'custom-gray-hover';
+
+$theme-color-primary-lighter: 'custom-blue-lighter';
+$theme-color-primary-vivid: 'custom-vivid-blue';
+$theme-color-primary-dark: 'custom-dark-blue';
+$theme-color-primary-darker: 'custom-blue-hover';
+
+//Utilities
+// This corresponds to variables set in:
+// https://github.com/uswds/uswds/blob/develop/src/stylesheets/theme/_uswds-theme-utilities.scss
+
