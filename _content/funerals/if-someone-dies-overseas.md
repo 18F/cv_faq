@@ -5,7 +5,7 @@ layout: post
 date: March 16, 2020
 source: CDC
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#funerals
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390222777
 excerpt: COVID-19 and funerals
 ---
 
