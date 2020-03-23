@@ -7,7 +7,9 @@
     "clean": "bundle exec jekyll clean",
     "start": "npm run start:site",
     "start:site": "bundle exec jekyll serve --host 0.0.0.0",
-    "test": "npm run build && bundle exec rake htmlproof"
+    "test": "npm run build && npm run test:htmlproofer && npm run test:jest",
+    "test:htmlproofer": "bundle exec rake htmlproof",
+    "test:jest": "jest --testMatch '**/test/**/*.test.js'"
   },
   "dependencies": {
     "accessible-autocomplete": "^2.0.2",
@@ -16,6 +18,8 @@
     "uswds": "~2.1.0"
   },
   "devDependencies": {
-    "a11y": "^0.5.1"
+    "a11y": "^0.5.1",
+    "jest": "^25.1.0",
+    "true-case-path": "^2.2.1"
   }
 }
