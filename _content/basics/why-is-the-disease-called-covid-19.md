@@ -5,7 +5,7 @@ layout: post
 date: March 16, 2020
 source: CDC
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#basics
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386215012
 excerpt: About COVID-19
 ---
 

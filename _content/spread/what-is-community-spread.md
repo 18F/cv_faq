@@ -5,7 +5,7 @@ layout: post
 date: March 16, 2020
 source: CDC
 promoted: true
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#spreads
+source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553767
 excerpt: How it spreads
 ---
 
