@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "a11y": "^0.5.1",
-    "jest": "^25.1.0"
+    "jest": "^25.1.0",
+    "true-case-path": "^2.2.1"
   }
 }
