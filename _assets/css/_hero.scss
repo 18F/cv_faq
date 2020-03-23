@@ -1,5 +1,3 @@
-@import 'settings';
-
 .usa-hero.hero__no-image {
   background-image: none !important;
   @include u-bg('primary-vivid');
@@ -32,7 +30,7 @@
   text-align: center;
   margin: auto;
   input:not([disabled]):focus, select:not([disabled]):focus, textarea:not([disabled]):focus, button:not([disabled]):focus {
-    outline: 0.25rem solid 'base-lightest';
+    outline: 0.25rem solid $theme-color-base-lightest;
   }
   .usa-button {
     font-weight: bold !important;
