@@ -17,7 +17,7 @@ const puppeteer = require('puppeteer');
 const scrapeFaq = async (page) => {
   await page.goto('https://www.cdc.gov/coronavirus/2019-ncov/faq.html');
 
-  const data = await page.$$eval('.col.content h2', headings => headings.map(heading => {
+  const faqData = await page.$$eval('.col.content h2', headings => headings.map(heading => {
     const accordion = heading.nextElementSibling;
     const items = Array.from(accordion.querySelectorAll('.card-header'));
     const relativeLinks = accordion.querySelectorAll("a:not([href*='//']");
@@ -35,5 +35,8 @@ const scrapeFaq = async (page) => {
     };
   }));
 
-  return data;
+  return {
+    categories: faqData,
+    lastReviewed: await page.$eval('#last-reviewed-date', (e) => e.innerText)
+  };
 };
