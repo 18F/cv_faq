@@ -66,11 +66,11 @@ dap_agency: HHS
 i18n:
   - language: simplified chinese
     lang: zh
-    link: 
+    link:
     display_text: 中文
   - language: spanish
     lang: es
-    link: 
+    link:
     display_text: Español
 
 # Site Navigation
@@ -161,6 +161,9 @@ exclude:
   - Dockerfile
   - docker-compose.yml
   - test
+  - jest.config.js
+  - jest-puppeteer.config.js
+  - Rakefile
 
 # CSS and JS assets are compiled by gulp and placed in the intermediary
 # output directory _site_assets for use by jekyll-assets
