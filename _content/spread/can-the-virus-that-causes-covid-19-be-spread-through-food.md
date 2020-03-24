@@ -15,4 +15,4 @@ It may be possible that a person can get COVID-19 by touching a surface or objec
 
 In general, because of poor survivability of these coronaviruses on surfaces, there is likely very low risk of spread from food products or packaging that are shipped over a period of days or weeks at ambient, refrigerated, or frozen temperatures.
 
-Learn what is known about the spread of COVID-19.
+Learn what is known about the [spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/prepare/transmission.html).
