@@ -2,7 +2,7 @@
 title: Does CDC recommend the use of facemasks to prevent COVID-19?
 category: protect-yourself
 layout: post
-date: March 16, 2020
+date: March 24, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386949645
