@@ -13,7 +13,7 @@ Most people who get COVID-19 will be able to recover at home. [CDC has direction
 
 * Stay home when you are sick, except to get medical care.
 * If you develop emergency warning signs for COVID-19 get medical attention immediately. In adults, emergency warning signs<sup>1</sup> are:
-  * Difficulty breathing or shortness of breath
+  * Trouble breathing
   * Persistent pain or pressure in the chest
   * New confusion or inability to arouse
   * Bluish lips or face
