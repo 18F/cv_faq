@@ -2,7 +2,7 @@
 {% assign display_categories = site.categories | sort: "homepage_order" %}
 
 <section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
-  <div class="grid-row grid-gap">
+  <div class="grid-row grid-gap top-categories">
 
     {% for site_category in display_categories | limit: 6 %}
       {% assign current_category = categories | where:"name", site_category.name | first %}
@@ -32,7 +32,7 @@
             {% endfor %}
           {% endif %}
         </ul>
-        <a href="{{ site.baseurl }}/{{ site_category.name}}/" class="text-bold text-underline margin-y-1">View all <span
+        <a href="{{ site.baseurl }}/{{ site_category.name}}/" class="text-bold text-underline margin-y-1 view-all">View all <span
             class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
       </div>
     {% endfor %}
