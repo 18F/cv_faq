@@ -2,7 +2,7 @@
 title: What is community spread?
 category: spread
 layout: post
-date: March 16, 2020
+date: March 24, 2020
 source: CDC
 promoted: true
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553767
