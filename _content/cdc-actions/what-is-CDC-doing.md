@@ -2,7 +2,7 @@
 title: What is CDC doing about COVID-19?
 category: cdc-actions
 layout: post
-date: March 16, 2020
+date: March 23, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390797275

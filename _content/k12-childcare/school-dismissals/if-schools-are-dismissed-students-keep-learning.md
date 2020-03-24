@@ -1,12 +1,18 @@
 ---
-title: If schools are dismissed, how can students keep learning?
+title: Are there ways for students to keep learning if we decide to dismiss schools?
 category: k12-childcare
 layout: post
-date: March 16, 2020
+date: March 24, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
 excerpt: "K-12 schools and childcare program administrators: School dismissals"
 ---
 
-Many schools may use e-learning plans and distance learning options for continuity of education, if available. Your school or district's emergency operations plan should have recommended strategies for ensuring continuity of education and may provide guidance on how to proceed during a school dismissal. In addition, you may be able to use and/or scale up approaches used in other situations when students have not been able to attend school (e.g. inclement weather, facility damage, power outages).
+Yes, consider implementing e-learning plans, including digital and distance learning options as feasible and appropriate. Determine, in consultation with school district officials or other relevant state or local partners:
+
+* If a waiver is needed for state requirements of a minimum number of in-person instructional hours or school days (seat time) as a condition for funding.
+* How to convert face-to-face lessons into online lessons and how to train teachers to do so.
+* How to triage technical issues if faced with limited IT support and staff.
+* How to encourage appropriate adult supervision while children are using distance learning approaches.
+* How to deal with the potential lack of students’ access to computers and the internet at home.
