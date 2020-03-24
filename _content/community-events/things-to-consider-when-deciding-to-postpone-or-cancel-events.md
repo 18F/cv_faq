@@ -2,7 +2,7 @@
 title: What should I consider when deciding to postpone or cancel an event? 
 category: community-events
 layout: post
-date: March 15, 2020
+date: March 23, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html
