@@ -2,7 +2,7 @@
 title: What precautions should be taken for animals that have recently been imported (for example, by shelters, rescue groups, or as personal pets) from China?
 category: animals
 layout: post
-date: March 24, 2020
+date: March 23, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390773118

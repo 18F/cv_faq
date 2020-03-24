@@ -2,7 +2,7 @@
 title: Can COVID-19 cause problems for a pregnancy?
 category: pregnancy
 layout: post
-date: March 24, 2020
+date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html

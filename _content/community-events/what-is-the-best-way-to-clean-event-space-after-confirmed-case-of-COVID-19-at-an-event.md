@@ -2,7 +2,7 @@
 title: What is the best way to clean and disinfect the event space after a confirmed case of COVID-19 at my event?
 category: community-events
 layout: post
-date: March 24, 2020
+date: March 15, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html

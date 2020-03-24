@@ -2,7 +2,7 @@
 title: What actions should I take to plan for an outbreak?
 category: community-events
 layout: post
-date: March 24, 2020
+date: March 15, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html

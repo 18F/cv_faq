@@ -2,7 +2,7 @@
 title: What resources does CDC have available to share with staff, students, and parents?
 category: k12-childcare
 layout: post
-date: March 24, 2020
+date: March 19, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html

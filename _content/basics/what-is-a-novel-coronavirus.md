@@ -3,7 +3,7 @@ title: What is a novel coronavirus?
 category: basics
 layout: post
 promoted: true
-date: March 24, 2020
+date: March 23, 2020
 source: CDC
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386215012
 excerpt: About COVID-19

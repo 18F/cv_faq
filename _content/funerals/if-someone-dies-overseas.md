@@ -2,7 +2,7 @@
 title: What should I do if a family member dies of COVID-19 while overseas?
 category: funerals
 layout: post
-date: March 24, 2020
+date: March 23, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390222777

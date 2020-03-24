@@ -2,7 +2,7 @@
 title: If I make the decision for school dismissal, what else should I consider?
 category: k12-childcare
 layout: post
-date: March 24, 2020
+date: March 19, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
