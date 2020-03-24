@@ -1,6 +1,5 @@
 ---
-title: When does the CDC recommend that I cancel or postpone an event?
-category: community-events
+title: Do I need cancel an event if there are confirmed cases of COVID-19 in the community?
 layout: post
 date: March 24, 2020
 source: CDC
