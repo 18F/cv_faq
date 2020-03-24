@@ -5,6 +5,7 @@ layout: post
 date: March 22, 2020
 source: CDC
 promoted: false
+source_question: 
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
 excerpt: "K-12 schools and childcare program administrators: School dismissals"
 ---

@@ -4,6 +4,7 @@ category: protect-yourself
 layout: post
 date: March 19, 2020
 source: CDC
+source_question: 
 source_url: https://www.cdc.gov/handwashing/when-how-handwashing.html
 ---
 

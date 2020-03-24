@@ -5,6 +5,7 @@ layout: post
 date: March 24, 2020
 source: CDC
 promoted: false
+source_question: 
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#air-cruise-travel
 excerpt: "Travel: Air or cruise travel"
 ---

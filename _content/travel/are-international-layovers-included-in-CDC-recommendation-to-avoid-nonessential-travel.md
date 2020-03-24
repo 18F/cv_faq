@@ -5,6 +5,7 @@ layout: post
 date: March 24, 2020
 source: CDC
 promoted: false
+source_question: 
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#canceling-postponing-travel
 excerpt: "Travel: Canceling and postponing travel"
 ---

@@ -5,6 +5,7 @@ layout: post
 date: March 16, 2020
 source: CDC
 promoted: false
+source_question: 
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
 excerpt: Pregnant women and COVID-19
 ---

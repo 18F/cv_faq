@@ -5,6 +5,7 @@ layout: post
 date: March 19, 2020
 promoted: true
 source: CDC
+source_question: 
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions
 ---
 
