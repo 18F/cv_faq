@@ -1,5 +1,5 @@
 ---
-title: What steps should I take if an attendee or event staff person develops symptoms of COVID-19 while at my event?
+title: What steps should I take if an attendee or staff person develops symptoms of COVID-19 while at my event?
 category: community-events
 layout: post
 date: March 18, 2020
