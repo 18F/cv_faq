@@ -2,7 +2,7 @@
 title: What is the risk of my child becoming sick with COVID-19?
 category: children
 layout: post
-date: March 24, 2020
+date: March 23, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584387482747

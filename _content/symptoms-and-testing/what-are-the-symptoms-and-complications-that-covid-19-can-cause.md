@@ -2,7 +2,7 @@
 title: What are the symptoms and complications that COVID-19 can cause?
 category: symptoms-and-testing
 layout: post
-date: March 24, 2020
+date: March 23, 2020
 source: CDC
 promoted: true
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584389201096

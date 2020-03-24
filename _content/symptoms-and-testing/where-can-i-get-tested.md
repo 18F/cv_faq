@@ -2,7 +2,7 @@
 title: Where can I get tested for COVID-19?
 category: symptoms-and-testing
 layout: post
-date: March 24, 2020
+date: March 23, 2020
 source: CDC
 promoted: true
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584389201096

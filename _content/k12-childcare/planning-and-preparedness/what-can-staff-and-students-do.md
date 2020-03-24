@@ -2,7 +2,7 @@
 title: What can staff and students do to prevent the spread of COVID-19?
 category: k12-childcare
 layout: post
-date: March 24, 2020
+date: March 23, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html

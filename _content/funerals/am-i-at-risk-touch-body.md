@@ -2,7 +2,7 @@
 title: Am I at risk if I touch the body of someone who died of COVID-19?
 category: funerals
 layout: post
-date: March 24, 2020
+date: March 23, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390222777

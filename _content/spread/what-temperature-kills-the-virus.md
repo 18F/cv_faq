@@ -2,7 +2,7 @@
 title: What temperature kills the virus that causes COVID-19?
 category: spread
 layout: post
-date: March 24, 2020
+date: March 23, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553767

@@ -2,7 +2,7 @@
 title: Is it okay for me to donate blood?
 category: protect-yourself
 layout: post
-date: March 24, 2020
+date: March 23, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386949645
