@@ -2,7 +2,7 @@
 title: What should I do if the suspected sick student or staff member is confirmed to have COVID-19?
 category: k12-childcare
 layout: post
-date: March 23, 2020
+date: March 19, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
