@@ -2,7 +2,7 @@
 title: After arriving from a country with a level 3 travel health notice related to COVID-19 when can I return to work?
 category: travel
 layout: post
-date: March 24, 2020
+date: March 17, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#returning-from-travel
