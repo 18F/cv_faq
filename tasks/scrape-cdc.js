@@ -20,6 +20,9 @@ const scrapeFaq = async (page) => {
   const data = await page.$$eval('.col.content h2', headings => headings.map(heading => {
     const accordion = heading.nextElementSibling;
     const items = Array.from(accordion.querySelectorAll('.card-header'));
+    const relativeLinks = accordion.querySelectorAll("a:not([href*='//']");
+
+    relativeLinks.forEach(el => el.href = new URL(el.href, document.baseURI));
 
     return {
       title: heading.innerText,
