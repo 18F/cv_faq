@@ -2,7 +2,7 @@
 title: Is the COVID-19 virus found in feces?
 category: water-transmission
 layout: post
-date: March 16, 2020
+date: March 10, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html
