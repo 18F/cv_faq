@@ -35,8 +35,6 @@ top_questions:
     question: Can I travel?
 questions_box_1:
   questions:
-    - link: /protect-yourself/steps-to-prevent-the-illness
-      question: What are the steps to prevent the illness?
     - link: /protect-yourself/am-i-at-risk-for-covid-19-in-the-united-states
       question: Am I at risk?
     - link: /protect-others/
@@ -53,8 +51,6 @@ questions_box_2:
       question: What are the symptoms of COVID-19?
     - link: "/symptoms-and-testing/should-i-be-tested-for-covid-19"
       question: Should I get tested?
-    - link: /symptoms-and-testing/when-should-i-call-my-doctor
-      question: When should I go to the doctor?
     - link: /protect-yourself/how-to-care-for-someone-who-is-sick
       question: How do I care for someone who’s sick?
   title: What to do if you feel sick
