@@ -9,7 +9,7 @@
     "start:site": "bundle exec jekyll serve --host 0.0.0.0",
     "test": "npm run build && npm run test:htmlproofer && npm run test:jest",
     "test:htmlproofer": "bundle exec rake htmlproof",
-    "test:jest": "jest --testMatch '**/test/**/*.test.js'"
+    "test:jest": "jest"
   },
   "dependencies": {
     "accessible-autocomplete": "^2.0.2",
@@ -19,7 +19,10 @@
   },
   "devDependencies": {
     "a11y": "^0.5.1",
+    "http-server": "^0.12.1",
     "jest": "^25.1.0",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^2.1.1",
     "true-case-path": "^2.2.1"
   }
 }
