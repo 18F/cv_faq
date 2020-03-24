@@ -9,4 +9,4 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386949
 excerpt: How to protect yourself
 ---
 
-Yes. There have been cases of COVID-19 in the U.S. related to travel and through close contact. U.S. case counts are updated regularly Mondays through Fridays. See the [current U.S. case count of COVID-19] (https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html).
+Yes. There have been cases of COVID-19 in the U.S. related to travel and through close contact. U.S. case counts are updated regularly Mondays through Fridays. See the [current U.S. case count of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html).
