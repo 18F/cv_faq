@@ -1,6 +1,6 @@
 ---
 title: Schools are dismissed, can my child play with their friends?
-category: k12-childcare
+category: parents-and-children
 layout: post
 date: March 22, 2020
 source: CDC

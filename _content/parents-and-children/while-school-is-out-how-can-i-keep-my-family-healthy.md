@@ -1,6 +1,6 @@
 ---
 title: While school's out, how can I keep my family healthy?
-category: k12-childcare
+category: parents-and-children
 layout: post
 date: March 23, 2020
 source: CDC

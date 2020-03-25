@@ -1,6 +1,6 @@
 ---
 title: While school's out, should I limit time with older adults, including relatives, and people with chronic medical conditions?
-category: k12-childcare
+category: parents-and-children
 layout: post
 date: March 23, 2020
 source: CDC
