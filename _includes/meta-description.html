@@ -1,0 +1,7 @@
+{%- if page.layout == 'post' -%}
+    {{ page.content | strip_html | split: '.' | first | strip_newlines | truncate: 156 }}
+{%- elsif page.layout == 'category' -%}
+    Questions and answers about {{page.title}}
+{%- else -%}
+    {{site.description}}
+{%- endif -%}
