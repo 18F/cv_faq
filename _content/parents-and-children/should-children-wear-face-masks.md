@@ -1,6 +1,6 @@
 ---
 title: Should children wear face masks?
-category: children
+category: parents-and-children
 layout: post
 date: March 23, 2020
 source: CDC
