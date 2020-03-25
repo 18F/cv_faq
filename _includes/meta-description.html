@@ -1,0 +1,7 @@
+{%- if page.layout == 'post' -%}
+    {{ page.content | strip_html| split: '.' | first }}
+{%- elsif page.layout == 'category' -%}
+    Questions and answers about {{page.title}}
+{%- else -%}
+    {{site.description}}
+{%- endif -%}
