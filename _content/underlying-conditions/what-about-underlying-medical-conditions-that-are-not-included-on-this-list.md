@@ -1,5 +1,5 @@
 ---
-title: How were the underlying conditions selected?
+title: What about underlying medical conditions that are not included on this list?
 category: underlying-conditions
 layout: post
 date: March 23, 2020
