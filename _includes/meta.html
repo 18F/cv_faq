@@ -17,15 +17,15 @@ site, this is the place to do it.
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Title and meta description
     ================================================== -->
-  <title>{% if page.title %}{{ page.title }} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
+  <title>{% include title.html %}</title>
   <meta property="og:title"
-    content="{% if page.title %}{{ page.title }} - {{site.title}}{% else %}{{site.title}}{% endif %}">
+    content="{% include title.html %}">
   <meta name="description" content="{% include meta-description.html %}">
   <meta property="og:description" content="{% include meta-description.html %}">
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@{{site.twitter}}" />
-  <meta name="twitter:title" content="{{site.title}}" />
+  <meta name="twitter:title" content="{% include title.html %}" />
   <meta name="twitter:description" content="{% include meta-description.html %}" />
 
   <meta name="baseurl" content="{{site.baseurl}}">
