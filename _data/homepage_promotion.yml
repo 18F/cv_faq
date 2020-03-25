@@ -21,15 +21,15 @@ top_questions:
   - icon: test
     link: "/symptoms-and-testing/#should-i-be-tested-for-covid-19"
     question: Should I get tested?
-  - icon: chart
+  - icon: globe
     link: /spread/how-does-the-virus-spread
     question: How does it spread?
   - icon: group
-    link: /basics/#what-is-social-distancing
-    question: What is social distancing?
-  - icon: globe
-    link: "/protect-yourself/#how-many-cases-are-there-in-the-u-s"
-    question: Cases in the U.S.?
+    link: "/keeping-home-safe/#how-can-my-family-and-i-prepare-for-covid-19"
+    question: How can we prepare?
+  - icon: chart
+    link: "/keeping-home-safe/#what-steps-can-my-family-take-to-reduce-our-risk-of-getting-covid-19"
+    question: How do I reduce my risk?
   - icon: plane
     link: /travel/#should-i-travel-within-the-united-states
     question: Can I travel?
