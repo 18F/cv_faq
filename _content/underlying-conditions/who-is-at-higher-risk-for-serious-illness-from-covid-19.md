@@ -4,7 +4,7 @@ category: underlying-conditions
 layout: post
 date: March 23, 2020
 source: CDC
-promoted: false
+promoted: true
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#high-risk
 excerpt: Underlying conditions
 ---
