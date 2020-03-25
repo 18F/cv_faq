@@ -23,7 +23,7 @@ excerpt: "School dismissals and children"
 	* Encourage your child to play outdoors—it’s great for physical and mental health. Take a walk with your child or go on a bike ride.
 	* Use indoor activity breaks (stretch breaks, dance breaks) throughout the day to help your child stay healthy and focused.
 * **Help your child stay socially connected.**
-	* Reach out to friends and family via phone or video chats.**
+	* Reach out to friends and family via phone or video chats.
 	* Write cards or letters to family members they may not be able to visit.
 	* Some schools and non-profits, such as the [Collaborative for Academic, Social, and Emotional Learning](https://casel.org/) and [The Yale Center for Emotional Intelligence](http://ei.yale.edu/), have resources for social and emotional learning. Check to see if your school has tips and guidelines to help support social and emotional needs of your child.
 
