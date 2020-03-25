@@ -1,6 +1,6 @@
 ---
 layout: category
-name: parents
+name: parents-and-children
 title: "Parents and children"
 owner: CDC
 homepage_order: 13
