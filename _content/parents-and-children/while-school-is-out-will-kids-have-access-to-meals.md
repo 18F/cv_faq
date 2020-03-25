@@ -1,6 +1,6 @@
 ---
 title: While school's out, will kids have access to meals?
-category: k12-childcare
+category: parents-and-children
 layout: post
 date: March 23, 2020
 source: CDC

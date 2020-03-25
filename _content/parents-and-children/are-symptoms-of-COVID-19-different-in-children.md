@@ -1,6 +1,6 @@
 ---
 title: Are the symptoms of COVID-19 different in children than in adults?
-category: children
+category: parents-and-children
 layout: post
 date: March 23, 2020
 source: CDC

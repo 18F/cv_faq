@@ -1,6 +1,6 @@
 ---
 title: How can I protect my child from COVID-19 infection?
-category: children
+category: parents-and-children
 layout: post
 date: March 23, 2020
 source: CDC

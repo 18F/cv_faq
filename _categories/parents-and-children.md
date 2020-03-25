@@ -1,9 +1,9 @@
 ---
 layout: category
-name: if-outbreak
-title: "If there's an outbreak"
+name: parents-and-children
+title: "Parents and children"
 owner: CDC
-homepage_order: 19
+homepage_order: 9
 banner:
     display: false
     heading: "This is a place to place urgent information"

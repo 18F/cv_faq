@@ -1,6 +1,6 @@
 ---
 title: While school's out, can my child hang out with their friends?
-category: k12-childcare
+category: parents-and-children
 layout: post
 date: March 23, 2020
 source: CDC

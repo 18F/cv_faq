@@ -3,7 +3,7 @@ layout: category
 name: animals
 title: "Animals"
 owner: CDC
-homepage_order: 9
+homepage_order: 13
 banner:
   display: false
   heading: "This is a place to place urgent information"
