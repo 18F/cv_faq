@@ -31,7 +31,7 @@ top_questions:
     link: "/keeping-home-safe/#what-steps-can-my-family-take-to-reduce-our-risk-of-getting-covid-19"
     question: How do I reduce my risk?
   - icon: plane
-    link: /travel/#should-i-travel-within-the-united-states
+    link: /travel
     question: Can I travel?
 questions_box_1:
   questions:
