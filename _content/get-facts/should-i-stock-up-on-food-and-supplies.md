@@ -6,7 +6,7 @@ promoted: true
 date: March 26, 2020
 source: FEMA
 source_url: https://www.fema.gov/coronavirus-rumor-control
-excerpt: Get the facts
+excerpt: Get the facts about coronavirus
 ---
 
 Please only buy what your family needs for a week. Buying weeks or months of supplies in advance leads to shortages and makes it difficult for other families to take care of themselves. 
