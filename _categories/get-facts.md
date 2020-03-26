@@ -3,7 +3,7 @@ layout: category
 name: get-facts
 title: "Get the facts"
 owner: CDC
-homepage_order: 23
+homepage_order: 16
 banner:
   display: false
   heading: "This is a place to place urgent information"
