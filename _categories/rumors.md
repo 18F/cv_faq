@@ -2,7 +2,7 @@
 layout: category
 name: rumors
 title: "Rumor control"
-owner: CDC
+owner: FEMA
 homepage_order: 12
 banner:
   display: false
