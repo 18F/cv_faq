@@ -1,27 +1,23 @@
 {%- if question.source and question.source_2 -%}
-| <cite>Sources: <a href="{{ question.source_url }}" class="usa-link {% if question.source_url contains "cdc.gov" %}{% else %}usa-link--external{% endif %}">
+| <cite>Sources: <a href="{{ question.source_url }}" class="usa-link">
     {{ question.source }}
-    {%- if question.source_url contains "cdc.gov" -%}
+    {%- if question.source_url contains "coronavirus.gov" -%}
     {%- else -%}
     <span class="usa-sr-only">links to external site</span>
     {%- endif -%}
 </a>,
-<a href="{{ question.source_url_2 }}" class="usa-link {% if question.source_url_2 contains "cdc.gov" %}{% else %}usa-link--external{% endif %}">
+<a href="{{ question.source_url_2 }}" class="usa-link">
     {{ question.source_2 }}
-    {%- if question.source_url_2 contains "cdc.gov" -%}
+    {%- if question.source_url_2 contains "coronavirus.gov" -%}
     {%- else -%}
     <span class="usa-sr-only">links to external site</span>
     {%- endif -%}
 </a>
 </cite>
 {%- elsif question.source -%}
-| <cite>Source: <a href="{{ question.source_url }}" class="usa-link
-    {%- if question.source_url contains "cdc.gov" -%}
-    {%- else -%}
-        usa-link--external
-    {%- endif -%}">
+| <cite>Source: <a href="{{ question.source_url }}" class="usa-link">
     {{ question.source }}
-    {%- if question.source_url contains "cdc.gov" -%}
+    {%- if question.source_url contains "coronavirus.gov" -%}
     {%- else -%}
     <span class="usa-sr-only">links to external site</span>
     {%- endif -%}
