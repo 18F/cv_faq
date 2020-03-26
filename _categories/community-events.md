@@ -3,7 +3,7 @@ layout: category
 name: community-events
 title: "Community events"
 owner: CDC
-homepage_order: 6
+homepage_order: 5
 banner:
   display: false
   heading: "This is a place to place urgent information"

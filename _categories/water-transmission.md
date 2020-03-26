@@ -3,7 +3,7 @@ layout: category
 name: water-transmission
 title: "Water transmission"
 owner: CDC
-homepage_order: 17
+homepage_order: 11
 banner:
     display: false
     heading: "This is a place to place urgent information"

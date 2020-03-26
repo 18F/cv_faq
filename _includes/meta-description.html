@@ -1,5 +1,10 @@
 {%- if page.layout == 'post' -%}
-    {{ page.content | strip_html | split: '.' | first | strip_newlines | truncate: 156 }}
+    {% assign description = page.content | strip_html | split: '.' | first | truncate: 156 %}
+        {%- if description.size < 50 -%}
+            {{ page.content | strip_html | truncate: 156 }}
+        {%- else -%}
+            {{ description }}
+        {%- endif -%}
 {%- elsif page.layout == 'category' -%}
     Questions and answers about {{page.title}}
 {%- else -%}

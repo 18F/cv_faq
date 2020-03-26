@@ -18,11 +18,11 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: CDC COVID-19 Answers
-logo_alt: Home - Find answers about Coronavirus (COVID-19) from the CDC.
+title: COVID-19 Answers
+logo_alt: Home - Find answers about Coronavirus (COVID-19) from across the U.S. government.
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  CDC works 24/7 to protect America from health, safety and security threats
+  Find information about Coronavirus (COVID-19) from across the U.S. government.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,7 +31,6 @@ twitter: CDCgov
 
 # Configuration for Google Analytics, add your UA code here:
 google_analytics_ua: UA-????????-??
-
 
 dap_agency: HHS
 # USAID   - Agency for International Development
@@ -128,8 +127,7 @@ collections:
     permalink: /:categories/:name/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       lang: en
