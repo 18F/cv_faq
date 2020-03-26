@@ -2,7 +2,7 @@
 title: Should I stock up on food and supplies?
 category: get-facts
 layout: post
-promoted: true
+promoted: false
 date: March 26, 2020
 source: FEMA
 source_url: https://www.fema.gov/coronavirus-rumor-control
