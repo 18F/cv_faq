@@ -2,7 +2,7 @@
 title: Is the government sending everyone money?
 category: get-facts
 layout: post
-promoted: true
+promoted: false
 date: March 26, 2020
 source: FEMA
 source_2: FTC
