@@ -3,7 +3,7 @@ layout: category
 name: basics
 title: "About COVID-19"
 owner: CDC
-homepage_order: 20
+homepage_order: 12
 banner:
   display: false
   heading: "This is a place to place urgent information"
