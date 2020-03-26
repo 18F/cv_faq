@@ -22,7 +22,7 @@ title: COVID-19 Answers
 logo_alt: Home - Find answers about Coronavirus (COVID-19) from across the U.S. government.
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Find information about Coronavirus (COVID-19) from across U.S. government.
+  Find information about Coronavirus (COVID-19) from across the U.S. government.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
