@@ -1,6 +1,6 @@
 ---
 title: Should I stock up on food and supplies?
-category: get-facts
+category: rumors
 layout: post
 promoted: false
 date: March 26, 2020

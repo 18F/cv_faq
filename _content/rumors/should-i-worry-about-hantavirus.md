@@ -1,6 +1,6 @@
 ---
 title: Should I worry about hantavirus?
-category: get-facts
+category: rumors
 layout: post
 date: March 26, 2020
 source: FEMA

@@ -1,6 +1,6 @@
 ---
 title: Is the government sending everyone money?
-category: get-facts
+category: rumors
 layout: post
 promoted: false
 date: March 26, 2020
