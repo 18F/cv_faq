@@ -3,7 +3,7 @@ layout: category
 name: pregnancy
 title: "Pregnancy"
 owner: CDC
-homepage_order: 7
+homepage_order: 9
 banner:
   display: false
   heading: "This is a place to place urgent information"
