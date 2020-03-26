@@ -1,9 +1,9 @@
 ---
 layout: category
-name: get-facts
-title: "Get the facts"
+name: rumors
+title: "Rumor control"
 owner: CDC
-homepage_order: 16
+homepage_order: 12
 banner:
   display: false
   heading: "This is a place to place urgent information"

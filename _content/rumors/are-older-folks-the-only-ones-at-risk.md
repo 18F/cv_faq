@@ -1,6 +1,6 @@
 ---
 title: Are older people and those with existing health conditions the only ones at risk?
-category: get-facts
+category: rumors
 layout: post
 promoted: false
 date: March 26, 2020
