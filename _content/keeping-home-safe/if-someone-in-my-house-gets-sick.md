@@ -12,7 +12,10 @@ excerpt: Keeping your home safe
 Most people who get COVID-19 will be able to recover at home. [CDC has directions](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html) for people who are recovering at home and their caregivers, including:
 
 * Stay home when you are sick, except to get medical care.
-* If you develop emergency warning signs for COVID-19 get medical attention immediately. In adults, emergency warning signs<sup>1</sup> are:
+
+### When to seek medical attention
+
+* If you develop **emergency warning signs** for COVID-19 get **medical attention immediately**. Emergency warning signs include<sup>1</sup>:
   * Trouble breathing
   * Persistent pain or pressure in the chest
   * New confusion or inability to arouse
@@ -23,4 +26,4 @@ Most people who get COVID-19 will be able to recover at home. [CDC has direction
 * [Clean the sick room and bathroom](https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html), as needed, to avoid unnecessary contact with the sick person.
 * Avoid sharing personal items like utensils, food, and drinks.
 
-<sub>1. This list is not all inclusive. Please consult your medical provider for any other symptom that is severe or concerning.<sub>
+<sub>1. This list is not all inclusive. Please consult your medical provider for any other symptoms that are severe or concerning.<sub>

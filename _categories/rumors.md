@@ -1,9 +1,9 @@
 ---
 layout: category
-name: community-events
-title: "Community events"
-owner: CDC
-homepage_order: 5
+name: rumors
+title: "Rumor control"
+owner: FEMA
+homepage_order: 12
 banner:
   display: false
   heading: "This is a place to place urgent information"
