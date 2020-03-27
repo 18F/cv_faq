@@ -8,8 +8,6 @@ site, this is the place to do it.
     ================================================== -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="googlebot" content="noindex, nofollow">
-  <meta name="bingbot" content="noindex, nofollow">
   <!-- Mobile Specific Metas
     ================================================== -->
   <meta name="HandheldFriendly" content="True">
@@ -18,15 +16,15 @@ site, this is the place to do it.
   <!-- Title and meta description
     ================================================== -->
   <title>{% include title.html %}</title>
-  <meta property="og:title"
-    content="{% include title.html %}">
+  <meta property="og:title" content="{% include title.html %}">
   <meta name="description" content="{% include meta-description.html %}">
   <meta property="og:description" content="{% include meta-description.html %}">
 
-  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@{{site.twitter}}" />
   <meta name="twitter:title" content="{% include title.html %}" />
   <meta name="twitter:description" content="{% include meta-description.html %}" />
+  <meta name="twitter:image" content="{% asset social-media-preview.png @path %}" />
 
   <meta name="baseurl" content="{{site.baseurl}}">
   <meta name="searchgov_endpoint" content="{{site.searchgov.endpoint}}">
@@ -34,13 +32,17 @@ site, this is the place to do it.
   <meta name="searchgov_access_key" content="{{site.searchgov.access_key}}">
 
   <meta property="og:type" content="article">
+  <meta property="og:image" content="{% asset social-media-preview.png @path %}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="800">
+  <meta property="og:image:alt" content="Coronavirus FAQ">
   <link rel="canonical" href="{{site.baseurl}}/">
   <meta property="og:url" content="{{site.baseurl}}/">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" rel="stylesheet">
   <!-- Favicons
     ================================================== -->
   <!-- 128x128 -->
-  <link rel="shortcut icon" type="image/ico" href="{% asset seal.png @path %}">
+  <link rel="shortcut icon" type="image/ico" href="{% asset favicon.png @path %}">
 
   <!-- CSS
     ================================================== -->
