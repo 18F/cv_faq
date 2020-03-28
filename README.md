@@ -1,153 +1,88 @@
-<!--
-  Federalist recommends you use Continuous Integration to automatically test
-  and validate any new changes to your site. CircleCI is free for open source
-  projcets. You should replace this badge with your own.
+[![CircleCI](https://circleci.com/gh/18F/cv_faq.svg?style=svg)](https://circleci.com/gh/18F/cv_faq)
 
-  https://circleci.com/
--->
-[![CircleCI](https://circleci.com/gh/18F/federalist-uswds-jekyll.svg?style=svg)](https://circleci.com/gh/18F/federalist-uswds-jekyll)
+# faq.coronavirus.gov
 
-# Federalist + U.S. Web Design System + Jekyll
+A Coronavirus FAQ for the United States of America. 
 
-This [Jekyll theme](https://jekyllrb.com/docs/themes/) is developed using the [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) and is focused on providing developers a starter kit and reference implementation for Federalist websites.
+## Technology overview
 
-This code uses the [Jekyll](https://jekyllrb.com) site engine and built with Ruby. If you prefer to use Javascript, check out [federalist-uswds-gatsby](https://github.com/18F/federalist-uswds-gatsby), which uses [Gatsby](https://gatsbyjs.org) site engine.
+This website is developed using the [U.S. Web Design System](https://designsystem.digital.gov), is deployed on [Federalist](https://federalist.18f.gov/), search is provided by [Search.gov](https://search.gov/), and analytics are provided by the [Digital Analytics Program](https://digital.gov/guides/dap/). This code uses the [Jekyll](https://jekyllrb.com) site engine, and integrates [Netlify CMS](https://www.netlifycms.org/) for a web editor interface.
 
-This project assumes that you are comfortable editing source code. If you prefer to launch a website without editing any source code, checkout [uswds-jekyll](https://github.com/18F/uswds-jekyll), which allows you to change the layout and content with configuration files.
+You may want to familiarize yourself with:
 
-This project strives to be compliant with requirements set by [21st Century IDEA Act](https://www.meritalk.com/articles/senate-passes-idea-act/). The standards require that a website or digital service:
+- [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
+- [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
+- [U.S. Web Design System](https://designsystem.digital.gov).
 
-- is accessible to individuals with disabilities;
-- has a consistent appearance;
-- does not duplicate any legacy websites (the legislation also requires agencies to ensure that legacy websites are regularly reviewed, removed, and consolidated);
-- has a search function;
-- uses an industry standard secure connection;
-- “is designed around user needs with data-driven analysis influencing management and development decisions, using qualitative and quantitative data to determine user goals, needs, and behaviors, and continually test the website, web-based form, web-based application, or digital service to ensure that user needs are addressed;”
-- allows for user customization; and
-- is mobile-friendly.
+## Getting acquainted
 
-## Key Functionality
-This repository contains the following examples and functionality:
- 
-✅  Publish blog posts, press releases, announcements, etc. To modify this code, check out `blog/index.html`, which manages how the posts are listed. You should then check out `_layouts/post.html` to see how individual posts are structured.
+The [\_categories](_categories) folder contains the question groups, or categories, which are displayed on the site. Its `title` property is what is visible on the site.
 
-✅ Publish single one-off pages. Instead of creating lots of folders throughout the root directory, you should put single pages in `_pages` folder and change the `permalink` at the top of each page. Use sub-folders only when you really need to.
+In the [\_content](_content) folder you’ll find a folder which matches the `name` property of a category for each category. Inside that folder is a file representing each question in that category, which has a `category` property which also matches the category’s `name` property. 
 
-✅  Publish data (for example: job listings, links, references), you can use the template `_layouts/data.html`. Just create a file in you `_pages` folder with the following options:
+For more detailed coverage, see the [Content management guide](https://github.com/18F/cv_faq/wiki/Content-management-in-cv_faq).
 
-```
----
-title: Collections Page
-layout: data
-permalink: /collections
-datafile: collections
----
-```
-
-The reference to `datafile` referers to the name of the file in `_data/collections.yml` and loops through the values. Feel free to modify this as needed.
-
-✅  There are two different kinds of `pages`, one does not have a side bar navigation, and the other uses `_includes/sidenav.html`. You can enable this option by adding `sidenav: true` to your page front matter.
-
-```
----
-title: Document with Sidenav
-layout: page
-sidenav: true
-permalink: /document-with-sidenav
----
-```
-
-✅ Enable search with [Search.gov](https://search.gov) by adding option to `_config.yml`. 
-
-
-```
----
-searchgov:
-  endpoint: https://search.usa.gov  # You should not change this.
-  affiliate: federalist-uswds-example # replace this with your search.gov account 
-  access_key: your-access-key # This is placeholder. Not private.
-  inline: true #this renders the results on the same domain. Otherwise, it will render the results in the search.gov domain
----
-```
-
+### Adding an urgent alert
+On the `index.html` you can add an urgent USWDS-style banner by changing the front matter. Turn the `banner.display` key to `true` to display the banner.
 
 ## How to edit
 
-### Adding an urgent alert
-On the `index.html` you can add an urgent USWDS style banner by changing the front matter. If you turn the `banner.display` key to `true` to display the banner.
+Content on this side is generated by our [Content workflow & governance guide](https://github.com/18F/cv_faq/wiki/Content-workflow-&-governance). To ensure we’re all using consistent voice and style, we also have [Content strategy guidance](https://github.com/18F/cv_faq/wiki/Content-strategy-guidance). 
 
-### Netlify CMS
+### Editing using the web interface
+
+Access the editor interface by navigating to [faq.coronavirus.gov/admin](https://faq.coronavirus.gov/admin/) and logging in with your GitHub credentials. You will need commit access to this repository in order to access the interface.
 
 #### Icons
 Adding an top questions icon - if you need to add an additional icon add it to the `_assets/images/icons` directory and then add it as an option in Netlify CMS configuration in `admin/config:collections[0]files[0]fields-Image icon.options`.
 
 And then if you'd like to use in a top question - add it in the `_data/homepage_promotion.yml` or update it through Netlify CMS.
 
+### Editing by downloading and running the source code
 
-- Non-developers should focus on editing markdown content in the `_posts` and `_pages` folder
+The easiest way to get started locally, after the repository is forked, is to use [Docker](https://www.docker.com/). After Docker is installed and running, run: 
 
-- We try to keep configuration options to a minimum so you can easily change functionality. You should review `_config.yml` to see the options that are available to you. There are a few values on top that you **need** to change. They refer to the agency name and contact information. The rest of `_config.yml` has a range of more advanced options.
+```bash
+docker-compose build
+docker-compose up
+```
 
-- The contents inside `assets/` folder store your Javascript, SCSS/CSS, images, and other media assets are managed by  [jekyll-assets](https://github.com/envygeeks/jekyll-assets).  Assets are combined, compressed, and automatically available in your theme
+This will build and install all required dependencies, then compile the site, and finally start a development server which is accessible at [localhost:4000](http://localhost:4000/). The server will recompile the site automatically as files change. Use <kbd>CTRL</kbd> + <kbd>C</kbd> to shutdown the server.
 
-- If you look at `package.json` you will see that the `npm run federalist` command that will run when running on the Federalist platform.
+Do not edit files in the `_site/` folder. These files are auto-generated, and any change you make in the folder will be overwritten.
 
-- Do not edit files in the `_site/` folder. These files are auto-generated, and any change you make in the folder will be overwritten.
+#### Running without Docker
 
-- To edit the look and feel of the site, you need to edit files in `_includes/` folder, which render key components, like the menu, side navigation, and logos.
+To run without Docker, you’ll need the version of Ruby that’s specified in [.ruby-version](.ruby-version). Then, to install dependencies: 
 
-- `index.html` may not require much editing, depending on how you customize `hero.html` and `highlights.html`.
+```bash
+gem install bundler
+bundle install
+npm install
+```
 
-- `_layouts/` may require the least amount of editing of all the files since they are primarily responsible for printing the content.
+Finally, to start the site, run:
 
-- `blog/index.html` can be edited, but be careful. It will impact the pagination system for the posts. If you do edit the file, be prepared to edit `_config.yml`.  For example, you may need go change configurations for [jekyll-paginate-v2](https://github.com/sverrirs/jekyll-paginate-v2)
+```bash
+npm start
+```
 
-- `search/index.html` is used by search.gov.
+Open your web browser to [localhost:4000](http://localhost:4000/) to view your site. The server will recompile the site automatically as files change. Use <kbd>CTRL</kbd> + <kbd>C</kbd> to shutdown the server.
 
-## Getting Started
+## Automated testing
 
-### Installation as a starter
+Tests are automatically run on commits and pull requests by [CircleCI](https://circleci.com/gh/18F/cv_faq). They can be run manually:
 
-#### With `npx`
-The simplest way to create your own repository based on this starter is to use `npx` (included with `node`) with `degit`.
+```bash
+npm test
+```
 
-    $ npx degit https://github.com/18F/federalist-uswds-jekyll <destination-folder>
-    $ cd <destination-folder>
-    $ git init
+The test suite includes: 
 
-#### With `git`
-    $ git clone --depth 1 https://github.com/18F/federalist-uswds-jekyll <destination-folder>
-    $ cd <destination-folder>
-    $ npm run reset
-    $ git init
+- [HTMLProofer](https://github.com/gjtorikian/html-proofer), which looks for [some basic accessibility issues, for broken links, and more](https://github.com/gjtorikian/html-proofer#whats-tested). We’ve also extended it [to check for well-formed links](htmlproofer/target_blank_checks.rb).
+- [jest](https://jestjs.io/), [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer), and [puppeteer](https://github.com/puppeteer/puppeteer) for custom integration tests. See what’s tested in the [test directory](test).
 
-### Installation for development
-
-    $ git clone https://github.com/18F/federalist-uswds-jekyll
-    $ cd federalist-uswds-jekyll
-
-Note that when built by Federalist, `npm run federalist` is used instead of the
-`build` script.
-
-### Install dependencies and run app
-    $ npm install
-    $ bundle install
-    $ npm start
-
-Open your web browser to [localhost:4000](http://localhost:4000/) to view your
-site.
-
-### Testing
-    $ npm test
-
-## Technologies you should be familiarize yourself with
-
-- [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
-- [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
-- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) 
-
-
-## Contributing
+## Contributing and how to open, merge, and deploy pull requests
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
 
