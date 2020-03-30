@@ -20,4 +20,4 @@ CDC does not encourage the production and use of homemade hand sanitizer [produc
 * Do not rely on “Do It Yourself” or “DIY” recipes based solely on essential oils or formulated without correct compounding practices.
 * Do not use hand sanitizer to disinfect frequently touched surfaces and objects. [See CDC’s information for cleaning and sanitizing your home](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/disinfecting-your-home.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fdisinfecting-your-home.html).
 
-See FAQs about hand hygiene for healthcare personnel responding to COVID-2019.
+[See FAQs about hand hygiene for healthcare personnel responding to COVID-2019](https://www.cdc.gov/coronavirus/2019-ncov/infection-control/hcp-hand-hygiene-faq.html).
