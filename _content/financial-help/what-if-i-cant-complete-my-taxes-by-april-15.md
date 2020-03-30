@@ -21,6 +21,4 @@ Treasury and IRS will issue additional guidance as needed and continue working w
 
 [View the guidance (PDF)](https://www.irs.gov/pub/irs-drop/n-20-18.pdf).
 
-Visit [Treasury.gov/coronavirus](https://home.treasury.gov/coronavirus) for further information and resources regarding COVID-19.
-
 Visit [IRS.gov/coronavirus](http://www.irs.gov/coronavirus) for further information on IRS efforts to assist taxpayers.
