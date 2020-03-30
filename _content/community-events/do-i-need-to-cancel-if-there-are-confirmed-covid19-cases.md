@@ -1,5 +1,5 @@
 ---
-title: Do I need cancel an event if there are confirmed cases of COVID-19 in the community?
+title: Do I need to cancel an event if there are confirmed cases of COVID-19 in the community?
 category: community-events
 layout: post
 date: March 15, 2020
