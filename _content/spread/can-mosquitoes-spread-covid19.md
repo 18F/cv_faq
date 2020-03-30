@@ -9,4 +9,4 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553
 excerpt: How it spreads
 ---
 
-At this time, CDC has no data to suggest that this new coronavirus or other similar coronaviruses are spread by mosquitoes or ticks. The main way that COVID-19 spreads is from person to person. See [How Coronavirus Spreads](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553767) for more information. 
+At this time, CDC has no data to suggest that this new coronavirus or other similar coronaviruses are spread by mosquitoes or ticks. The main way that COVID-19 spreads is from person to person. See [how coronavirus spreads](/spread) for more information. 
