@@ -15,6 +15,6 @@ The Paycheck Protection Program provides small businesses with funds to pay up t
 
 Forgiveness is based on the employer maintaining or quickly rehiring employees and maintaining salary levels. Forgiveness will be reduced if full-time headcount declines, or if salaries and wages decrease. Small businesses with 500 or fewer employees—including nonprofits, veterans organizations, tribal concerns, self-employed individuals, sole proprietorships, and independent contractors—are eligible. Businesses with more than 500 employees are eligible in certain industries.
 
-- [More information about the Paycheck Protection Program](https://home.treasury.gov/system/files/136/PPP%20--%20Overview.pdf)
+- [More information about the Paycheck Protection Program (PDF)](https://home.treasury.gov/system/files/136/PPP%20--%20Overview.pdf)
 
 - [Application form (PDF)](https://home.treasury.gov/system/files/136/Borrower%20Paycheck%20Protection%20Program%20Application%20%28v1%29.pdf)
