@@ -4,7 +4,7 @@ layout: default
 {% assign categories = site.content | group_by:"category" %}
 {% assign this_category = categories | where:"name", page.name | first %}
 {% assign category_questions = this_category.items %}
-{% include schema-fag.html questions=category_questions %}
+{% include schema-faq.html questions=category_questions %}
 
 <div class="usa-layout-docs usa-section grid-container" id="top">
   <div class="grid-row grid-gap">
