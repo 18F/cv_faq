@@ -2,7 +2,7 @@
 title: When are taxes due for alcohol, tobacco, firearms, or ammunition businesses?
 category: financial-help
 layout: post
-date: March 30, 2020
+date: March 31, 2020
 source: Treasury
 promoted: false
 source_url: https://home.treasury.gov/news/press-releases/sm963
