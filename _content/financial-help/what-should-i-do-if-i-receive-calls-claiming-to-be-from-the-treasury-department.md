@@ -1,5 +1,5 @@
 ---
-title: What should I do if I receive calls claiming to be from the Treasury Department and offering COVID-19 related grants or stimulus payment?
+title: What should I do if I receive calls claiming to be from the Treasury Department?
 category: financial-help
 layout: post
 date: March 30, 2020
