@@ -13,12 +13,12 @@
       @include u-padding-top(4);
       input[type='search'] {
         height: 100%;
+        border-top-right-radius: 4px;
+        border-bottom-right-radius: 4px;
         @include u-border('base-lighter');
       }
       button {
         @include u-text('normal');
-        border-top-left-radius: 0;
-        border-bottom-left-radius: 0;
       }
     }
   }
@@ -87,8 +87,8 @@ header {
     input {
       width: 100%;
       max-width: 100%;
-      border-top-left-radius: 5px;
-      border-bottom-left-radius: 5px;
+      border-top-left-radius: 4px;
+      border-bottom-left-radius: 4px;
       @include u-border('base-lighter');
     }
   }
@@ -118,8 +118,6 @@ header {
     order: 3;
   }
 }
-
-
 
 .header--logo-row__top {
   text-align: center;

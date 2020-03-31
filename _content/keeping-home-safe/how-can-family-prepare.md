@@ -9,7 +9,7 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242
 excerpt: Keeping your home safe
 ---
 
-Create a household plan of action to help protect your health and the health of those you care about.
+Create a household plan of action to help protect your health and the health of those you care about in the event of an outbreak of COVID-19 in your community:
 
 * Talk with the people who need to be included in your plan, and discuss [what to do if a COVID-19 outbreak occurs in your community](https://www.cdc.gov/coronavirus/2019-nCoV/summary.html).
 * Plan ways to care for those who might be at greater risk for serious complications, particularly [older adults and those with severe chronic medical conditions](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html) like heart, lung or kidney disease.

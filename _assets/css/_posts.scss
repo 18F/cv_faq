@@ -8,14 +8,18 @@ div.usa-layout-docs.usa-section {
 
   .usa-prose>h2 {
     padding-bottom: units(2);
+    font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
   }
 }
 
-.usa-prose> p.question-meta {
-  @include u-text('italic');
-  @include u-color('base');
-  @include u-font('serif', '2xs');
-  @include u-margin-top(4);
+.usa-prose{
+  font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
+  > p.question-meta {
+    @include u-text('italic');
+    @include u-color('base');
+    @include u-margin-top(4);
+      font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
+  }
 }
 
 

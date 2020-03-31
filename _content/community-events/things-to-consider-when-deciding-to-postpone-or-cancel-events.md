@@ -2,7 +2,7 @@
 title: What should I consider when deciding to postpone or cancel an event? 
 category: community-events
 layout: post
-date: March 18, 2020
+date: March 15, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html
@@ -17,5 +17,3 @@ Consult with local public health officials and keep asking yourself, based on cu
 * Potential ways to minimize economic impact to attendees, staff, and the local community.
 * Amount of spread in local community and the communities from where your attendees are likely to travel.
 * Needs and capacity of the local community to host or participate in your event.
-
-**UPDATE as of 3/16/2020:** During the next 15 days, all U.S. events of 10+ people should be cancelled or held virtually.

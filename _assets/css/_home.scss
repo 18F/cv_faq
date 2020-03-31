@@ -5,7 +5,10 @@
 }
 
 .top-questions h2 {
-  @include u-text('black', 'light');
+  @include u-text('black');
+  @include u-font('sans', 'xl');
+  font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
+  font-weight: bold;
   text-align: center;
 }
 
@@ -13,8 +16,7 @@
   @include u-border('base-lightest');
   @include u-border('1px');
   @include u-margin(2);
-  @include u-padding(1);
-  @include u-radius('lg');
+  @include u-radius('md');
   display: flex;
   align-items: center;
 
@@ -25,10 +27,16 @@
   }
 
   .icon {
-    background-color: #eef5f6;
-    border-radius: 100%;
-    width: 3rem;
-    height: 3rem;
+    @include u-radius('md');
+    @include u-bg('primary-lighter');
+    border-bottom-left-radius: 0.22rem;
+    border-top-left-radius: 0.22rem;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;  
+    width: 3.3rem;
+    height: 3.3rem;
+    min-width: 3.3rem;
+    min-height: 3.3rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -37,26 +45,28 @@
 
 .question-box {
   @include u-margin(1);
-  @include u-radius('lg');
   @include u-padding-x(4);
   @include u-padding-y(2);
+  border-radius: 0.18rem;
   height: 100%;
   display: flex;
   flex-direction: column;
 
   &.question-box--info {
-    @include u-bg('info-lighter');
+    @include u-bg('primary-lighter');
   }
 
   &.question-box--warning {
-    @include u-bg('warning-lighter');
+    @include u-bg('primary-lighter');
   }
 
   a {
-    @include u-color('primary-dark');
+    @include u-color('primary-vivid');
     align-self: flex-end;
     width: 100%;
-    &:visited,
+    &:visited {
+      @include u-color('primary-vivid');
+    }
     &:hover,
     &:focus {
       @include u-color('primary-dark');
@@ -66,9 +76,18 @@
 
 .more-topics {
   @include u-bg('base-lightest');
-  @include u-radius('lg');
 
   @include at-media('mobile'){
     @include u-padding-bottom(3);
   }
 }
+.usa-button {
+  border-top-right-radius: 0.22rem;
+  border-bottom-right-radius: 0.22rem;  
+  border-bottom-left-radius: 0.22rem;
+  border-top-left-radius: 0.22rem;
+}
+#more-questions:focus {
+  outline: none;
+}
+

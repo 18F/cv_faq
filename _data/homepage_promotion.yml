@@ -12,35 +12,31 @@ banner:
   hide-icon: true
 hero:
   tagline: ""
-  title: Find answers about Coronavirus (COVID-19)
+  title: Find answers about Coronavirus
 top_questions:
   - icon: stethoscope
     link: >-
       /symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause
     question: What are the symptoms?
   - icon: test
-    link: '/symptoms-and-testing/#should-i-be-tested-for-covid-19'
+    link: "/symptoms-and-testing/#should-i-be-tested-for-covid-19"
     question: Should I get tested?
-  - icon: chart
+  - icon: globe
     link: /spread/how-does-the-virus-spread
     question: How does it spread?
   - icon: group
-    link: /basics/what-is-social-distancing
-    question: What is social distancing?
-  - icon: globe
-    link: '/protect-yourself/#has-anyone-in-the-united-states-gotten-infected'
-    question: Cases in the U.S.
+    link: "/keeping-home-safe/#how-can-my-family-and-i-prepare-for-covid-19"
+    question: How can we prepare?
+  - icon: chart
+    link: "/keeping-home-safe/#what-steps-can-my-family-take-to-reduce-our-risk-of-getting-covid-19"
+    question: How do I reduce my risk?
   - icon: plane
-    link: /travel/should-i-travel-within-the-us/
+    link: /travel
     question: Can I travel?
 questions_box_1:
   questions:
-    - link: /protect-yourself/steps-to-prevent-the-illness
-      question: What are the steps to prevent the illness?
     - link: /protect-yourself/am-i-at-risk-for-covid-19-in-the-united-states
       question: Am I at risk?
-    - link: /protect-others/
-      question: How can I protect others?
     - link: >-
         https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html
       question: How can I manage anxiety and stress?
@@ -49,13 +45,9 @@ questions_box_1:
 questions_box_2:
   questions:
     - link: >-
-        /symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause
+        /symptoms-and-testing/what-are-the-symptoms-and-complications-that-covid-19-can-cause
       question: What are the symptoms of COVID-19?
-    - link: '/symptoms-and-testing/#should-i-be-tested-for-covid-19'
+    - link: "/symptoms-and-testing/should-i-be-tested-for-covid-19"
       question: Should I get tested?
-    - link: /symptoms-and-testing/when-should-i-call-my-doctor
-      question: When should I go to the doctor?
-    - link: /protect-yourself/how-to-care-for-someone-who-is-sick
-      question: How do I care for someone who’s sick?
   title: What to do if you feel sick
   view_all_link: /symptoms-and-testing/

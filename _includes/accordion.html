@@ -14,8 +14,7 @@
 <div id="control-{{ question.title | slugify }}" class="usa-accordion__content usa-prose">
     <p>{{ question.content | markdownify }}</p>
 
-    <p class="question-meta">Last updated {{ question.date | date:  "%B %d, %Y" }}.
-    {% if question.source %} | <cite>Source: <a href="{{ question.source_url }}" class="usa-link {% if question.source_url contains "cdc.gov" %}{% else %} usa-link--external {% endif %}">{{ question.source }}{% if question.source_url contains "cdc.gov" %}{% else %} <span class="usa-sr-only">links to external site</span> {% endif %}</a></cite>
-    {% endif %}
+    <p class="question-meta">Last updated {{ question.date | date:  "%B %d, %Y" }}
+    {% include sources.html %}
     </p>
 </div>

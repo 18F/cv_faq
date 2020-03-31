@@ -18,11 +18,11 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: CDC COVID-19 Answers
-logo_alt: Home - Find answers about Coronavirus (COVID-19) from the CDC.
+title: COVID-19 Answers
+logo_alt: Home - Find answers about Coronavirus (COVID-19) from across the U.S. government.
 email: contact@example.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  CDC works 24/7 to protect America from health, safety and security threats
+  Find information about Coronavirus (COVID-19) from across the U.S. government.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,7 +31,6 @@ twitter: CDCgov
 
 # Configuration for Google Analytics, add your UA code here:
 google_analytics_ua: UA-????????-??
-
 
 dap_agency: HHS
 # USAID   - Agency for International Development
@@ -66,11 +65,11 @@ dap_agency: HHS
 i18n:
   - language: simplified chinese
     lang: zh
-    link: 
+    link:
     display_text: 中文
   - language: spanish
     lang: es
-    link: 
+    link:
     display_text: Español
 
 # Site Navigation
@@ -105,8 +104,8 @@ secondary_navigation:
 # 3. Add your site/affiliate name here.
 searchgov:
   endpoint: https://search.usa.gov # You should not change this.
-  affiliate: 18fcvddev # replace this with your search.gov account
-  access_key: yBQhiqQjR80tDwx5HuPvbluq4NgkO_RTwludGJAPgwg= # This is placeholder. Not private.
+  affiliate: faq.coronavirus.gov # replace this with your search.gov account
+  access_key: ACSIQG9J_Xe7h9TTxjMrNqfUCp9O3ryactfBybCMIGc= # This is placeholder. Not private.
   inline: true #this renders the results on the same domain. Otherwise, it will render the results in the search.gov domain
 
 ##########################################################################################
@@ -128,8 +127,7 @@ collections:
     permalink: /:categories/:name/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       lang: en
@@ -160,6 +158,10 @@ exclude:
   - admin/_content_collection_template.yml
   - Dockerfile
   - docker-compose.yml
+  - test
+  - jest.config.js
+  - jest-puppeteer.config.js
+  - Rakefile
 
 # CSS and JS assets are compiled by gulp and placed in the intermediary
 # output directory _site_assets for use by jekyll-assets
