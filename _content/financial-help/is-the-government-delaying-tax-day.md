@@ -7,7 +7,7 @@ source: Treasury
 source_url: https://home.treasury.gov/news/press-releases/sm953
 source_2: IRS
 source_url_2: https://www.irs.gov/coronavirus
-promoted: false
+promoted: true
 excerpt: "Economic impact payments: What you need to know"
 ---
 

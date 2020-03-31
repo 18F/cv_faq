@@ -1,5 +1,5 @@
 ---
-title: How to apply for benefits?
+title: How do I apply for small business and self-employment benefits?
 category: financial-help
 layout: post
 date: March 31, 2020
