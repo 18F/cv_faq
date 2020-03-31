@@ -1,5 +1,5 @@
 ---
-title: Where can I get more information?
+title: Where can I get more information about economic impact payments?
 category: financial-help
 layout: post
 date: March 30, 2020
