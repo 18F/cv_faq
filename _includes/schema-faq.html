@@ -10,7 +10,7 @@
         "name": "{{ question.title }}",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "{{ question.content | markdownify | jsonify }}"
+          "text": {{ question.content | markdownify | jsonify }}
         }
       }{% if forloop.last == false %},{% endif %}
       {% endfor %}
