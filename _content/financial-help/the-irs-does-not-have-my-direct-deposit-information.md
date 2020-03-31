@@ -4,7 +4,7 @@ category: financial-help
 layout: post
 date: March 30, 2020
 source: Treasury
-promoted: true
+promoted: false
 source_url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
 excerpt: "Economic impact payments: What you need to know"
 ---
