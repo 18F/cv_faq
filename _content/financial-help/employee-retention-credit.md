@@ -17,7 +17,7 @@ The Employee Retention Credit is a refundable tax credit designed to encourage b
 1. The employer’s business is fully or partially suspended by government order due to COVID-19 during the calendar quarter.
 2. The employer’s gross receipts are below 50 percent of the comparable quarter in 2019. Once the employer’s gross receipts go above 80 percent of a comparable quarter in 2019 they no longer qualify after the end of that quarter.
 
-Employers can be immediately reimbursed for the credit by reducing their required deposits of  payroll taxes that have been withheld from employees'’' wages by the amount of the credit.
+Employers can be immediately reimbursed for the credit by reducing their required deposits of payroll taxes that have been withheld from employees’ wages by the amount of the credit.
 
 Eligible employers will report their total qualified wages and the related health insurance costs for each quarter on their quarterly employment tax returns or Form 941 beginning with the second quarter. If the employer’s employment tax deposits are not sufficient to cover the credit, the employer may receive an advance payment from the IRS by submitting Form 7200, Advance Payment of Employer Credits Due to COVID-19. Eligible employers can also request an advance of the Employee Retention Credit by submitting Form 7200.
 
