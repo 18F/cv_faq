@@ -9,7 +9,7 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
 excerpt: "School dismissals and children"
 ---
 
-* The key to slowing the spread of COVID-19 is to limit contact as much as possible. While school is out, children should not have playdates with children from other households. If children are playing outside their own homes, it is essential that they remain 6 feet from anyone who is not in their own household.
+* The key to slowing the spread of COVID-19 is to practice social distancing. While school is out, children should not have in-person playdates with children from other households. If children are playing outside their own homes, it is essential that they remain 6 feet from anyone who is not in their own household.
 * To help children maintain social connections while social distancing, help your children have supervised phone calls or video chats with their friends.
 * Make sure children practice [everyday preventive behaviors](https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html), such as washing their hands often with soap and water. Remember, if children meet outside of school in bigger groups, it can put everyone at risk.
 	* Revise spring break plans if they included non-essential travel.
