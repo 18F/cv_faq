@@ -30,9 +30,9 @@ top_questions:
   - icon: chart
     link: "/keeping-home-safe/#what-steps-can-my-family-take-to-reduce-our-risk-of-getting-covid-19"
     question: How do I reduce my risk?
-  - icon: plane
-    link: /travel
-    question: Can I travel?
+  - icon: money
+    link: /financial-help
+    question: Can I get financial help?
 questions_box_1:
   questions:
     - link: /protect-yourself/am-i-at-risk-for-covid-19-in-the-united-states
