@@ -41,6 +41,8 @@ We use the `demo` (staging) and `master` branches for our pre-production and pro
 - The dev team member merges the pull request, and ensures the Federalist deployment to the production environment completes successfully.
 
   - The dev team member confirms the changeset at [faq.coronavirus.gov](https://faq.coronavirus.gov/).
+  
+  - Changes may take up to 60 seconds to be visible in production due to caching in Federalist (Cloudfront).
 
 A few additional notes:
 
