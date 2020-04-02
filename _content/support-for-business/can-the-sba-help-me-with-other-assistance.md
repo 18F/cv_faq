@@ -1,6 +1,6 @@
 ---
 title: Can the Small Business Administration help me with other assistance?
-category: financial-help
+category: support-for-business
 layout: post
 date: March 30, 2020
 source: Small Business Administration
