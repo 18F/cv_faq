@@ -1,7 +1,7 @@
 ---
 layout: category
 name: financial-help
-title: "Financial help"
+title: "Financial help for workers and families"
 owner: Treasury
 homepage_order: 5
 banner:
