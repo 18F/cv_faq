@@ -1,6 +1,6 @@
 ---
 title: How do small and medium sized businesses provide paid sick and family leave for their workers?
-category: financial-help
+category: support-for-business
 layout: post
 date: April 1, 2020
 source: Treasury

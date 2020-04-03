@@ -1,6 +1,6 @@
 ---
 title: What resources are available to the airline industry and airline workers?
-category: financial-help
+category: support-for-business
 layout: post
 date: March 30, 2020
 source: Treasury
