@@ -1,6 +1,6 @@
 ---
 title: What is the Employee Retention Credit?
-category: financial-help
+category: support-for-business
 layout: post
 date: April 1, 2020
 source: Treasury
