@@ -24,9 +24,9 @@ top_questions:
   - icon: globe
     link: /spread/how-does-the-virus-spread
     question: How does it spread?
-  - icon: group
-    link: "/keeping-home-safe/#how-can-my-family-and-i-prepare-for-covid-19"
-    question: How can we prepare?
+  - icon: money
+    link: /financial-help
+    question: Can I get financial help?
   - icon: chart
     link: "/keeping-home-safe/#what-steps-can-my-family-take-to-reduce-our-risk-of-getting-covid-19"
     question: How do I reduce my risk?

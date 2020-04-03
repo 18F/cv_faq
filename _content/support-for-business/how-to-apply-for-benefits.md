@@ -1,6 +1,6 @@
 ---
 title: How do I apply for small business or self-employment benefits?
-category: financial-help
+category: support-for-business
 layout: post
 date: March 31, 2020
 source: Treasury

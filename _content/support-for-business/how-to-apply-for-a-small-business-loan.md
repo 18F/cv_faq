@@ -1,6 +1,6 @@
 ---
 title: How do I apply for a small business loan?
-category: financial-help
+category: support-for-business
 layout: post
 date: March 31, 2020
 source: Treasury
