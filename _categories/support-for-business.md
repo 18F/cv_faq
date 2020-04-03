@@ -1,7 +1,7 @@
 ---
 layout: category
 name: support-for-business
-title: "Support for small businesses"
+title: "Support for businesses"
 owner: Treasury
 homepage_order: 8
 banner:
