@@ -1,5 +1,5 @@
 ---
-title: Does CDC recommend the use of facemasks to prevent COVID-19?
+title: Does CDC recommend the use of facemasks or facecoverings to prevent COVID-19?
 category: protect-yourself
 layout: post
 date: April 3, 2020
