@@ -1,5 +1,5 @@
 ---
-title: How do CDC's case numbers compare with those provided by World Health Organization (WHO) or John Hopkins?
+title: How do CDC's COVID-19 case numbers compare with those provided by World Health Organization (WHO) or John Hopkins?
 category: basics
 layout: post
 date: April 4, 2020
