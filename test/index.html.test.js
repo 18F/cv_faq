@@ -38,7 +38,7 @@ test('both question boxes have two content links and a view all link', async () 
 
   boxes.forEach(({title, questions, viewAllText}) => {
     expect(title).not.toEqual('');
-    expect(questions).toHaveLength(2);
+    expect(questions).toHaveLength(3);
 
     // Assert that the view all text (including the screen reader text) is present.
     expect(viewAllText).toContain(`View all questions about ${title}`);
