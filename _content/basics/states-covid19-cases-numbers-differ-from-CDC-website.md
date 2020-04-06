@@ -1,5 +1,5 @@
 ---
-title: Why do some state's COVID-19 cases numbers sometimes differ from what is posted on the CDC website?
+title: Why do some state's COVID-19 cases numbers sometimes differ from what is posted on CDC's website?
 category: basics
 layout: post
 date: April 4, 2020
