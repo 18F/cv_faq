@@ -1,10 +1,22 @@
-<form id="search_form" action="{{ site.baseurl }}/search/" class="usa-search {{ include.extra_class}}">
+<form
+  id="search_form"
+  action="{{ site.baseurl }}/search/"
+  class="usa-search {{ include.extra_class}}"
+>
   <div role="search" class="grid-row">
     <div class="grid-col">
-      <label class="usa-label usa-sr-only" for="search-box">Search CDC for information on COVID-19</label>
+      <label class="usa-label usa-sr-only" for="search-box"
+        >Search for information on COVID-19</label
+      >
       <div class="autocomplete_container">
-        <input class="usa-input height-full" id="search-box" autocomplete="off" name="query" type="search"
-          placeholder="{{ include.placeholder }}" />
+        <input
+          class="usa-input height-full"
+          id="search-box"
+          autocomplete="off"
+          name="query"
+          type="search"
+          placeholder="{{ include.placeholder }}"
+        />
       </div>
     </div>
     <div class="grid-col-auto">
