@@ -37,6 +37,8 @@ questions_box_1:
   questions:
     - link: /protect-yourself/am-i-at-risk-for-covid-19-in-the-united-states
       question: Am I at risk?
+    - link: /protect-yourself/why-cloth-face-coverings
+      question: Why do you need to wear cloth face coverings?
     - link: >-
         https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html
       question: How can I manage anxiety and stress?
@@ -49,5 +51,7 @@ questions_box_2:
       question: What are the symptoms of COVID-19?
     - link: "/symptoms-and-testing/should-i-be-tested-for-covid-19"
       question: Should I get tested?
+    - link: "/keeping-home-safe/if-someone-in-my-house-gets-sick"
+      question: What should I do if someone in my house gets sick with COVID-19?
   title: What to do if you feel sick
   view_all_link: /symptoms-and-testing/

@@ -1,12 +1,13 @@
 ---
-title: Can COVID-19 cause problems for a pregnancy?
+title: Can COVID-19 cause risks to the pregnancy and baby?
 category: pregnancy
 layout: post
-date: March 17, 2020
+date: April 3, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
 excerpt: Pregnant women and COVID-19
 ---
 
-We do not know at this time if COVID-19 would cause problems during pregnancy or affect the health of the baby after birth.
+- Pregnant people have had a higher risk of severe illness when infected with viruses from the same family as COVID-19 and other viral respiratory infections, such as influenza.
+- It is always important for pregnant people to protect themselves from illnesses.
