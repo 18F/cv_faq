@@ -13,15 +13,15 @@
   },
   "dependencies": {
     "accessible-autocomplete": "^2.0.2",
-    "fuse.js": "^5.0.5-beta",
-    "netlify-cms": "^2.10.23",
+    "fuse.js": "^5.1.0",
+    "netlify-cms": "^2.10.42",
     "uswds": "~2.1.0"
   },
   "devDependencies": {
     "a11y": "^0.5.1",
     "fast-xml-parser": "^3.16.0",
     "http-server": "^0.12.1",
-    "jest": "^25.1.0",
+    "jest": "^25.3.0",
     "jest-puppeteer": "^4.4.0",
     "puppeteer": "^2.1.1",
     "true-case-path": "^2.2.1"

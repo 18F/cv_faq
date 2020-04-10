@@ -9,9 +9,6 @@ source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfe
 excerpt: Pregnant women and COVID-19
 ---
 
-Pregnant women should do the same things as the general public to avoid infection. You can help stop the spread of COVID-19 by taking these actions:
-* Cover your cough (using your elbow is a good technique)
-* Avoid people who are sick
-* Clean your hands often using soap and water or alcohol-based hand sanitizer
-
-You can find additional information on preventing COVID-19 disease at CDC’s <a href="https://www.cdc.gov/coronavirus/about/prevention.html"> Prevention for 2019 Novel Coronavirus</a>.
+- Avoid people who are sick or who have been exposed to the virus.
+- Clean your hands often using soap and water or alcohol-based hand sanitizer.
+- Clean and disinfect frequently touched surfaces daily.
