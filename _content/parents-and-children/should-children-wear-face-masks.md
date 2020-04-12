@@ -2,7 +2,7 @@
 title: Should children wear facemasks?
 category: parents-and-children
 layout: post
-date: April 3, 2020
+date: April 11, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584387482747
