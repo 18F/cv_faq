@@ -23,11 +23,39 @@ jobs:
           key: v2-bundle-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
-      - run: npm run test
+      - run: npm run build
+      - persist_to_workspace:
+          root: ./
+          paths:
+            - node_modules
+            - vendor/bundle
+            - _site
 
+  test-htmlproofer:
+    docker:
+      - image: circleci/ruby:2.6.3-node-browsers-legacy
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ./
+      - run: bundle config --local path vendor/bundle
+      - run: npm run test:htmlproofer
+
+  test-jest:
+    docker:
+      - image: circleci/ruby:2.6.3-node-browsers-legacy
+    steps:
+      - checkout
+      - attach_workspace:
+          at: ./
+      - run: npm run test:jest
 
 workflows:
   version: 2
   commit:
     jobs:
       - build
+      - test-htmlproofer:
+          requires: [build]
+      - test-jest:
+          requires: [build]
