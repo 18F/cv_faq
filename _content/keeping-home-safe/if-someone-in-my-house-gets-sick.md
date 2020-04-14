@@ -2,7 +2,7 @@
 title: What should I do if someone in my house gets sick with COVID-19?
 category: keeping-home-safe
 layout: post
-date: March 20, 2020
+date: April 13, 2020
 source: CDC
 promoted: false
 source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
