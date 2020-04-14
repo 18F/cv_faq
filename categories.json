@@ -1,0 +1,19 @@
+---
+layout: null
+---
+{%- assign sortedCategories = site.categories | sort: "homepage_order" -%}
+[
+  {%- for category in sortedCategories %}
+    {
+      {%- if category.banner.display == true %}
+      "banner": {
+        "heading": "{{ category.banner.heading | replace: '"', '\"' }}",
+        "content": "{{ category.banner.content | replace: '"', '\"' }}"
+      },
+      {%- endif %}
+      "title": "{{ category.title | replace: '"', '\"' }}",
+      "name": "{{ category.name }}",
+      "url": "https://faq.coronavirus.gov/{{ category.name | downcase }}/"
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
