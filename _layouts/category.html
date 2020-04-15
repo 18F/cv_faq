@@ -1,14 +1,10 @@
 ---
 layout: default
 ---
-
-{% comment %}
-This template is for a single page that does not have a date associated with it. For example, an about page.
-{% endcomment %}
-
 {% assign categories = site.content | group_by:"category" %}
 {% assign this_category = categories | where:"name", page.name | first %}
 {% assign category_questions = this_category.items %}
+{% include schema-faq.html questions=category_questions %}
 
 <div class="usa-layout-docs usa-section grid-container" id="top">
   <div class="grid-row grid-gap">

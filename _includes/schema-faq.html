@@ -1,0 +1,19 @@
+{% assign q_and_a = include.questions limit:10 %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {% for question in q_and_a %}
+      {
+        "@type": "Question",
+        "name": "{{ question.title }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": {{ question.content | markdownify | jsonify }}
+        }
+      }{% if forloop.last == false %},{% endif %}
+      {% endfor %}
+    ]
+  }
+</script>
