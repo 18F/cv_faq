@@ -1,6 +1,6 @@
 ---
 layout: agency
 name: DHS
-title: "CDC"
+title: "DHS"
 sitemap: false
 ---
