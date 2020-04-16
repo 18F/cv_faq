@@ -10,8 +10,12 @@ layout: null
     "answer_html": "{{ content.content | strip_newlines | replace: '"', '\"' }}",
     "updated_at": "{{ content.date | date: '%Y-%m-%d' }}",
     "category": "{{ content.category }}",
-    "source": "{{ content.source | replace: '"', '\"' }}",
-    "source_url": "{{ content.source_url }}"
+    "sources": [
+      {
+        "name": "{{ content.source | replace: '"', '\"' }}",
+        "source_url": "{{ content.source_url }}"
+      }
+    ]
   } {%- unless forloop.last %},{% endunless %}
   {%- endfor %}
 ]
