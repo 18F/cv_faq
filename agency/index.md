@@ -17,18 +17,20 @@ sitemap: false
         <div class="grid-col-12">
         {% for agency in agencies %}
             {% assign all = site.content | where:"source", agency.name %}
-            {% assign categories = site.content | where:"source", agency.name | group_by:"category" %}
+            {% assign all_by_category = site.content | where:"source", agency.name | group_by:"category"  %}
+            {% assign all_categories = site.categories | sort: "title" %}
             <div>
-                <h2><a href="{{ site.baseurl }}/agency/{{ agency.name}}/">{{agency.name}} ({{ all | size }} total)</a></h2>
+                <h2><a href="{{ site.baseurl }}{{ agency.url}}">{{agency.name}} ({{ all | size }} total)</a></h2>
                 <ul>
-                    {% for category in categories %}
-                        {% assign current_category_questions = categories | where:"name", category.name | first %}
-                        {% assign current_category = site.categories | where:"name", category.name | first %}
-                        <li class="margin-bottom-2">
-                            <a href="{{ site.baseurl }}/agency/{{ agency.name}}/#{{ current_category.title | slugify }}"
-                               class="margin-y-1">{{ current_category.title }} ({{current_category_questions.items | size }})
-                            </a>
-                        </li>
+                    {% for category in all_categories %}
+                        {% assign current_category_questions = all_by_category | where:"name", category.name | first %}
+                        {% if current_category_questions.size > 0 %}
+                            <li class="margin-bottom-2">
+                                <a href="{{ site.baseurl }}{{ agency.url}}#{{ category.title | slugify }}"
+                                class="margin-y-1">{{ category.title }} ({{current_category_questions.items | size }})
+                                </a>
+                            </li>
+                        {% endif %}
                     {% endfor %}
                 </ul>
             </div>
