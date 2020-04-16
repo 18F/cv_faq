@@ -1,14 +1,17 @@
 ---
-title: How do small and medium sized businesses provide paid sick and family leave for their workers?
 category: support-for-business
-layout: post
 date: April 1, 2020
-source: Treasury
-source_2: IRS
+excerpt: Treasury and IRS Release FAQs to Help Small and Midsize Businesses Navigate
+  Paid Sick and Family Leave Tax Credits
+layout: post
 promoted: false
-source_url: https://home.treasury.gov/news/press-releases/sm965
-source_url_2: https://www.irs.gov/newsroom/covid-19-related-tax-credits-for-required-paid-leave-provided-by-small-and-midsize-businesses-faqs#basic
-excerpt: "Treasury and IRS Release FAQs to Help Small and Midsize Businesses Navigate Paid Sick and Family Leave Tax Credits"
+sources:
+- agency: treasury
+  url: https://home.treasury.gov/news/press-releases/sm965
+- agency: irs
+  url: https://www.irs.gov/newsroom/covid-19-related-tax-credits-for-required-paid-leave-provided-by-small-and-midsize-businesses-faqs#basic
+title: How do small and medium sized businesses provide paid sick and family leave
+  for their workers?
 ---
 
 The Families First Coronavirus Response Act (FFCRA), signed by President Trump on March 18, 2020, gives businesses with fewer than 500 employees funds to provide employees with paid sick leave and family and medical leave related to COVID-19.

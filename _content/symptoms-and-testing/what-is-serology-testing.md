@@ -1,12 +1,13 @@
 ---
-title: What is serology testing? And can I be tested using this method?
 category: symptoms-and-testing
-layout: post
 date: April 14, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Symptoms-&-Testing
 excerpt: Symptoms and testing
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Symptoms-&-Testing
+title: What is serology testing? And can I be tested using this method?
 ---
 
 Serology testing checks a sample of a person’s blood to look for antibodies to SARS-CoV-2, the virus that causes COVID-19. These antibodies are produced when someone has been infected, so a positive result from this test indicates that person was previously infected with the virus.

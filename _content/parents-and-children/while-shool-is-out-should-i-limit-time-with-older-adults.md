@@ -1,12 +1,14 @@
 ---
-title: While school's out, should I limit time with older adults, including relatives, and people with chronic medical conditions?
 category: parents-and-children
-layout: post
 date: March 23, 2020
-source: CDC
+excerpt: School dismissals and children
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
-excerpt: "School dismissals and children"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
+title: While school's out, should I limit time with older adults, including relatives,
+  and people with chronic medical conditions?
 ---
 
 * [Older adults and people who have serious underlying medical conditions](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/people-at-higher-risk.html) are at highest risk of getting sick from COVID-19.

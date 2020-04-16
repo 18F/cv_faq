@@ -1,12 +1,13 @@
 ---
-title: Can I get COVID-19 from my pets or other animals?
 category: animals
-layout: post
 date: April 4, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390773118
 excerpt: COVID-19 and animals
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390773118
+title: Can I get COVID-19 from my pets or other animals?
 ---
 
 At this time, there is no evidence that companion animals, including pets, can spread COVID-19 to people or that they might be a source of infection in the United States. To date, CDC has not received any reports of pets becoming sick with COVID-19 in the United States.

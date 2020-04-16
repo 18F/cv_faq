@@ -1,12 +1,15 @@
 ---
-title: What should I do if the suspected sick student or staff member is confirmed to have COVID-19?
 category: k12-childcare
-layout: post
 date: March 19, 2020
-source: CDC
+excerpt: 'K-12 schools and childcare program administrators: Responding to confirmed
+  COVID-19 cases'
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
-excerpt: "K-12 schools and childcare program administrators: Responding to confirmed COVID-19 cases"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
+title: What should I do if the suspected sick student or staff member is confirmed
+  to have COVID-19?
 ---
 
 Immediately notify local health officials. These officials will help administrators determine a course of action for their childcare programs or schools.

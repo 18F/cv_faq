@@ -1,12 +1,13 @@
 ---
-title: Are there ways for students to keep learning if we decide to dismiss schools?
 category: k12-childcare
-layout: post
 date: March 19, 2020
-source: CDC
+excerpt: 'K-12 schools and childcare program administrators: School dismissals'
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
-excerpt: "K-12 schools and childcare program administrators: School dismissals"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
+title: Are there ways for students to keep learning if we decide to dismiss schools?
 ---
 
 Yes, consider implementing e-learning plans, including digital and distance learning options as feasible and appropriate. Determine, in consultation with school district officials or other relevant state or local partners:

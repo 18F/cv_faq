@@ -1,14 +1,15 @@
 ---
-title: How do I apply for small business or self-employment benefits?
 category: support-for-business
-layout: post
 date: March 31, 2020
-source: Treasury
-source_url: https://home.treasury.gov/news/press-releases/sm961
-source_2: Small Business Administration
-source_url_2: https://home.treasury.gov/system/files/136/PPP%20--%20Overview.pdf
+excerpt: 'Economic impact payments: What you need to know'
+layout: post
 promoted: false
-excerpt: "Economic impact payments: What you need to know"
+sources:
+- agency: treasury
+  url: https://home.treasury.gov/news/press-releases/sm961
+- agency: small business administration
+  url: https://home.treasury.gov/system/files/136/PPP%20--%20Overview.pdf
+title: How do I apply for small business or self-employment benefits?
 ---
 
 Starting April 3, 2020, small businesses and sole proprietorships can apply. Starting April 10, 2020, independent contractors and self-employed individuals can apply. We encourage you to apply as quickly as you can because there is a funding cap.

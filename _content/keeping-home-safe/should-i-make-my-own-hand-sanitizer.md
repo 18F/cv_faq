@@ -1,12 +1,13 @@
 ---
-title: Should I make my own hand sanitizer if I can’t find it in the stores?
 category: keeping-home-safe
-layout: post
 date: March 28, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
 excerpt: Keeping your home safe
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
+title: Should I make my own hand sanitizer if I can’t find it in the stores?
 ---
 
 CDC recommends handwashing with soap and water for at least 20 seconds or, using alcohol-based hand sanitizer with at least 60% alcohol when soap and water are not available. These actions are part of [everyday preventive actions](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fprevention.html) individuals can take to slow the spread of respiratory diseases like COVID-19. 
