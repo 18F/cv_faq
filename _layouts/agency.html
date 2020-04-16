@@ -4,13 +4,24 @@ sitemap: false
 ---
 
 {% assign all_categories = site.categories | sort: "title" %}
-{% assign all_by_category = site.content | where:"source", page.name | sort: "-date" | group_by:"category" %}
-{% assign total = site.content | where:"source", page.name %}
+
+<!-- Build array of content with this agency listed as a source-->
+{% assign content = "" | split: "," %}
+
+{% for content_page in site.content %}
+  {% for source in content_page.sources %}
+    {% if source.agency == page.name %}
+      {% assign content = content | push: content_page %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
+{% assign all_by_category = content | sort: "-date" | group_by:"category" %}
 
 <section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
     <div class="grid-row">
       <div class="grid-col-12">
-        <h1>{{page.name}} ({{total | size}} total)</h1>
+        <h1>{{page.title}} ({{content | size}} total)</h1>
       </div>
     {% for category in all_categories %}
         {% assign current_category_questions = all_by_category | where:"name", category.name | first %}
