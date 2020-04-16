@@ -1,9 +1,8 @@
 ---
 layout: null
 ---
-{%- assign sortedCategories = site.categories | sort: "homepage_order" -%}
 [
-  {%- for category in sortedCategories %}
+  {%- for category in site.categories %}
     {
       "title": "{{ category.title | replace: '"', '\"' }}",
       "url": "https://faq.coronavirus.gov/{{ category.name | downcase }}/"
