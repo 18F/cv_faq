@@ -10,6 +10,7 @@ layout: null
     "source_url": "{{ content.source_url }}",
     "question_url": "https://faq.coronavirus.gov/{{ content.category | downcase }}/{{ content.slug | downcase }}/",
     "updated_at": "{{ content.date | date: '%Y-%m-%d' }}",
+    "answer": "{{ content.content | strip_html | strip_newlines | remove_chars | escape }}",
     "answer_html": "{{ content.content | strip_newlines | replace: '"', '\"' }}"
   } {%- unless forloop.last %},{% endunless %}
   {%- endfor %}
