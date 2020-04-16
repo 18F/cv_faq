@@ -3,9 +3,9 @@ layout: null
 ---
 [
   {%- for category in site.categories %}
-    {
-      "title": "{{ category.title | replace: '"', '\"' }}",
-      "url": "https://faq.coronavirus.gov/{{ category.name | downcase }}/"
-    }{% unless forloop.last %},{% endunless %}
-  {% endfor %}
+  {
+    "title": "{{ category.title | replace: '"', '\"' }}",
+    "url": "https://faq.coronavirus.gov/{{ category.name | downcase }}/"
+  }{%- unless forloop.last %},{% endunless %}
+  {%- endfor %}
 ]
