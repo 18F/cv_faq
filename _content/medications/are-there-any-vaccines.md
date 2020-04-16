@@ -1,6 +1,6 @@
 ---
 title: Are there any vaccines to prevent or medicines to treat COVID-19?
-category: rumors
+category: medications
 layout: post
 date: April 6, 2020
 source: FEMA
