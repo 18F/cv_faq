@@ -3,7 +3,6 @@ layout: category
 name: protect-yourself
 title: "How to protect yourself"
 owner: CDC
-homepage_order: 13
 banner:
   display: false
   heading: "This is a place to place urgent information"
