@@ -6,6 +6,8 @@ const readFile = promisify(fs.readFile);
 const parseFrontMatter = require('front-matter');
 
 const categoryDirectory = '_categories';
+const agencyDirectory = '_agencies';
+
 const contentDirectory = '_content';
 let contentFiles;
 
@@ -35,5 +37,14 @@ test(`every question references a category that exists in ${categoryDirectory}`,
   contentFiles.forEach(file => {
     const expectedCategoryFile = `${path.join(categoryDirectory, file.frontMatter.category)}.md`;
     expect(categories).toContain(expectedCategoryFile);
+  });
+})
+
+test(`every question's source references an agency that exists in ${agencyDirectory}`, async () => {
+  const agencies = await helpers.getAllFilesInDirectory(agencyDirectory);
+
+  contentFiles.forEach(file => {
+    const expectedAgencyFile = `${path.join(agencyDirectory, file.frontMatter.source)}.md`;
+    expect(agencies).toContain(expectedAgencyFile);
   });
 })
