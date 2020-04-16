@@ -1,12 +1,12 @@
 ---
 title: Is the U.S. animal food supply safe?
-category: keeping-home-safe
+category: animals
 layout: post
 date: April 15, 2020
 source: FDA
 promoted: false
 source_url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
-excerpt: Keeping your home safe
+excerpt: Animal food supply
 ---
 
 Currently there is no evidence of animal food or food packaging being associated with transmission of COVID-19.
