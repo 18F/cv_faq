@@ -1,6 +1,6 @@
 ---
 layout: agency
-name: Small Business Administration
+name: sba
 permalink: /agency/sba/
 title: "Small Business Administration"
 sitemap: false

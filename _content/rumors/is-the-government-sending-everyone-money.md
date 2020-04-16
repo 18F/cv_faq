@@ -4,11 +4,12 @@ category: rumors
 layout: post
 promoted: false
 date: March 26, 2020
-source: FEMA
-source_2: FTC
-source_url: https://www.fema.gov/coronavirus-rumor-control
-source_url_2: https://www.consumer.ftc.gov/features/coronavirus-scams-what-ftc-doing
 excerpt: Get the facts
+sources:
+    - agency: fema
+      url: https://www.fema.gov/coronavirus-rumor-control
+    - agency: ftc
+      url: https://www.consumer.ftc.gov/features/coronavirus-scams-what-ftc-doing
 ---
 
 A stimulus package has been passed by Congress to help Americans in need. As information becomes available, it will be updated on this site.

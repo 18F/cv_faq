@@ -44,7 +44,9 @@ test(`every question's source references an agency that exists in ${agencyDirect
   const agencies = await helpers.getAllFilesInDirectory(agencyDirectory);
 
   contentFiles.forEach(file => {
-    const expectedAgencyFile = `${path.join(agencyDirectory, file.frontMatter.source)}.md`;
-    expect(agencies).toContain(expectedAgencyFile);
+    sources = file.frontMatter.sources.forEach(source => {
+      const expectedAgencyFile = `${path.join(agencyDirectory, source.agency)}.md`;
+      expect(agencies).toContain(expectedAgencyFile);
+    })
   });
 })
