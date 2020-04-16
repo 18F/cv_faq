@@ -1,8 +1,8 @@
 {% assign categories = site.content | group_by:"category" %}
 {% assign display_categories = '' | split: '' %}
 
-{% for category in site.data.homepage_order %}
-  {% assign sorted_category = site.categories | where:"name", category %}
+{% for category in site.data.homepage_order.categories %}
+  {% assign sorted_category = site.categories | where:"name", category.name %}
   {% assign display_categories = display_categories | push: sorted_category[0] %}
 {% endfor %}
 
