@@ -6,11 +6,9 @@ layout: null
     {
       "title": "{{ content.title | replace: '"', '\"' }}",
       "category": "{{ content.category }}",
-      "excerpt": "{{ content.excerpt | strip_html | strip }}",
       "source": "{{ content.source | replace: '"', '\"' }}",
       "source_url": "{{ content.source_url }}",
       "url": "https://faq.coronavirus.gov/{{ content.category | downcase }}/{{ content.slug | downcase }}/",
-      "promoted": {{content.promoted}},
       "date": "{{ content.date | date: '%Y-%m-%d' }}",
       "content": "{{ content.content | strip_newlines | replace: '"', '\"' }}"
     } {% unless forloop.last %},{% endunless %}
