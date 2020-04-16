@@ -5,14 +5,14 @@ layout: null
   {%- for content in site.content %}
   {%- assign category = site.categories | where: 'name', content.category | first %}
   {
-    "question_url": "https://faq.coronavirus.gov/{{ content.category | downcase }}/{{ content.slug | downcase }}/",
+    "question_url": "{{ site.url }}/{{ content.category | downcase }}/{{ content.slug | downcase }}/",
     "title": "{{ content.title | replace: '"', '\"' }}",
     "answer": "{{ content.content | strip_html | strip_newlines | remove_chars | escape }}",
     "answer_html": "{{ content.content | strip_newlines | replace: '"', '\"' }}",
     "updated_at": "{{ content.date | date: '%Y-%m-%d' }}",
     "category": {
       "title": "{{ category.title }}",
-      "category_url": "https://faq.coronavirus.gov/{{ category.name | downcase }}/"
+      "category_url": "{{ site.url }}/{{ category.name | downcase }}/"
     },
     "sources": [
       {
