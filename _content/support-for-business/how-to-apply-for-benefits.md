@@ -7,7 +7,7 @@ promoted: false
 sources:
 - agency: treasury
   url: https://home.treasury.gov/news/press-releases/sm961
-- agency: small business administration
+- agency: sba
   url: https://home.treasury.gov/system/files/136/PPP%20--%20Overview.pdf
 title: How do I apply for small business or self-employment benefits?
 ---
