@@ -6,7 +6,7 @@ A Coronavirus FAQ for the United States of America.
 
 ## API
 
-A JSON API is available for site content. See the [API documentation](https://editor.swagger.io/?url=https://raw.githubusercontent.com/18F/cv_faq/master/api/openapi.yaml).
+A JSON API is available for site content. See the [API documentation](https://faq.coronavirus.gov/api/).
 
 ## Technology overview
 
