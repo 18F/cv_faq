@@ -1,12 +1,13 @@
 ---
-title: How can my family and I prepare for COVID-19?
 category: keeping-home-safe
-layout: post
 date: March 20, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
 excerpt: Keeping your home safe
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
+title: How can my family and I prepare for COVID-19?
 ---
 
 Create a household plan of action to help protect your health and the health of those you care about in the event of an outbreak of COVID-19 in your community:

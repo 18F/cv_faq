@@ -1,12 +1,13 @@
 ---
-title: While school's out, how can I keep my family healthy?
 category: parents-and-children
-layout: post
 date: March 23, 2020
-source: CDC
+excerpt: School dismissals and children
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
-excerpt: "School dismissals and children"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
+title: While school's out, how can I keep my family healthy?
 ---
 
 * **Watch your child for any signs of illness.**
@@ -26,4 +27,3 @@ excerpt: "School dismissals and children"
 	* Reach out to friends and family via phone or video chats.
 	* Write cards or letters to family members they may not be able to visit.
 	* Some schools and non-profits, such as the [Collaborative for Academic, Social, and Emotional Learning](https://casel.org/) and [The Yale Center for Emotional Intelligence](http://ei.yale.edu/), have resources for social and emotional learning. Check to see if your school has tips and guidelines to help support social and emotional needs of your child.
-

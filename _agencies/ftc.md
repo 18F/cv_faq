@@ -1,6 +1,6 @@
 ---
 layout: agency
-name: irs
-title: "IRS"
+name: ftc
+title: "FTC"
 sitemap: false
 ---

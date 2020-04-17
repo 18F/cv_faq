@@ -1,12 +1,14 @@
 ---
-title: Since tigers can get infected with the virus that causes COVID-19, should I worry about my pet cat?
 category: animals
-layout: post
 date: April 13, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals
 excerpt: COVID-19 and animals
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals
+title: Since tigers can get infected with the virus that causes COVID-19, should I
+  worry about my pet cat?
 ---
 
 The tiger infected with the virus that causes COVID-19 is the first case of its kind. We are still learning about this virus and how it spreads, but it appears it can spread from humans to animals in some situations. CDC is aware of a very small number of pets outside the United States, including cats, reported to be infected with the virus that causes COVID-19 after close contact with people with COVID-19.

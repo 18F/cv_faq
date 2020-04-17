@@ -1,6 +1,6 @@
 ---
 layout: agency
-name: Treasury
+name: treasury
 title: "Treasury"
 sitemap: false
 ---

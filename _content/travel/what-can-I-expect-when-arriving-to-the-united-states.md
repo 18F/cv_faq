@@ -1,12 +1,13 @@
 ---
-title: What can I expect when arriving to the United States?
 category: travel
-layout: post
 date: March 27, 2020
-source: CDC
+excerpt: 'Travel: Returning from travel'
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#returning-from-travel
-excerpt: "Travel: Returning from travel"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#returning-from-travel
+title: What can I expect when arriving to the United States?
 ---
 
 At this time, travel restrictions and entry screening apply only to travelers arriving from some countries or regions with widespread ongoing spread of COVID-19. [Note: US policies are subject to change as the COVID-19 pandemic evolves.]

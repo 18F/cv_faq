@@ -1,12 +1,13 @@
 ---
-title: While school's out, can my child hang out with their friends?
 category: parents-and-children
-layout: post
 date: March 30, 2020
-source: CDC
+excerpt: School dismissals and children
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
-excerpt: "School dismissals and children"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
+title: While school's out, can my child hang out with their friends?
 ---
 
 * The key to slowing the spread of COVID-19 is to practice social distancing. While school is out, children should not have in-person playdates with children from other households. If children are playing outside their own homes, it is essential that they remain 6 feet from anyone who is not in their own household.

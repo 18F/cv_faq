@@ -16,11 +16,20 @@ sitemap: false
     <div class="grid-row">
         <div class="grid-col-12">
         {% for agency in agencies %}
-            {% assign all = site.content | where:"source", agency.name %}
-            {% assign all_by_category = site.content | where:"source", agency.name | group_by:"category"  %}
+            <!-- Build array of content with this agency listed as a source-->
+            {% assign content = "" | split: "," %}
+            {% for content_page in site.content %}
+                {% for source in content_page.sources %}
+                    {% if source.agency == agency.name %}
+                    {% assign content = content | push: content_page %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+
+            {% assign all_by_category = content | where:"source", agency.name | group_by:"category"  %}
             {% assign all_categories = site.categories | sort: "title" %}
             <div>
-                <h2><a href="{{ site.baseurl }}{{ agency.url}}">{{agency.name}} ({{ all | size }} total)</a></h2>
+                <h2><a href="{{ site.baseurl }}{{ agency.url}}">{{agency.title}} ({{ content.size }} total)</a></h2>
                 <ul>
                     {% for category in all_categories %}
                         {% assign current_category_questions = all_by_category | where:"name", category.name | first %}

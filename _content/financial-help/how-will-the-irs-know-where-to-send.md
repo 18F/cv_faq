@@ -1,12 +1,13 @@
 ---
-title: How will the IRS know where to send my payment?
 category: financial-help
-layout: post
 date: March 30, 2020
-source: Treasury
+excerpt: 'Economic impact payments: What you need to know'
+layout: post
 promoted: false
-source_url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
-excerpt: "Economic impact payments: What you need to know"
+sources:
+- agency: treasury
+  url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
+title: How will the IRS know where to send my payment?
 ---
 
 The vast majority of people do not need to take any action. The IRS will calculate and automatically send the economic impact payment to those eligible.

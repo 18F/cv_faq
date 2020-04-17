@@ -1,12 +1,13 @@
 ---
-title: How can I protect my child from COVID-19 infection?
 category: parents-and-children
-layout: post
 date: March 23, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584387482747
 excerpt: COVID-19 and children
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584387482747
+title: How can I protect my child from COVID-19 infection?
 ---
 
 You can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy.

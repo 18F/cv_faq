@@ -1,12 +1,13 @@
 ---
-title: Who is at higher risk for serious illness from COVID-19?
 category: underlying-conditions
-layout: post
 date: April 4, 2020
-source: CDC
-promoted: true
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#high-risk
 excerpt: Underlying conditions
+layout: post
+promoted: true
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#high-risk
+title: Who is at higher risk for serious illness from COVID-19?
 ---
 
 COVID-19 is a new disease and there is limited information regarding risk factors for severe disease. Based on currently available information and clinical expertise, **older adults** and **people of any age who have serious underlying medical conditions** might be at higher risk for severe illness from COVID-19.

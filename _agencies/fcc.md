@@ -1,6 +1,6 @@
 ---
 layout: agency
-name: FCC
+name: fcc
 title: "FCC"
 sitemap: false
 ---

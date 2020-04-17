@@ -1,6 +1,6 @@
 ---
 layout: agency
-name: DHS
+name: dhs
 title: "DHS"
 sitemap: false
 ---
