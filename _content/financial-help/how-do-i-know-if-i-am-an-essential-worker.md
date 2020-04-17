@@ -1,5 +1,5 @@
 ---
-title: Will the IRS call or email me to get my bank information to receive my Economic Impact Payment?
+title: How do I know if I’m an essential worker during the COVID-19 pandemic?
 category: financial-help
 layout: post
 date: April 15, 2020
