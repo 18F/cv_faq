@@ -17,4 +17,4 @@ CDC has [guidance for when and how people with COVID-19 can discontinue home iso
 
 CDC also has [guidance for what people should do if they think they have been exposed or feel sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html).
 
-In all cases, follow the guidance of your healthcare provider and local health department. Local decisions depend on local circumstances.
+In all cases, **follow the guidance of your healthcare provider and local health department**. Local decisions depend on local circumstances.
