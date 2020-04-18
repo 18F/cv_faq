@@ -3,7 +3,6 @@ layout: category
 name: support-for-business
 title: "Support for businesses"
 owner: Treasury
-homepage_order: 8
 banner:
   display: false
   heading: "This is a place to place urgent information"

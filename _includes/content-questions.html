@@ -1,5 +1,10 @@
 {% assign categories = site.content | group_by:"category" %}
-{% assign display_categories = site.categories | sort: "homepage_order" %}
+{% assign display_categories = '' | split: '' %}
+
+{% for category in site.data.homepage_order.categories %}
+  {% assign sorted_category = site.categories | where:"name", category.name %}
+  {% assign display_categories = display_categories | push: sorted_category[0] %}
+{% endfor %}
 
 <section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
   <div class="grid-row grid-gap top-categories">
