@@ -11,7 +11,7 @@ excerpt: Symptoms and testing
 
 Serology testing checks a sample of a person’s blood to look for antibodies to SARS-CoV-2, the virus that causes COVID-19. These antibodies are produced when someone has been infected, so a positive result from this test indicates that person was previously infected with the virus.
 
-CDC is working with other federal agencies to evaluate the performance of commercially manufactured serology tests that becoming increasingly available from healthcare providers. This evaluation is expected to be completed in late April.
+CDC is working with other federal agencies to evaluate the performance of commercially manufactured serology tests that are becoming increasingly available from healthcare providers. This evaluation is expected to be completed in late April.
 
 We do not know yet if the antibodies that result from infection with SARS-CoV-2 can protect someone from reinfection with this virus or how long antibodies to the virus will protect someone. Scientists are conducting research to answer those questions.
 
