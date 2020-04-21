@@ -1,12 +1,13 @@
 ---
-title: Are there any FDA-approved drug products or medicines to treat COVID-19?
 category: medications
-layout: post
 date: April 15, 2020
-source: FDA
+excerpt: Drugs and medications
+layout: post
 promoted: false
-source_url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
-excerpt: "Drugs and medications"
+sources:
+- agency: fda
+  url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
+title: Are there any FDA-approved drug products or medicines to treat COVID-19?
 ---
 
 At this time, there are no FDA-approved drug products to treat COVID-19. The FDA is working with drug manufacturers and investigational new drug sponsors to expedite the development and availability of COVID-19 treatments. [Read more about FDA's actions to address the novel coronavirus with medical countermeasures](https://www.fda.gov/drugs/coronavirus-covid-19-drugs/coronavirus-treatment-acceleration-program-ctap).

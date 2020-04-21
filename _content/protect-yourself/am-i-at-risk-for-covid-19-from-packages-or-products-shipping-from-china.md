@@ -1,12 +1,13 @@
 ---
-title: Am I at risk for COVID-19 from packages or products shipping from China?
 category: protect-yourself
-layout: post
 date: March 23, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386949645
 excerpt: How to protect yourself
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386949645
+title: Am I at risk for COVID-19 from packages or products shipping from China?
 ---
 
 There is still a lot that is unknown about the newly emerged COVID-19 and how it spreads. Two other coronaviruses have emerged

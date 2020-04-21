@@ -1,12 +1,13 @@
 ---
-title: When does the CDC recommend that I cancel or postpone an event?
 category: community-events
-layout: post
 date: March 15, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html
 excerpt: Community events
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html
+title: When does the CDC recommend that I cancel or postpone an event?
 ---
 
 If there is minimal or moderate spread of COVID-19 in the community, CDC recommends cancelling an:

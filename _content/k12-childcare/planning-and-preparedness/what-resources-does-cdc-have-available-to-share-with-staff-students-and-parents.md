@@ -1,12 +1,13 @@
 ---
-title: What resources does CDC have available to share with staff, students, and parents?
 category: k12-childcare
-layout: post
 date: March 19, 2020
-source: CDC
+excerpt: 'K-12 schools and childcare program administrators: Planning and preparedness'
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
-excerpt: "K-12 schools and childcare program administrators: Planning and preparedness"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
+title: What resources does CDC have available to share with staff, students, and parents?
 ---
 
 Share resources with the school community to help them understand COVID-19 and steps they can take to protect themselves:

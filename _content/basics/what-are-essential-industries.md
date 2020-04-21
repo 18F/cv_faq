@@ -1,12 +1,13 @@
 ---
-title: What are essential employees and industries? 
 category: basics
-layout: post
 date: March 29, 2020
-source: DHS
+excerpt: 'Travel: Returning from travel'
+layout: post
 promoted: false
-source_url: https://www.cisa.gov/publication/guidance-essential-critical-infrastructure-workforce
-excerpt: "Travel: Returning from travel"
+sources:
+- agency: dhs
+  url: https://www.cisa.gov/publication/guidance-essential-critical-infrastructure-workforce
+title: What are essential employees and industries?
 ---
 
 The Cybersecurity and Infrastructure Security Agency (CISA) executes the Secretary of Homeland Security’s responsibilities as assigned under the Homeland Security Act of 2002 to provide strategic guidance, promote a national unity of effort, and coordinate the overall federal effort to ensure the security and resilience of the Nation's critical infrastructure.

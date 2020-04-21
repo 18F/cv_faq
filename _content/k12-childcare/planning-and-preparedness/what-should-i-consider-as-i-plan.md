@@ -1,12 +1,13 @@
 ---
-title: What should I consider as I plan and prepare for COVID-19?
 category: k12-childcare
-layout: post
 date: March 19, 2020
-source: CDC
+excerpt: 'K-12 schools and childcare program administrators: Planning and preparedness'
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
-excerpt: "K-12 schools and childcare program administrators: Planning and preparedness"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
+title: What should I consider as I plan and prepare for COVID-19?
 ---
 
 Administrators should always reinforce healthy practices among their staff and students, as well as prepare for a potential case of COVID-19, regardless of the current level of community transmission.

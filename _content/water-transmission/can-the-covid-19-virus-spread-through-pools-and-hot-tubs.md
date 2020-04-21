@@ -1,12 +1,13 @@
 ---
-title: Can the COVID-19 virus spread through pools, hot tubs or spas, and water playgrounds?
 category: water-transmission
-layout: post
 date: April 3, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html
 excerpt: Water transmission and COVID-19
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html
+title: Can the COVID-19 virus spread through pools, hot tubs or spas, and water playgrounds?
 ---
 
 There is no evidence that COVID-19 can be spread to humans through the use of pools, hot tubs or spas, or water playgrounds. Proper operation, maintenance, and disinfection (e.g., with chlorine and bromine) of pools, hot tubs or spas, and water playgrounds should inactivate the virus that causes COVID-19.

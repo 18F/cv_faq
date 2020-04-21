@@ -1,12 +1,13 @@
 ---
-title: What should I do if someone in my house gets sick with COVID-19?
 category: keeping-home-safe
-layout: post
 date: April 13, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
 excerpt: Keeping your home safe
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
+title: What should I do if someone in my house gets sick with COVID-19?
 ---
 
 Most people who get COVID-19 will be able to recover at home. [CDC has directions](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html) for people who are recovering at home and their caregivers, including:

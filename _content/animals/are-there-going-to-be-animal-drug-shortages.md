@@ -1,12 +1,13 @@
 ---
-title: Are there going to be any animal drug shortages due to the COVID-19 outbreak?
 category: animals
-layout: post
 date: April 15, 2020
-source: FDA
-promoted: false
-source_url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
 excerpt: Animals and medications
+layout: post
+promoted: false
+sources:
+- agency: fda
+  url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
+title: Are there going to be any animal drug shortages due to the COVID-19 outbreak?
 ---
 
 The FDA has been and is continuing to closely monitor the supply chain with the expectation that the COVID-19 outbreak may impact the animal medical product supply chain.
