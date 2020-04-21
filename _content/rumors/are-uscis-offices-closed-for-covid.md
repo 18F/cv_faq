@@ -1,6 +1,6 @@
 ---
 category: rumors
-date: April 10, 2020
+date: April 21, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 promoted: false
@@ -10,8 +10,10 @@ sources:
 title: Are US Citizenship and Immigration Services offices closed due to COVID-19?
 ---
 
-As of March 18, U.S. Citizenship and Immigration Services has temporarily suspended routine in-person services through at least May 3 to help slow the spread of coronavirus (COVID-19). USCIS staff will continue to perform mission critical duties that do not involve contact with the public. However, USCIS will provide emergency services for limited situations. To schedule an emergency appointment contact the [USCIS Contact Center](https://www.uscis.gov/contactcenter).
+On March 18, 2020 U.S. Citizenship and Immigration Services temporarily suspended in-person services at its field offices, asylum offices, and Application Support Centers (ASCs) to help slow the spread of Coronavirus (COVID-19). 
 
-Visit [coronavirus.gov](https://www.cdc.gov/coronavirus/2019-ncov/index.html) for a complete list of CDC travel health notices.
+USCIS offices will reopen on May 3, 2020 unless the public closures are extended further. Employees in these offices are continuing to perform mission-essential services that do not require face-to-face contact with the public.
 
-Learn about the [Department of Homeland Security’s response](https://www.dhs.gov/coronavirus).
+USCIS will continue to provide limited emergency services. 
+
+Please call the [Contact Center](https://www.uscis.gov/contactcenter) for assistance with emergency services. 
