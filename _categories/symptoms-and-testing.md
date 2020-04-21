@@ -3,7 +3,6 @@ layout: category
 name: symptoms-and-testing
 title: "Symptoms and testing"
 owner: CDC
-homepage_order: 1
 banner:
   display: true
   heading: "Call your doctor"

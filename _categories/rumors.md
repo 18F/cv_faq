@@ -3,7 +3,6 @@ layout: category
 name: rumors
 title: "Rumor control"
 owner: FEMA
-homepage_order: 12
 banner:
   display: false
   heading: "This is a place to place urgent information"
