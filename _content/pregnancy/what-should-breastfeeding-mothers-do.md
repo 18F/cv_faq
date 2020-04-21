@@ -20,5 +20,5 @@ title: What should breastfeeding mothers do if they are diagnosed with or under 
   - Express breast milk to establish and maintain milk supply.
   - A dedicated breast pump should be provided.
   - Wash hands before touching any pump or bottle parts and before expressing breast milk.
-  - Follow **recommendations for proper pump cleaning** after each use, cleaning all parts that come into contact with breast milk.
+  - Follow **recommendations for proper pump cleaning** ([Español](https://www.cdc.gov/healthywater/hygiene/healthychildcare/infantfeeding/breastpump-esp.html)) after each use, cleaning all parts that come into contact with breast milk.
   - If possible, consider having someone who is well feed the expressed breast milk to the infant.

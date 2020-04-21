@@ -1,8 +1,9 @@
 ---
 layout: category
-name: basics
-title: "About COVID-19"
-owner: CDC
+name: medications
+title: "Medications"
+owner: FDA
+homepage_order: 18
 banner:
   display: false
   heading: "This is a place to place urgent information"

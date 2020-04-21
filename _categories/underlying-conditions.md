@@ -3,7 +3,6 @@ layout: category
 name: underlying-conditions
 title: "Underlying conditions"
 owner: CDC
-homepage_order: 14
 banner:
   display: false
   heading: "Call your doctor"
