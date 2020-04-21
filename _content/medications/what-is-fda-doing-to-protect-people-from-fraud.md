@@ -1,12 +1,13 @@
 ---
-title: What is the FDA doing to protect people from fraudulent COVID-19 products?
 category: medications
-layout: post
 date: April 15, 2020
-source: FDA
+excerpt: Drugs and medications
+layout: post
 promoted: false
-source_url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
-excerpt: "Drugs and medications"
+sources:
+- agency: fda
+  url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
+title: What is the FDA doing to protect people from fraudulent COVID-19 products?
 ---
 
 We have established a cross-agency task force dedicated to closely monitoring for fraudulent COVID-19 products. We have reached out to major retailers to ask for their help in monitoring online marketplaces for fraudulent COVID-19 products. Products sold are subject to FDA investigation and potential enforcement action if they claim to prevent, diagnose, treat, or cure COVID-19 and have not demonstrated safety and effectiveness for that intended use. The task force has already worked with retailers to remove dozens of these types of product listings online.

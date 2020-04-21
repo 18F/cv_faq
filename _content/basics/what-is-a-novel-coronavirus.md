@@ -1,14 +1,15 @@
 ---
-title: What is a novel coronavirus?
 category: basics
+date: April 15, 2020
+excerpt: About COVID-19
 layout: post
 promoted: true
-date: April 15, 2020
-source: CDC
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386215012
-source_2: FDA
-source_2_url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
-excerpt: About COVID-19
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386215012
+- agency: fda
+  url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
+title: What is a novel coronavirus?
 ---
 
 A novel coronavirus is a new coronavirus that has not been previously identified. The virus causing coronavirus disease 2019 (COVID-19), is not the same as the [coronaviruses that commonly circulate among humans](https://www.cdc.gov/coronavirus/types.html) and cause mild illness, like the common cold.

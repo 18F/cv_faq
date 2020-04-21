@@ -1,12 +1,14 @@
 ---
-title: Which 13 airports have the enhanced travel screening measures for international travelers?
 category: travel
-layout: post
 date: March 30, 2020
-source: DHS
+excerpt: 'Travel: Returning from travel'
+layout: post
 promoted: false
-source_url: https://www.dhs.gov/news/2020/03/17/fact-sheet-dhs-notice-arrival-restrictions-china-iran-and-certain-countries-europe
-excerpt: "Travel: Returning from travel"
+sources:
+- agency: dhs
+  url: https://www.dhs.gov/news/2020/03/17/fact-sheet-dhs-notice-arrival-restrictions-china-iran-and-certain-countries-europe
+title: Which 13 airports have the enhanced travel screening measures for international
+  travelers?
 ---
 
 - Chicago O’Hare International Airport (ORD), Illinois

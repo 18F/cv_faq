@@ -1,12 +1,14 @@
 ---
-title: I’m an American citizen and I recently traveled to one of the countries under travel restrictions. Can I return to the United States? 
 category: travel
-layout: post
 date: March 30, 2020
-source: DHS
+excerpt: 'Travel: Returning from travel'
+layout: post
 promoted: false
-source_url: https://www.dhs.gov/news/2020/03/17/fact-sheet-dhs-notice-arrival-restrictions-china-iran-and-certain-countries-europe
-excerpt: "Travel: Returning from travel"
+sources:
+- agency: dhs
+  url: https://www.dhs.gov/news/2020/03/17/fact-sheet-dhs-notice-arrival-restrictions-china-iran-and-certain-countries-europe
+title: I’m an American citizen and I recently traveled to one of the countries under
+  travel restrictions. Can I return to the United States?
 ---
 
 Yes. American citizens, legal permanent residents, and their immediate families can return to the United States. 

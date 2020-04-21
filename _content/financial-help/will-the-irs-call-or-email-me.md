@@ -1,12 +1,15 @@
 ---
-title: Will the IRS call or email me to get my bank information to receive my Economic Impact Payment?
 category: financial-help
-layout: post
 date: April 2, 2020
-source: IRS
+excerpt: IRS issues warning about Coronavirus-related scams; watch out for schemes
+  tied to economic impact payments
+layout: post
 promoted: false
-source_url: https://www.irs.gov/newsroom/irs-issues-warning-about-coronavirus-related-scams-watch-out-for-schemes-tied-to-economic-impact-payments
-excerpt: "IRS issues warning about Coronavirus-related scams; watch out for schemes tied to economic impact payments"
+sources:
+- agency: irs
+  url: https://www.irs.gov/newsroom/irs-issues-warning-about-coronavirus-related-scams-watch-out-for-schemes-tied-to-economic-impact-payments
+title: Will the IRS call or email me to get my bank information to receive my Economic
+  Impact Payment?
 ---
 
 No, the IRS is not going to call or email you asking to verify or provide your financial information so you can get an Economic Impact Payment. You should also watch for text messages, websites, and social media attempts to get your money or personal information.

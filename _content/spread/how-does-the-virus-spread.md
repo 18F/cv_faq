@@ -1,12 +1,13 @@
 ---
-title: How does the virus spread?
 category: spread
-layout: post
 date: March 23, 2020
-source: CDC
-promoted: true
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553767
 excerpt: How it spreads
+layout: post
+promoted: true
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553767
+title: How does the virus spread?
 ---
 
 The virus that causes COVID-19 is thought to spread mainly from person to person, mainly through respiratory droplets produced when an infected person coughs or sneezes. These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Spread is more likely when people are in close contact with one another (within about 6 feet).

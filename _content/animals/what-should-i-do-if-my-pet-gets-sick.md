@@ -1,12 +1,13 @@
 ---
-title: What should I do if my pet gets sick and I think it’s COVID-19?
 category: animals
-layout: post
 date: April 13, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals
 excerpt: COVID-19 and animals
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals
+title: What should I do if my pet gets sick and I think it’s COVID-19?
 ---
 
 There is a very small number of animals around the world reported to be infected with the virus that causes COVID-19 after having contact with a person with a COVID-19 infection. Talk to your veterinarian about any health concerns you have about your pets.

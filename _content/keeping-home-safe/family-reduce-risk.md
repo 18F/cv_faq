@@ -1,12 +1,13 @@
 ---
-title: What steps can my family take to reduce our risk of getting COVID-19?
 category: keeping-home-safe
-layout: post
 date: March 20, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
 excerpt: Keeping your home safe
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
+title: What steps can my family take to reduce our risk of getting COVID-19?
 ---
 
 Practice everyday preventive actions to help reduce your risk of getting sick and remind everyone in your home to do the same. These actions are especially important for older adults and people who have severe chronic medical conditions.

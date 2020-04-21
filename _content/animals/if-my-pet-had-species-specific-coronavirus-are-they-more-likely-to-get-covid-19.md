@@ -1,12 +1,14 @@
 ---
-title: If my pet previously had a species-specific coronavirus, does that make them more or less likely to get COVID-19?
 category: animals
-layout: post
 date: April 15, 2020
-source: FDA
-promoted: false
-source_url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
 excerpt: Animal coronaviruses
+layout: post
+promoted: false
+sources:
+- agency: fda
+  url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
+title: If my pet previously had a species-specific coronavirus, does that make them
+  more or less likely to get COVID-19?
 ---
 
 To date, there have been no reports of pets becoming sick with COVID-19.

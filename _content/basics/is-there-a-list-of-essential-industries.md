@@ -1,12 +1,13 @@
 ---
-title: Is there a list of essential industries and employees?
 category: basics
-layout: post
 date: March 29, 2020
-source: DHS
+excerpt: 'Travel: Returning from travel'
+layout: post
 promoted: false
-source_url: https://www.cisa.gov/publication/guidance-essential-critical-infrastructure-workforce
-excerpt: "Travel: Returning from travel"
+sources:
+- agency: dhs
+  url: https://www.cisa.gov/publication/guidance-essential-critical-infrastructure-workforce
+title: Is there a list of essential industries and employees?
 ---
 
 Yes. The Cybersecurity and Infrastructure Security Agency (CISA) has a list of essential industries available online.

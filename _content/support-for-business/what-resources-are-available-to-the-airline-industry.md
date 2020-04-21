@@ -1,12 +1,13 @@
 ---
-title: What resources are available to the airline industry and airline workers?
 category: support-for-business
-layout: post
 date: March 30, 2020
-source: Treasury
+excerpt: 'Economic impact payments: What you need to know'
+layout: post
 promoted: false
-source_url: https://home.treasury.gov/news/press-releases/sm960
-excerpt: "Economic impact payments: What you need to know"
+sources:
+- agency: treasury
+  url: https://home.treasury.gov/news/press-releases/sm960
+title: What resources are available to the airline industry and airline workers?
 ---
 
 Treasury has released guidance for the airline industry regarding payroll support for air carriers and contractors, and procedures for loans.

@@ -1,12 +1,13 @@
 ---
-title: Should I travel within the United States?
 category: travel
-layout: post
 date: March 30, 2020
-source: CDC
+excerpt: 'Travel: Canceling or postponing travel'
+layout: post
 promoted: true
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html
-excerpt: "Travel: Canceling or postponing travel"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html
+title: Should I travel within the United States?
 ---
 
 CDC does not generally issue advisories or restrictions for travel within the United States. However, cases of coronavirus disease (COVID-19) have been reported in many states, and some areas are experiencing community spread of the disease. Crowded travel settings, like airports, may increase chances of getting COVID-19, if there are other travelers with coronavirus infection. There are several things you should consider when deciding whether it is safe for you to travel.

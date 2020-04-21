@@ -1,12 +1,13 @@
 ---
-title: Should contact lens wearers take special precautions to prevent COVID-19?
 category: protect-yourself
-layout: post
 date: April 8, 2020
-source: CDC
+excerpt: How to protect yourself
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#accordion-5e8f163dd7986
-excerpt: "How to protect yourself"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#accordion-5e8f163dd7986
+title: Should contact lens wearers take special precautions to prevent COVID-19?
 ---
 
 - Currently there is no evidence to suggest contact lens wearers are more at risk for acquiring COVID-19 than eyeglass wearers.

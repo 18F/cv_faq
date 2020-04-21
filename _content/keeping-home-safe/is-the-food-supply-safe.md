@@ -1,12 +1,13 @@
 ---
-title: Is the U.S. food supply safe?
 category: keeping-home-safe
-layout: post
 date: April 15, 2020
-source: FDA
-promoted: false
-source_url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
 excerpt: Keeping your home safe
+layout: post
+promoted: false
+sources:
+- agency: fda
+  url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
+title: Is the U.S. food supply safe?
 ---
 
 Currently there is no evidence of food or food packaging being associated with transmission of COVID-19.
