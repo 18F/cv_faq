@@ -1,12 +1,14 @@
 ---
-title: Can CDC tell me or my employer when it is safe for me to go back to work/school after recovering from or being exposed to COVID-19?
 category: protect-yourself
-layout: post
 date: April 16, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#In-Case-of-an-Outbreak-in-Your-Community
 excerpt: How to protect yourself
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#In-Case-of-an-Outbreak-in-Your-Community
+title: Can CDC tell me or my employer when it is safe for me to go back to work/school
+  after recovering from or being exposed to COVID-19?
 ---
 
 CDC cannot address the policies of any business or organization. CDC shares recommendations based on the best available science to help people make decisions that improve their health and safety. Employers, schools, and organizations may decide to visibly screen for symptoms or perform on-site symptom checks.

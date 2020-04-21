@@ -1,12 +1,14 @@
 ---
-title: Is it true that animals, like dogs, cats, and cattle, get their own types of coronavirus?
 category: animals
-layout: post
 date: April 15, 2020
-source: FDA
-promoted: false
-source_url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
 excerpt: Animal coronaviruses
+layout: post
+promoted: false
+sources:
+- agency: fda
+  url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
+title: Is it true that animals, like dogs, cats, and cattle, get their own types of
+  coronavirus?
 ---
 
 Yes. Coronaviruses are a large family of viruses. Some coronaviruses cause cold-like illnesses in people, while others cause illness in certain types of animals, such as cattle, camels, and bats. Some coronaviruses, such as canine and feline coronaviruses, only infect animals and do not infect humans. For example, bovine coronavirus causes diarrhea in young calves, and pregnant cows are routinely vaccinated to help prevent infection in calves. This vaccine is only licensed for use in cattle for bovine coronavirus and is not licensed to prevent COVID-19 in cattle or other species, including humans.

@@ -1,8 +1,8 @@
 ---
 category: medications
-layout: post
 date: April 6, 2020
 excerpt: Get the facts about coronavirus
+layout: post
 promoted: false
 sources:
 - agency: fema

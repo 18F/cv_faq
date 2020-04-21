@@ -5,10 +5,10 @@ excerpt: Get the facts
 layout: post
 promoted: false
 sources:
-    - agency: fema
-      url: https://www.fema.gov/coronavirus-rumor-control
-    - agency: ftc
-      url: https://www.consumer.ftc.gov/features/coronavirus-scams-what-ftc-doing
+- agency: fema
+  url: https://www.fema.gov/coronavirus-rumor-control
+- agency: ftc
+  url: https://www.consumer.ftc.gov/features/coronavirus-scams-what-ftc-doing
 title: Is the government sending everyone money?
 ---
 
