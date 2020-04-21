@@ -3,7 +3,6 @@ layout: category
 name: medications
 title: "Medications"
 owner: FDA
-homepage_order: 18
 banner:
   display: false
   heading: "This is a place to place urgent information"

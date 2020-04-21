@@ -73,6 +73,15 @@ collections:
                   - {label: 'Question', name: 'question', widget: 'string'}
                   - {label: 'Link to answer', name: 'link', widget: 'string'}
               - {label: 'View all link', name: 'view_all_link', widget: 'string'}
+      - label: 'Sorted categories on homepage'
+        name: "homepage_order"
+        file: "_data/homepage_order.yml"
+        fields:
+          - label: "Categories"
+            name: "categories"
+            widget: "list"
+            fields:
+              - {label: 'Category name', name: 'name', widget: 'string'}
   - label: Categories
     name: categories
     folder: _categories/
