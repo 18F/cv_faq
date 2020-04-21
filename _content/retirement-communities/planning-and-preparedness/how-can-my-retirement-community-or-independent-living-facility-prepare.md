@@ -1,12 +1,14 @@
 ---
-title: How can my retirement community or independent living facility prepare for COVID-19?
 category: retirement-communities
-layout: post
 date: March 20, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/faq.html
 excerpt: Retirement communities
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/faq.html
+title: How can my retirement community or independent living facility prepare for
+  COVID-19?
 ---
 
 [Administrators should take the following actions to prevent a COVID-19 outbreak in their community or facility:](https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/guidance-retirement-response.html)

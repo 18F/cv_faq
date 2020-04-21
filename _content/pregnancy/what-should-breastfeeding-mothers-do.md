@@ -1,12 +1,14 @@
 ---
-title: What should breastfeeding mothers do if they are diagnosed with or under investigation for COVID-19?
 category: pregnancy
-layout: post
 date: April 3, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
 excerpt: Pregnant women and COVID-19
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
+title: What should breastfeeding mothers do if they are diagnosed with or under investigation
+  for COVID-19?
 ---
 
 - **Breast milk provides protection against many illnesses** and is the best source of nutrition for most infants.

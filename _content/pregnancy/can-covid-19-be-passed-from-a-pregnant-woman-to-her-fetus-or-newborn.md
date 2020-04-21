@@ -1,12 +1,13 @@
 ---
-title: Can COVID-19 be passed from a mother to child?
 category: pregnancy
-layout: post
 date: April 3, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
 excerpt: Pregnant women and COVID-19
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
+title: Can COVID-19 be passed from a mother to child?
 ---
 
 - Mother-to-child transmission of coronavirus during pregnancy is unlikely, but after birth a newborn is susceptible to person-to-person spread.

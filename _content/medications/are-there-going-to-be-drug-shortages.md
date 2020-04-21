@@ -1,12 +1,14 @@
 ---
-title: Are there going to be drug shortages due to drug manufacturer facility closures in China?
 category: medications
-layout: post
 date: April 15, 2020
-source: FDA
+excerpt: Drugs and medications
+layout: post
 promoted: false
-source_url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
-excerpt: "Drugs and medications"
+sources:
+- agency: fda
+  url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
+title: Are there going to be drug shortages due to drug manufacturer facility closures
+  in China?
 ---
 
 The FDA has been closely monitoring the supply chain with the expectation that the COVID-19 outbreak would likely impact the medical product supply chain, including potential disruptions to supply or shortages of critical medical products in the U.S.

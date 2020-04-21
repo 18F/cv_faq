@@ -1,12 +1,13 @@
 ---
-title: Am I at risk if I touch the body of someone who died of COVID-19?
 category: funerals
-layout: post
 date: March 23, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390222777
 excerpt: COVID-19 and funerals
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390222777
+title: Am I at risk if I touch the body of someone who died of COVID-19?
 ---
 
 COVID-19 is a new disease and **we are still learning how it spreads**. The virus that causes COVID-19 is thought to mainly spread from close contact (i.e., within about 6 feet) with a person who is currently sick with COVID-19. The virus likely spreads primarily through respiratory droplets produced when an infected person coughs or sneezes, similar to how influenza and other respiratory infections spread. These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. This type of spread is not a concern after death.

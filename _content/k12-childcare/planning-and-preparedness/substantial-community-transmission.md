@@ -1,12 +1,13 @@
 ---
-title: What should I do when there is substantial community transmission?
 category: k12-childcare
-layout: post
 date: March 19, 2020
-source: CDC
+excerpt: 'K-12 schools and childcare program administrators: Planning and preparedness'
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
-excerpt: "K-12 schools and childcare program administrators: Planning and preparedness"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
+title: What should I do when there is substantial community transmission?
 ---
 
 If local health officials have determined there is substantial transmission of COVID-19 within the community, they will provide guidance to administrators on the best course of action for childcare programs or schools. These strategies are expected to extend across multiple programs, schools, or school districts within the community.

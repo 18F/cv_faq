@@ -1,12 +1,13 @@
 ---
-title: Is contact lens disinfecting solution effective against COVID-19?
 category: protect-yourself
-layout: post
 date: April 8, 2020
-source: CDC
+excerpt: How to protect yourself
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#accordion-5e8f163dd7986
-excerpt: "How to protect yourself"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#accordion-5e8f163dd7986
+title: Is contact lens disinfecting solution effective against COVID-19?
 ---
 
 - [Hydrogen peroxide-based systems](https://www.cdc.gov/contactlenses/care-systems.html) for cleaning, disinfecting, and storing contact lenses should be effective against the virus that causes COVID-19.

@@ -1,12 +1,13 @@
 ---
-title: What do I do if I get a rash or other reaction to hand sanitizer?
 category: protect-yourself
-layout: post
 date: April 15, 2020
-source: FDA
+excerpt: How to protect yourself
+layout: post
 promoted: false
-source_url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
-excerpt: "How to protect yourself"
+sources:
+- agency: fda
+  url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
+title: What do I do if I get a rash or other reaction to hand sanitizer?
 ---
 
 Call your doctor if you experience a serious reaction to hand sanitizer. FDA encourages consumers and health care professionals to report adverse events experienced with the use of hand sanitizers to the [FDA's MedWatch Adverse Event Reporting](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program) program:

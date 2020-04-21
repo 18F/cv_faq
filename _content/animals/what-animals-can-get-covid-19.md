@@ -1,12 +1,13 @@
 ---
-title: What animals can get COVID-19?
 category: animals
-layout: post
 date: April 13, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals
 excerpt: COVID-19 and animals
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals
+title: What animals can get COVID-19?
 ---
 
 We don’t know for sure which animals can be infected with the virus that causes COVID-19. CDC is aware of a very small number of pets, including dogs and cats, outside the United States reported to be infected with the virus that causes COVID-19 after close contact with people with COVID-19. A tiger at a zoo in New York has also tested positive for the virus.

@@ -1,12 +1,13 @@
 ---
-title: What if I can't complete my taxes by April 15?
 category: financial-help
-layout: post
 date: March 30, 2020
-source: Treasury
+excerpt: 'Economic impact payments: What you need to know'
+layout: post
 promoted: false
-source_url: https://home.treasury.gov/news/press-releases/sm953
-excerpt: "Economic impact payments: What you need to know"
+sources:
+- agency: treasury
+  url: https://home.treasury.gov/news/press-releases/sm953
+title: What if I can't complete my taxes by April 15?
 ---
 
 Tax filings and payments for all federal income taxes (including self-employment tax) due on April 15, 2020, regardless of amount, will now be due on July 15, 2020. 

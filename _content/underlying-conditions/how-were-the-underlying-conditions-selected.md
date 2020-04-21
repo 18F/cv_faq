@@ -1,12 +1,13 @@
 ---
-title: How were the underlying conditions selected?
 category: underlying-conditions
-layout: post
 date: March 23, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#conditions
 excerpt: Underlying conditions
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#conditions
+title: How were the underlying conditions selected?
 ---
 
 This list is based on:

@@ -1,12 +1,13 @@
 ---
-title: What resources does CDC have available to share with facilities?
 category: retirement-communities
-layout: post
 date: March 20, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/faq.html
 excerpt: Retirement communities
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/retirement/faq.html
+title: What resources does CDC have available to share with facilities?
 ---
 
 Share resources with the community to help them understand COVID-19 and steps they can take to protect themselves:
