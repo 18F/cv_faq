@@ -13,4 +13,3 @@ assignees: ''
 - [ ] Approved and merged from content administrator
 - [ ] Merged to production by engineer
 - [ ] Notified agency content lead that content is published
-- [ ] Closes issue on the board (auto-closing an issue)
