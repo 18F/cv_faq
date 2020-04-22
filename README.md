@@ -82,6 +82,35 @@ The test suite includes:
 - [HTMLProofer](https://github.com/gjtorikian/html-proofer), which looks for [some basic accessibility issues, for broken links, and more](https://github.com/gjtorikian/html-proofer#whats-tested). We’ve also extended it [to check for well-formed links](htmlproofer/target_blank_checks.rb).
 - [jest](https://jestjs.io/), [jest-puppeteer](https://github.com/smooth-code/jest-puppeteer), and [puppeteer](https://github.com/puppeteer/puppeteer) for custom integration tests. See what’s tested in the [test directory](test).
 
+## Initial localization support
+The jekyll template has a feature to support localization.
+
+Languages supported will be added to the `i18n` portion of the site config in `_config.yml`. 
+
+To add in localization back into the hero component, uncomment the comment in the `_includes/hero.html` around the `i18n-controls` paragraph tag.
+
+The plugin for parsing a the  language of a file can be found in `_plugins/jekyll_parse_language.rb`
+
+### Adding localized content
+- Append `.lang-{2 character language code}` to `_content` files to indicate their language. 
+- This creates a `/{2 character language code}/` output directory in the site folder.
+- We can use `{{ post.lang }}` in files to reference the current language and link to the right language in URLs.
+- The default language is `en` for files without the suffix.
+
+This approach keeps each translation next to each other in directories, and allows us to filter based on `page.lang` on pages.
+
+
+## Netlify CMS
+As mentioned about this site uses the [Federalist Netlify CMS](https://federalist.18f.gov/documentation/getting-started-with-netlify-cms/) configuration to allow for CMS like editing of hompage promtion and content editing.
+
+As mentioned in the documentation, most of the configuration is in the `admin` directory.
+
+The site uses the `_plugins/jekyll_config_netlify_cms.rb` plugin to generate custom sidebar content in Netlify from the template defined in `admin/_content_colllection_template.yml` that corresponds to the front matter of a question in the `_content` subfolders.
+
+The widget configuration for each data and content type should be updated with changes in frontmatter and guidance on how to update widgets in the configuration can be found on [Netlify CMS's documentation](https://www.netlifycms.org/docs/widgets/).
+
+To run netlify locally follow the [instructions provided by Netlify CMS](https://www.netlifycms.org/docs/beta-features/).
+
 ## Maintaining a secure codebase
 
 See [SECURITY](SECURITY.md).
