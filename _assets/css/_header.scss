@@ -92,6 +92,10 @@ header {
       border-bottom-left-radius: 4px;
       @include u-border('base-lighter');
     }
+    button {
+      @include u-bg('primary-dark');
+      @include u-color('white');
+    }
   }
 }
 
