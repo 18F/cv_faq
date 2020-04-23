@@ -1,6 +1,6 @@
 ---
 category: symptoms-and-testing
-date: April 14, 2020
+date: April 22, 2020
 excerpt: Symptoms and testing
 layout: post
 promoted: false
