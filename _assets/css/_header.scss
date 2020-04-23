@@ -46,20 +46,20 @@
   a {
     display: inline-block;
   }
-  
-  a .usa-logo__text , 
-  a:visited .usa-logo__text, 
+
+  a .usa-logo__text,
+  a:visited .usa-logo__text,
   a:hover .usa-logo__text {
     @include u-color('ink');
   }
-  
+
   a:hover {
     .usa-logo__text, span {
       font-style: normal;
     }
   }
 
-  
+
   span {
     font-weight: normal;
     font-size: 16px;
@@ -70,7 +70,8 @@
 }
 
 header {
-  @include u-border-bottom('base-lightest', '1px', 'solid');
+  @include u-bg('primary-vivid');
+  @include u-color('white');
   &[role=banner] {
     @include u-border-top('primary-dark');
   }
@@ -104,10 +105,10 @@ header {
   height: 36px;
 }
 
-@include at-media-max('desktop'){
+@include at-media-max('tablet'){
   .grid__extra-wide {
     flex-direction: column;
-  }  
+  }
   .usa-logo {
     text-align: center;
   }
@@ -132,7 +133,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: center;
-  @include at-media-max('desktop') {
+  @include at-media-max('tablet') {
     text-align: center;
   }
 
@@ -140,7 +141,7 @@ header {
     @include u-margin-left(3);
   }
 
-  @include at-media('desktop') {
+  @include at-media('tablet') {
     @include u-float('right');
     @include u-margin-right(2);
   }
