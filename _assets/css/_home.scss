@@ -77,6 +77,12 @@
       @include u-color('primary-dark');
     }
   }
+  .question-title p {
+    @include u-font-size('sans', 'lg');
+    em {
+      @include u-text('no-italic', 'bold');
+    }
+  }
 }
 
 .more-topics {
