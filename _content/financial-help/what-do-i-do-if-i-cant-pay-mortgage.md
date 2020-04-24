@@ -12,4 +12,4 @@ title: What do I do if I can't pay my mortgage?
 
 Many homes are covered by a national moratorium on mortgage foreclosures, and several different relief programs are available for people who are struggling to make their mortgage payments.
 
-The Consumer Financial Protection Bureau has resources information on some of the mortgage relief options available. Learn more here: <https://www.consumerfinance.gov/about-us/blog/guide-coronavirus-mortgage-relief-options/>
+The Consumer Financial Protection Bureau has [resources and information on mortgage relief options](https://www.consumerfinance.gov/about-us/blog/guide-coronavirus-mortgage-relief-options/).
