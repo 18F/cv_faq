@@ -6,7 +6,7 @@
   {% assign display_categories = display_categories | push: sorted_category[0] %}
 {% endfor %}
 
-<section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
+<section class="grid-container usa-section usa-section--condensed border-base-lightest">
   <div class="grid-row grid-gap top-categories">
 
     {% for site_category in display_categories | limit: 6 %}
@@ -48,7 +48,7 @@
   {% endcomment %}
   {% if display_categories.size > 6 %}
     <div class="grid-row grid-gap display-none load-questions-wrapper">
-      <button class="usa-button usa-button--outline margin-x-auto" id="more-questions-button"
+      <button class="usa-button margin-x-auto" id="more-questions-button"
       load-questions
       aria-expanded="false"
       aria-controls="more-questions"

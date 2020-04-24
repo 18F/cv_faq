@@ -109,7 +109,7 @@ header {
   height: 36px;
 }
 
-@include at-media-max('tablet'){
+@include at-media-max('desktop'){
   .grid__extra-wide {
     flex-direction: column;
   }
@@ -133,11 +133,17 @@ header {
   @include u-margin-bottom(1);
 }
 
+@include at-media('desktop') {
+  .header--logo-row__top {
+    justify-content: flex-end;
+  }
+}
+
 .header--logo-row__right {
   display: flex;
   align-items: center;
   justify-content: center;
-  @include at-media-max('tablet') {
+  @include at-media-max('desktop') {
     text-align: center;
   }
 
@@ -145,7 +151,7 @@ header {
     @include u-margin-left(3);
   }
 
-  @include at-media('tablet') {
+  @include at-media('desktop') {
     @include u-float('right');
     @include u-margin-right(2);
   }

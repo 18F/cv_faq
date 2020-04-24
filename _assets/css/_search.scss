@@ -39,12 +39,3 @@
   }
 
 }
-
-.usa-search--interior {
-  @include at-media('mobile'){
-    @include u-padding-x('105');
-  }
-  @include at-media('desktop'){
-    @include u-padding-x(0);
-  }
-}

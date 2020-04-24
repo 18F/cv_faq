@@ -54,20 +54,17 @@
   @include u-padding-y(2);
   border-radius: 0.18rem;
   height: 100%;
-  display: flex;
-  flex-direction: column;
 
   &.question-box--info {
-    @include u-bg('primary-lighter');
+    @include u-bg('gray-10');
   }
 
   &.question-box--warning {
-    @include u-bg('primary-lighter');
+    @include u-bg('gray-10');
   }
 
   a {
     @include u-color('primary-vivid');
-    align-self: flex-end;
     width: 100%;
     &:visited {
       @include u-color('primary-vivid');
@@ -75,6 +72,17 @@
     &:hover,
     &:focus {
       @include u-color('primary-dark');
+    }
+  }
+  a.usa-button {
+    @include u-color('white');
+    width: auto;
+    &:visited {
+      @include u-color('white');
+    }
+    &:hover,
+    &:focus {
+      @include u-color('primary-light');
     }
   }
   .question-title p {
