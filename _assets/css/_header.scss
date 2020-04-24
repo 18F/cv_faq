@@ -128,6 +128,7 @@ header {
   text-align: center;
   display: flex;
   align-items: center;
+  align-self: flex-start;
   justify-content: center;
   @include u-margin-top(2);
   @include u-margin-bottom(1);
