@@ -13,11 +13,13 @@
   @include u-font('sans', 'xl');
   font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
   font-weight: bold;
-  @include u-margin(2);
+  @include u-margin-x(0);
+  @include u-margin-y(2);
 }
 
 .top-questions .question {
-  @include u-margin(2);
+  @include u-margin-x(0);
+  @include u-margin-y(2);
   display: flex;
   align-items: center;
 
@@ -49,7 +51,8 @@
 }
 
 .question-box {
-  @include u-margin(1);
+  @include u-margin-x(0);
+  @include u-margin-y(1);
   @include u-padding-x(4);
   @include u-padding-y(2);
   border-radius: 0.18rem;
