@@ -1,3 +1,4 @@
+
 beforeAll(async () => {
   await page.goto('http://localhost:4444/');
 });
@@ -27,7 +28,7 @@ test('both question boxes have three content links and a view all link', async (
       const getText = (el) => el ? el.innerText.trim().replace(/\n/g, '') : null;
 
       return {
-        title: getText(b.querySelector('h2')),
+        title: getText(b.querySelector('.question-title')),
         questions: [...b.querySelectorAll('li')].map(getText),
         viewAllText: getText(b.querySelector('.view-all'))
       };
