@@ -25,7 +25,7 @@ test('all six top questions have an icon and text', async () => {
 test('both question boxes have three content links and a view all link', async () => {
   const boxes = await page.$$eval('.question-box', elements => {
     return elements.map(b => {
-      const getText = (el) => el ? el.innerText.trim().replace(/\n/g, '') : null;
+      const getText = (el) => el ? el.innerText.trim().replace(/\n/g, ' ') : null;
 
       return {
         title: getText(b.querySelector('.question-title')),
