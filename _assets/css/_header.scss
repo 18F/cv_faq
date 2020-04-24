@@ -76,11 +76,6 @@ header {
     @include u-border-top('primary-dark');
   }
 
-  .grid__extra-wide {
-    @include u-margin-x('auto');
-    max-width: 1280px;
-  }
-
   .menu-search {
     @media screen and (max-width: 640px) {
       @include u-padding-x(0);
@@ -110,9 +105,6 @@ header {
 }
 
 @include at-media-max('desktop'){
-  .grid__extra-wide {
-    flex-direction: column;
-  }
   .usa-logo {
     text-align: center;
   }
@@ -155,5 +147,12 @@ header {
   @include at-media('desktop') {
     @include u-float('right');
     @include u-margin-right(2);
+  }
+}
+
+.usa-search {
+  .usa-button {
+    @include u-bg('primary-darkest');
+    @include u-color('white');
   }
 }

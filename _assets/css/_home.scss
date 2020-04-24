@@ -44,10 +44,6 @@
     align-items: center;
     justify-content: center;
   }
-
-  span::after {
-    content: '\2000›';
-  }
 }
 
 .question-box a,
@@ -98,6 +94,10 @@
   }
 }
 
+.read-more-icon {
+  @include u-margin-x(0.5);
+}
+
 .more-topics {
   @include u-bg('base-lightest');
 
@@ -106,10 +106,7 @@
   }
 }
 .usa-button {
-  border-top-right-radius: 0.22rem;
-  border-bottom-right-radius: 0.22rem;
-  border-bottom-left-radius: 0.22rem;
-  border-top-left-radius: 0.22rem;
+  border-radius: 0;
   font-weight: normal;
 }
 #more-questions:focus {

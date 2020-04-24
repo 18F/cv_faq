@@ -7,9 +7,10 @@
         <div class="question-title">{{ question_box_1.title | markdownify }}</div>
         <ul class="usa-list usa-list--unstyled">
           {% for q in question_box_1.questions %}
-          <li class="padding-y-05">
+          <li class="padding-y-1">
             <a href="{{ q.link | relative_url }}">
               {{ q.question }}
+              <span>{% asset 'icons/caret-blue.svg' class="read-more-icon" alt="Read more" %}</span>
             </a>
           </li>
           {% endfor %}
@@ -23,9 +24,10 @@
         <div class="question-title">{{ question_box_2.title | markdownify }}</div>
         <ul class="usa-list usa-list--unstyled">
           {% for q in question_box_2.questions %}
-          <li class="padding-y-05">
+          <li class="padding-y-1">
             <a href="{{ q.link | relative_url }}">
               {{ q.question }}
+              <span>{% asset 'icons/caret-blue.svg' class="read-more-icon" alt="Read more" %}</span>
             </a>
           </li>
           {% endfor %}

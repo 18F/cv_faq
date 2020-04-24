@@ -2,7 +2,7 @@
   class="usa-section usa-prose top-questions usa-section--condensed"
 >
   <div class="grid-container">
-    <h2>Top Questions</h2>
+    <h2>Top questions</h2>
     <div class="grid-row grid-gap">
       {% for question in include.top_questions %}
       <div class="tablet:grid-col-6 desktop:grid-col-4">
@@ -13,6 +13,7 @@
           </div>
 
           <span>{{ question.question }}</span>
+          <span>{% asset 'icons/caret-white.svg' class="read-more-icon" alt="Read more" %}</span>
         </a>
       </div>
       {% endfor %}
