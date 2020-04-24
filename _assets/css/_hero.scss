@@ -2,15 +2,14 @@
   background-image: none !important;
   @include u-bg('primary-vivid');
   @include u-color('white');
-  padding-top: units(6);
+  padding-top: units(2);
   padding-bottom: units(10);
   text-align: center;
   h1 {
     @include u-font('sans', '2xl');
     font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
     @include u-text('white', 'bold');
-    margin-top: units(3);
-    margin-bottom: units(5);
+    margin-y: units(3);
   }
 }
 .i18n-controls {
