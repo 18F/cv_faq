@@ -6,10 +6,15 @@
   padding-bottom: units(10);
   text-align: center;
   h1 {
-    @include u-font('sans', '2xl');
+    @include u-font('sans', 'xl');
     font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
     @include u-text('white', 'bold');
     margin-y: units(3);
+  }
+  @include at-media('tablet') {
+    h1 {
+      @include u-font('sans', '2xl');
+    }
   }
 }
 .i18n-controls {
