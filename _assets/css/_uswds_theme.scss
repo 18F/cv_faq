@@ -1,8 +1,12 @@
 
 // General
-//This corresponds to the variables set in: 
+//This corresponds to the variables set in:
 //https://github.com/uswds/uswds/blob/develop/src/stylesheets/theme/_uswds-theme-general.scss
 
+
+// TODO: Revisit usage of this; currently, it causes the mobile search button
+// in the header to be sized improperly.
+//$utilities-use-important: true;
 
 // Typographic
 // This corresponds to variables set in:
