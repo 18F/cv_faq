@@ -7,7 +7,7 @@ promoted: false
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html
-title: Can the virus that causes COVID-19 spread through pools, hot tubs, or spas, and water play areas?
+title: Can the virus that causes COVID-19 spread through pools, hot tubs, spas, and water play areas?
 ---
 
 There is no evidence that the virus that causes COVID-19 can be spread to people through the water in pools, hot tubs, spas, or water play areas. Proper operation and maintenance (including disinfection with chlorine and bromine) of these facilities should inactivate the virus in the water.
