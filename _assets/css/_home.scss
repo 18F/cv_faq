@@ -78,12 +78,10 @@
   a.usa-button {
     @include u-color('white');
     width: auto;
-    &:visited {
-      @include u-color('white');
-    }
+    &:visited,
     &:hover,
     &:focus {
-      @include u-color('primary-light');
+      @include u-color('white');
     }
   }
   .question-title p {
@@ -111,4 +109,8 @@
 }
 #more-questions:focus {
   outline: none;
+}
+
+.load-questions-wrapper {
+  margin-top: .55rem;
 }

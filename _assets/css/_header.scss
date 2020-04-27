@@ -91,6 +91,14 @@ header {
       @include u-bg('primary-dark');
       @include u-color('white');
     }
+    a,
+    a:hover,
+    a:focus,
+    a:active,
+    a:visited {
+      text-decoration: none;
+      color: white;
+    }
   }
 }
 
