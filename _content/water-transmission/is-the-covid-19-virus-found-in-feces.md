@@ -7,9 +7,7 @@ promoted: false
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html
-title: Is the COVID-19 virus found in feces?
+title: Is the virus that causes COVID-19 found in feces (stool)?
 ---
 
-The virus that causes COVID-19 has been detected in the feces of some patients diagnosed with COVID-19. The amount of virus released from the body (shed) in stool, how long the virus is shed, and whether the virus in stool is infectious are not known.
-
-The risk of transmission of the virus that causes COVID-19 from the feces of an infected person is also unknown. However, the risk is expected to be low based on data from previous outbreaks of related coronaviruses, such as severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS). There has been no confirmed fecal-oral transmission of COVID-19 to date.
+The virus that causes COVID-19 has been found in the feces of some patients diagnosed with COVID-19. However, it is unclear whether the virus found in feces may be capable of causing COVID-19. There has not been any confirmed report of the virus spreading from feces to a person. Scientists also do not know how much risk there is that the virus could be spread from the feces of an infected person to another person. However, they think this risk is low based on data from previous outbreaks of diseases caused by related coronaviruses, such as severe acute respiratory syndrome (SARS) and Middle East respiratory syndrome (MERS).
