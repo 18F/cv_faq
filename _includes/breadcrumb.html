@@ -4,12 +4,12 @@
     <div class="breadcrumb">
       <a href="{{ site.baseurl }}/">FAQ</a>
       {% if page.collection == "categories"%}
-        > {{ page.title | upcase }}
+        > {{ page.title }}
       {% endif%}
       {% if page.collection == "content" %}
         {% assign this_category = site.categories | where:"name", page.category | first %}
-          > <a href="{{ this_category.url | relative_url }}">{{ this_category.title | upcase }}</a>
-          > {{ page.title | upcase }}
+          > <a href="{{ this_category.url | relative_url }}">{{ this_category.title }}</a>
+          > {{ page.title }}
       {% endif %}
     </div>
   </div>

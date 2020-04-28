@@ -9,7 +9,7 @@ footer {
         @include u-font('sans', '3xs');
         font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
         @include u-margin-bottom(0);
-        
+
         &:hover,
         &:focus {
             @include u-color('base-lightest');
@@ -49,8 +49,11 @@ footer {
     @include u-height(3);
     margin-right: units(1);
     &:last-child {
-       margin-right: 0; 
+       margin-right: 0;
     }
+}
+a.footer-social-link {
+    text-decoration: none !important;
 }
 
 .disclaimer {
