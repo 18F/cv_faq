@@ -2,15 +2,19 @@
   background-image: none !important;
   @include u-bg('primary-vivid');
   @include u-color('white');
-  padding-top: units(6);
+  padding-top: units(2);
   padding-bottom: units(10);
   text-align: center;
   h1 {
-    @include u-font('sans', '2xl');
+    @include u-font('sans', 'xl');
     font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
     @include u-text('white', 'bold');
-    margin-top: units(3);
-    margin-bottom: units(5);
+    margin-y: units(3);
+  }
+  @include at-media('tablet') {
+    h1 {
+      @include u-font('sans', '2xl');
+    }
   }
 }
 .i18n-controls {
@@ -33,7 +37,6 @@
     outline: 0.25rem solid $theme-color-base-lightest;
   }
   .usa-button {
-    font-weight: bold !important;
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
     &:hover,
