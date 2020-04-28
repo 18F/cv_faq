@@ -76,6 +76,30 @@ header {
     @include u-border-top('primary-dark');
   }
 
+  // The styling for the display attribute is set here, as the desktop:display-flex
+  // utility class has, for some reason (bug?) a specificity problem in the
+  // display-flex overrides it.
+  .menu-return-button-desktop {
+    margin: auto 0;
+    display: none;
+  }
+  .menu-return-button-desktop-inner-page {
+    display: none;
+    text-align: right;
+  }
+  @include at-media('desktop') {
+    .menu-return-button-desktop {
+      display: flex;
+    }
+    .menu-return-button-desktop-inner-page {
+      display: block;
+      a {
+        @include u-font-size('sans', '3xs');
+        margin: 0;
+      }
+    }
+  }
+
   .menu-search {
     @media screen and (max-width: 640px) {
       @include u-padding-x(0);
@@ -112,7 +136,7 @@ header {
   height: 36px;
 }
 
-@include at-media-max('desktop'){
+@include at-media-max('desktop') {
   .usa-logo {
     text-align: center;
   }
