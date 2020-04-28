@@ -3,12 +3,11 @@
     <div class="grid-container">
       <div class="grid-row grid-gap footer-nav-top">
         <div class="grid-col-12 tablet:grid-col">
+          {% assign agencies = site.agencies %}
           <ul>
-            <li><a href="https://www.cdc.gov/">CDC.gov</a></li>
-            <li><a href="https://www.whitehouse.gov">WhiteHouse.gov</a></li>
-            <li><a href="https://www.fema.gov">FEMA.gov</a></li>
-            <li><a href="https://www.coronavirus.gov">Coronavirus.gov</a></li>
-            <li><a href="https://www.hhs.gov">HHS.gov</a></li>
+          {% for agency in agencies %}
+            <li><a href="{{ agency.link }}">{{ agency.title }}</a></li>
+          {% endfor %}
           </ul>
         </div>
         <div class="tablet:grid-col"></div>
