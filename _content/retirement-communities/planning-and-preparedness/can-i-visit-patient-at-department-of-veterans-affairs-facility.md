@@ -1,13 +1,13 @@
 ---
 category: retirement-communities
 date: April 27, 2020
-excerpt: Visting a patient at VA facility
+excerpt: Visting a patient at Department of Veterans Affairs facility
 layout: post
 promoted: false
 sources:
 - agency: va
   url: https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#health-care-appointments-and-m
-title: Can I visit a patient at a VA facility?
+title: Can I visit a patient at a Department of Veterans Affairs facility?
 ---
 
 We're currently following CDC guidelines and limiting visitors for patients receiving care in a VA facility, including a hospital, nursing home, or spinal cord injury and disorder center. Limiting outside visitors helps us protect older Veterans and those who already have health issues.
