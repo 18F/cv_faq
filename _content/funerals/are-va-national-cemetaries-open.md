@@ -1,7 +1,7 @@
 --
 category: funerals
 date: April 27, 2020
-excerpt: COVID-19 and funerals
+excerpt: VA national cemetaries remain open
 layout: post
 promoted: false
 sources:
