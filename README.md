@@ -84,20 +84,19 @@ The test suite includes:
 ## Initial localization support
 The jekyll template has a feature to support localization.
 
-Languages supported will be added to the `i18n` portion of the site config in `_config.yml`. 
+Languages supported will be added to the `i18n` portion of the site config in `_config.yml`.
 
 To add in localization back into the hero component, uncomment the comment in the `_includes/hero.html` around the `i18n-controls` paragraph tag.
 
 The plugin for parsing a the  language of a file can be found in `_plugins/jekyll_parse_language.rb`
 
 ### Adding localized content
-- Append `.lang-{2 character language code}` to `_content` files to indicate their language. 
+- Append `.lang-{2 character language code}` to `_content` files to indicate their language.
 - This creates a `/{2 character language code}/` output directory in the site folder.
 - We can use `{{ post.lang }}` in files to reference the current language and link to the right language in URLs.
 - The default language is `en` for files without the suffix.
 
 This approach keeps each translation next to each other in directories, and allows us to filter based on `page.lang` on pages.
-
 
 ## Netlify CMS
 As mentioned about this site uses the [Federalist Netlify CMS](https://federalist.18f.gov/documentation/getting-started-with-netlify-cms/) configuration to allow for CMS like editing of hompage promtion and content editing.
