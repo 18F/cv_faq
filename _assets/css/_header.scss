@@ -80,6 +80,9 @@ header {
     @media screen and (max-width: 640px) {
       @include u-padding-x(0);
     }
+    h2 {
+      @include u-text('no-italic', 'heavy');
+    }
     input {
       width: 100%;
       max-width: 100%;
