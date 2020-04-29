@@ -117,7 +117,8 @@
   const autocompleteContainer = document.querySelector('.autocomplete_container');
 
   const highlight = (text, query) => {
-    return text.replace(query, '<strong>' + query + '</strong>');
+    let words = query.split(' ').filter(word => word.length);
+    return text.replace(new RegExp('(\\b)(' + words.join('|') + ')(\\b)','ig'), '$1<strong>$2</strong>$3');
   };
 
   if (autocompleteContainer) {
