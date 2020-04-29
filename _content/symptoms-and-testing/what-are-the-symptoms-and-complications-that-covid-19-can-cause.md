@@ -1,6 +1,6 @@
 ---
 category: symptoms-and-testing
-date: April 26, 2020
+date: April 27, 2020
 excerpt: Symptoms and testing
 layout: post
 promoted: true
@@ -10,6 +10,21 @@ sources:
 title: What are the symptoms and complications that COVID-19 can cause?
 ---
 
-Current symptoms reported for patients with COVID-19 have included mild to severe respiratory illness with fever<sup>1</sup>, cough, shortness of breath or difficulty breathing, chills, repeated shaking with chills, muscle pain, headache, sore throat, and new loss of taste or smell. Read about [COVID-19 Symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html).
+People with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. People with these symptoms or combinations of symptoms may have COVID-19:
 
-<sub>1. Fever may be subjective or confirmed</sub>
+- Cough
+- Shortness of breath or difficulty breathing
+
+Or at least two of these symptoms:
+
+- Fever
+- Chills
+- Repeated shaking with chills
+- Muscle pain
+- Headache
+- Sore throat
+- New loss of taste or smell
+
+This list is not all inclusive. Please consult your medical provider for any other symptoms that are severe or concerning to you.
+
+Read about [COVID-19 Symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html)
