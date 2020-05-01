@@ -10,7 +10,6 @@ sources:
 title: What is antibody testing? And can I be tested using this method?
 ---
 
-
 Antibody testing checks a sample of a person’s blood to look for antibodies to SARS-CoV-2, the virus that causes COVID-19. These antibodies are produced when someone has been infected, so a positive result from this test indicates that person was previously infected with the virus.
 
 CDC is working with other federal agencies to evaluate the performance of commercially manufactured antibody tests that are becoming increasingly available from healthcare providers. This evaluation is expected to be completed in early May.
