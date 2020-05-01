@@ -125,6 +125,9 @@ collections:
   content:
     output: true
     permalink: /:categories/:name/
+  agencies:
+    output: true
+    permalink: /agency/:name/
 
 defaults:
   - scope:

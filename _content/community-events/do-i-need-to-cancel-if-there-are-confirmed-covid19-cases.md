@@ -1,12 +1,14 @@
 ---
-title: Do I need to cancel an event if there are confirmed cases of COVID-19 in the community?
 category: community-events
-layout: post
 date: March 29, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html
 excerpt: Community events
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html
+title: Do I need to cancel an event if there are confirmed cases of COVID-19 in the
+  community?
 ---
 
 If there is minimal or moderate spread of COVID-19 in the community, CDC recommends cancelling an:

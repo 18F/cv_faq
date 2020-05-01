@@ -1,12 +1,13 @@
 ---
-title: I am not typically required to file a tax return. Can I still receive my payment?
 category: financial-help
+date: April 24, 2020
+excerpt: 'Economic impact payments: What you need to know'
 layout: post
-date: March 30, 2020
-source: Treasury
 promoted: false
-source_url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
-excerpt: "Economic impact payments: What you need to know"
+sources:
+- agency: treasury
+  url: https://home.treasury.gov/news/press-releases/sm971
+title: I am not typically required to file a tax return. Can I still receive my payment?
 ---
 
-Yes. People who typically do not file a tax return will need to file a simple tax return to receive an economic impact payment. Low-income taxpayers, senior citizens, Social Security recipients, some veterans and individuals with disabilities who are otherwise not required to file a tax return will not owe tax.
+If you are not normally required to file a tax return, you can use the [Non-Filers: Enter Payment Info Here](https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here) web portal to securely submit your information to the IRS. In order to speed payments, you should enter your bank account information and your payment will be directly deposited in your bank account.

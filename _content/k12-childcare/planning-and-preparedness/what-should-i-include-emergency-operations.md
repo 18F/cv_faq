@@ -1,12 +1,13 @@
 ---
-title: What should I include in my emergency operations plan?
 category: k12-childcare
-layout: post
 date: March 19, 2020
-source: CDC
+excerpt: 'K-12 schools and childcare program administrators: Planning and preparedness'
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
-excerpt: "K-12 schools and childcare program administrators: Planning and preparedness"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools-faq.html
+title: What should I include in my emergency operations plan?
 ---
 
 Review and update your emergency operations plan in collaboration with your [local health department](https://www.naccho.org/membership/lhd-directory). Focus on the components or annexes of the plans that address infectious disease outbreaks.

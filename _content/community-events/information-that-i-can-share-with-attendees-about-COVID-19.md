@@ -1,12 +1,13 @@
 ---
-title: Is there information that I can share with staff and attendees about COVID-19?
 category: community-events
-layout: post
 date: March 15, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html
 excerpt: Community events
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html
+title: Is there information that I can share with staff and attendees about COVID-19?
 ---
 
 Share these resources to help people understand COVID-19 and steps they can take to help protect themselves:

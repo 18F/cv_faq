@@ -42,7 +42,7 @@ questions_box_1:
     - link: >-
         https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html
       question: How can I manage anxiety and stress?
-  title: How to protect yourself
+  title: How to *protect yourself*
   view_all_link: /protect-yourself/
 questions_box_2:
   questions:
@@ -53,5 +53,5 @@ questions_box_2:
       question: Should I get tested?
     - link: "/keeping-home-safe/if-someone-in-my-house-gets-sick"
       question: What should I do if someone in my house gets sick with COVID-19?
-  title: What to do if you feel sick
+  title: What to do *if you feel sick*
   view_all_link: /symptoms-and-testing/

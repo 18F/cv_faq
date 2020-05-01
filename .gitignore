@@ -6,3 +6,5 @@ node_modules
 .bundle
 .jekyll-cache/
 .DS_Store
+*.sublime-project
+*.sublime-workspace

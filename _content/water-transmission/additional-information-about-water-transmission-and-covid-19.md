@@ -1,12 +1,13 @@
 ---
-title: Where can I find additional information about water transmission and COVID-19?
 category: water-transmission
-layout: post
 date: April 3, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html
 excerpt: Water transmission and COVID-19
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html
+title: Where can I find additional information about water transmission and COVID-19?
 ---
 
 * <a href="https://www.cdc.gov/healthywater/global/sanitation/workers_handlingwaste.html">CDC: Guidance for reducing health risks to workers handling human waste or sewage</a>

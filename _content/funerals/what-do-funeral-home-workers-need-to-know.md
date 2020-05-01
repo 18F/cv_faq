@@ -1,12 +1,14 @@
 ---
-title: What do funeral home workers need to know about handling the bodies of people who die of COVID-19?
 category: funerals
-layout: post
 date: March 23, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390222777
 excerpt: COVID-19 and funerals
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390222777
+title: What do funeral home workers need to know about handling the bodies of people
+  who die of COVID-19?
 ---
 
 A funeral or visitation service can be held for a person who has died of COVID-19. Funeral home workers should follow their routine infection prevention and control precautions when handling a decedent who died of COVID-19. If it is necessary to transfer a body to a bag, follow [Standard Precautions](https://www.cdc.gov/infectioncontrol/basics/standard-precautions.html), including additional personal protective equipment (PPE) if splashing of fluids is expected. For transporting a body after the body has been bagged, disinfect the outside of the bag with a product with [EPA-approved emerging viral pathogens claims](https://www.epa.gov/sites/production/files/2020-03/documents/sars-cov-2-list_03-03-2020.pdf) expected to be effective against COVID-19 based on data for harder to kill viruses. Follow the manufacturer’s instructions for all cleaning and disinfection products (e.g., concentration, application method and contact time, etc.). Wear disposable nitrile gloves when handling the body bag.

@@ -1,20 +1,15 @@
 ---
-title: Am I at risk for COVID-19 from packages or products shipping from China?
 category: protect-yourself
-layout: post
-date: March 23, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386949645
+date: April 23, 2020
 excerpt: How to protect yourself
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386949645
+title: Am I at risk for COVID-19 from mail, packages, or products?
 ---
 
-There is still a lot that is unknown about the newly emerged COVID-19 and how it spreads. Two other coronaviruses have emerged
-previously to cause severe illness in people (MERS-CoV and SARS-CoV). The virus that causes COVID-19 is more genetically
-related to SARS-CoV than MERS-CoV, but both are betacoronaviruses with their origins in bats. While we don’t know for sure
-that this virus will behave the same way as SARS-CoV and MERS-CoV, we can use the information gained from both of these
-earlier coronaviruses to guide us. In general, because of poor survivability of these coronaviruses on surfaces, there is
-likely very low risk of spread from products or packaging that are shipped over a period of days or weeks at ambient
-temperatures. Coronaviruses are generally thought to be spread most often by respiratory droplets. Currently there is no
-evidence to support transmission of COVID-19 associated with imported goods and there have not been any cases of COVID-19 in
-the United States associated with imported goods. Information will be provided on the <a href="https://www.cdc.gov/coronavirus/2019-nCoV/index.html"> Coronavirus Disease 2019 (COVID-19) website</a> as it becomes available.
+There is still a lot that is unknown about COVID-19 and how it spreads. Coronaviruses are thought to be spread most often by respiratory droplets. Although the virus can survive for a short period on some surfaces, it is unlikely to be spread from domestic or international mail, products or packaging. However, it may be possible that people can get COVID-19 by touching a surface or object that has the virus on it and then touching their own mouth, nose, or possibly their eyes, but this is not thought to be the main way the virus spreads.
+
+Learn more about [safe handling of deliveries and mail](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html).

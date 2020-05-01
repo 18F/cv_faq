@@ -46,20 +46,20 @@
   a {
     display: inline-block;
   }
-  
-  a .usa-logo__text , 
-  a:visited .usa-logo__text, 
+
+  a .usa-logo__text,
+  a:visited .usa-logo__text,
   a:hover .usa-logo__text {
     @include u-color('ink');
   }
-  
+
   a:hover {
     .usa-logo__text, span {
       font-style: normal;
     }
   }
 
-  
+
   span {
     font-weight: normal;
     font-size: 16px;
@@ -70,14 +70,10 @@
 }
 
 header {
-  @include u-border-bottom('base-lightest', '1px', 'solid');
+  @include u-bg('primary-vivid');
+  @include u-color('white');
   &[role=banner] {
     @include u-border-top('primary-dark');
-  }
-
-  .grid__extra-wide {
-    @include u-margin-x('auto');
-    max-width: 1280px;
   }
 
   .menu-search {
@@ -90,6 +86,18 @@ header {
       border-top-left-radius: 4px;
       border-bottom-left-radius: 4px;
       @include u-border('base-lighter');
+    }
+    button {
+      @include u-bg('primary-dark');
+      @include u-color('white');
+    }
+    a,
+    a:hover,
+    a:focus,
+    a:active,
+    a:visited {
+      text-decoration: none;
+      color: white;
     }
   }
 }
@@ -105,9 +113,6 @@ header {
 }
 
 @include at-media-max('desktop'){
-  .grid__extra-wide {
-    flex-direction: column;
-  }  
   .usa-logo {
     text-align: center;
   }
@@ -123,9 +128,16 @@ header {
   text-align: center;
   display: flex;
   align-items: center;
+  align-self: flex-start;
   justify-content: center;
   @include u-margin-top(2);
   @include u-margin-bottom(1);
+}
+
+@include at-media('desktop') {
+  .header--logo-row__top {
+    justify-content: flex-end;
+  }
 }
 
 .header--logo-row__right {
@@ -143,5 +155,12 @@ header {
   @include at-media('desktop') {
     @include u-float('right');
     @include u-margin-right(2);
+  }
+}
+
+.usa-search {
+  .usa-button {
+    @include u-bg('primary-darkest');
+    @include u-color('white');
   }
 }

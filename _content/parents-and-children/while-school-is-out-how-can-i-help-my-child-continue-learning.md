@@ -1,12 +1,13 @@
 ---
-title: While school's out, how can I help my child continue learning?
 category: parents-and-children
-layout: post
 date: March 23, 2020
-source: CDC
+excerpt: School dismissals and children
+layout: post
 promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
-excerpt: "School dismissals and children"
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
+title: While school's out, how can I help my child continue learning?
 ---
 
 * Stay in touch with your child’s school.

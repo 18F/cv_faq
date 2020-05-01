@@ -1,12 +1,14 @@
 ---
-title: What should breastfeeding mothers do if they are diagnosed with or under investigation for COVID-19?
 category: pregnancy
-layout: post
 date: April 3, 2020
-source: CDC
-promoted: false
-source_url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
 excerpt: Pregnant women and COVID-19
+layout: post
+promoted: false
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
+title: What should breastfeeding mothers do if they are diagnosed with or under investigation
+  for COVID-19?
 ---
 
 - **Breast milk provides protection against many illnesses** and is the best source of nutrition for most infants.
@@ -18,5 +20,5 @@ excerpt: Pregnant women and COVID-19
   - Express breast milk to establish and maintain milk supply.
   - A dedicated breast pump should be provided.
   - Wash hands before touching any pump or bottle parts and before expressing breast milk.
-  - Follow **recommendations for proper pump cleaning** after each use, cleaning all parts that come into contact with breast milk.
+  - Follow **recommendations for proper pump cleaning** ([Español](https://www.cdc.gov/healthywater/hygiene/healthychildcare/infantfeeding/breastpump-esp.html)) after each use, cleaning all parts that come into contact with breast milk.
   - If possible, consider having someone who is well feed the expressed breast milk to the infant.

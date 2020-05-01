@@ -1,12 +1,13 @@
 ---
-title: Where can I get more information about economic impact payments?
 category: financial-help
-layout: post
 date: March 30, 2020
-source: Treasury
+excerpt: 'Economic impact payments: What you need to know'
+layout: post
 promoted: false
-source_url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
-excerpt: "Economic impact payments: What you need to know"
+sources:
+- agency: treasury
+  url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
+title: Where can I get more information about economic impact payments?
 ---
 
 The IRS will post all key information on [IRS.gov/coronavirus](https://www.irs.gov/coronavirus) as soon as it becomes available.
