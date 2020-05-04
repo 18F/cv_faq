@@ -1,13 +1,13 @@
 ---
 category: funerals
 date: April 27, 2020
-excerpt: Schedule a burial at a national cemetary
+excerpt: Schedule a burial at a national cemetery
 layout: post
 promoted: false
 sources:
 - agency: va
   url: https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#status-of-va-national-cemeteri
-title: Can I still schedule a burial at a national cemetary?
+title: Can I still schedule a burial at a national cemetery?
 ---
 
 Yes. To schedule an interment, contact the National Cemetery Scheduling Office at 800-535-1117. VA national cemeteries remain open for direct interments of Veterans and eligible dependents. Immediate family members (limited to 10 individuals) of the deceased can witness the interment, if requested and approved by the cemetery.
