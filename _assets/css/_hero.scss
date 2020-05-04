@@ -8,15 +8,17 @@
   h1 {
     @include u-font('sans', 'xl');
     font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
-    @include u-text('white', 'bold');
+    @include u-text('white', 'heavy');
     margin-y: units(3);
   }
   @include at-media('tablet') {
     h1 {
       @include u-font('sans', '2xl');
+      font-size: 2.58rem;  // 2xl is a bit too small
     }
   }
 }
+
 .i18n-controls {
   @include u-text('base-light');
   text-align: left;
@@ -30,28 +32,43 @@
     }
   }
 }
+
 .usa-search--hero {
   text-align: center;
   margin: auto;
+
   input:not([disabled]):focus, select:not([disabled]):focus, textarea:not([disabled]):focus, button:not([disabled]):focus {
     outline: 0.25rem solid $theme-color-base-lightest;
   }
+
   .usa-button {
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
+    border-top-right-radius: 0.22rem;
+    border-bottom-right-radius: 0.22rem;
+    padding: units(3) units(6);
+    height: 4.5rem;
+
+    @include u-font('sans', 'lg');
+    font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
+
+    @include u-bg('primary-darkest');
     &:hover,
     &:focus,
     &:active {
-      @include u-bg('primary-dark');
+      @include u-bg('primary-darker');
     }
   }
+
   @include at-media('tablet'){
     max-width: 80%;
   }
+
   div {
     align-items: center;
     justify-content: center;
   }
+
   #search-box {
     @include u-font('sans', 'lg');
     font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
@@ -60,23 +77,5 @@
     max-width: none;
     border-right: 0;
     height: 4.5rem;
-  }
-
-  .usa-button {
-    @include u-font('sans', 'lg');
-    font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
-    @include u-text('normal');
-    border-top-left-radius: 0px;
-    border-bottom-left-radius: 0px;
-    border-top-right-radius: 0.22rem;
-    border-bottom-right-radius: 0.22rem;
-    padding: units(3) units(6);
-    height: 4.5rem;
-    @include u-bg('primary-darkest');
-    &:hover,
-    &:focus,
-    &:active {
-      @include u-bg('primary-darker');
-    }
   }
 }
