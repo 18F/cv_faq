@@ -1,6 +1,6 @@
 ---
 category: rumors
-date: March 26, 2020
+date: April 2, 2020
 excerpt: Get the facts about coronavirus
 layout: post
 promoted: false
@@ -10,4 +10,8 @@ sources:
 title: Is FEMA deploying the military?
 ---
 
-No. FEMA does not have military personnel. State governors are responsible for deploying the National Guard if needed.
+On March 22, President Trump directed the Secretary of Defense to permit full federal reimbursement, by FEMA, for some states' use of their National Guard forces. FEMA has executed a fully reimbursable mission assignment to the Department of Defense, including reimbursement for pay and allowances of National Guard personnel serving in a Title 32 duty status in fulfillment of the FEMA mission assignment. 
+
+In addition, the Department of Defense has deployed the U.S.N.S. Comfort to New York and the U.S.N.S. Mercy to Los Angeles.
+
+FEMA has also issued mission assignments to the U.S. Army Corps of Engineers to design and build alternate care sites in support of the COVID-19 response.
