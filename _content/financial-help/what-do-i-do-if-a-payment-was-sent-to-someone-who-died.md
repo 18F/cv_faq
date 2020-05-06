@@ -26,36 +26,42 @@ If you have received an Economic Impact Payment for someone who has died, you mu
 **For your paper check, here are the IRS mailing addresses to use based on the state:**
 
 **For Maine, Maryland, Massachusetts, New Hampshire, Vermont:**
+
 Andover Refund Inquiry Unit\\
 1310 Lowell St Mail\\
 Stop 666A\\
 Andover, MA 01810
 
 **For Georgia, Iowa, Kansas, Kentucky, Virginia:**
+
 Atlanta Refund Inquiry Unit\\
 4800 Buford Hwy\\
 Mail Stop 112\\
 Chamblee, GA 30341
 
 **For Florida, Louisiana, Mississippi, Oklahoma, Texas:**
+
 Austin Refund Inquiry Unit\\
 3651 S Interregional Hwy 35\\
 Mail Stop 6542\\
 Austin, TX 78741
 
 **For New York:**
+
 Brookhaven Refund Inquiry Unit\\
 5000 Corporate Ct.\\
 Mail Stop 547\\
 Holtsville, NY 11742
 
 **For Alaska, Arizona, California, Colorado, Hawaii, Nevada, New Mexico, Oregon, Utah, Washington, Wisconsin, Wyoming:**
+
 Fresno Refund Inquiry Unit\\
 5045 E Butler Avenue\\
 Mail Stop B2007\\
 Fresno, CA 93888
 
 **For Arkansas, Connecticut, Delaware, Indiana, Michigan, Minnesota, Missouri, Montana, Nebraska, New Jersey, Ohio, West Virginia:**
+
 Kansas City Refund Inquiry Unit\\
 333 W Pershing Rd\\
 Mail Stop 6800, N-2\\
@@ -69,12 +75,14 @@ Stop 8422\\
 Memphis, TN 38118
 
 **For District of Columbia, Idaho, Illinois, Pennsylvania, Rhode Island:**
+
 Philadelphia Refund Inquiry Unit\\
 2970 Market St\\
 DP 3-L08-151\\
 Philadelphia, PA 19104
 
 **For a foreign country, U.S. possession or territory, or use an APO or FPO address, or file Form 2555 or 4563, or are a dual-status alien:**
+
 Austin Refund Inquiry Unit\\
 3651 S Interregional Hwy 35\\
 Mail Stop 6542 AUSC\\
