@@ -61,4 +61,4 @@ If you _must_ travel, consider the following risks you might face, depending on 
 - **Car travel**: The stops you need to make along the way could put you and others in the car with you in close contact with others who could be infected.
 - **RV travel**: Traveling by RV means you may have to stop less often for food or bathrooms, but RV travelers typically have to stop at RV parks overnight and other public places to get gas and supplies. These stops may put you and those with you in the RV in close contact with others who could be infected.
 
-[Visit the CDC for more travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html).
+[Visit CDC for more travel guidance](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html).
