@@ -116,14 +116,16 @@
 
   const autocompleteContainer = document.querySelector('.autocomplete_container');
 
-  const highlight = (text) => {
-    return text.replace(/\uE000/g, '<strong>').replace(/\uE001/g, '</strong>');
+  const highlight = (text, query) => {
+    let words = query.split(' ').filter(word => word.length);
+    return text.replace(new RegExp('(\\b)(' + words.join('|') + ')(\\b)','ig'), '$1<strong>$2</strong>$3');
   };
 
   if (autocompleteContainer) {
     const previousInput = autocompleteContainer.querySelector('input');
     autocompleteContainer.innerHTML = '';
     let runningRequest = null;
+    let currentQuery = null;
 
     const makeDebouncedRequest = debounce((query, completed) => {
       search_local(query)
@@ -143,7 +145,7 @@
       },
       templates: {
         inputValue: () => '',
-        suggestion: (item) => highlight(item.title)
+        suggestion: (item) => highlight(item.title, currentQuery)
       },
       tNoResults: () => {
         return runningRequest ? 'Loading…' : `No results for “${newInput.value}”`;
@@ -156,7 +158,7 @@
             populateResults(results);
           }
         });
-
+        currentQuery = query;
         runningRequest = thisRequest;
       }
     });
