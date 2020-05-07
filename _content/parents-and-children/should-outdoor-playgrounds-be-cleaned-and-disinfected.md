@@ -7,8 +7,7 @@ promoted: false
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
-title: How effective are alternative disinfection methods, such as ultrasonic waves, high intensity UV radiation, and LED blue light?
+title: Should outdoor playgrounds, like those at school or parks, be cleaned and disinfected to prevent COVID-19?
 ---
 
-The efficacy of these disinfection methods against the virus that causes COVID-19 is not known. EPA only recommends use of the [surface disinfectants identified on List N](https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2) against the virus that causes COVID-19. EPA does not routinely review the safety or efficacy of pesticidal devices, such as UV lights, LED lights, or ultrasonic devices. Therefore, EPA cannot confirm whether, or under what circumstances, such products might be effective against the spread of COVID-19.
-
+Outdoor areas generally require normal routine cleaning and do not require disinfection. Spraying disinfectant on outdoor playgrounds is not an efficient use of disinfectant supplies and has not been proven to reduce the risk of COVID-19 to the public. You should maintain existing cleaning and hygiene practices for outdoor areas. If practical, high touch surfaces made of plastic or metal, such as grab bars and railings, should be cleaned routinely. Cleaning and disinfection of wooden surfaces (e.g., play structures, benches, tables) or groundcovers (e.g., mulch, sand) is not recommended.
