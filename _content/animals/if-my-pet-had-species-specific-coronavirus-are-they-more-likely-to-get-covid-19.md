@@ -1,6 +1,6 @@
 ---
 category: animals
-date: April 15, 2020
+date: May 5, 2020
 excerpt: Animal coronaviruses
 layout: post
 promoted: false
@@ -11,6 +11,4 @@ title: If my pet previously had a species-specific coronavirus, does that make t
   more or less likely to get COVID-19?
 ---
 
-To date, there have been no reports of pets becoming sick with COVID-19.
-
-There is no data to suggest that current or previous infection with another strain of coronavirus would make your pet more or less likely to get COVID-19.
+There are no data to suggest that current or previous infection with another strain of coronavirus would make your pet more or less likely to get COVID-19.
