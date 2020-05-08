@@ -19,6 +19,7 @@
     "uswds": "~2.1.0"
   },
   "devDependencies": {
+    "@apidevtools/swagger-parser": "^9.0.1",
     "a11y": "^0.5.1",
     "fast-xml-parser": "^3.16.0",
     "front-matter": "^3.1.0",

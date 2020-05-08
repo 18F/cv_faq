@@ -4,6 +4,10 @@
 
 A Coronavirus FAQ for the United States of America.
 
+## API
+
+A JSON API is available for site content. See the [API documentation](https://faq.coronavirus.gov/api/).
+
 ## Technology overview
 
 This website is developed using the [U.S. Web Design System](https://designsystem.digital.gov), is deployed on [Federalist](https://federalist.18f.gov/), search is provided by [Search.gov](https://search.gov/), and analytics are provided by the [Digital Analytics Program](https://digital.gov/guides/dap/). This code uses the [Jekyll](https://jekyllrb.com) site engine, and integrates [Netlify CMS](https://www.netlifycms.org/) for a web editor interface.
