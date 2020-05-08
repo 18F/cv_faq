@@ -1,6 +1,6 @@
 ---
 category: keeping-home-safe
-date: March 20, 2020
+date: April 30, 2020
 excerpt: Keeping your home safe
 layout: post
 promoted: false
@@ -19,3 +19,4 @@ Practice everyday preventive actions to help reduce your risk of getting sick an
 * If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol. Always wash hands with soap and water if hands are visibly dirty.
 * Clean and disinfect frequently touched surfaces and objects
 (e.g., tables, countertops, light switches, doorknobs, and cabinet handles).
+* Launder items, including washable plush toys, as appropriate and in accordance with the manufacturer’s instructions. If possible, launder items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from an ill person can be washed with other people’s items.
