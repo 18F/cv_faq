@@ -75,8 +75,8 @@ components:
           items:
             type: "object"
             properties:
-              name:
+              agency:
                 type: "string"
-              source_url:
+              url:
                 type: "string"
                 format: "uri"
