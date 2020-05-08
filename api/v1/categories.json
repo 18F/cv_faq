@@ -1,0 +1,11 @@
+---
+layout: null
+---
+[
+  {%- for category in site.categories %}
+  {
+    "category_url": "{{ site.url }}/{{ category.name | downcase }}/",
+    "title": "{{ category.title | replace: '"', '\"' }}"
+  }{%- unless forloop.last %},{% endunless %}
+  {%- endfor %}
+]
