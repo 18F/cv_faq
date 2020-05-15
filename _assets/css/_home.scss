@@ -10,9 +10,9 @@
 
 .top-questions h2 {
   @include u-text('white');
+  @include u-text('no-italic', 'heavy');
   @include u-font('sans', 'xl');
   font-family: 'Open Sans', 'Source Sans Pro Web', 'Helvetica Neue' , 'Helvetica', 'Roboto', 'Arial', sans-serif;
-  font-weight: bold;
   @include u-margin-x(0);
   @include u-margin-y(2);
 }
@@ -48,14 +48,20 @@
 
 .question-box a,
 .top-categories a {
-  @include u-color('primary-vivid');
   width: 100%;
+  @include u-color('primary-vivid');
   &:visited {
     @include u-color('primary-vivid');
   }
   &:hover,
   &:focus {
     @include u-color('primary-dark');
+  }
+}
+
+.top-categories {
+  h3 {
+    @include u-text('no-italic', 'heavy');
   }
 }
 
@@ -87,7 +93,7 @@
   .question-title p {
     @include u-font-size('sans', 'lg');
     em {
-      @include u-text('no-italic', 'bold');
+      @include u-text('no-italic', 'heavy');
     }
   }
 }
@@ -103,10 +109,7 @@
     @include u-padding-bottom(3);
   }
 }
-.usa-button {
-  border-radius: 0;
-  font-weight: normal;
-}
+
 #more-questions:focus {
   outline: none;
 }
