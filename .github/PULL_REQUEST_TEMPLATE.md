@@ -14,4 +14,4 @@ Please confirm the following steps are completed:
   * *Project lead* for merge to `preview` (approved design / behavior changes)
   * *Engineer* for merge to master (production)
 
-:sunglasses: [PREVIEW URL]()
+:sunglasses: [PREVIEW URL](<!-- ADD PREVIEW URL HERE -->)
