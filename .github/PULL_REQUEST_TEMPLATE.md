@@ -1,4 +1,4 @@
-Promote *content | design* changes.
+_Promote changes._
 
 Please confirm the following steps are completed:
 
@@ -13,3 +13,5 @@ Please confirm the following steps are completed:
   * *Content admin* for merge to `preview-content` (approved content)
   * *Project lead* for merge to `preview` (approved design / behavior changes)
   * *Engineer* for merge to master (production)
+
+:sunglasses: [PREVIEW URL](<!-- ADD PREVIEW URL HERE -->)
