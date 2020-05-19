@@ -21,7 +21,7 @@
   "devDependencies": {
     "@apidevtools/swagger-parser": "^9.0.1",
     "a11y": "^0.5.1",
-    "fast-xml-parser": "^3.16.0",
+    "fast-xml-parser": "^3.17.1",
     "front-matter": "^3.1.0",
     "jest": "^25.3.0",
     "jest-puppeteer": "^4.4.0",
