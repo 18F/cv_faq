@@ -13,17 +13,17 @@
   },
   "dependencies": {
     "accessible-autocomplete": "^2.0.2",
-    "fuse.js": "^5.1.0",
-    "netlify-cms": "^2.10.42",
+    "fuse.js": "^5.2.3",
+    "netlify-cms": "^2.10.49",
     "serve": "^11.3.0",
     "uswds": "~2.1.0"
   },
   "devDependencies": {
     "@apidevtools/swagger-parser": "^9.0.1",
     "a11y": "^0.5.1",
-    "fast-xml-parser": "^3.16.0",
-    "front-matter": "^3.1.0",
-    "jest": "^25.3.0",
+    "fast-xml-parser": "^3.17.1",
+    "front-matter": "^3.2.1",
+    "jest": "^25.5.4",
     "jest-puppeteer": "^4.4.0",
     "puppeteer": "^2.1.1",
     "true-case-path": "^2.2.1"
