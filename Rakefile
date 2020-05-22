@@ -11,6 +11,9 @@ task :htmlproof do
     url_swap: {
       # treat urls to faq.coronavirus.gov as local
       'https://faq.coronavirus.gov' => ''
+    },
+    :hydra => { 
+      :max_concurrency => 10 
     }
   }).run
 end
