@@ -11,6 +11,13 @@ task :htmlproof do
     url_swap: {
       # treat urls to faq.coronavirus.gov as local
       'https://faq.coronavirus.gov' => ''
+    },
+    :typhoeus => {
+      :connecttimeout => 30,
+      :timeout => 60
+    },
+    :hydra => { 
+      :max_concurrency => 10 
     }
   }).run
 end
