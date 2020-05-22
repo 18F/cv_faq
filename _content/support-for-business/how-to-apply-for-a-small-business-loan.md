@@ -1,6 +1,6 @@
 ---
 category: support-for-business
-date: March 31, 2020
+date: May 21, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
@@ -19,3 +19,5 @@ Forgiveness is based on the employer maintaining or quickly rehiring employees a
 - [More information about the Paycheck Protection Program (PDF)](https://home.treasury.gov/system/files/136/PPP%20--%20Overview.pdf)
 
 - [Application form (PDF)](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
+
+For more information, please visit [Treasury.gov/CARES](https://www.treasury.gov/CARES).
