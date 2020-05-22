@@ -12,6 +12,10 @@ task :htmlproof do
       # treat urls to faq.coronavirus.gov as local
       'https://faq.coronavirus.gov' => ''
     },
+    :typhoeus => {
+      :connecttimeout => 30,
+      :timeout => 60
+    },
     :hydra => { 
       :max_concurrency => 10 
     }
