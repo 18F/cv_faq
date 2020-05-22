@@ -1,6 +1,6 @@
 ---
 category: financial-help
-date: April 24, 2020
+date: May 21, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
@@ -10,4 +10,4 @@ sources:
 title: I am a veteran and I receive Compensation and Pension (C&P) benefits. Do I need to provide information to the IRS to receive my payment?
 ---
 
-The Treasury Department is working directly with the Department of Veterans Affairs so make sure you receive your payment automatically, without any additional paperwork.
+For most people receiving C&P benefits, no action is required to receive your Economic Impact Payment. You will receive your automatic Payment as a direct deposit or by mail, just as you would normally receive your federal benefits. For more information, please visit [IRS.gov](https://www.irs.gov).
