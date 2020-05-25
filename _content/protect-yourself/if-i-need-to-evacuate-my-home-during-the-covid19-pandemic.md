@@ -5,7 +5,7 @@ excerpt: What if I need to evacuate or shelter safely during the COVID-19 pandem
 layout: post
 promoted: true
 sources:
-- agency: cdc,fema
+- agency: fema
   url: https://www.ready.gov/evacuation
 title: If I need to evacuate my home or shelter safely during the COVID-19 pandemic what do I do?
 ---
