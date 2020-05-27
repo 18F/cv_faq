@@ -1,18 +1,18 @@
 ---
 category: travel
-date: March 30, 2020
+date: May 27, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 promoted: false
 sources:
 - agency: dhs
-  url: https://www.dhs.gov/news/2020/03/17/fact-sheet-dhs-notice-arrival-restrictions-china-iran-and-certain-countries-europe
-title: Which countries are under U.S. travel restrictions because of the Coronavirus?
+  url: https://www.dhs.gov/coronavirus/protecting-air-travelers-and-american-public
+title: Which countries are under U.S. travel restrictions because of COVID-19?
 ---
 
-- Iran
 - Austria
 - Belgium
+- Brazil
 - Czech Republic
 - Denmark
 - Estonia
@@ -22,6 +22,7 @@ title: Which countries are under U.S. travel restrictions because of the Coronav
 - Greece
 - Hungary
 - Iceland
+- Iran
 - Ireland
 - Italy
 - Latvia
