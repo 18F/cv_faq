@@ -13,4 +13,4 @@ title: I’m an American citizen and I recently traveled to one of the countries
 
 Yes. American citizens, legal permanent residents, and their immediate families can return to the United States. 
 
-American citizens, legal permanent residents, and their immediate families who are returning home to the U.S. to travel through one of 13 airports upon arrival to the U.S., submit to an enhanced entry screening and self-quarantine for 14 days once they reach their final destination.
+American citizens, legal permanent residents, and their immediate families who are returning home to the U.S. must travel through one of 13 airports upon arrival to the U.S., submit to an enhanced entry screening, and self-quarantine for 14 days once they reach their final destination.

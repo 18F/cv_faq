@@ -20,19 +20,19 @@ title: How can my retirement community or independent living facility prepare fo
   - Advise residents to stay home and avoid public places
   - Alter schedules to reduce mixing (e.g., stagger meal, activity, arrival/departure times)
 - Support residents in preparing
-  - Establish the ‘buddy’ system to ensure residents stay connected.
-  - Encourage residents to have extra medications and supplies.
-  - Identify residents with unique needs and work with them to tailor these strategies.
-  - Find ways to support residents in [managing stress and anxiety](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html).
+  - Establish the ‘buddy’ system to ensure residents stay connected
+  - Encourage residents to have extra medications and supplies
+  - Identify residents with unique needs and work with them to tailor these strategies
+  - Find ways to support residents in [managing stress and anxiety](https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html)
   - Inform residents using print materials and high-visibility posters
-- Encourage everyone to take [everyday preventive actions](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html) to prevent the spread of respiratory illnesses.
+- Encourage everyone to take [everyday preventive actions](https://www.cdc.gov/coronavirus/2019-ncov/about/prevention-treatment.html) to prevent the spread of respiratory illnesses
   - Cover coughs and sneezes
   - Clean and disinfect frequently touched surfaces
   - Wash hands often with soap and water for at least 20 seconds
-  - Ensure hand hygiene supplies (e.g., hand sanitizer containing at least 60% alcohol) are readily available in all buildings.
-- Monitor for cases and take action when someone is sick.
+  - Ensure hand hygiene supplies (e.g., hand sanitizer containing at least 60% alcohol) are readily available in all buildings
+- Monitor for cases and take action when someone is sick
   - Screen workers and when possible volunteers
   - Ask residents to self-monitor for symptoms
-  - Review the usual absenteeism patterns at your facility among staff, so you can identify if the rate of absenteeism increases.
+  - Review the usual absenteeism patterns at your facility among staff, so you can identify if the rate of absenteeism increases
   - Implement flexible sick-leave policies and actively encourage sick employees to stay home
   - Coordinate with local health facilities if you suspect a resident or staff member may have COVID-19
