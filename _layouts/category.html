@@ -17,7 +17,7 @@ layout: default
       {% if page.banner.display == true %}
       {% include alert-banner.html banner=page.banner %}
       {% endif %}
-      <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=true>
+      <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=false>
         {% assign promoted_in_category = category_questions | group_by:"promoted" | reverse %}
         {% for is_promoted in promoted_in_category %}
         {% for question in is_promoted.items %}

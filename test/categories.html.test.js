@@ -58,3 +58,21 @@ test('shows a specific question instead of the first if it is passed as an ancho
   expect(questions[1].isOpen).toBe(true);
   expect(questions.filter(q => q.isOpen)).toHaveLength(1);
 });
+
+test('changes page hash on question click', async () => {
+  const allButtonIds = await page.$$eval('#main-content .usa-accordion__button', els => {
+    return els.map(el => el.id)
+  });
+  const ids = await page.$$eval('#main-content .usa-accordion__button[set-page-hash]', els => {
+    return els.map(el => el.id)
+  });
+
+  // All accordion buttons on the category pages should have the set-page-hash attribute
+  expect(allButtonIds.length).toBe(ids.length);
+
+  // Click events on accordion buttons should set the page URL to the button's hash
+  for (const id of ids) {
+    await page.click('#' + id);
+    expect(page.url().endsWith('#' + id)).toBe(true);
+  }
+});
