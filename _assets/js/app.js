@@ -17,6 +17,12 @@
     accordionButtons.forEach(a => a.setAttribute(EXPANDED, false));
     (target || accordionButtons[0]).setAttribute(EXPANDED, true);
   }
+
+  const pageHashButtons = document.querySelectorAll(`${BUTTON}[set-page-hash]`);
+  pageHashButtons.forEach(button => button.addEventListener('click', (event) => {
+    //document.location = '#' + event.target.id;
+    document.location.replace('#' + event.target.id);
+  }));
 })();
 
 //////////////////////////////////
