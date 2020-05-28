@@ -12,7 +12,7 @@ title: What can I expect when arriving to the United States?
 
 At this time, travel restrictions and entry screening apply only to travelers arriving from some countries or regions with widespread ongoing spread of COVID-19. [Note: US policies are subject to change as the COVID-19 pandemic evolves.]
 
-If you are coming from a country or a region with [widespread ongoing transmission](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html#transmission) of COVID-19 ([Level 3 Travel Heath Notice](https://wwwnc.cdc.gov/travel/notices)), you may be screened when you arrive in the United States. After you arrive home, take the following steps to protect yourself and others:
+If you are coming from a country or a region with [widespread ongoing transmission](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html#transmission) of COVID-19 ([Level 3 Travel Health Notice](https://wwwnc.cdc.gov/travel/notices)), you may be screened when you arrive in the United States. After you arrive home, take the following steps to protect yourself and others:
 
 1. **Stay at home.** Do not go to work, school, or leave your house for 14 days. Discuss your work situation with your employer.
 2. **Monitor your health.** Take your temperature with a thermometer two times a day and monitor for fever (temperature of 100.4°F/38°C or higher). Also watch for cough or trouble breathing.
