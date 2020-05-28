@@ -16,11 +16,13 @@ Most people who get COVID-19 will be able to recover at home. [CDC has direction
 
 ### When to seek medical attention
 
-* If you develop **emergency warning signs**<sup>1</sup> for COVID-19 get **medical attention immediately**:
+If you develop **emergency warning signs** for COVID-19 get **medical attention immediately**:
   * Trouble breathing
   * Persistent pain or pressure in the chest
   * New confusion or inability to arouse
   * Bluish lips or face
+
+This list is not all inclusive. Please consult your medical provider for any other symptoms that are severe or concerning.
 
 **Call 911 if you have a medical emergency:** Notify the operator that you have, or think you might have, COVID-19. If possible, put on a cloth face covering before medical help arrives.
 
@@ -31,4 +33,3 @@ Most people who get COVID-19 will be able to recover at home. [CDC has direction
 - [Clean the sick room and bathroom](https://www.cdc.gov/coronavirus/2019-ncov/community/home/cleaning-disinfection.html), as needed, to avoid unnecessary contact with the sick person.
 - Avoid sharing personal items like utensils, food, and drinks.
 
-<sub>1. This list is not all inclusive. Please consult your medical provider for any other symptoms that are severe or concerning.<sub>
