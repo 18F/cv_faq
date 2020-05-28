@@ -7,7 +7,7 @@ promoted: false
 sources:
 - agency: dhs
   url: https://www.dhs.gov/coronavirus/protecting-air-travelers-and-american-public
-title: Which 15 airports have the enhanced travel screening measures for international
+title: Which airports have the enhanced travel screening measures for international
   travelers?
 ---
 
