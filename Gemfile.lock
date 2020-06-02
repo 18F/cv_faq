@@ -57,6 +57,8 @@ GEM
       nokogiri (~> 1.8)
       pathutil (~> 0.16)
       sprockets (>= 3.3, < 4.1.beta)
+    jekyll-redirect-from (0.16.0)
+      jekyll (>= 3.3, < 5.0)
     jekyll-sanity (1.6.0)
       jekyll (>= 3.1, < 5.0)
       pathutil (~> 0.16)
@@ -117,6 +119,7 @@ DEPENDENCIES
   html-proofer (~> 3.10)
   jekyll (~> 3.8)
   jekyll-assets (~> 3.0, >= 3.0.12)
+  jekyll-redirect-from (~> 0.16.0)
   jekyll-seo-tag
   jekyll-sitemap
   rake

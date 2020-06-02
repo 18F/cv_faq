@@ -8,6 +8,8 @@ sources:
 - agency: fema
   url: https://www.fema.gov/coronavirus-rumor-control
 title: Are there any vaccines to prevent or medicines to treat COVID-19?
+redirect_from:
+  - /rumors/are-there-any-vaccines
 ---
 
 Currently, there are no Food and Drug Administration (FDA) approved drugs specifically for the treatment of COVID-19. Researchers are studying new drugs, and drugs that are already approved for other health conditions, as possible treatments for COVID-19. The Centers for Disease Control and Prevention has more information for health care providers about these potential treatments.
