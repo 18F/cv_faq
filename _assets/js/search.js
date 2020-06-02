@@ -21,19 +21,39 @@
       timer = setTimeout(next, timeout > 0 ? timeout : 300);
       return timer;
     };
-  }
+  };
 
   //////////////////////////////////
   // Translation
 
-  const translate_fromSearchGov = (response) => {
-    return response.web.results.map(result => {
-      return {
-        url: result.url,
-        title: result.title,
-        description: result.snippet
-      };
-    });
+  const translate_fromSearchGov = (query) => (response) => {
+    return {
+      routeTo: (() => {
+        if (!response.route_to) {
+          return null;
+        }
+
+        // If this is a routed query pointing to production search results, extract
+        // search parameters out.
+        // So we can test lower environments against the production search.gov,
+        // assume production hostname.
+        const url = new URL(response.route_to);
+        if (url.host == 'faq.coronavirus.gov' && url.pathname == '/search/') {
+          // Return the URL minus the hostname, with the orginal query included
+          return `${url.pathname}${url.search}&source=${encodeURIComponent(query)}`;
+        }
+
+        // This is a routed query to something other than search results.
+        return response.route_to;
+      })(),
+      results: response.web && response.web.results ? response.web.results.map(result => {
+        return {
+          url: result.url,
+          title: result.title,
+          description: result.snippet
+        };
+      }) : []
+    }
   };
 
   const translate_fromSearchJson = (response) => {
@@ -46,19 +66,21 @@
       return regex.exec(text)[0];
     };
 
-    return response.slice(0, RESULTS_LIMIT).map(result => {
-      return {
-        url: result.item.url,
-        title: result.item.title,
-        description: smartTruncate(result.item.content, 300),
-      };
-    });
+    return {
+      results: response.slice(0, RESULTS_LIMIT).map(result => {
+        return {
+          url: result.item.url,
+          title: result.item.title,
+          description: smartTruncate(result.item.content, 300),
+        };
+      })
+    };
   }
 
   //////////////////////////////////
   // Performing search
 
-  const search_searchGov = (query) => new Promise((resolve, reject) => {
+  const search_searchGov = (query, highlightSearchTerms) => new Promise((resolve, reject) => {
     const searchEndpoint = new URL(`${SEARCHGOV_ENDPOINT}/api/v2/search/i14y`);
     const searchTimeout = 3; // seconds
 
@@ -70,7 +92,8 @@
       affiliate: SEARCHGOV_AFFILIATE,
       access_key: SEARCHGOV_ACCESS_KEY,
       query: query,
-      limit: RESULTS_LIMIT
+      limit: RESULTS_LIMIT,
+      enable_highlighting: highlightSearchTerms
     }).forEach(([key, value]) => searchEndpoint.searchParams.append(key, value));
 
     const searchgov = fetch(searchEndpoint)
@@ -79,7 +102,7 @@
     searchgov.catch(reject);
 
     searchgov
-      .then(translate_fromSearchGov)
+      .then(translate_fromSearchGov(query))
       .then(resolve);
   });
 
@@ -100,8 +123,8 @@
       .then(resolve);
   });
 
-  window.SearchService = (query) => new Promise((resolve, reject) => {
-    search_searchGov(query)
+  window.SearchService = (query, highlightSearchTerms) => new Promise((resolve, reject) => {
+    search_searchGov(query, highlightSearchTerms)
       .then(resolve)
       .catch(error => {
         console.warn('Using local search fallback.', error);
@@ -114,14 +137,15 @@
   //////////////////////////////////
   // Type Ahead Input
 
-  const autocompleteContainer = document.querySelector('.autocomplete_container');
-
   const highlight = (text, query) => {
+    if (!query) {
+      return;
+    }
     let words = query.split(' ').filter(word => word.length);
     return text.replace(new RegExp('(\\b)(' + words.join('|') + ')(\\b)','ig'), '$1<strong>$2</strong>$3');
   };
 
-  if (autocompleteContainer) {
+  window.initializeAutocomplete = function (autocompleteContainer, defaultValue) {
     const previousInput = autocompleteContainer.querySelector('input');
     autocompleteContainer.innerHTML = '';
     let runningRequest = null;
@@ -129,13 +153,14 @@
 
     const makeDebouncedRequest = debounce((query, completed) => {
       search_local(query)
-        .then(results => completed(results.slice(0, 5)));
+        .then(response => completed(response.results.slice(0, 5)));
     }, 300);
 
     accessibleAutocomplete({
       element: autocompleteContainer,
       id: 'search-box',
       name: 'query',
+      defaultValue: defaultValue,
       placeholder: previousInput.getAttribute('placeholder'),
       confirmOnBlur: false,
       onConfirm: (item) => {
@@ -171,5 +196,5 @@
         evt.currentTarget.form.submit();
       }
     });
-  }
+  };
 })();
