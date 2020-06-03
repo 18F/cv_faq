@@ -145,6 +145,7 @@ url: https://faq.coronavirus.gov
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-redirect-from
 
 exclude:
   - package.json
