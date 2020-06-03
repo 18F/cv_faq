@@ -40,7 +40,7 @@
         const url = new URL(response.route_to);
         if (url.host == 'faq.coronavirus.gov' && url.pathname == '/search/') {
           // Return the URL minus the hostname, with the orginal query included
-          return `${url.pathname}${url.search}&source=${encodeURIComponent(query)}`;
+          return `${BASE_URL}${url.pathname}${url.search}&source=${encodeURIComponent(query)}`;
         }
 
         // This is a routed query to something other than search results.
