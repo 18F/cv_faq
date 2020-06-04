@@ -65,7 +65,7 @@ sitemap: false
 
     window.addEventListener('DOMContentLoaded', () => {
       const autocompleteContainer = document.querySelector('.autocomplete_container');
-      window.initializeAutocomplete(autocompleteContainer, query);
+      window.initializeAutocomplete(autocompleteContainer);
 
       const highlightSearchTerms = !routedFrom;
       window.SearchService(query, highlightSearchTerms).then((response) => {

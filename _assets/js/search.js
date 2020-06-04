@@ -145,7 +145,7 @@
     return text.replace(new RegExp('(\\b)(' + words.join('|') + ')(\\b)','ig'), '$1<strong>$2</strong>$3');
   };
 
-  window.initializeAutocomplete = function (autocompleteContainer, defaultValue) {
+  window.initializeAutocomplete = function (autocompleteContainer) {
     const previousInput = autocompleteContainer.querySelector('input');
     autocompleteContainer.innerHTML = '';
     let runningRequest = null;
@@ -160,7 +160,6 @@
       element: autocompleteContainer,
       id: 'search-box',
       name: 'query',
-      defaultValue: defaultValue,
       placeholder: previousInput.getAttribute('placeholder'),
       confirmOnBlur: false,
       onConfirm: (item) => {
