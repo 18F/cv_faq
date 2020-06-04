@@ -8,6 +8,8 @@ sources:
 - agency: dhs
   url: https://www.dhs.gov/news/2020/03/17/fact-sheet-dhs-notice-arrival-restrictions-china-iran-and-certain-countries-europe
 title: Which countries are under U.S. travel restrictions because of coronavirus (COVID-19)?
+redirect_from: /travel/level-3-travel-health-return-work/
+
 ---
 
 Entry to the U.S. has been suspended for nearly all foreign nationals who have been in:
