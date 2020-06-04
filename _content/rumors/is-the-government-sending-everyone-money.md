@@ -10,6 +10,7 @@ sources:
 - agency: ftc
   url: https://www.consumer.ftc.gov/features/coronavirus-scams-what-ftc-doing
 title: Is the government sending everyone money?
+redirect_from: /get-facts/is-the-government-sending-everyone-money/
 ---
 
 A stimulus package has been passed by Congress to help Americans in need. As information becomes available, it will be updated on this site.
