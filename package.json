@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "accessible-autocomplete": "^2.0.2",
-    "fuse.js": "^6.0.0",
+    "fuse.js": "^6.0.2",
     "netlify-cms": "^2.10.50",
     "serve": "^11.3.0",
     "uswds": "~2.1.0"
