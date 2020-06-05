@@ -14,10 +14,8 @@ sitemap: false
 
       if (routedFrom) {
         element.innerHTML += `
-          <h2 class="title">
-            We’re sorry! We found 0 results for “${routedFrom}”<br>
-            However, we found results for the related term “${query}”
-          </h2>
+          <h2 class="title">We’re sorry! We found 0 results for “${routedFrom}.”</h2>
+          <h2 class="title">However, we found results for the related term “${query}.”</h2>
         `;
       }
 
