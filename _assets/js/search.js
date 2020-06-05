@@ -38,7 +38,7 @@
         // So we can test lower environments against the production search.gov,
         // assume production hostname.
         const url = new URL(response.route_to);
-        if (url.host == 'faq.coronavirus.gov' && url.pathname == '/search/') {
+        if (url.host === 'faq.coronavirus.gov' && url.pathname === '/search/') {
           // Return the URL minus the hostname, with the orginal query included
           return `${BASE_URL}${url.pathname}${url.search}&source=${encodeURIComponent(query)}`;
         }
