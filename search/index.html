@@ -7,54 +7,7 @@ sitemap: false
 
 
 <script>
-  (() => {
-    const renderResults = (results) => {
-      const element = document.getElementById('search-results');
-
-      if (!results.length) {
-        element.innerHTML = renderResults_noResults();
-      }
-      else {
-        element.innerHTML = `
-          <ol>
-            ${results.map(renderResults_result).join('')}
-          </ol>
-        `;
-      }
-    };
-
-    const renderResults_noResults = () => {
-      return `<h2 class="title">No results found</h2>`;
-    };
-
-    const continueReading = (result) => {
-      if (result.description) {
-        return `... <span class="read-more">Continue reading</span>`;
-      }
-      return '';
-    }
-
-    const renderResults_result = (result) => {
-      return `
-        <li>
-          <a href="${result.url}">
-            <h2 class="title">${highlight(result.title)}</h2>
-            <p>${highlight(result.description)}${continueReading(result)}</p>
-          </a>
-        </li>
-      `;
-    };
-
-    const highlight = (text) => {
-      return text.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>');
-    };
-
-    const query = new URLSearchParams(window.location.search).get('query');
-
-    window.addEventListener('DOMContentLoaded', () => {
-      window.SearchService(query).then(renderResults);
-    });
-  })();
+  window.addEventListener('DOMContentLoaded', window.initSearch);
 </script>
 
 <h1>Search Results</h1>

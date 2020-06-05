@@ -1,5 +1,6 @@
-//= require uswds/dist/js/uswds.min
-//= require ./search
+import 'uswds';
+
+import './search';
 
 
 //////////////////////////////////
