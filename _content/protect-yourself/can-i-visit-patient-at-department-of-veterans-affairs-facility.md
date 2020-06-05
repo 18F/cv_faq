@@ -8,7 +8,7 @@ sources:
 - agency: va
   url: https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#health-care-appointments-and-m
 title: Can I visit a patient at a Department of Veterans Affairs facility?
-redirect_from: /retirement-communities/can-i-visit-patient-at-department-of-veterans-affairs-facility.md
+redirect_from: /retirement-communities/can-i-visit-patient-at-department-of-veterans-affairs-facility/
 
 ---
 
