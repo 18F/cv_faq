@@ -196,4 +196,11 @@
       }
     });
   };
+
+  window.addEventListener('DOMContentLoaded', () => {
+    const autocompleteContainer = document.querySelector('.autocomplete_container');
+    if (autocompleteContainer) {
+      window.initializeAutocomplete(autocompleteContainer);
+    }
+  });
 })();
