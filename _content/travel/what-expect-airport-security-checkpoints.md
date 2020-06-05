@@ -5,7 +5,7 @@ excerpt: 'Travel: Air or cruise travel'
 layout: post
 promoted: false
 sources:
-- agency: tsa
+- agency: dhs
   url: https://www.tsa.gov/news/press/releases/2020/05/21/tsa-prepared-summer-travelers-updated-security-procedures
 title: What should I expect at airport security checkpoints?
 ---
