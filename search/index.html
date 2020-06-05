@@ -70,7 +70,9 @@ sitemap: false
         if (response.routeTo) {
           window.location.replace(response.routeTo);
         }
-        renderResults(query, response.results, routedFrom);
+        else {
+          renderResults(query, response.results, routedFrom);
+        }
       });
     });
   })();
