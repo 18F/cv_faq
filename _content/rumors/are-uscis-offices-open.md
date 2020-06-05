@@ -6,7 +6,7 @@ layout: post
 promoted: false
 sources:
 - agency: dhs
-  url: https://www.uscis.gov/about-us/uscis-visitor-policyuscis-response-coronavirus-2019-covid-19
+  url: https://www.uscis.gov/about-us/uscis-visitor-policy
 title: Are US Citizenship and Immigration Services offices open?
 redirect_from: /rumors/are-uscis-offices-closed-for-covid/
 ---
