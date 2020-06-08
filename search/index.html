@@ -8,23 +8,27 @@ sitemap: false
 
 <script>
   (() => {
-    const renderResults = (results) => {
+    const renderResults = (query, results, routedFrom) => {
       const element = document.getElementById('search-results');
+      element.innerHTML = '';
+
+      if (routedFrom) {
+        element.innerHTML += `
+          <h2 class="title">We’re sorry! We found 0 results for “${routedFrom}.”</h2>
+          <h2 class="title">However, we found results for the related term “${query}.”</h2>
+        `;
+      }
 
       if (!results.length) {
-        element.innerHTML = renderResults_noResults();
+        element.innerHTML += `<h2 class="title">No results found</h2>`;
       }
       else {
-        element.innerHTML = `
+        element.innerHTML += `
           <ol>
             ${results.map(renderResults_result).join('')}
           </ol>
         `;
       }
-    };
-
-    const renderResults_noResults = () => {
-      return `<h2 class="title">No results found</h2>`;
     };
 
     const continueReading = (result) => {
@@ -46,13 +50,27 @@ sitemap: false
     };
 
     const highlight = (text) => {
+      // Don't highlight text on routed search URLs
+      if (routedFrom) {
+        return text;
+      }
       return text.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>');
     };
 
-    const query = new URLSearchParams(window.location.search).get('query');
+    const searchParams = new URLSearchParams(window.location.search);
+    const query = searchParams.get('query');
+    const routedFrom = searchParams.get('source');
 
     window.addEventListener('DOMContentLoaded', () => {
-      window.SearchService(query).then(renderResults);
+      const highlightSearchTerms = !routedFrom;
+      window.SearchService(query, highlightSearchTerms).then((response) => {
+        if (response.routeTo) {
+          window.location.replace(response.routeTo);
+        }
+        else {
+          renderResults(query, response.results, routedFrom);
+        }
+      });
     });
   })();
 </script>
