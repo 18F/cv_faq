@@ -170,7 +170,7 @@ exclude:
   - scripts/
   - dist/
 
-# Javascript is compiled by Parcel and placed in the intermediary `dist`
+# Javascript is compiled by Webpack and placed in the intermediary `dist`
 # directory, where it is loaded by jekyll-assets.
 assets:
   sources:
