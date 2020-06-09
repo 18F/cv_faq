@@ -8,6 +8,7 @@ sources:
 - agency: fema
   url: https://www.fema.gov/coronavirus-rumor-control
 title: Is FEMA deploying the military?
+redirect_from: /get-facts/is-fema-deploying-the-military/
 ---
 
 On March 22, President Trump directed the Secretary of Defense to permit full federal reimbursement, by FEMA, for some states' use of their National Guard forces. FEMA has executed a fully reimbursable mission assignment to the Department of Defense, including reimbursement for pay and allowances of National Guard personnel serving in a Title 32 duty status in fulfillment of the FEMA mission assignment. 

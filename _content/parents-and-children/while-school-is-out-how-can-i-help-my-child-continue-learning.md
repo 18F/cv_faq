@@ -8,6 +8,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
 title: While school's out, how can I help my child continue learning?
+redirect_from: /keeping-home-safe/school-is-dismissed/
 ---
 
 * Stay in touch with your child’s school.

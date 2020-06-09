@@ -16,9 +16,9 @@
   "dependencies": {
     "accessible-autocomplete": "^2.0.2",
     "core-js": "^3.6.5",
-    "fuse.js": "^6.0.0",
-    "netlify-cms": "^2.10.49",
-    "serve": "^11.3.0",
+    "fuse.js": "^6.0.3",
+    "netlify-cms": "^2.10.50",
+    "serve": "^11.3.2",
     "terser-webpack-plugin": "^3.0.3",
     "uswds": "~2.1.0",
     "whatwg-fetch": "^3.0.0"
@@ -29,8 +29,8 @@
     "@babel/preset-env": "^7.10.2",
     "a11y": "^0.5.1",
     "babel-loader": "^8.1.0",
-    "fast-xml-parser": "^3.17.3",
-    "front-matter": "^4.0.1",
+    "fast-xml-parser": "^3.17.4",
+    "front-matter": "^4.0.2",
     "jest": "^26.0.1",
     "jest-puppeteer": "^4.4.0",
     "npm-run-all": "^4.1.5",

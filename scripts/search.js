@@ -21,19 +21,39 @@ const debounce = (func, timeout) => {
     timer = setTimeout(next, timeout > 0 ? timeout : 300);
     return timer;
   };
-}
+};
 
 //////////////////////////////////
 // Translation
 
-const translate_fromSearchGov = (response) => {
-  return response.web.results.map(result => {
-    return {
-      url: result.url,
-      title: result.title,
-      description: result.snippet
-    };
-  });
+const translate_fromSearchGov = (query) => (response) => {
+  return {
+    routeTo: (() => {
+      if (!response.route_to) {
+        return null;
+      }
+
+      // If this is a routed query pointing to production search results, extract
+      // search parameters out.
+      // So we can test lower environments against the production search.gov,
+      // assume production hostname.
+      const url = new URL(response.route_to);
+      if (url.host === 'faq.coronavirus.gov' && url.pathname === '/search/') {
+        // Return the URL minus the hostname, with the orginal query included
+        return `${BASE_URL}${url.pathname}${url.search}&source=${encodeURIComponent(query)}`;
+      }
+
+      // This is a routed query to something other than search results.
+      return response.route_to;
+    })(),
+    results: response.web && response.web.results ? response.web.results.map(result => {
+      return {
+        url: result.url,
+        title: result.title,
+        description: result.snippet
+      };
+    }) : []
+  }
 };
 
 const translate_fromSearchJson = (response) => {
@@ -46,19 +66,21 @@ const translate_fromSearchJson = (response) => {
     return regex.exec(text)[0];
   };
 
-  return response.slice(0, RESULTS_LIMIT).map(result => {
-    return {
-      url: result.item.url,
-      title: result.item.title,
-      description: smartTruncate(result.item.content, 300),
-    };
-  });
+  return {
+    results: response.slice(0, RESULTS_LIMIT).map(result => {
+      return {
+        url: result.item.url,
+        title: result.item.title,
+        description: smartTruncate(result.item.content, 300),
+      };
+    })
+  };
 }
 
 //////////////////////////////////
 // Performing search
 
-const search_searchGov = (query) => new Promise((resolve, reject) => {
+const search_searchGov = (query, highlightSearchTerms) => new Promise((resolve, reject) => {
   const searchEndpoint = new URL(`${SEARCHGOV_ENDPOINT}/api/v2/search/i14y`);
   const searchTimeout = 3; // seconds
 
@@ -70,17 +92,17 @@ const search_searchGov = (query) => new Promise((resolve, reject) => {
     affiliate: SEARCHGOV_AFFILIATE,
     access_key: SEARCHGOV_ACCESS_KEY,
     query: query,
-    limit: RESULTS_LIMIT
+    limit: RESULTS_LIMIT,
+    enable_highlighting: highlightSearchTerms
   }).forEach(([key, value]) => searchEndpoint.searchParams.append(key, value));
-  console.log('searchEndpoint');
+
   const searchgov = fetch(searchEndpoint)
     .then(response => response.json());
-  console.log('fetching...');
 
   searchgov.catch(reject);
 
   searchgov
-    .then(translate_fromSearchGov)
+    .then(translate_fromSearchGov(query))
     .then(resolve);
 });
 
@@ -101,8 +123,8 @@ const search_local = (query) => new Promise((resolve, reject) => {
     .then(resolve);
 });
 
-const SearchService = (query) => new Promise((resolve, reject) => {
-  search_searchGov(query)
+const SearchService = (query, highlightSearchTerms) => new Promise((resolve, reject) => {
+  search_searchGov(query, highlightSearchTerms)
     .then(resolve)
     .catch(error => {
       console.warn('Using local search fallback.', error);
@@ -117,87 +139,95 @@ const SearchService = (query) => new Promise((resolve, reject) => {
 
 export const initAutoComplete = function () {
   const autocompleteContainer = document.querySelector('.autocomplete_container');
+  if (!autocompleteContainer) {
+    return;
+  }
 
   const highlight = (text, query) => {
+    if (!query) {
+      return;
+    }
     let words = query.split(' ').filter(word => word.length);
     return text.replace(new RegExp('(\\b)(' + words.join('|') + ')(\\b)','ig'), '$1<strong>$2</strong>$3');
   };
 
-  if (autocompleteContainer) {
-    const previousInput = autocompleteContainer.querySelector('input');
-    autocompleteContainer.innerHTML = '';
-    let runningRequest = null;
-    let currentQuery = null;
+  const previousInput = autocompleteContainer.querySelector('input');
+  autocompleteContainer.innerHTML = '';
+  let runningRequest = null;
+  let currentQuery = null;
 
-    const makeDebouncedRequest = debounce((query, completed) => {
-      search_local(query)
-        .then(results => completed(results.slice(0, 5)));
-    }, 300);
+  const makeDebouncedRequest = debounce((query, completed) => {
+    search_local(query)
+      .then(response => completed(response.results.slice(0, 5)));
+  }, 300);
 
-    accessibleAutocomplete({
-      element: autocompleteContainer,
-      id: 'search-box',
-      name: 'query',
-      placeholder: previousInput.getAttribute('placeholder'),
-      confirmOnBlur: false,
-      onConfirm: (item) => {
-        if (item && item.url) {
-          window.location.href = item.url;
+  accessibleAutocomplete({
+    element: autocompleteContainer,
+    id: 'search-box',
+    name: 'query',
+    placeholder: previousInput.getAttribute('placeholder'),
+    confirmOnBlur: false,
+    onConfirm: (item) => {
+      if (item && item.url) {
+        window.location.href = item.url;
+      }
+    },
+    templates: {
+      inputValue: () => '',
+      suggestion: (item) => highlight(item.title, currentQuery)
+    },
+    tNoResults: () => {
+      return runningRequest ? 'Loading…' : `No results for “${newInput.value}”`;
+    },
+    source: (query, populateResults) => {
+      const thisRequest = makeDebouncedRequest(query, (results) => {
+        // Do not update results if another request has started since.
+        if (runningRequest === thisRequest) {
+          runningRequest = null;
+          populateResults(results);
         }
-      },
-      templates: {
-        inputValue: () => '',
-        suggestion: (item) => highlight(item.title, currentQuery)
-      },
-      tNoResults: () => {
-        return runningRequest ? 'Loading…' : `No results for “${newInput.value}”`;
-      },
-      source: (query, populateResults) => {
-        const thisRequest = makeDebouncedRequest(query, (results) => {
-          // Do not update results if another request has started since.
-          if (runningRequest === thisRequest) {
-            runningRequest = null;
-            populateResults(results);
-          }
-        });
-        currentQuery = query;
-        runningRequest = thisRequest;
-      }
-    });
+      });
+      currentQuery = query;
+      runningRequest = thisRequest;
+    }
+  });
 
-    const newInput = autocompleteContainer.querySelector('input');
+  const newInput = autocompleteContainer.querySelector('input');
 
-    // Still perform search if pressing enter when the dropdown is open but no item selected.
-    newInput.addEventListener('keydown', (evt) => {
-      if (evt.keyCode === 13) { // enter
-        evt.currentTarget.form.submit();
-      }
-    });
-  }
+  // Still perform search if pressing enter when the dropdown is open but no item selected.
+  newInput.addEventListener('keydown', (evt) => {
+    if (evt.keyCode === 13) { // enter
+      evt.currentTarget.form.submit();
+    }
+  });
 };
 
 export const initSearch = () => {
-  console.log('initSearch');
-  const renderResults = (results) => {
-    console.log('renderResults');
-    const element = document.getElementById('search-results');
+  const searchResultsContainer = document.getElementById('search-results');
+  if (!searchResultsContainer) {
+    return;
+  }
+
+  const renderResults = (query, results, routedFrom) => {
+    searchResultsContainer.innerHTML = '';
+
+    if (routedFrom) {
+      searchResultsContainer.innerHTML += `
+        <h2 class="title">We’re sorry! We found 0 results for “${routedFrom}.”</h2>
+        <h2 class="title">However, we found results for the related term “${query}.”</h2>
+      `;
+    }
 
     if (!results.length) {
-      console.log('NO RESULTS');
-      element.innerHTML = renderResults_noResults();
+      searchResultsContainer.innerHTML += `<h2 class="title">No results found</h2>`;
     }
     else {
-      console.log('RESULTS');
-      element.innerHTML = `
+      searchResultsContainer.innerHTML += `
         <ol>
           ${results.map(renderResults_result).join('')}
         </ol>
       `;
     }
-  };
-
-  const renderResults_noResults = () => {
-    return `<h2 class="title">No results found</h2>`;
   };
 
   const continueReading = (result) => {
@@ -219,9 +249,24 @@ export const initSearch = () => {
   };
 
   const highlight = (text) => {
+    // Don't highlight text on routed search URLs
+    if (routedFrom) {
+      return text;
+    }
     return text.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>');
   };
 
-  const query = new URLSearchParams(window.location.search).get('query');
-  SearchService(query).then(renderResults);
+  const searchParams = new URLSearchParams(window.location.search);
+  const query = searchParams.get('query');
+  const routedFrom = searchParams.get('source');
+
+  const highlightSearchTerms = !routedFrom;
+  SearchService(query, highlightSearchTerms).then((response) => {
+    if (response.routeTo) {
+      window.location.replace(response.routeTo);
+    }
+    else {
+      renderResults(query, response.results, routedFrom);
+    }
+  });
 };

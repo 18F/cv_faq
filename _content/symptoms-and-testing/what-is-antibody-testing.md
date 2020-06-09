@@ -8,6 +8,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Symptoms-&-Testing
 title: What is antibody testing? And can I be tested using this method?
+redirect_from: /symptoms-and-testing/what-is-serology-testing/
 ---
 
 Antibody testing checks a sample of a person’s blood to look for antibodies to SARS-CoV-2, the virus that causes COVID-19. These antibodies are produced when someone has been infected, so a positive result from this test indicates that person was previously infected with the virus.
