@@ -1,7 +1,6 @@
 import 'uswds';
 
-import { initAccordion, initLoadMore } from './accordion';
-import { initAutoComplete, initSearch } from './search';
+import { initComponents } from './components';
 
 
 const onReady = function (initFunc) {
@@ -15,9 +14,4 @@ const onReady = function (initFunc) {
   }
 };
 
-onReady(function () {
-  initAccordion();
-  initAutoComplete();
-  initLoadMore();
-  initSearch();
-});
+onReady(initComponents);
