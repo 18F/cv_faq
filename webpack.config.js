@@ -1,7 +1,12 @@
 const TerserPlugin = require('terser-webpack-plugin');
 
+
 module.exports = {
   entry: [
+    'whatwg-fetch',
+    'core-js/stable',
+    'regenerator-runtime/runtime',
+
     './scripts/app.js'
   ],
   output: {
@@ -14,16 +19,15 @@ module.exports = {
     rules: [
       {
         test: /\.js$/,
-        exclude: /(node_modules)/,
+        exclude: /@babel(?:\/|\\{1,2})runtime|core-js/,
         use: {
           loader: 'babel-loader',
           options: {
             presets: [
               ['@babel/preset-env', {
+                corejs: 3,
                 useBuiltIns: 'entry',
-                targets: {
-                  browsers: ['ie >= 11', 'safari > 9']
-                }
+                targets: '>0.2%, not dead'
               }]
             ]
           }

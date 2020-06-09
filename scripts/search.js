@@ -2,119 +2,120 @@ import accessibleAutocomplete from 'accessible-autocomplete';
 import Fuse from 'fuse.js';
 
 
-(() => {
-  const RESULTS_LIMIT = 50;
-  const BASE_URL = document.querySelector("meta[name='baseurl']").content;
-  const SEARCHGOV_ENDPOINT = document.querySelector("meta[name='searchgov_endpoint']").content;
-  const SEARCHGOV_AFFILIATE = document.querySelector("meta[name='searchgov_affiliate']").content;
-  const SEARCHGOV_ACCESS_KEY = document.querySelector("meta[name='searchgov_access_key']").content;
+const RESULTS_LIMIT = 50;
+const BASE_URL = document.querySelector("meta[name='baseurl']").content;
+const SEARCHGOV_ENDPOINT = document.querySelector("meta[name='searchgov_endpoint']").content;
+const SEARCHGOV_AFFILIATE = document.querySelector("meta[name='searchgov_affiliate']").content;
+const SEARCHGOV_ACCESS_KEY = document.querySelector("meta[name='searchgov_access_key']").content;
 
-  //////////////////////////////////
-  // Utils
-  const debounce = (func, timeout) => {
-    let timer;
+//////////////////////////////////
+// Utils
+const debounce = (func, timeout) => {
+  let timer;
 
-    return (...args) => {
-      const next = () => func(...args);
-      if (timer) {
-        clearTimeout(timer);
-      }
-      timer = setTimeout(next, timeout > 0 ? timeout : 300);
-      return timer;
+  return (...args) => {
+    const next = () => func(...args);
+    if (timer) {
+      clearTimeout(timer);
+    }
+    timer = setTimeout(next, timeout > 0 ? timeout : 300);
+    return timer;
+  };
+}
+
+//////////////////////////////////
+// Translation
+
+const translate_fromSearchGov = (response) => {
+  return response.web.results.map(result => {
+    return {
+      url: result.url,
+      title: result.title,
+      description: result.snippet
     };
-  }
+  });
+};
 
-  //////////////////////////////////
-  // Translation
+const translate_fromSearchJson = (response) => {
+  const smartTruncate = (text, targetLength) => {
+    if (text.length < targetLength) {
+      return text;
+    }
 
-  const translate_fromSearchGov = (response) => {
-    return response.web.results.map(result => {
-      return {
-        url: result.url,
-        title: result.title,
-        description: result.snippet
-      };
-    });
+    const regex = new RegExp(`^.{${targetLength}}[^ ]*`);
+    return regex.exec(text)[0];
   };
 
-  const translate_fromSearchJson = (response) => {
-    const smartTruncate = (text, targetLength) => {
-      if (text.length < targetLength) {
-        return text;
-      }
-
-      const regex = new RegExp(`^.{${targetLength}}[^ ]*`);
-      return regex.exec(text)[0];
+  return response.slice(0, RESULTS_LIMIT).map(result => {
+    return {
+      url: result.item.url,
+      title: result.item.title,
+      description: smartTruncate(result.item.content, 300),
     };
+  });
+}
 
-    return response.slice(0, RESULTS_LIMIT).map(result => {
-      return {
-        url: result.item.url,
-        title: result.item.title,
-        description: smartTruncate(result.item.content, 300),
-      };
+//////////////////////////////////
+// Performing search
+
+const search_searchGov = (query) => new Promise((resolve, reject) => {
+  const searchEndpoint = new URL(`${SEARCHGOV_ENDPOINT}/api/v2/search/i14y`);
+  const searchTimeout = 3; // seconds
+
+  window.setTimeout(() => {
+    reject(new Error(`Request for search.gov results timed out after ${searchTimeout} seconds.`));
+  }, searchTimeout * 1000);
+
+  Object.entries({
+    affiliate: SEARCHGOV_AFFILIATE,
+    access_key: SEARCHGOV_ACCESS_KEY,
+    query: query,
+    limit: RESULTS_LIMIT
+  }).forEach(([key, value]) => searchEndpoint.searchParams.append(key, value));
+  console.log('searchEndpoint');
+  const searchgov = fetch(searchEndpoint)
+    .then(response => response.json());
+  console.log('fetching...');
+
+  searchgov.catch(reject);
+
+  searchgov
+    .then(translate_fromSearchGov)
+    .then(resolve);
+});
+
+const search_local = (query) => new Promise((resolve, reject) => {
+  const searchjson = fetch(`${BASE_URL}/search.json`)
+    .then(response => response.json());
+
+  searchjson.catch(reject);
+
+  searchjson
+    .then(pages => {
+      return new Fuse(pages, {
+        keys: ["title", "excerpt", "content"],
+        distance: 1000
+      }).search(query);
+    })
+    .then(translate_fromSearchJson)
+    .then(resolve);
+});
+
+const SearchService = (query) => new Promise((resolve, reject) => {
+  search_searchGov(query)
+    .then(resolve)
+    .catch(error => {
+      console.warn('Using local search fallback.', error);
+      search_local(query)
+        .then(resolve)
+        .catch(reject);
     });
-  }
+});
 
-  //////////////////////////////////
-  // Performing search
+//////////////////////////////////
+// Type Ahead Input
 
-  const search_searchGov = (query) => new Promise((resolve, reject) => {
-    const searchEndpoint = new URL(`${SEARCHGOV_ENDPOINT}/api/v2/search/i14y`);
-    const searchTimeout = 3; // seconds
-
-    window.setTimeout(() => {
-      reject(new Error(`Request for search.gov results timed out after ${searchTimeout} seconds.`));
-    }, searchTimeout * 1000);
-
-    Object.entries({
-      affiliate: SEARCHGOV_AFFILIATE,
-      access_key: SEARCHGOV_ACCESS_KEY,
-      query: query,
-      limit: RESULTS_LIMIT
-    }).forEach(([key, value]) => searchEndpoint.searchParams.append(key, value));
-
-    const searchgov = fetch(searchEndpoint)
-      .then(response => response.json());
-
-    searchgov.catch(reject);
-
-    searchgov
-      .then(translate_fromSearchGov)
-      .then(resolve);
-  });
-
-  const search_local = (query) => new Promise((resolve, reject) => {
-    const searchjson = fetch(`${BASE_URL}/search.json`)
-      .then(response => response.json());
-
-    searchjson.catch(reject);
-
-    searchjson
-      .then(pages => {
-        return new Fuse(pages, {
-          keys: ["title", "excerpt", "content"],
-          distance: 1000
-        }).search(query);
-      })
-      .then(translate_fromSearchJson)
-      .then(resolve);
-  });
-
-  window.SearchService = (query) => new Promise((resolve, reject) => {
-    search_searchGov(query)
-      .then(resolve)
-      .catch(error => {
-        console.warn('Using local search fallback.', error);
-        search_local(query)
-          .then(resolve)
-          .catch(reject);
-      });
-  });
-
-  //////////////////////////////////
-  // Type Ahead Input
-
+export const initAutoComplete = function () {
   const autocompleteContainer = document.querySelector('.autocomplete_container');
 
   const highlight = (text, query) => {
@@ -173,50 +174,54 @@ import Fuse from 'fuse.js';
       }
     });
   }
+};
 
-  window.initSearch = () => {
-    const renderResults = (results) => {
-      const element = document.getElementById('search-results');
+export const initSearch = () => {
+  console.log('initSearch');
+  const renderResults = (results) => {
+    console.log('renderResults');
+    const element = document.getElementById('search-results');
 
-      if (!results.length) {
-        element.innerHTML = renderResults_noResults();
-      }
-      else {
-        element.innerHTML = `
-          <ol>
-            ${results.map(renderResults_result).join('')}
-          </ol>
-        `;
-      }
-    };
-
-    const renderResults_noResults = () => {
-      return `<h2 class="title">No results found</h2>`;
-    };
-
-    const continueReading = (result) => {
-      if (result.description) {
-        return `... <span class="read-more">Continue reading</span>`;
-      }
-      return '';
+    if (!results.length) {
+      console.log('NO RESULTS');
+      element.innerHTML = renderResults_noResults();
     }
-
-    const renderResults_result = (result) => {
-      return `
-        <li>
-          <a href="${result.url}">
-            <h2 class="title">${highlight(result.title)}</h2>
-            <p>${highlight(result.description)}${continueReading(result)}</p>
-          </a>
-        </li>
+    else {
+      console.log('RESULTS');
+      element.innerHTML = `
+        <ol>
+          ${results.map(renderResults_result).join('')}
+        </ol>
       `;
-    };
-
-    const highlight = (text) => {
-      return text.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>');
-    };
-
-    const query = new URLSearchParams(window.location.search).get('query');
-    SearchService(query).then(renderResults);
+    }
   };
-})();
+
+  const renderResults_noResults = () => {
+    return `<h2 class="title">No results found</h2>`;
+  };
+
+  const continueReading = (result) => {
+    if (result.description) {
+      return `... <span class="read-more">Continue reading</span>`;
+    }
+    return '';
+  }
+
+  const renderResults_result = (result) => {
+    return `
+      <li>
+        <a href="${result.url}">
+          <h2 class="title">${highlight(result.title)}</h2>
+          <p>${highlight(result.description)}${continueReading(result)}</p>
+        </a>
+      </li>
+    `;
+  };
+
+  const highlight = (text) => {
+    return text.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>');
+  };
+
+  const query = new URLSearchParams(window.location.search).get('query');
+  SearchService(query).then(renderResults);
+};
