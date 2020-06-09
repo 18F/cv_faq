@@ -6,6 +6,7 @@
     "build:scripts": "webpack --colors --mode production",
     "build:site": "bundle exec jekyll build",
     "clean": "bundle exec jekyll clean",
+    "federalist": "npm run build",
     "start": "run-p start:*",
     "start:scripts": "webpack --colors --watch --mode development",
     "start:site": "bundle exec jekyll serve --host 0.0.0.0",
