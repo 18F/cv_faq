@@ -158,8 +158,6 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
-  - admin/_config.yml
-  - admin/_content_collection_template.yml
   - Dockerfile
   - docker-compose.yml
   - test
@@ -176,5 +174,4 @@ assets:
     - node_modules/uswds/dist/img
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
-    - node_modules/netlify-cms/dist
     - node_modules
