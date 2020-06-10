@@ -3,6 +3,7 @@ import accessibleAutocomplete from 'accessible-autocomplete';
 import { debounce } from '../utils';
 import { doLocalSearch } from '../services/search';
 
+const AUTOCOMPLETE_CONTAINER_CLASS = 'autocomplete_container';
 
 const highlight = (text, query) => {
   if (!query) {
@@ -13,7 +14,7 @@ const highlight = (text, query) => {
 };
 
 export const initAutoComplete = function () {
-  const autocompleteContainer = document.querySelector('.autocomplete_container');
+  const autocompleteContainer = document.querySelector(`.${AUTOCOMPLETE_CONTAINER_CLASS}`);
   if (!autocompleteContainer) {
     return;
   }

@@ -4,6 +4,11 @@ import {
 } from './constants';
 
 
+// All routed queries on our search.gov endpoint map to the production domain
+const ROUTED_QUERY_DOMAIN_NAME = 'faq.coronavirus.gov';
+const SEARCH_PATH = '/search/';
+
+
 const translateFromSearchGov = (query) => (response) => {
   return {
     routeTo: (() => {
@@ -16,7 +21,7 @@ const translateFromSearchGov = (query) => (response) => {
       // So we can test lower environments against the production search.gov,
       // assume production hostname.
       const url = new URL(response.route_to);
-      if (url.host === 'faq.coronavirus.gov' && url.pathname === '/search/') {
+      if (url.host === ROUTED_QUERY_DOMAIN_NAME && url.pathname === SEARCH_PATH) {
         // Return the URL minus the hostname, with the orginal query included
         return `${BASE_URL}${url.pathname}${url.search}&source=${encodeURIComponent(query)}`;
       }

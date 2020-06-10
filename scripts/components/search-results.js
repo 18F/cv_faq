@@ -1,7 +1,9 @@
 import { SearchService } from '../services/search';
 
+const SEARCH_RESULTS_ID = 'search-results';
+
 export const initSearchResults = () => {
-  const searchResultsContainer = document.getElementById('search-results');
+  const searchResultsContainer = document.getElementById(SEARCH_RESULTS_ID);
   if (!searchResultsContainer) {
     return;
   }
