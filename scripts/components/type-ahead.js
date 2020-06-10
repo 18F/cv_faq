@@ -1,16 +1,20 @@
 import accessibleAutocomplete from 'accessible-autocomplete';
 
 import { debounce } from '../utils';
-import { doLocalSearch } from '../services/search';
+import { doSearchGovSearch } from '../services/search';
 
 const AUTOCOMPLETE_CONTAINER_CLASS = 'autocomplete_container';
 
-const highlight = (text, query) => {
+/*const highlight = (text, query) => {
   if (!query) {
     return;
   }
   let words = query.split(' ').filter(word => word.length);
   return text.replace(new RegExp('(\\b)(' + words.join('|') + ')(\\b)','ig'), '$1<strong>$2</strong>$3');
+};*/
+
+const highlight = (text) => {
+  return text.replace(/\uE000/g, '<strong>').replace(/\uE001/g, '</strong>');
 };
 
 export const initAutoComplete = function () {
@@ -25,7 +29,7 @@ export const initAutoComplete = function () {
   let currentQuery = null;
 
   const makeDebouncedRequest = debounce((query, completed) => {
-    doLocalSearch(query)
+    doSearchGovSearch(query)
       .then(response => completed(response.results.slice(0, 5)));
   }, 300);
 
