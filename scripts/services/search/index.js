@@ -1,5 +1,5 @@
+import { doLocalSearch } from './local';
 import { doSearchGovSearch } from './search-gov';
-export { doLocalSearch } from './local';
 
 export const SearchService = (query, highlightSearchTerms) => new Promise((resolve, reject) => {
   doSearchGovSearch(query, highlightSearchTerms)
@@ -11,3 +11,5 @@ export const SearchService = (query, highlightSearchTerms) => new Promise((resol
         .catch(reject);
     });
 });
+
+export { doSearchGovSearch, doLocalSearch };
