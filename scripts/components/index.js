@@ -4,9 +4,23 @@ import { initSearchResults } from './search-results';
 import { initAutoComplete } from './type-ahead';
 
 
-export const initComponents = function () {
-  initAccordion();
-  initAutoComplete();
-  initLoadMore();
-  initSearchResults();
+const onReady = function (initFunc) {
+  if (document.readyState !== 'loading') {
+    initFunc();
+  }
+  else {
+    document.addEventListener('DOMContentLoaded', function () {
+      initFunc();
+    }, false);
+  }
 };
+
+// Initialize immediately
+initAccordion();
+initLoadMore();
+
+// Initialize after
+onReady(function () {
+  initAutoComplete();
+  initSearchResults();
+});

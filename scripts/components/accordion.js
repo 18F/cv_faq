@@ -12,7 +12,7 @@ export const initAccordion = function () {
   }
 
   const pageHashButtons = document.querySelectorAll(`${BUTTON}[set-page-hash]`);
-  Array.prototype.forEach.call(pageHashButtons, button => button.addEventListener('click', (event) => {
+  pageHashButtons.forEach(button => button.addEventListener('click', (event) => {
     document.location.replace('#' + event.target.id);
   }));
 };
