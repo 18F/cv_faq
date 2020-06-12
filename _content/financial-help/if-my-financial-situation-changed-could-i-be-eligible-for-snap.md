@@ -1,6 +1,6 @@
 ---
 category: financial-help
-date: April 26, 2020
+date: June 11, 2020
 excerpt: Supplemental Nutrition Assistance Program (SNAP) eligibility
 layout: post
 promoted: false

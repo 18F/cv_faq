@@ -1,6 +1,6 @@
 ---
 category: parents-and-children
-date: April  26, 2020
+date: June 11, 2020
 excerpt: COVID-19, children, and access to food
 layout: post
 promoted: false
