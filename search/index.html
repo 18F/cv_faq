@@ -5,7 +5,18 @@ title: Search
 sitemap: false
 ---
 
-
-<h1>Search Results</h1>
-
-<div id="search-results">Loading…</div>
+<div id="search-results" class="usa-prose search-results-container">
+    <div class="results-header grid-row">
+      <h1>Search Results</h1>
+    </div>
+    <div class="loading-indicator">Loading…</div>
+    <div class="routed-query">
+      <h2 class="title">We’re sorry! We found 0 results for “<span class="routed-from"></span>.”</h2>
+      <h2 class="title">However, we found results for the related term “<span class="query"></span>.”</h2>
+    </div>
+    <ol class="results-list">
+    </ol>
+    <p class="button-container">
+        <button class="usa-button usa-button--unstyled more-results-button" data-next>Load more</button>
+    </p>
+</div>
