@@ -1,6 +1,6 @@
 ---
 category: medications
-date: June 16, 2020
+date: June 15, 2020
 excerpt: Drugs and medications
 layout: post
 promoted: false
