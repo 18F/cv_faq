@@ -17,6 +17,7 @@ const config = {
           // With useBuiltIns: 'usage', exclude polyfills
           /\bcore-js\b/,
           /\bwebpack\/buildin\b/,
+          /\bregenerator-runtime\b/,
 
           // Accessible-autocomplete's bundle is already transpiled
           /\baccessible-autocomplete\b/

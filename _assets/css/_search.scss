@@ -33,40 +33,13 @@
   }
   .results-summary, .num-results {
     @include u-color('primary-dark');
-  }
-  .results-summary {
-    float: right;
-    @include u-line-height('heading', 1);
+    padding: 0 0 .75em 0;
   }
   .button-container {
     text-align: center;
   }
-
   .more-results-button {
-    display: none;
-  }
-  &.has-more-results {
-    .more-results-button {
-      display: inline-block;
-    }
-  }
-
-  .loading-indicator {
-    display: none;
-  }
-  &.is-loading {
-    .loading-indicator {
-      display: block;
-    }
-  }
-
-  .routed-query {
-    display: none;
-  }
-  &.is-routed-query {
-    .routed-query {
-      display: block;
-    }
+    display: inline-block;
   }
 }
 
