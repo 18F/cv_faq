@@ -9,6 +9,9 @@ sources:
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
 title: Are chloroquine phosphate or hydroxychloroquine sulfate approved by the FDA
   to treat COVID-19?
+redirect_from:
+  - /medications/prescribe-chloroquine-or-hydroxychloroquine-off-label/ 
+  - /medications/are-there-data-showing-chloroquine-phosphate-or-hydroxychloroquine-sulfate-might-benefit-patients/
 ---
 
 No. Hydroxychloroquine sulfate and some versions of chloroquine phosphate are FDA-approved to treat malaria. Hydroxychloroquine sulfate is also FDA-approved to treat lupus and rheumatoid arthritis.
