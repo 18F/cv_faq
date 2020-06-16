@@ -1,4 +1,5 @@
 import { html, render } from 'lit-html';
+import { live } from 'lit-html/directives/live.js';
 import { unsafeHTML } from 'lit-html/directives/unsafe-html.js';
 
 import { SearchService } from '../services/search';
@@ -17,18 +18,15 @@ let searchResultsContainer;
  */
 const searchPageGenerator = async function* (query, routedFrom) {
   let nextOffset = null;
-  let resultsPages = [];
-
-  let response;
   do {
-    response = await SearchService({
+    const response = await SearchService({
       query,
       offset: nextOffset,
       // Only request highlighted terms if they correspond to what the user
       // typed (ie, not routed queries).
       highlightSearchTerms: !routedFrom,
       // If first page, fallback to local search after a 3 second timeout
-      searchTimeoutSeconds: resultsPages.length ? null : 3
+      searchTimeoutSeconds: nextOffset ? null : 3
     });
     nextOffset = response.nextOffset;
     if (response.routeTo) {
@@ -38,9 +36,8 @@ const searchPageGenerator = async function* (query, routedFrom) {
     else {
       yield response;
     }
-  } while (response.nextOffset);
-}
-
+  } while (nextOffset);
+};
 
 export const initSearchResults = () => {
   searchResultsContainer = document.getElementById(SEARCH_RESULTS_ID);
@@ -57,8 +54,7 @@ export const initSearchResults = () => {
   const pages = searchPageGenerator(query, routedFrom);
 
   const renderNextPage = async () => {
-    const nextPage = await pages.next();
-    resultsPages.push(nextPage.value);
+    resultsPages.push((await pages.next()).value);
     render(searchTemplate({
       resultsPages,
       query,
@@ -95,7 +91,10 @@ const searchTemplate = ({
     <p class="button-container">
       ${resultsCount ? renderResultsSummaryTemplate(nextOffset, resultsCount) : null}
       ${nextOffset ? html`
-        <button class="usa-button more-results-button" @click=${renderNextPage}>
+        <button class="usa-button more-results-button" ?disabled=${live(!nextOffset)} @click=${(event) => {
+          event.target.disabled = true;
+          renderNextPage()
+        }}>
           Load more
         </button>` : null}
     </p>
