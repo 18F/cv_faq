@@ -30,6 +30,21 @@ const config = {
                 corejs: 3,
                 useBuiltIns: 'usage'
               }]
+            ],
+            plugins: [
+              ['template-html-minifier', {
+                modules: {
+                  'lit-html': ['html']
+                },
+                strictCSS: true,
+                htmlMinifier: {
+                  collapseWhitespace: true,
+                  conservativeCollapse: true,
+                  removeComments: true,
+                  caseSensitive: true,
+                  minifyCSS: true
+                },
+              }]
             ]
           }
         }
