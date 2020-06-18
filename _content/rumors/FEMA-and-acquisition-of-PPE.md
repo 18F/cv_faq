@@ -7,7 +7,7 @@ promoted: false
 sources:
 - agency: fema
   url: https://www.fema.gov/coronavirus/rumor-control
-title: What is FEMA’s role in the acquisition delivery of Personal Protective Equipment (PPE) and other medical supplies? 
+title: What is FEMA’s role in the acquisition and delivery of Personal Protective Equipment (PPE) and other medical supplies? 
 redirect_from: 
 - /rumors/is-fema-seizing-personal-protective-equipment/
 - /rumors/did-fema-block-shipments-of-ventilators-to-my-state/
