@@ -1,6 +1,6 @@
 ---
 category: protect-yourself
-date: May 21, 2020
+date: June 17, 2020
 excerpt: What if I need to evacuate or shelter safely during the COVID-19 pandemic?
 layout: post
 promoted: true
