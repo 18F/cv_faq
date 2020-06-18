@@ -12,8 +12,8 @@
     "federalist": "run-p build:scripts build:styles",
     "start": "run-p start:*",
     "start:scripts": "webpack --colors --watch --mode development",
-    "start:styles": "nodemon -w ./styles -e scss -x \"npm run build:styles\"",
     "start:site": "bundle exec jekyll serve --host 0.0.0.0",
+    "start:styles": "nodemon -w ./styles -e scss -x \"npm run build:styles\"",
     "test": "npm run build && npm run test:htmlproofer && npm run test:jest",
     "test:htmlproofer": "bundle exec rake htmlproof",
     "test:jest": "jest"
