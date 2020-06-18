@@ -82,11 +82,25 @@ const searchTemplate = ({
       </h1>
     </div>
     ${resultsCount ? renderResultsSummaryTemplate(nextOffset, resultsCount) : null}
-    ${routedFrom ? routedQueryIntroTemplate(routedFrom, query) : null}
     <div id="search-results">
-      ${resultsCount ? html`<ol class="results-list">
-        ${resultsPages.map(page => page.results.map(renderResultTemplate))}
-      </ol>` : html`<h2 class="title">No results found</h2>`}
+      ${!resultsCount || routedFrom ? html`
+        <h2 class="title">We’re sorry! We couldn’t find any results for <em>${routedFrom || query}</em>.</h2>
+      ` : null}
+      ${routedFrom ? html`
+        <h2 class="title">However, we found results for the related term <em>${query}</em>.</h2>
+      ` : null}
+      ${resultsCount ?
+        html`<ol class="results-list">
+          ${resultsPages.map(page => page.results.map(renderResultTemplate))}
+        </ol>` :
+        html`
+          Try your search again following these tips:
+          <ul>
+            <li>Check your spelling</li>
+            <li>Try a different keyword</li>
+            <li>Use a more general keyword</li>
+          </ul>
+        `}
     </div>
     <p class="button-container">
       ${resultsCount ? renderResultsSummaryTemplate(nextOffset, resultsCount) : null}
@@ -104,13 +118,6 @@ const searchTemplate = ({
 const renderResultsSummaryTemplate = (nextOffset, resultsCount) => html`
   <div class="results-summary">
     Displaying 1-${nextOffset ? nextOffset - 1 : resultsCount} of ${resultsCount}
-  </div>
-`;
-
-const routedQueryIntroTemplate = (routedFrom, query) => html`
-  <div class="routed-query">
-    <h2 class="title">We’re sorry! We found 0 results for “${routedFrom}.”</h2>
-    <h2 class="title">However, we found results for the related term “${query}.”</h2>
   </div>
 `;
 
