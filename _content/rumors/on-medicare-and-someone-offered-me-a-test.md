@@ -11,4 +11,4 @@ title: I'm on Medicare, and someone offered me a COVID-19 test if I provide my M
   information? Should I accept?
 ---
 
-If you receive any calls like this, please know that it is a scam to get your private personal information. Beneficiaries are being targeted in a number of ways, including telemarketing calls, social media platforms, and door-to-door visits. Do not give out your Medicare, Medicaid, or Social security numbers. And be cautious about any unsolicited requests for your personal information. If you think you need to be tested for the Coronavirus, please call your doctor, who can advise you on what tests you may need.
+If you receive any calls like this, please know that it is a scam to get your private personal information. Beneficiaries are being targeted in a number of ways, including telemarketing calls, social media platforms, and door-to-door visits. Do not give out your Medicare, Medicaid, or Social Security numbers. And be cautious about any unsolicited requests for your personal information. If you think you need to be tested for the Coronavirus, please call your doctor, who can advise you on what tests you may need.
