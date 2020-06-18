@@ -1,6 +1,6 @@
 ---
 category: rumors
-date: March 26, 2020
+date: June 17, 2020
 excerpt: Get the facts about coronavirus
 layout: post
 promoted: false
