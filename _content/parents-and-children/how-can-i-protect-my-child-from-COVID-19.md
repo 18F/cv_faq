@@ -1,6 +1,6 @@
 ---
 category: parents-and-children
-date: March 23, 2020
+date: June 20, 2020
 excerpt: COVID-19 and children
 layout: post
 promoted: false
@@ -12,9 +12,12 @@ title: How can I protect my child from COVID-19 infection?
 
 You can encourage your child to help stop the spread of COVID-19 by teaching them to do the same things everyone should do to stay healthy.
 
-* Clean hands often using soap and water or alcohol-based hand sanitizer
-* Avoid people who are sick (coughing and sneezing)
-* Clean and disinfect high-touch surfaces daily in household common areas (e.g. tables, hard-backed chairs, doorknobs, light switches, remotes, handles, desks, toilets, sinks)
-* Launder items including washable plush toys as appropriate in accordance with the manufacturer’s instructions. If possible, launder items using the warmest appropriate water setting for the items and dry items completely. Dirty laundry from an ill person can be washed with other people’s items.
+* Avoid close contact with people who are sick.
+* Stay home when you are sick, except to get medical care.
+* Cover your coughs and sneezes with a tissue and throw the tissue in the trash.
+* Wash your hands often with soap and water for at least 20 seconds.
+* If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol.
+* Clean and disinfect frequently touched surfaces and objects, like tables, countertops, light switches, doorknobs, and cabinet handles).
 
-You can find additional information on preventing COVID-19 at [Prevention for 2019 Novel Coronavirus](https://www.cdc.gov/coronavirus/about/prevention.html) and at [Preventing COVID-19 Spread in Communities](https://www.cdc.gov/coronavirus/2019-ncov/community/index.html). Additional information on how COVID-19 is spread is available at [How COVID-19 Spreads](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html).
+You can find additional information on preventing COVID-19 at [How to Protect Yourself & Others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html). Additional information on how COVID-19 is spread is available at [How COVID-19 Spreads](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Ftransmission.html).
+More information on [Keeping Children Healthy during the COVID-19 Outbreak](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children.html) is available online.
