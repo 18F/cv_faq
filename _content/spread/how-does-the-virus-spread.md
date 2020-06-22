@@ -1,6 +1,6 @@
 ---
 category: spread
-date: March 23, 2020
+date: June 20, 2020
 excerpt: How it spreads
 layout: post
 promoted: true
@@ -14,4 +14,4 @@ The virus that causes COVID-19 is thought to spread mainly from person to person
 
 COVID-19 seems to be spreading easily and sustainably in the community (“community spread”) in [many affected geographic areas](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html). Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected.
 
-Learn what is known about the [spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/about/transmission.html).
+Learn what is known about the [spread of COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Ftransmission.html).

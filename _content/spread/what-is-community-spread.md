@@ -1,6 +1,6 @@
 ---
 category: spread
-date: March 23, 2020
+date: June 20, 2020
 excerpt: How it spreads
 layout: post
 promoted: true
@@ -10,4 +10,4 @@ sources:
 title: What is community spread?
 ---
 
-Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected.
+Community spread means people have been infected with the virus in an area, including some who are not sure how or where they became infected. Each health department determines community spread differently based on local conditions. For information on community spread in your area, please visit your health department’s website.​
