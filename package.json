@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@babel/core": "^7.10.3",
-    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-env": "^7.10.3",
     "accessible-autocomplete": "^2.0.2",
     "babel-loader": "^8.1.0",
     "core-js": "^3.6.5",
