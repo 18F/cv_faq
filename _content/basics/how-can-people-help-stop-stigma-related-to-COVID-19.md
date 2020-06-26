@@ -6,7 +6,7 @@ layout: post
 promoted: true
 sources:
 - agency: cdc
-  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386215012
+  url: https://faq.coronavirus.gov/basics/how-can-people-help-stop-stigma-related-to-covid-19/
 title: How can people help stop stigma related to COVID-19?
 ---
 
