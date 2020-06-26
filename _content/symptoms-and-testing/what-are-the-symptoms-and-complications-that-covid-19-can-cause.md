@@ -7,7 +7,7 @@ promoted: true
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
-title: What are the symptoms and complications that COVID-19 can cause?
+title: What are the symptoms that COVID-19 can cause?
 ---
 
 People with COVID-19 have had a wide range of symptoms reported – ranging from mild symptoms to severe illness. People with these symptoms or combinations of symptoms may have COVID-19:
