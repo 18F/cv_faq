@@ -27,7 +27,7 @@
     "uglifyjs-webpack-plugin": "^2.2.0",
     "uswds": "~2.1.0",
     "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "whatwg-fetch": "^3.0.0"
   },
   "devDependencies": {
