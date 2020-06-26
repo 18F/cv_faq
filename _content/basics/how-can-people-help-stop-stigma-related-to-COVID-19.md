@@ -1,6 +1,6 @@
 ---
 category: basics
-date: April 30, 2020
+date: June 25, 2020
 excerpt: About COVID-19
 layout: post
 promoted: true
