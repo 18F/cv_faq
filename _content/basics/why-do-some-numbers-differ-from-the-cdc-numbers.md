@@ -8,8 +8,9 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/covid-data/faq-surveillance.html#Understanding-the-Data
 title: Why do some case numbers reported by state health departments, Johns Hopkins, and the World Health Organization (WHO) sometimes differ from what is posted on CDC’s website?
-redirect_from: /basics/how-does-cdc-covid19-case-numbers-compare-with-who/
-redirect_from: /basics/states-covid19-cases-numbers-differ-from-cdc-website/
+redirect_from: 
+- /basics/how-does-cdc-covid19-case-numbers-compare-with-who/
+- /basics/states-covid19-cases-numbers-differ-from-cdc-website/
 
 ---
 
