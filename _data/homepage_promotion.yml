@@ -15,8 +15,7 @@ hero:
   title: Find answers about Coronavirus
 top_questions:
   - icon: stethoscope
-    link: >-
-      /symptoms-and-testing/#what-are-the-symptoms-and-complications-that-covid-19-can-cause
+    link: "/symptoms-and-testing/#what-are-the-symptoms-that-covid-19-can-cause"
     question: What are the symptoms?
   - icon: test
     link: "/symptoms-and-testing/#should-i-be-tested-for-covid-19"
