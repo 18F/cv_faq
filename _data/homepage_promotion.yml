@@ -36,9 +36,9 @@ questions_box_1:
   questions:
     - link: /protect-yourself/am-i-at-risk-for-covid-19-in-the-united-states
       question: Am I at risk?
-    - link: /protect-yourself/why-cloth-face-coverings
-      question: Why do you need to wear cloth face coverings?
-    - link: >-
+    - link: /protect-yourself/does-cdc-recommend-facemasks/
+      question: Does CDC recommend the use of facemasks?
+    - link: >
         https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html
       question: How can I manage anxiety and stress?
   title: How to *protect yourself*
