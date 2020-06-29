@@ -18,7 +18,7 @@ task :htmlproof do
       :timeout => 60
     },
     :hydra => {
-      :max_concurrency => 10
+      :max_concurrency => 1
     }
   }).run
 end
