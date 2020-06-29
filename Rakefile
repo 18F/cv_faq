@@ -8,6 +8,7 @@ task :htmlproof do
 
   HTMLProofer.check_directory("./_site", {
     empty_alt_ignore: true,
+    verbose: true,
     url_swap: {
       # treat urls to faq.coronavirus.gov as local
       'https://faq.coronavirus.gov' => ''
