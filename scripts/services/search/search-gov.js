@@ -59,9 +59,9 @@ export const doSearchGovSearch = ({
     affiliate: SEARCHGOV_AFFILIATE,
     access_key: SEARCHGOV_ACCESS_KEY,
     query: query,
-    limit: RESULTS_LIMIT,
+    limit: offset ? RESULTS_LIMIT : RESULTS_LIMIT + 1,
     enable_highlighting: highlightSearchTerms,
-    offset: offset || ''
+    offset: offset || 0
   }).forEach(([key, value]) => searchEndpoint.searchParams.append(key, value));
 
   const searchgov = fetch(searchEndpoint)
