@@ -1,4 +1,4 @@
-export const RESULTS_LIMIT = 50;
+export const RESULTS_LIMIT = 25;
 export const BASE_URL = document.querySelector("meta[name='baseurl']").content;
 
 export const SEARCHGOV_ENDPOINT = document.querySelector("meta[name='searchgov_endpoint']").content;

@@ -1,9 +1,46 @@
+import { html, render } from 'lit-html';
+import { live } from 'lit-html/directives/live.js';
+import { unsafeHTML } from 'lit-html/directives/unsafe-html.js';
+
 import { SearchService } from '../services/search';
 
-const SEARCH_RESULTS_ID = 'search-results';
+const SEARCH_RESULTS_ID = 'search-results-container';
+
+
+let searchResultsContainer;
+
+
+/**
+ * Generator that yields search result pages from SearchService.
+ * @param {String} query         Query string
+ * @param {String} routedFrom    If routed query, the original search terms
+ * @yield {Object} Page as returned by SearchService.
+ */
+const searchPageGenerator = async function* (query, routedFrom) {
+  let nextOffset = null;
+  do {
+    const response = await SearchService({
+      query,
+      offset: nextOffset,
+      // Only request highlighted terms if they correspond to what the user
+      // typed (ie, not routed queries).
+      highlightSearchTerms: !routedFrom,
+      // If first page, fallback to local search after a 3 second timeout
+      searchTimeoutSeconds: nextOffset ? null : 3
+    });
+    nextOffset = response.nextOffset;
+    if (response.routeTo) {
+      window.location.replace(response.routeTo);
+      return;
+    }
+    else {
+      yield response;
+    }
+  } while (nextOffset);
+};
 
 export const initSearchResults = () => {
-  const searchResultsContainer = document.getElementById(SEARCH_RESULTS_ID);
+  searchResultsContainer = document.getElementById(SEARCH_RESULTS_ID);
   if (!searchResultsContainer) {
     return;
   }
@@ -12,61 +49,94 @@ export const initSearchResults = () => {
   const query = searchParams.get('query');
   const routedFrom = searchParams.get('source');
 
-  const highlightSearchTerms = !routedFrom;
-  SearchService(query, highlightSearchTerms).then((response) => {
-    if (response.routeTo) {
-      window.location.replace(response.routeTo);
-    }
-    else {
-      renderResults(searchResultsContainer, query, response.results, routedFrom);
-    }
-  });
+  let resultsPages = [];
+
+  const pages = searchPageGenerator(query, routedFrom);
+
+  const renderNextPage = async () => {
+    resultsPages.push((await pages.next()).value);
+    render(searchTemplate({
+      resultsPages,
+      query,
+      routedFrom,
+      renderNextPage
+    }), searchResultsContainer);
+  };
+  renderNextPage();
 };
 
-const renderResults = (searchResultsContainer, query, results, routedFrom) => {
-  searchResultsContainer.innerHTML = '';
+const searchTemplate = ({
+  resultsPages,
+  query,
+  routedFrom,
+  renderNextPage
+}) => {
+  const lastPage = resultsPages[resultsPages.length - 1];
+  const resultsCount = lastPage.resultsCount;
+  const nextOffset = lastPage.nextOffset;
+  return html`
+    <div class="usa-prose">
+      <h1>
+        Search Results
+        ${resultsCount ? html`<span class="num-results">(${resultsCount})</span>` : null}
+      </h1>
+    </div>
+    ${resultsCount ? renderResultsSummaryTemplate(nextOffset, resultsCount) : null}
+    <div id="search-results">
+      ${!resultsCount || routedFrom ? html`
+        <h2 class="title">We’re sorry! We couldn’t find any results for <em>${routedFrom || query}</em>.</h2>
+      ` : null}
+      ${routedFrom ? html`
+        <h2 class="title">However, we found results for the related term <em>${query}</em>.</h2>
+      ` : null}
+      ${resultsCount ?
+        html`<ol class="results-list">
+          ${resultsPages.map(page => page.results.map(renderResultTemplate))}
+        </ol>` :
+        html`
+          Try your search again following these tips:
+          <ul>
+            <li>Check your spelling</li>
+            <li>Try a different keyword</li>
+            <li>Use a more general keyword</li>
+          </ul>
+        `}
+    </div>
+    <p class="button-container">
+      ${resultsCount ? renderResultsSummaryTemplate(nextOffset, resultsCount) : null}
+      ${nextOffset ? html`
+        <button class="usa-button more-results-button" ?disabled=${live(!nextOffset)} @click=${(event) => {
+          event.target.disabled = true;
+          renderNextPage()
+        }}>
+          Load more
+        </button>` : null}
+    </p>
+  `;
+}
 
-  if (routedFrom) {
-    searchResultsContainer.innerHTML += `
-      <h2 class="title">We’re sorry! We found 0 results for “${routedFrom}.”</h2>
-      <h2 class="title">However, we found results for the related term “${query}.”</h2>
-    `;
-  }
-
-  if (!results.length) {
-    searchResultsContainer.innerHTML += `<h2 class="title">No results found</h2>`;
-  }
-  else {
-    searchResultsContainer.innerHTML += `
-      <ol>
-        ${results.map(renderResults_result(routedFrom)).join('')}
-      </ol>
-    `;
-  }
-};
+const renderResultsSummaryTemplate = (nextOffset, resultsCount) => html`
+  <div class="results-summary">
+    Displaying 1-${nextOffset ? nextOffset - 1 : resultsCount} of ${resultsCount}
+  </div>
+`;
 
 const continueReading = (result) => {
   if (result.description) {
-    return `... <span class="read-more">Continue reading</span>`;
+    return html`... <span class="read-more">Continue reading</span>`;
   }
-  return '';
+  return null;
 }
 
-const renderResults_result = (routedFrom) => (result) => {
-  return `
-    <li>
-      <a href="${result.url}">
-        <h2 class="title">${highlight(result.title, routedFrom)}</h2>
-        <p>${highlight(result.description, routedFrom)}${continueReading(result)}</p>
-      </a>
-    </li>
-  `;
-};
+const renderResultTemplate = (result) => html`
+  <li>
+    <a href="${result.url}">
+      <h2 class="title">${highlight(result.title)}</h2>
+      <p>${highlight(result.description)}${continueReading(result)}</p>
+    </a>
+  </li>
+`;
 
-const highlight = (text, routedFrom) => {
-  // Don't highlight text on routed search URLs
-  if (routedFrom) {
-    return text;
-  }
-  return text.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>');
-};
+const highlight = (text) => unsafeHTML(
+  text.replace(/\uE000/g, '<span class="bg-yellow">').replace(/\uE001/g, '</span>')
+);

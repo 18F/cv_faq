@@ -15,7 +15,6 @@ const translateFromSearchGov = (query) => (response) => {
       if (!response.route_to) {
         return null;
       }
-
       // If this is a routed query pointing to production search results, extract
       // search parameters out.
       // So we can test lower environments against the production search.gov,
@@ -35,24 +34,34 @@ const translateFromSearchGov = (query) => (response) => {
         title: result.title,
         description: result.snippet
       };
-    }) : []
+    }) : [],
+    resultsCount: response.web ? response.web.total : null,
+    nextOffset: response.web ? response.web.next_offset : null,
+    total: response.total
   }
 };
 
-export const doSearchGovSearch = (query, highlightSearchTerms) => new Promise((resolve, reject) => {
+export const doSearchGovSearch = ({
+  query,
+  offset,
+  highlightSearchTerms,
+  searchTimeoutSeconds
+}) => new Promise((resolve, reject) => {
   const searchEndpoint = new URL(`${SEARCHGOV_ENDPOINT}/api/v2/search/i14y`);
-  const searchTimeout = 3; // seconds
 
-  window.setTimeout(() => {
-    reject(new Error(`Request for search.gov results timed out after ${searchTimeout} seconds.`));
-  }, searchTimeout * 1000);
+  if (searchTimeoutSeconds) {
+    window.setTimeout(() => {
+      reject(new Error(`Request for search.gov results timed out after ${searchTimeoutSeconds} seconds.`));
+    }, searchTimeoutSeconds * 1000);
+  }
 
   Object.entries({
     affiliate: SEARCHGOV_AFFILIATE,
     access_key: SEARCHGOV_ACCESS_KEY,
     query: query,
-    limit: RESULTS_LIMIT,
-    enable_highlighting: highlightSearchTerms
+    limit: offset ? RESULTS_LIMIT : RESULTS_LIMIT + 1,
+    enable_highlighting: highlightSearchTerms,
+    offset: offset || 0
   }).forEach(([key, value]) => searchEndpoint.searchParams.append(key, value));
 
   const searchgov = fetch(searchEndpoint)
