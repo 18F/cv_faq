@@ -11,6 +11,7 @@ title: Why do some case numbers reported by state health departments, Johns Hopk
 redirect_from: 
 - /basics/how-does-cdc-covid19-case-numbers-compare-with-who/
 - /basics/states-covid19-cases-numbers-differ-from-cdc-website/
+- /spread/why-are-we-seeing-a-rise-in-cases/
 
 ---
 
