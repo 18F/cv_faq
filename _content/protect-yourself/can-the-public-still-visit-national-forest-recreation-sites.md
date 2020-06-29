@@ -1,6 +1,6 @@
 ---
 category: protect-yourself
-date: April 26, 2020
+date: June 11, 2020
 excerpt: How to protect yourself
 layout: post
 promoted: false

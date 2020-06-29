@@ -1,13 +1,13 @@
 ---
 category: financial-help
-date: April 26, 2020
+date: June 11, 2020
 excerpt: Supplemental Nutrition Assistance Program (SNAP) online pilot
 layout: post
 promoted: false
 sources:
 - agency: usda
-  url:  https://www.usda.gov/coronavirus
+  url:  https://www.fns.usda.gov/snap/online-purchasing-pilot
 title: Can SNAP participants order groceries online?
 ---
 
-The [SNAP online pilot](https://www.fns.usda.gov/snap/online-purchasing-pilot) is currently operational in Alabama, Iowa, Nebraska, New York, Oregon, and Washington State. The authorized retailers working with all pilot states are Amazon and Walmart, while Wrights Market and ShopRite are working with Alabama and New York respectively. USDA previously announced [Arizona, California](https://www.usda.gov/media/press-releases/2020/04/08/arizona-and-california-added-innovative-snap-online-pilot-program), [Florida, Idaho](https://www.usda.gov/media/press-releases/2020/04/11/florida-and-idaho-added-innovative-snap-online-pilot-program), [North Carolina, the District of Columbia](https://www.usda.gov/media/press-releases/2020/04/17/dc-and-north-carolina-added-innovative-snap-online-pilot-program), and [West Virginia](https://www.usda.gov/media/press-releases/2020/04/18/west-virginia-added-innovative-snap-online-pilot-program) would also be joining. With these 16 states, more than half of all households receiving SNAP will have access to online purchasing.  
+The [SNAP online pilot](https://www.fns.usda.gov/snap/online-purchasing-pilot) is currently operational in Alabama, Arizona, California, Colorado, Connecticut, District of Columbia, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kentucky, Maryland, Massachusetts, Michigan, Minnesota, Missouri, Nebraska, Nevada, New Jersey, New Mexico, New York, North Carolina, Ohio, Oregon, Oklahoma, Pennsylvania, Rhode Island, Tennessee, Texas, Vermont, Virginia, Washington, West Virginia, Wisconsin, and Wyoming. The authorized retailers working with all states are Amazon and Walmart. TheFreshGrocer is working with New Jersey and Pennsylvania; ShopRite is working with Maryland, New Jersey, New York and Pennsylvania; and Wrights Market is working with Alabama. USDA previously announced Delaware, New Hampshire and South Dakota would also be implementing online purchasing in the near future. With these states, more than 90% of all households receiving SNAP will have access to online purchasing. 
