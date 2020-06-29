@@ -10,6 +10,8 @@ sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
 title: What is a novel coronavirus?
+redirect_from: 
+- /spread/what-is-the-source-of-the-virus/
 ---
 
 A novel coronavirus is a new coronavirus that has not been previously identified. The virus causing coronavirus disease 2019 (COVID-19), is not the same as the [coronaviruses that commonly circulate among humans](https://www.cdc.gov/coronavirus/types.html) and cause mild illness, like the common cold.
