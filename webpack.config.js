@@ -17,6 +17,7 @@ const config = {
           // With useBuiltIns: 'usage', exclude polyfills
           /\bcore-js\b/,
           /\bwebpack\/buildin\b/,
+          /\bregenerator-runtime\b/,
 
           // Accessible-autocomplete's bundle is already transpiled
           /\baccessible-autocomplete\b/
@@ -28,6 +29,21 @@ const config = {
               ['@babel/preset-env', {
                 corejs: 3,
                 useBuiltIns: 'usage'
+              }]
+            ],
+            plugins: [
+              ['template-html-minifier', {
+                modules: {
+                  'lit-html': ['html']
+                },
+                strictCSS: true,
+                htmlMinifier: {
+                  collapseWhitespace: true,
+                  conservativeCollapse: true,
+                  removeComments: true,
+                  caseSensitive: true,
+                  minifyCSS: true
+                },
               }]
             ]
           }

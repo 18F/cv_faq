@@ -19,7 +19,7 @@ const onReady = function (initFunc) {
 initAccordion();
 initLoadMore();
 
-// Initialize after
+// Initialize after DOM loaded
 onReady(function () {
   initAutoComplete();
   initSearchResults();
