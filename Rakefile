@@ -13,11 +13,6 @@ task :htmlproof do
       # treat urls to faq.coronavirus.gov as local
       'https://faq.coronavirus.gov' => ''
     },
-    # Cache with a short time frame;
-    # This will avoid duplicate requests for URLs in the footer.
-    :cache => {
-      :timeframe => '1h'
-    },
     :typhoeus => {
       :connecttimeout => 30,
       :timeout => 60
