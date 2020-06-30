@@ -34,8 +34,8 @@ top_questions:
     question: Can I travel?
 questions_box_1:
   questions:
-    - link: /protect-yourself/am-i-at-risk-for-covid-19-in-the-united-states
-      question: Am I at risk?
+    - link: /spread/if-i-have-recovered-will-i-be-immune
+      question: If I have recovered from COVID-19, will I be immune?
     - link: /protect-yourself/does-cdc-recommend-facemasks/
       question: Does CDC recommend the use of facemasks?
     - link: >-
