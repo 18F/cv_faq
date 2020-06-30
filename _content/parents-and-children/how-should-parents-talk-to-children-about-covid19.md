@@ -6,7 +6,7 @@ layout: post
 promoted: false
 sources:
 - agency: cdc
-  url:https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/talking-with-children.html
+- url:https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/talking-with-children.html
 title: How should parents talk to children about COVID-19?
 ---
 
