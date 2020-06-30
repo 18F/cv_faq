@@ -10,7 +10,8 @@ export const initSearchForm = () => {
     // inline.
 
     // Set the search to the local URL.
-    searchForm.action = '/search/';
+    const baseUrl = document.querySelector('meta[name="baseurl"]').content;
+    searchForm.action = `${baseUrl}/search/`;
 
     // Remove the affiliate hidden input.
     const affiliateInput = searchForm.querySelector(`input[name=${AFFILIATE_INPUT_NAME}]`);
