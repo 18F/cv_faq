@@ -8,7 +8,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
 title: How can I keep my children healthy?
-redirect-from: 
+redirect_from: 
 - /parents-and-children/while-school-is-out-how-can-i-keep-my-family-healthy/
 ---
 
