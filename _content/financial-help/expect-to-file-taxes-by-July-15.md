@@ -16,5 +16,5 @@ Nothing, except file and pay any tax due with your return by July 15. You don’
 
 For additional information about IRS filing and payment deadlines, visit: [https://www.irs.gov/newsroom/filing-and-payment-deadlines-questions-and-answers](https://www.irs.gov/newsroom/filing-and-payment-deadlines-questions-and-answers). 
 
-For further information on IRS efforts to assist taxpayers, visit: [irs.gov/coronavirus](irs.gov/coronavirus). 
+For further information on IRS efforts to assist taxpayers, visit: [https://www.irs.gov/coronavirus-tax-relief-and-economic-impact-payments](https://www.irs.gov/coronavirus-tax-relief-and-economic-impact-payments). 
 
