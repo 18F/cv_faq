@@ -23,29 +23,27 @@ $theme-font-weight-heavy: 800;
 // This corresponds to variables set in:
 // https://github.com/uswds/uswds/blob/develop/src/stylesheets/theme/_uswds-theme-color.scss
 
-$site-palette: (
-    'custom-dark-blue': #14223B,
-    'custom-vivid-blue': #065fa9,
-    'custom-blue-lighter': #eaf1fb,
-    'custom-blue-hover': #0A4577,
-    'custom-gray-hover': #dcdee0,
-);
-
-$project-color-shortcodes: $site-palette;
 $custom-dark-blue: #14223B;
 $custom-vivid-blue: #065fa9;
 $custom-blue-lighter: #eaf1fb; // replacing primary lighter
 $custom-blue-hover: #0A4577;
-
-
 $custom-gray-hover: #dcdee0;
 
-$theme-color-base-lightest: 'custom-gray-hover';
+$site-palette: (
+    'custom-dark-blue': $custom-dark-blue,
+    'custom-vivid-blue': $custom-vivid-blue,
+    'custom-blue-lighter': $custom-blue-lighter,
+    'custom-blue-hover': $custom-blue-hover,
+    'custom-gray-hover': $custom-gray-hover,
+);
 
-$theme-color-primary-lighter: 'custom-blue-lighter';
-$theme-color-primary-vivid: 'custom-vivid-blue';
-$theme-color-primary-darker: 'custom-blue-hover';
-$theme-color-primary-darkest: 'custom-dark-blue';
+$project-color-shortcodes: $site-palette;
+
+$theme-color-base-lightest: $custom-gray-hover;
+$theme-color-primary-lighter: $custom-blue-lighter;
+$theme-color-primary-vivid: $custom-vivid-blue;
+$theme-color-primary-darker: $custom-blue-hover;
+$theme-color-primary-darkest: $custom-dark-blue;
 
 //Utilities
 // This corresponds to variables set in:
