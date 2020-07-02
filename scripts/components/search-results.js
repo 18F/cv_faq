@@ -71,10 +71,24 @@ const searchTemplate = ({
   routedFrom,
   renderNextPage
 }) => {
+  const firstPage = resultsPages[0];
   const lastPage = resultsPages[resultsPages.length - 1];
   const resultsCount = lastPage.resultsCount;
   const nextOffset = lastPage.nextOffset;
+  const bestBets = firstPage.bestBets;
   return html`
+    ${bestBets && bestBets.length ? html`
+      <div class="usa-prose">
+        <h1>
+          Best Bet Search Results
+        </h1>
+      </div>
+      <div id="best-bets">
+        <ol class="results-list">
+          ${bestBets.map(renderResultTemplate)}
+        </ol>
+      </div>
+    ` : null}
     <div class="usa-prose">
       <h1>
         Search Results
