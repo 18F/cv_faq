@@ -77,18 +77,6 @@ const searchTemplate = ({
   const nextOffset = lastPage.nextOffset;
   const bestBets = firstPage.bestBets;
   return html`
-    ${bestBets && bestBets.length ? html`
-      <div class="usa-prose">
-        <h1>
-          Best Bet Search Results
-        </h1>
-      </div>
-      <div id="best-bets">
-        <ol class="results-list">
-          ${bestBets.map(renderResultTemplate)}
-        </ol>
-      </div>
-    ` : null}
     <div class="usa-prose">
       <h1>
         Search Results
@@ -103,19 +91,31 @@ const searchTemplate = ({
       ${routedFrom ? html`
         <h2 class="title">However, we found results for the related term <em>${query}</em>.</h2>
       ` : null}
-      ${resultsCount ?
-        html`<ol class="results-list">
-          ${resultsPages.map(page => page.results.map(renderResultTemplate))}
-        </ol>` :
-        html`
-          Try your search again following these tips:
-          <ul>
-            <li>Check your spelling</li>
-            <li>Try a different keyword</li>
-            <li>Use a more general keyword</li>
-          </ul>
-        `}
     </div>
+    ${resultsCount ?
+      html`<ol class="results-list">
+        ${resultsPages.map(page => page.results.map(renderResultTemplate))}
+      </ol>` :
+      html`
+        Try your search again following these tips:
+        <ul>
+          <li>Check your spelling</li>
+          <li>Try a different keyword</li>
+          <li>Use a more general keyword</li>
+        </ul>
+      `}
+    ${bestBets && bestBets.length ? html`
+      <div class="usa-prose">
+        <h1>
+          Recommended
+        </h1>
+      </div>
+      <div id="best-bets">
+        <ol class="results-list">
+          ${bestBets.map(renderResultTemplate)}
+        </ol>
+      </div>
+    ` : null}
     <p class="button-container">
       ${resultsCount ? renderResultsSummaryTemplate(nextOffset, resultsCount) : null}
       ${nextOffset ? html`
