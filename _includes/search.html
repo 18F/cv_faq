@@ -1,7 +1,8 @@
 <form
   id="search_form"
-  action="{{ site.baseurl }}/search/"
-  class="usa-search {{ include.extra_class}}"
+  {% comment %}As a JS-disabled fallback, post to search.gov; see components/search-form.js for Javascript behavior.{% endcomment %}
+  action="{{ site.searchgov.endpoint }}/search"
+  class="usa-search search-form {{ include.extra_class }}"
 >
   <div role="search" class="">
     <div class="desktop:grid-col-8">
@@ -25,4 +26,5 @@
       </button>
     </div>
   </div>
+  <input type="hidden" name="affiliate" value="{{ site.searchgov.affiliate }}" />
 </form>

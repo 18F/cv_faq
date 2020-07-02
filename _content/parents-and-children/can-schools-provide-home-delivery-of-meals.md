@@ -10,4 +10,4 @@ sources:
 title: Can schools provide home delivery of meals?
 ---
 
-Yes, so long as the school food authority has state agency approval, the necessary federal approvals, and adheres to all federal confidentiality requirements. For more details, see the U.S. Department of Agriculture (USDA) Food and Nutrition Service (FNS) [meal delivery information](http://www.fns.usda.gov/sfsp/covid-19-meal-delivery). 
+Yes, so long as the school food authority has state agency approval, the necessary federal approvals, and adheres to all federal confidentiality requirements. For more details, see the U.S. Department of Agriculture (USDA) Food and Nutrition Service (FNS) [meal delivery information](https://www.fns.usda.gov/sfsp/covid-19-meal-delivery).

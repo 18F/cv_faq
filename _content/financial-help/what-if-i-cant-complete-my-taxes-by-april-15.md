@@ -10,7 +10,7 @@ sources:
 title: What if I can't complete my taxes by April 15?
 ---
 
-Tax filings and payments for all federal income taxes (including self-employment tax) due on April 15, 2020, regardless of amount, will now be due on July 15, 2020. 
+Tax filings and payments for all federal income taxes (including self-employment tax) due on April 15, 2020, regardless of amount, will now be due on July 15, 2020.
 
 Taxpayers are not required to file any documentation to take advantage of this delay, and no interest or penalties will be assessed in connection with this extension. This is an expansion of the relief previously announced on March 18, 2020.
 
@@ -18,4 +18,4 @@ This relief only applies to federal income tax (including tax on self-employment
 
 Treasury and IRS will issue additional guidance as needed and continue working with Congress, on a bipartisan basis, on legislation to provide further relief to the American people.
 
-Visit [IRS.gov/coronavirus](http://www.irs.gov/coronavirus) for further information on IRS efforts to assist taxpayers.
+Visit [IRS.gov/coronavirus](https://www.irs.gov/coronavirus) for further information on IRS efforts to assist taxpayers.
