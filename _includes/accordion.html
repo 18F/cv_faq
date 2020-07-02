@@ -7,6 +7,7 @@
 <button id="{{ question.title | slugify }}"
     class="usa-accordion__button"
     set-page-hash
+    aria-expanded="false"
     aria-controls="control-{{ question.title | slugify }}">
     {{ question.title }}
 </button>
