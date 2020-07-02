@@ -10,4 +10,4 @@ sources:
 title: Can the Small Business Administration help me with other assistance?
 ---
 
-Yes, as it has for more than 65 years, the U.S. Small Business Administration is offering various trainings and educational assistance for small businesses across the country to help them start, grow, expand and recover. You can find your local SBA District Office at [www.sba.gov/localassistance](http://www.sba.gov/localassistance).
+Yes, as it has for more than 65 years, the U.S. Small Business Administration is offering various trainings and educational assistance for small businesses across the country to help them start, grow, expand and recover. You can find your local SBA District Office at [www.sba.gov/localassistance](https://www.sba.gov/localassistance).

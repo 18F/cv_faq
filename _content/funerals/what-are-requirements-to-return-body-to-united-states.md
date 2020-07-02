@@ -21,4 +21,4 @@ At this time, COVID-19 is a quarantinable communicable disease in the United Sta
 * The remains are accompanied by a permit issued by the CDC Director. The CDC permit (if applicable) must accompany the human remains at all times during shipment.
   * Permits for the importation of the remains of a person known or suspected to have died from a quarantinable communicable disease may be obtained through the CDC Division of Global Migration and Quarantine by calling the CDC Emergency Operations Center at 770-488-7100 or emailing [dgmqpolicyoffice@cdc.gov](mailto:dgmqpolicyoffice@cdc.gov).
 
-  Please see [CDC’s guidance](http://www.cdc.gov/importation/human-remains.html) for additional information.
+  Please see [CDC’s guidance](https://www.cdc.gov/importation/human-remains.html) for additional information.

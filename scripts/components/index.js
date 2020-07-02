@@ -1,5 +1,6 @@
 import { initAccordion } from './accordion';
 import { initLoadMore } from './load-more';
+import { initSearchForm } from './search-form';
 import { initSearchResults } from './search-results';
 import { initAutoComplete } from './type-ahead';
 
@@ -18,6 +19,7 @@ const onReady = function (initFunc) {
 // Initialize immediately
 initAccordion();
 initLoadMore();
+initSearchForm();
 
 // Initialize after DOM loaded
 onReady(function () {
