@@ -47,7 +47,7 @@ test('both question boxes have three content links and a view all link', async (
 });
 
 test('the six displayed categories have three content links and a view all link', async () => {
-  const categories = await page.$$eval('.top-categories', elements => {
+  const categories = await page.$$eval('.top-categories .top-category', elements => {
     return elements.map(b => {
       const getText = (el) => el ? el.innerText.trim().replace(/\n/g, '') : null;
 
