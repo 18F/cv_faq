@@ -1,7 +1,7 @@
 import accessibleAutocomplete from 'accessible-autocomplete';
 
 import { debounce } from '../utils';
-import { doLocalSearch } from '../services/search';
+import { suggestSearchTerms } from '../services/search';
 
 const AUTOCOMPLETE_CONTAINER_CLASS = 'autocomplete_container';
 
@@ -25,7 +25,7 @@ export const initAutoComplete = function () {
   let currentQuery = null;
 
   const makeDebouncedRequest = debounce((query, completed) => {
-    doLocalSearch(query)
+    suggestSearchTerms(query)
       .then(response => completed(response.results.slice(0, 5)));
   }, 300);
 
