@@ -1,6 +1,6 @@
 ---
 layout: agency
 name: irs
-title: "IRS"
+title: "Internal Revenue Services"
 sitemap: false
 ---
