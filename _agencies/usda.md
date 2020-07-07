@@ -1,6 +1,6 @@
 ---
 layout: agency
 name: usda
-title: "USDA"
+title: "U.S. Department of Agriculture"
 sitemap: false
 ---
