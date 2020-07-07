@@ -92,18 +92,15 @@ const searchTemplate = ({
         <h2 class="title">However, we found results for the related term <em>${query}</em>.</h2>
       ` : null}
     </div>
-    ${resultsCount ?
-      html`<ol class="results-list">
-        ${resultsPages.map(page => page.results.map(renderResultTemplate))}
-      </ol>` :
-      html`
+    ${!resultsCount ? html`
         Try your search again following these tips:
         <ul>
           <li>Check your spelling</li>
           <li>Try a different keyword</li>
           <li>Use a more general keyword</li>
         </ul>
-      `}
+      ` : null
+    }
     ${bestBets && bestBets.length ? html`
       <div class="usa-prose">
         <h1>
@@ -116,6 +113,11 @@ const searchTemplate = ({
         </ol>
       </div>
     ` : null}
+    ${resultsCount ?
+      html`<ol class="results-list">
+        ${resultsPages.map(page => page.results.map(renderResultTemplate))}
+      </ol>` : null
+    }
     <p class="button-container">
       ${resultsCount ? renderResultsSummaryTemplate(nextOffset, resultsCount) : null}
       ${nextOffset ? html`
