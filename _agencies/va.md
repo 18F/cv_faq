@@ -1,6 +1,6 @@
 ---
 layout: agency
 name: va
-title: "VA"
+title: "U.S. Department of Veterans Affairs"
 sitemap: false
 ---

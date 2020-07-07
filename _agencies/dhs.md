@@ -1,6 +1,6 @@
 ---
 layout: agency
 name: dhs
-title: "DHS"
+title: "U.S. Department of Homeland Security"
 sitemap: false
 ---

@@ -1,6 +1,6 @@
 ---
 layout: agency
 name: cdc
-title: "CDC"
+title: "Centers for Disease Control and Prevention"
 sitemap: false
 ---
