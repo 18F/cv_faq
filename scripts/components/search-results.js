@@ -77,6 +77,18 @@ const searchTemplate = ({
   const nextOffset = lastPage.nextOffset;
   const bestBets = firstPage.bestBets;
   return html`
+    ${bestBets && bestBets.length ? html`
+      <div class="usa-prose">
+        <h1>
+          Recommended
+        </h1>
+      </div>
+      <div id="best-bets">
+        <ol class="results-list">
+          ${bestBets.map(renderResultTemplate)}
+        </ol>
+      </div>
+    ` : null}
     <div class="usa-prose">
       <h1>
         Search Results
@@ -101,18 +113,6 @@ const searchTemplate = ({
         </ul>
       ` : null
     }
-    ${bestBets && bestBets.length ? html`
-      <div class="usa-prose">
-        <h1>
-          Recommended
-        </h1>
-      </div>
-      <div id="best-bets">
-        <ol class="results-list">
-          ${bestBets.map(renderResultTemplate)}
-        </ol>
-      </div>
-    ` : null}
     ${resultsCount ?
       html`<ol class="results-list">
         ${resultsPages.map(page => page.results.map(renderResultTemplate))}
