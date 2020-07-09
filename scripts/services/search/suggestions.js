@@ -26,7 +26,8 @@ export const suggestSearchTerms = (query) => new Promise((resolve, reject) => {
     .then(response => {
       return new Fuse(response, {
         //keys: ["title", "excerpt", "content"],
-        distance: 1000
+        distance: 1000,
+        ignoreFieldNorm: true
       }).search(query.replace(/^\s+|\s+$/g, ''));
     })
     .then(translate(query))
