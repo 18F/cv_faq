@@ -6,9 +6,6 @@ import { BASE_URL, RESULTS_LIMIT } from './constants';
 const translate = (query) => (results) => {
   return {
     results: results
-      .filter(result => {
-        return result.item != query;
-      })
       .slice(0, RESULTS_LIMIT).map(result => {
         const searchTerms = result.item;
         return {
