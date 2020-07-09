@@ -22,18 +22,12 @@ export const initAutoComplete = function () {
   const previousInput = autocompleteContainer.querySelector('input');
   autocompleteContainer.innerHTML = '';
   let runningRequest = null;
+  let currentQuery = null;
 
   const makeDebouncedRequest = debounce((query, completed) => {
     suggestSearchTerms(query)
       .then(response => completed(response.results.slice(0, 5)));
   }, 300);
-
-  const searchParams = new URLSearchParams(window.location.search);
-  const query = (
-    searchParams.get('source') ||
-    searchParams.get('query') ||
-    undefined
-   );
 
   accessibleAutocomplete({
     element: autocompleteContainer,
@@ -41,11 +35,14 @@ export const initAutoComplete = function () {
     name: 'query',
     placeholder: previousInput.getAttribute('placeholder'),
     confirmOnBlur: false,
-    defaultValue: query,
     onConfirm: (item) => {
       if (item && item.url) {
         window.location.href = item.url;
       }
+    },
+    templates: {
+      inputValue: () => '',
+      suggestion: (item) => highlight(item.title, currentQuery)
     },
     tNoResults: () => {
       return runningRequest ? 'Loading…' : `No results for “${newInput.value}”`;
@@ -55,12 +52,10 @@ export const initAutoComplete = function () {
         // Do not update results if another request has started since.
         if (runningRequest === thisRequest) {
           runningRequest = null;
-          const highlightedResults = results.map(item => {
-            return highlight(item.title, query)
-          });
-          populateResults(highlightedResults);
+          populateResults(results);
         }
       });
+      currentQuery = query;
       runningRequest = thisRequest;
     }
   });
