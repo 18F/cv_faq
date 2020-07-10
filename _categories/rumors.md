@@ -11,4 +11,5 @@ redirect_from:
   - /get-facts/should-i-worry-about-hantavirus/
   - /rumors/do-i-need-a-photo-id-to-be-tested/
   - /rumors/should-i-worry-about-hantavirus/
+  - /roumors/
 ---
