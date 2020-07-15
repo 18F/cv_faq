@@ -22,7 +22,7 @@ You may want to familiarize yourself with:
 
 The [\_categories](_categories) folder contains the question groups, or categories, which are displayed on the site. Its `title` property is what is visible on the site.
 
-In the [\_content](_content) folder you’ll find a folder which matches the `name` property of a category for each category. Inside that folder is a file representing each question in that category, which has a `category` property which also matches the category’s `name` property.
+In the [\_content](_content) folder you’ll find a folder which matches the `name` property of a category for each category. Inside that folder is a file representing each question in that category, which has a `categories` property which also matches the category’s `name` property. Each question may belong to multiple categories, but the first category is considered its "primary category", which should correspond to its directory.
 
 For more detailed coverage, see the [Content management guide](https://github.com/18F/cv_faq/wiki/Content-management-in-cv_faq).
 
