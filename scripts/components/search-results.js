@@ -78,12 +78,8 @@ const searchTemplate = ({
   const bestBets = firstPage.bestBets;
   return html`
     ${bestBets && bestBets.length ? html`
-      <div class="usa-prose">
-        <h1>
-          Recommended
-        </h1>
-      </div>
-      <div id="best-bets">
+      <div id="best-bets" class="padding-1 border-1px border-base-lightest margin-bottom-2">
+        <div>Recommended</div>
         <ol class="results-list">
           ${bestBets.map(renderResultTemplate)}
         </ol>
