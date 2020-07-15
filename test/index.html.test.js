@@ -47,7 +47,7 @@ test('both question boxes have three content links and a view all link', async (
 });
 
 test('the six displayed categories have three content links and a view all link', async () => {
-  const categories = await page.$$eval('.top-categories .usa-media-block', elements => {
+  const categories = await page.$$eval('.top-categories .top-category', elements => {
     return elements.map(b => {
       const getText = (el) => el ? el.innerText.trim().replace(/\n/g, '') : null;
 
@@ -71,7 +71,7 @@ test('the six displayed categories have three content links and a view all link'
 });
 
 test('the load more button displays additional categories', async () => {
-  const getVisibleCategories = () => page.$$eval('.usa-media-block', elements => {
+  const getVisibleCategories = () => page.$$eval('.top-category', elements => {
     return elements.map(category => { return {
       title: category.querySelector('h3').innerText,
       visible: category.offsetHeight !== 0

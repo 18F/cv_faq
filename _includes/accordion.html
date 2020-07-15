@@ -7,6 +7,7 @@
 <button id="{{ question.title | slugify }}"
     class="usa-accordion__button"
     set-page-hash
+    aria-expanded="false"
     aria-controls="control-{{ question.title | slugify }}">
     {{ question.title }}
 </button>
@@ -14,7 +15,7 @@
 <div id="control-{{ question.title | slugify }}" class="usa-accordion__content usa-prose">
     <p>{{ question.content | markdownify }}</p>
 
-    <p class="question-meta">Last updated {{ question.date | date:  "%B %d, %Y" }}
+    <p class="question-meta">Last updated {{ question.date | date:  "%B %d, %Y" }}<br/>
     {% include sources.html %}
     </p>
 </div>

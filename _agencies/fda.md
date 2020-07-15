@@ -1,6 +1,6 @@
 ---
 layout: agency
 name: fda
-title: "FDA"
+title: "U.S. Food & Drug Administration"
 sitemap: false
 ---
