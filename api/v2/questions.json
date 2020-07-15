@@ -1,0 +1,22 @@
+---
+layout: null
+---
+[
+  {%- for content in site.content %}
+  {
+    "question_url": "{{ site.url }}/{{ content.category | downcase }}/{{ content.slug | downcase }}/",
+    "title": "{{ content.title | replace: '"', '\"' }}",
+    "answer": "{{ content.content | strip_html | strip_newlines | remove_chars | escape }}",
+    "answer_html": "{{ content.content | strip_newlines | replace: '"', '\"' }}",
+    "updated_at": "{{ content.date | date: '%Y-%m-%d' }}",
+    "categories": [{% for question_category in content.categories %}{%- assign category = site.categories | where: 'name', question_category | first %}{
+      "title": "{{ category.title }}",
+      "category_url": "{{ site.url }}/{{ category.name | downcase }}/"
+    }{% unless forloop.last %}, {% endunless %}{% endfor %}],
+    "sources": [{% for source in content.sources %}{
+      "agency": "{{ source.agency | replace: '"', '\"' }}",
+      "url": "{{ source.url }}"
+    }{% unless forloop.last %}, {% endunless %}{% endfor %}]
+  } {%- unless forloop.last %},{% endunless %}
+  {%- endfor %}
+]

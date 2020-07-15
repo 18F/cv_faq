@@ -1,5 +1,6 @@
 ---
-category: parents-and-children
+categories:
+- parents-and-children
 date: March 23, 2020
 excerpt: School dismissals and children
 layout: post
@@ -9,7 +10,7 @@ sources:
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
 title: While school's out, should I limit time with older adults, including relatives,
   and people with chronic medical conditions?
-redirect_from: 
+redirect_from:
 - /parents-and-children/while-shool-is-out-should-i-limit-time-with-older-adults/
 - /rumors/are-older-folks-the-only-ones-at-risk/
 ---

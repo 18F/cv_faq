@@ -1,5 +1,6 @@
 ---
-category: protect-yourself
+categories:
+- protect-yourself
 date: June 27, 2020
 excerpt: How to protect yourself
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Prevention
 title: How can I protect myself?
-redirect_from: 
+redirect_from:
 - /protect-yourself/six-feet-away-cloth-face-covering/
 ---
 

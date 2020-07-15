@@ -1,0 +1,84 @@
+openapi: 3.0.0
+
+info:
+  title: "Coronavirus FAQ API"
+  version: "1.0.0"
+  license:
+    name: "Public domain; CC0 1.0 Universal public domain dedication"
+    url: "https://github.com/18F/cv_faq/blob/master/LICENSE.md"
+
+servers:
+  - url: "https://faq.coronavirus.gov/api/v2"
+    description: "v2 production"
+
+paths:
+  /questions.json:
+    get:
+      summary: "Retreives all questions with their answers."
+      responses:
+        200:
+          description: "OK"
+          content:
+            application/json:
+              schema:
+                type: "array"
+                items:
+                  $ref: '#/components/schemas/Question'
+  /categories.json:
+    get:
+      summary: "Retrieves all question categories."
+      responses:
+        200:
+          description: "OK"
+          content:
+            application/json:
+              schema:
+                type: "array"
+                items:
+                  $ref: '#/components/schemas/Category'
+
+components:
+  schemas:
+    Category:
+      type: "object"
+      properties:
+        category_url:
+          type: "string"
+          format: "uri"
+        title:
+          type: "string"
+    Question:
+      type: "object"
+      properties:
+        question_url:
+          type: "string"
+          format: "uri"
+        title:
+          type: "string"
+        answer:
+          type: "string"
+        answer_html:
+          type: "string"
+        updated_at:
+          type: "string"
+          format: "date"
+        categories:
+          type: "array"
+          items:
+            type: "object"
+            properties:
+              title:
+                type: "string"
+              category_url:
+                type: "string"
+                format: "uri"
+        sources:
+          type: "array"
+          items:
+            type: "object"
+            properties:
+              agency:
+                type: "string"
+              url:
+                type: "string"
+                format: "uri"

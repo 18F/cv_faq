@@ -1,5 +1,6 @@
 ---
-category: parents-and-children
+categories:
+- parents-and-children
 date: June 29, 2020
 excerpt: Parents and children
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals
 title: How can I keep my children healthy?
-redirect_from: 
+redirect_from:
 - /parents-and-children/while-school-is-out-how-can-i-keep-my-family-healthy/
 ---
 

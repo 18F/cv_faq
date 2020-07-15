@@ -1,5 +1,6 @@
 ---
-category: financial-help
+categories:
+- financial-help
 date: April 24, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post

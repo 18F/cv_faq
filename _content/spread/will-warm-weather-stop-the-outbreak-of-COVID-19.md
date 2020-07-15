@@ -1,5 +1,6 @@
 ---
-category: spread
+categories:
+- spread
 date: March 16, 2020
 excerpt: How it spreads
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553767
 title: Will warm weather stop the outbreak of COVID-19?
-redirect_from:  
+redirect_from:
 - /spread/what-temperature-kills-the-virus/
 ---
 

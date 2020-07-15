@@ -1,5 +1,6 @@
 ---
-category: pregnancy
+categories:
+- pregnancy
 date: March 17, 2020
 excerpt: Pregnant women and COVID-19
 layout: post

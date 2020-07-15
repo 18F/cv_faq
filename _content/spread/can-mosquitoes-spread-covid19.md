@@ -1,5 +1,6 @@
 ---
-category: spread
+categories:
+- spread
 date: March 28, 2020
 excerpt: How it spreads
 layout: post

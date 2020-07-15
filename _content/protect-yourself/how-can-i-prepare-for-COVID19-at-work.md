@@ -1,5 +1,6 @@
 ---
-category: protect-yourself
+categories:
+- protect-yourself
 date: June 27, 2020
 excerpt: How to protect yourself
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#In-Case-of-an-Outbreak-in-Your-Community
 title: How can I prepare for COVID-19 at work?
-redirect_from: 
+redirect_from:
 - /protect-yourself/should-i-go-to-work-if-there-is-an-outbreak-in-my-community/
 ---
 

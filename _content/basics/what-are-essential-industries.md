@@ -1,5 +1,6 @@
 ---
-category: basics
+categories:
+- basics
 date: March 29, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post

@@ -1,31 +1,38 @@
 ---
 layout: default
 ---
-{% assign categories = site.content | group_by:"category" %}
-{% assign this_category = categories | where:"name", page.name | first %}
-{% assign category_questions = this_category.items %}
+
+{% assign all_categories = site.categories | sort: "title" %}
+{% assign category_questions = "" | split: "," %}
+{% for content_page in site.content %}
+  {% for category in content_page.categories %}
+    {% if category == page.name %}
+      {% assign category_questions = category_questions | push: content_page %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+
 {% include schema-faq.html questions=category_questions %}
 
 <div class="usa-layout-docs usa-section grid-container" id="top">
   <div class="grid-row grid-gap">
     {% if page.sidenav == true %}
-    {% include sidenav.html %}
+      {% include sidenav.html %}
     {% endif %}
 
     <div class="usa-layout-docs__main desktop:grid-col-12 usa-prose">
       <h1>{{ page.title }}</h1>
       {% if page.banner.display == true %}
-      {% include alert-banner.html banner=page.banner %}
+        {% include alert-banner.html banner=page.banner %}
       {% endif %}
       <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=false>
         {% assign promoted_in_category = category_questions | group_by:"promoted" | reverse %}
         {% for is_promoted in promoted_in_category %}
-        {% for question in is_promoted.items %}
-        {% if page.lang == question.lang  %}
-        {% include accordion.html accordion_content=question %}
-        {% endif %}
-        {% endfor %}
-
+          {% for question in is_promoted.items %}
+            {% if page.lang == question.lang  %}
+              {% include accordion.html accordion_content=question %}
+            {% endif %}
+          {% endfor %}
         {% endfor %}
       </div>
     </div>
