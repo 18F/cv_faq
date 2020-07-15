@@ -27,4 +27,5 @@ redirect_from:
   - /k12-childcare/school-dismissal-what-else-should-i-consider/
   - /k12-childcare/what-should-my-school-consider-re-opening/
   - /k12-childcare/when-should-i-dismiss/
+  - /k12-childcare/
 ---
