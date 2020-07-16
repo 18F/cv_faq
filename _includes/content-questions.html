@@ -13,10 +13,6 @@
       {% assign current_category = categories | where: "name", site_category.name | first %}
       {% assign category_questions = site.content | by_category: site_category.name, site.categories %}
 
-      {% if category_questions.size < 3 %}
-        {% assign extra_questions = current_category.items | where: "promoted", "false" %}
-      {% endif %}
-
       <div class="top-category tablet:grid-col-4 margin-bottom-3">
         <h3>{{ site_category.title }}</h3>
         <ul class="usa-list usa-list--unstyled">
@@ -27,16 +23,6 @@
               </li>
             {% endif %}
           {% endfor %}
-          {% if extra_questions %}
-            {% assign deficit = 3 | minus: category_questions.size %}
-            {% for question in extra_questions | limit:deficit %}
-              {% if page.lang == question.lang %}
-                <li class="padding-y-1">
-                  <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
-                </li>
-              {% endif %}
-            {% endfor %}
-          {% endif %}
         </ul>
         <a href="{{ site.baseurl }}/{{ site_category.name}}/" class="text-bold text-underline margin-y-1 view-all">View all <span
             class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
@@ -45,7 +31,7 @@
   </div>
 
   {% comment %}
-    If we've got more than 6 categories, reveal them by clicking this buton
+    If we've got more than 6 categories, reveal them by clicking this button
   {% endcomment %}
   {% if display_categories.size > 6 %}
     <div class="grid-row grid-gap display-none load-questions-wrapper">
@@ -59,33 +45,20 @@
     </div>
 
       <div tabindex="-1" id="more-questions" class="grid-row grid-gap display-none">
-      {% for site_category in display_categories | offset: 6 %}
+        {% for site_category in display_categories | offset: 6 %}
           {% assign current_category = categories | where:"name", site_category.name | first %}
-          {% assign category_questions = current_category.items | where: "promoted", "true" %}
-          {% if category_questions.size < 3 %}
-          {% assign extra_questions = current_category.items | where: "promoted", "false" %}
-          {% endif %}
+          {% assign category_questions = site.content | by_category: site_category.name, site.categories %}
 
           <div class="top-category tablet:grid-col-4 margin-bottom-3">
             <h3>{{ site_category.title }}</h3>
             <ul class="usa-list usa-list--unstyled">
               {% for question in category_questions | limit:3 %}
-              {% if page.lang == question.lang %}
-              <li class="padding-y-1">
-                <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
-              </li>
-              {% endif %}
+                {% if page.lang == question.lang %}
+                  <li class="padding-y-1">
+                    <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
+                  </li>
+                {% endif %}
               {% endfor %}
-              {% if extra_questions %}
-              {% assign deficit = 3 | minus: category_questions.size %}
-              {% for question in extra_questions | limit:deficit %}
-              {% if page.lang == question.lang %}
-              <li class="padding-y-1">
-                <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
-              </li>
-              {% endif %}
-              {% endfor %}
-              {% endif %}
             </ul>
             <a href="{{ site.baseurl }}/{{ site_category.name}}/" class="text-bold text-underline margin-y-1">View all <span
                 class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
