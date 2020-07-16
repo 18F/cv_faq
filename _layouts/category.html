@@ -3,14 +3,7 @@ layout: default
 ---
 
 {% assign all_categories = site.categories | sort: "title" %}
-{% assign category_questions = "" | split: "," %}
-{% for content_page in site.content %}
-  {% for category in content_page.categories %}
-    {% if category == page.name %}
-      {% assign category_questions = category_questions | push: content_page %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
+{% assign category_questions = site.content | by_category: page.name, site.categories %}
 
 {% include schema-faq.html questions=category_questions %}
 
@@ -26,13 +19,10 @@ layout: default
         {% include alert-banner.html banner=page.banner %}
       {% endif %}
       <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=false>
-        {% assign promoted_in_category = category_questions | group_by:"promoted" | reverse %}
-        {% for is_promoted in promoted_in_category %}
-          {% for question in is_promoted.items %}
-            {% if page.lang == question.lang  %}
-              {% include accordion.html accordion_content=question %}
-            {% endif %}
-          {% endfor %}
+        {% for question in category_questions %}
+          {% if page.lang == question.lang %}
+            {% include accordion.html accordion_content=question %}
+          {% endif %}
         {% endfor %}
       </div>
     </div>

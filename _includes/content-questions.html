@@ -10,8 +10,9 @@
   <div class="grid-row grid-gap top-categories">
 
     {% for site_category in display_categories | limit: 6 %}
-      {% assign current_category = categories | where:"name", site_category.name | first %}
-      {% assign category_questions = current_category.items | where: "promoted", "true" %}
+      {% assign current_category = categories | where: "name", site_category.name | first %}
+      {% assign category_questions = site.content | by_category: site_category.name, site.categories %}
+
       {% if category_questions.size < 3 %}
         {% assign extra_questions = current_category.items | where: "promoted", "false" %}
       {% endif %}

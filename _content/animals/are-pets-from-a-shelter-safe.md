@@ -1,8 +1,6 @@
 ---
 categories:
 - animals
-categories:
-- animals
 date: April 30, 2020
 excerpt: COVID-19 and animals
 layout: post
