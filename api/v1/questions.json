@@ -5,7 +5,7 @@ layout: null
   {%- for content in site.content %}
   {%- assign category = site.categories | where: 'name', content.categories[0] | first %}
   {
-    "question_url": "{{ site.url }}/{{ content.category | downcase }}/{{ content.slug | downcase }}/",
+    "question_url": "{{ site.url }}/{{ content.categories[0] | downcase }}/{{ content.slug | downcase }}/",
     "title": "{{ content.title | replace: '"', '\"' }}",
     "answer": "{{ content.content | strip_html | strip_newlines | remove_chars | escape }}",
     "answer_html": "{{ content.content | strip_newlines | replace: '"', '\"' }}",
