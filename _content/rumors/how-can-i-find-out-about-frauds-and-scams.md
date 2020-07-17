@@ -6,7 +6,7 @@ layout: post
 promoted: false
 sources:
 - agency: ftc
-  url: ftc.gov/coronavirus
+  url: https://www.ftc.gov/coronavirus
 title: Where can I find out about the latest COVID-related scams and frauds? 
 
 ---

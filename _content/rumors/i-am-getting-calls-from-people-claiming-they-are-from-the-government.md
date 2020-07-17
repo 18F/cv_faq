@@ -6,7 +6,7 @@ layout: post
 promoted: false
 sources:
 - agency: ftc
-  url: ftc.gov/coronavirus
+  url: https://www.ftc.gov/coronavirus
 title: I’m getting calls, texts, and emails from people claiming to be from the government. What should I do?
 
 ---

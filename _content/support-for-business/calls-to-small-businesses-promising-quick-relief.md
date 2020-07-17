@@ -6,7 +6,7 @@ layout: post
 promoted: false
 sources:
 - agency: ftc
-  url: ftc.gov/coronavirus
+  url: https://www.ftc.gov/coronavirus
 title: Can the Small Business Administration help me with other assistance?
 ---
 

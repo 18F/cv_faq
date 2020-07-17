@@ -6,7 +6,7 @@ layout: post
 promoted: false
 sources:
 - agency: ftc
-  url: ftc.gov/coronavirus
+  url: https://www.ftc.gov/coronavirus
 title: I’m seeing ads for COVID-19 treatments and cures. Are these legitimate?
 ---
 

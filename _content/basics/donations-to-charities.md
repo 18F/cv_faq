@@ -6,7 +6,7 @@ layout: post
 promoted: false
 sources:
 - agency: ftc
-  url: ftc.gov/coronavirus
+  url: https://www.ftc.gov/coronavirus
 title: I’m being asked to donate to charities that promise to help people affected by COVID-19. How can I check out these organizations?
 ---
 

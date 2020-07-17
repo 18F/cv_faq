@@ -6,7 +6,7 @@ layout: post
 promoted: false
 sources:
 - agency: ftc
-  url: ftc.gov/coronavirus
+  url: https://www.ftc.gov/coronavirus
 title: I ordered facemasks and other PPE online, but never got anything. What should I do? Where can I report this?
 ---
 
