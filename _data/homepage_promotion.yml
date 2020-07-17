@@ -39,7 +39,7 @@ questions_box_1:
     - link: /protect-yourself/does-cdc-recommend-facemasks/
       question: Does CDC recommend the use of facemasks?
     - link: >-
-        https://www.cdc.gov/coronavirus/2019-ncov/prepare/managing-stress-anxiety.html
+        "/basics/#how-can-i-manage-anxiety-stress"
       question: How can I manage anxiety and stress?
   title: How to *protect yourself*
   view_all_link: /protect-yourself/
