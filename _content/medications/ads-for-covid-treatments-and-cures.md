@@ -1,7 +1,7 @@
 ---
 category: medications
 date: July 17, 2020
-excerpt: 'Drugs and medications'
+excerpt: Drugs and medications
 layout: post
 promoted: false
 sources:

@@ -1,7 +1,7 @@
 ---
 category: protect-yourself
 date: July 17, 2020
-excerpt: I ordered facemasks and have yet to receive them.
+excerpt: Ordered PPE but it didn't arrive
 layout: post
 promoted: false
 sources:
