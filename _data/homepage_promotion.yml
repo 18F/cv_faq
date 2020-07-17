@@ -38,8 +38,7 @@ questions_box_1:
       question: If I recovered from COVID-19, will I be immune?
     - link: /protect-yourself/does-cdc-recommend-facemasks/
       question: Does CDC recommend the use of facemasks?
-    - link: >-
-        "/basics/#how-can-i-manage-anxiety-stress"
+    - link: /basics/#how-can-i-manage-anxiety-stress
       question: How can I manage anxiety and stress?
   title: How to *protect yourself*
   view_all_link: /protect-yourself/
