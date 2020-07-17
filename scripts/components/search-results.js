@@ -77,14 +77,6 @@ const searchTemplate = ({
   const nextOffset = lastPage.nextOffset;
   const bestBets = firstPage.bestBets;
   return html`
-    ${bestBets && bestBets.length ? html`
-      <div id="best-bets" class="padding-1 border-1px border-base-lightest margin-bottom-2">
-        <div>Recommended</div>
-        <ol class="results-list">
-          ${bestBets.map(renderResultTemplate)}
-        </ol>
-      </div>
-    ` : null}
     <div class="usa-prose">
       <h1>
         Search Results
@@ -92,6 +84,14 @@ const searchTemplate = ({
       </h1>
     </div>
     ${resultsCount ? renderResultsSummaryTemplate(nextOffset, resultsCount) : null}
+    ${bestBets && bestBets.length ? html`
+      <div id="best-bets" class="padding-2 border-1px border-base-lightest margin-top-3 margin-bottom-3">
+        <div>Recommended</div>
+        <ol class="results-list">
+          ${bestBets.map(renderResultTemplate)}
+        </ol>
+      </div>
+    ` : null}
     <div id="search-results">
       ${!resultsCount || routedFrom ? html`
         <h2 class="title">We’re sorry! We couldn’t find any results for <em>${routedFrom || query}</em>.</h2>
