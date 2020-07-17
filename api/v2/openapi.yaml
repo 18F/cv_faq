@@ -2,7 +2,7 @@ openapi: 3.0.0
 
 info:
   title: "Coronavirus FAQ API"
-  version: "1.0.0"
+  version: "2.0.0"
   license:
     name: "Public domain; CC0 1.0 Universal public domain dedication"
     url: "https://github.com/18F/cv_faq/blob/master/LICENSE.md"
