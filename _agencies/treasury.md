@@ -1,6 +1,6 @@
 ---
 layout: agency
 name: treasury
-title: "Treasury"
+title: "U.S. Department of the Treasury"
 sitemap: false
 ---

@@ -41,6 +41,17 @@
   .more-results-button {
     display: inline-block;
   }
+  #best-bets {
+    ol {
+      margin-top: 0;
+      li {
+        &:last-child {
+          border-bottom: 0;
+          padding-bottom: 0;
+        }
+      }
+    }
+  }
 }
 
 .menu-search {

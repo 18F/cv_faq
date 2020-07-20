@@ -37,10 +37,6 @@
   text-align: center;
   margin: auto;
 
-  input:not([disabled]):focus, select:not([disabled]):focus, textarea:not([disabled]):focus, button:not([disabled]):focus {
-    outline: 0.25rem solid $theme-color-base-lightest;
-  }
-
   .usa-button {
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;

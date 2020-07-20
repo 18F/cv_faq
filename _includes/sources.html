@@ -1,4 +1,4 @@
-|<cite> Source{% if question.sources.size > 1 %}s{% endif %}:
+<cite>Source{% if question.sources.size > 1 %}s{% endif %}:
     {%- for source in question.sources -%}
         {% assign current_source = site.agencies | where:"name", source.agency | first %}
         <a href="{{ source.url }}" class="usa-link">

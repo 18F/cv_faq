@@ -1,6 +1,6 @@
 ---
 layout: agency
 name: ftc
-title: "FTC"
+title: "Federal Trade Commission"
 sitemap: false
 ---

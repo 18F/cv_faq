@@ -1,6 +1,6 @@
 ---
 layout: agency
 name: fcc
-title: "FCC"
+title: "Federal Communications Commission"
 sitemap: false
 ---
