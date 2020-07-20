@@ -35,6 +35,7 @@ const translateFromSearchGov = (query) => (response) => {
         description: result.snippet
       };
     }) : [],
+    bestBets: response.text_best_bets || [],
     resultsCount: response.web ? response.web.total : null,
     nextOffset: response.web ? response.web.next_offset : null,
     total: response.total
