@@ -71,9 +71,11 @@ const searchTemplate = ({
   routedFrom,
   renderNextPage
 }) => {
+  const firstPage = resultsPages[0];
   const lastPage = resultsPages[resultsPages.length - 1];
   const resultsCount = lastPage.resultsCount;
   const nextOffset = lastPage.nextOffset;
+  const bestBets = firstPage.bestBets;
   return html`
     <div class="usa-prose">
       <h1>
@@ -82,6 +84,14 @@ const searchTemplate = ({
       </h1>
     </div>
     ${resultsCount ? renderResultsSummaryTemplate(nextOffset, resultsCount) : null}
+    ${bestBets && bestBets.length ? html`
+      <div id="best-bets" class="padding-2 border-1px border-base-lightest margin-top-3 margin-bottom-3">
+        <div>Recommended</div>
+        <ol class="results-list">
+          ${bestBets.map(renderResultTemplate)}
+        </ol>
+      </div>
+    ` : null}
     <div id="search-results">
       ${!resultsCount || routedFrom ? html`
         <h2 class="title">We’re sorry! We couldn’t find any results for <em>${routedFrom || query}</em>.</h2>
@@ -89,19 +99,21 @@ const searchTemplate = ({
       ${routedFrom ? html`
         <h2 class="title">However, we found results for the related term <em>${query}</em>.</h2>
       ` : null}
-      ${resultsCount ?
-        html`<ol class="results-list">
-          ${resultsPages.map(page => page.results.map(renderResultTemplate))}
-        </ol>` :
-        html`
-          Try your search again following these tips:
-          <ul>
-            <li>Check your spelling</li>
-            <li>Try a different keyword</li>
-            <li>Use a more general keyword</li>
-          </ul>
-        `}
     </div>
+    ${!resultsCount ? html`
+        Try your search again following these tips:
+        <ul>
+          <li>Check your spelling</li>
+          <li>Try a different keyword</li>
+          <li>Use a more general keyword</li>
+        </ul>
+      ` : null
+    }
+    ${resultsCount ?
+      html`<ol class="results-list">
+        ${resultsPages.map(page => page.results.map(renderResultTemplate))}
+      </ol>` : null
+    }
     <p class="button-container">
       ${resultsCount ? renderResultsSummaryTemplate(nextOffset, resultsCount) : null}
       ${nextOffset ? html`
