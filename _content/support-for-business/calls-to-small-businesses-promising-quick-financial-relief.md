@@ -1,7 +1,7 @@
 ---
 category: support-for-business
 date: July 17, 2020
-excerpt: 'calls to small businesses promising quick relief'
+excerpt: 'calls to small businesses promising quick financial relief'
 layout: post
 promoted: false
 sources:
