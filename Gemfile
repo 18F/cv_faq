@@ -10,15 +10,15 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.8"
+gem "jekyll", "~> 4.0", ">= 4.0.0"
 
 # See https://github.com/envygeeks/jekyll-assets/issues/622
 gem "sprockets", "~> 3.7", ">= 3.7.2"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem 'jekyll-sitemap'
-  gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap', '>= 1.4.0'
+  gem 'jekyll-seo-tag', '>= 2.6.1'
   gem "jekyll-assets", "~> 3.0", ">= 3.0.12", group: :jekyll_plugins
   gem "jekyll-redirect-from", "~> 0.16.0"
 end
