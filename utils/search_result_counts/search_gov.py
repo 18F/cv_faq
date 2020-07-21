@@ -5,6 +5,7 @@ Makes requests to search.gov.
 from typing import Any, Dict, List
 
 import requests
+import requests_cache
 
 
 # Scopes the search.gov search to faq.coronavirus.gov
@@ -54,3 +55,11 @@ def get_all_result_counts(keywords_list: List[str]):
         keywords: get_result_counts(keywords)
         for keywords in keywords_list
     }
+
+
+def get_total_results_count(counts: Dict[str, Any]):
+    return sum(
+        value
+        for key, value in counts.items()
+        if key != 'routed_query'
+    )

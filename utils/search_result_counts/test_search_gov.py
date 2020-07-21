@@ -1,4 +1,4 @@
-from .search_gov import parse_results
+from .search_gov import parse_results, get_total_results_count
 
 
 def test_parse_with_results():
@@ -129,3 +129,28 @@ def test_routed_query():
         'federal_register_documents': 0,
         'related_search_terms': 0
     }
+
+
+def test_get_total_results_count():
+    assert get_total_results_count({
+        'routed_query': True,
+        'search': 0,
+        'text_best_bets': 0,
+        'graphic_best_bets': 0,
+        'health_topics': 0,
+        'job_openings': 0,
+        'recent_tweets': 0,
+        'federal_register_documents': 0,
+        'related_search_terms': 0
+    }) == 0
+    assert get_total_results_count({
+        'routed_query': False,
+        'search': 31,
+        'text_best_bets': 2,
+        'graphic_best_bets': 0,
+        'health_topics': 0,
+        'job_openings': 0,
+        'recent_tweets': 0,
+        'federal_register_documents': 0,
+        'related_search_terms': 0
+    }) == 33
