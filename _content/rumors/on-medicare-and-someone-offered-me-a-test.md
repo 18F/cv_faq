@@ -1,5 +1,6 @@
 ---
-category: rumors
+categories:
+- rumors
 date: April 6, 2020
 excerpt: Get the facts about coronavirus
 layout: post

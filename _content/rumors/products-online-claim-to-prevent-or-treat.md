@@ -1,5 +1,6 @@
 ---
-category: rumors
+categories:
+- rumors
 date: April 15, 2020
 excerpt: Get the facts
 layout: post

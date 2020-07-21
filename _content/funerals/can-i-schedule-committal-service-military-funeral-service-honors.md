@@ -1,5 +1,6 @@
 ---
-category: funerals
+categories:
+- funerals
 date: June 11, 2020
 excerpt: Committal service or military funeral honors service
 layout: post

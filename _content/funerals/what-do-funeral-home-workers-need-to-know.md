@@ -1,5 +1,6 @@
 ---
-category: funerals
+categories:
+- funerals
 date: March 23, 2020
 excerpt: COVID-19 and funerals
 layout: post

@@ -1,5 +1,6 @@
 ---
-category: spread
+categories:
+- spread
 date: March 23, 2020
 excerpt: How it spreads
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553767
 title: Can someone who has had COVID-19 spread the illness to others?
-redirect_from: 
+redirect_from:
 - /spread/can-someone-who-has-been-quarantined-for-covid-19-spread-the-illness-to-others/
 ---
 

@@ -1,5 +1,6 @@
 ---
-category: community-events
+categories:
+- community-events
 date: May 4, 2020
 excerpt: Community events
 layout: post

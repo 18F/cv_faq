@@ -1,5 +1,6 @@
 ---
-category: rumors
+categories:
+- rumors
 date: June 17, 2020
 excerpt: Get the facts about coronavirus
 layout: post
@@ -7,8 +8,8 @@ promoted: false
 sources:
 - agency: fema
   url: https://www.fema.gov/news-release/2020/05/28/president-trump-announces-extension-title-32-orders
-title: How is the National Guard responding to COVID-19? 
-redirect_from: 
+title: How is the National Guard responding to COVID-19?
+redirect_from:
 - /get-facts/is-fema-deploying-the-military/
 - /rumors/is-fema-deploying-the-military/
 - /rumors/is-dhs-deploying-the-national-guard/

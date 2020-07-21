@@ -1,5 +1,6 @@
 ---
-category: protect-yourself
+categories:
+- protect-yourself
 date: July 17, 2020
 excerpt: How to protect yourself
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html
 title: How can I protect myself?
-redirect_from: 
+redirect_from:
 - /protect-yourself/how-can-i-help-protect-myself/
 - /protect-yourself/six-feet-away-cloth-face-covering/
 ---

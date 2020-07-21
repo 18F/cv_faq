@@ -1,5 +1,6 @@
 ---
-category: financial-help
+categories:
+- financial-help
 date: June 30, 2020
 excerpt: "already file extension, but haven't paid taxes yet"
 layout: post

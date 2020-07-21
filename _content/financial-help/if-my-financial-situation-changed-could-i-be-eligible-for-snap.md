@@ -1,5 +1,6 @@
 ---
-category: financial-help
+categories:
+- financial-help
 date: June 11, 2020
 excerpt: Supplemental Nutrition Assistance Program (SNAP) eligibility
 layout: post

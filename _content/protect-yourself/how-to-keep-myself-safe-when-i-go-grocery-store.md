@@ -1,5 +1,6 @@
 ---
-category: protect-yourself
+categories:
+- protect-yourself
 date: April 20, 2020
 excerpt: How to protect yourself
 layout: post

@@ -1,5 +1,6 @@
 ---
-category: travel
+categories:
+- travel
 date: May 29, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
@@ -22,7 +23,7 @@ Entry to the U.S. has been suspended for nearly all foreign nationals who have b
 - Denmark
 - Estonia
 - Finland
-- France 
+- France
 - Germany
 - Greece
 - Hungary

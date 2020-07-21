@@ -1,5 +1,6 @@
 ---
-category: parents-and-children
+categories:
+- parents-and-children
 date: April 21, 2020
 excerpt: COVID-19 and children
 layout: post

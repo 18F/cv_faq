@@ -1,5 +1,6 @@
 ---
-category: symptoms-and-testing
+categories:
+- symptoms-and-testing
 date: June 26, 2020
 excerpt: Symptoms and testing
 layout: post

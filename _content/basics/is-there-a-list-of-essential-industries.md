@@ -1,5 +1,6 @@
 ---
-category: basics
+categories:
+- basics
 date: March 29, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
@@ -19,7 +20,7 @@ Those industries include:
 - **Food and Agriculture** (i.e. farmers and food manufacturers)
 - **Energy** (i.e. natural gas and nuclear facilities)
 - **Water and Waste water** (i.e. water department)
-- **Transportation and Logistics** (i.e. trucking and shipping)  
+- **Transportation and Logistics** (i.e. trucking and shipping)
 - **Public Works and Infrastructure** (i.e. safety inspectors for public facilities including dams, bridges, etc.)
 - **Communications and Information Technology** (i.e. maintainers of communications infrastructure, such as wireless, internet and cable providers)
 - **Community and Local Government** (i.e. federal, state, local, tribal and territorial employees who support Mission Essential Functions)

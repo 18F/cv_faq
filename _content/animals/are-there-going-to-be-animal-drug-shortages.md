@@ -1,5 +1,6 @@
 ---
-category: animals
+categories:
+- animals
 date: April 15, 2020
 excerpt: Animals and medications
 layout: post

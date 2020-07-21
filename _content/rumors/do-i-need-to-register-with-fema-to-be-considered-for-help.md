@@ -1,12 +1,13 @@
 ---
-category: rumors
+categories:
+- rumors
 date: June 17, 2020
 excerpt: Get the facts about coronavirus
 layout: post
 promoted: false
 sources:
 - agency: sba
-  url: https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources 
+  url: https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources
 title: Do I need to register with FEMA in order to be considered for COVID-19 help
   from the U.S. Small Business Administration?
 ---

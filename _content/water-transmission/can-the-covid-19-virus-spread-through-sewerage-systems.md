@@ -1,5 +1,6 @@
 ---
-category: water-transmission
+categories:
+- water-transmission
 date: June 11, 2020
 excerpt: Water transmission and COVID-19
 layout: post

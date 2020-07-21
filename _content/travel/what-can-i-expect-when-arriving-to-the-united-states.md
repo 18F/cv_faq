@@ -1,5 +1,6 @@
 ---
-category: travel
+categories:
+- travel
 date: March 27, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post

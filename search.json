@@ -4,13 +4,17 @@ layout: null
 [
   {% for content in site.content %}
     {
-      "title"    : "{{ content.title | escape }}",
-      "desc"     : "{{ content.slug }}",
-      "category" : "{{ content.category }}",
-      "excerpt"  : "{{ content.excerpt | strip_html | strip }}",
-      "url"      : "{{ site.baseurl }}/{{ content.category | downcase }}/{{ content.slug | downcase }}/",
-      "date"     : "{{ content.date }}",
-      "content"  : "{{ content.content | strip_html | strip_newlines | remove_chars | escape }}"
+      "title"      : "{{ content.title | escape }}",
+      "desc"       : "{{ content.slug }}",
+      "categories" : [
+        {% for categories in content.categories -%}
+        "{{ categories }}"{% unless forloop.last %},{% endunless %}
+        {%- endfor %}
+      ],
+      "excerpt"    : "{{ content.excerpt | strip_html | strip }}",
+      "url"        : "{{ site.baseurl }}/{{ content.categories[0] | downcase }}/{{ content.slug | downcase }}/",
+      "date"       : "{{ content.date }}",
+      "content"    : "{{ content.content | strip_html | strip_newlines | remove_chars | escape }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
   ,

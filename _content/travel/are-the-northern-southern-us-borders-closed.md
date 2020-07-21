@@ -1,5 +1,6 @@
 ---
-category: travel
+categories:
+- travel
 date: March 31, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
@@ -14,7 +15,7 @@ In order to limit the further spread of coronavirus, the U.S. has reached agreem
 
 “Non-essential” travel includes travel that is considered tourism or recreational in nature.
 
-Supply chains, including trucking, will not be impacted by this measure. 
+Supply chains, including trucking, will not be impacted by this measure.
 Those who cross the land border every day to do essential work or for other urgent or essential reasons, and that travel will not be impacted.
 
 These measures were implemented on March 21, 2020.
