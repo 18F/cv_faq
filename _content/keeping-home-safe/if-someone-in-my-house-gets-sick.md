@@ -1,5 +1,6 @@
 ---
-category: keeping-home-safe
+categories:
+- keeping-home-safe
 date: June 27, 2020
 excerpt: Keeping your home safe
 layout: post

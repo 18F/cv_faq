@@ -1,5 +1,6 @@
 ---
-category: protect-yourself
+categories:
+- protect-yourself
 date: July 17, 2020
 excerpt: Ordered PPE but it didn't arrive
 layout: post

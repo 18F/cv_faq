@@ -7,7 +7,7 @@
         > {{ page.title }}
       {% endif%}
       {% if page.collection == "content" %}
-        {% assign this_category = site.categories | where:"name", page.category | first %}
+        {% assign this_category = site.categories | where: "name", page.categories[0] | first %}
           > <a href="{{ this_category.url | relative_url }}">{{ this_category.title }}</a>
           > {{ page.title }}
       {% endif %}

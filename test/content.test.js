@@ -24,19 +24,21 @@ beforeAll(async () => {
   }));
 })
 
-test('every question file is in a directory which matches its category', () => {
+test('every question file is in a directory which matches its primary category', () => {
   contentFiles.forEach(file => {
-    const expectedFolder = `${path.join(contentDirectory, file.frontMatter.category)}${path.sep}`;
+    const expectedFolder = `${path.join(contentDirectory, file.frontMatter.categories[0])}${path.sep}`;
     expect(file.filename).toContain(expectedFolder);
   });
 });
 
-test(`every question references a category that exists in ${categoryDirectory}`, async () => {
+test(`every question references categories that exists in ${categoryDirectory}`, async () => {
   const categories = await helpers.getAllFilesInDirectory(categoryDirectory);
 
   contentFiles.forEach(file => {
-    const expectedCategoryFile = `${path.join(categoryDirectory, file.frontMatter.category)}.md`;
-    expect(categories).toContain(expectedCategoryFile);
+    file.frontMatter.categories.forEach(category => {
+      const expectedCategoryFile = `${path.join(categoryDirectory, category)}.md`;
+      expect(categories).toContain(expectedCategoryFile);
+    });
   });
 })
 

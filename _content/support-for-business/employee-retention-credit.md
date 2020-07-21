@@ -1,5 +1,6 @@
 ---
-category: support-for-business
+categories:
+- support-for-business
 date: April 1, 2020
 excerpt: 'Employee Retention Tax Credit: What You Need to Know'
 layout: post

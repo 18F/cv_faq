@@ -7,10 +7,10 @@ const SwaggerParser = require('@apidevtools/swagger-parser');
 let api;
 
 beforeAll(async () => {
-  api = await SwaggerParser.validate('api/openapi.yaml');
+  api = await SwaggerParser.validate('api/v2/openapi.yaml');
 })
 
-test('the API specification is an OpenAPI specification', async () => {
+test('the v2 API specification is an OpenAPI specification', async () => {
   // The validate method throws if the spec is invalid, and any version
   // greater than 3 is OpenAPI.
   expect(api.openapi).toMatch(/^3/);

@@ -1,5 +1,6 @@
 ---
-category: parents-and-children
+categories:
+- parents-and-children
 date: May 4, 2020
 excerpt: Parents and children
 layout: post

@@ -1,5 +1,6 @@
 ---
-category: travel
+categories:
+- travel
 date: April 30, 2020
 excerpt: 'Travel: Is it safe to travel to campgrounds or go camping'
 layout: post

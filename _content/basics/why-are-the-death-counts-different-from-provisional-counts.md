@@ -1,5 +1,6 @@
 ---
-category: basics
+categories:
+- basics
 date: June 25, 2020
 excerpt: About COVID-19
 layout: post
