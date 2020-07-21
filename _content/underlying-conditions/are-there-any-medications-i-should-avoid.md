@@ -1,5 +1,6 @@
 ---
-category: underlying-conditions
+categories:
+- underlying-conditions
 date: April 10, 2020
 excerpt: Underlying conditions
 layout: post

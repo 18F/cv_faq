@@ -1,5 +1,6 @@
 ---
-category: food-safety
+categories:
+- food-safety
 date: April 15, 2020
 excerpt: Keeping your home safe
 layout: post

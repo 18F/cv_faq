@@ -1,5 +1,6 @@
 ---
-category: travel
+categories:
+- travel
 date: April 30, 2020
 excerpt: 'Travel: Canceling and postponing travel'
 layout: post

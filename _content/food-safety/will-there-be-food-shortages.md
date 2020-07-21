@@ -1,5 +1,6 @@
 ---
-category: food-safety
+categories:
+- food-safety
 date: April 15, 2020
 excerpt: Keeping your home safe
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
 title: Will there be food shortages?
-redirect_from: 
+redirect_from:
 - /rumors/should-i-stock-up-on-food-and-supplies/
 ---
 

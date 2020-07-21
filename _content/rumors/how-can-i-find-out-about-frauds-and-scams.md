@@ -1,5 +1,6 @@
 ---
-category: rumors
+categories:
+- rumors
 date: July 17, 2020
 excerpt: Get the facts about coronavirus
 layout: post
@@ -7,7 +8,7 @@ promoted: false
 sources:
 - agency: ftc
   url: https://www.ftc.gov/coronavirus
-title: Where can I find out about the latest COVID-related scams and frauds? 
+title: Where can I find out about the latest COVID-related scams and frauds?
 
 ---
 

@@ -1,5 +1,6 @@
 ---
-category: support-for-business
+categories:
+- support-for-business
 date: April 1, 2020
 excerpt: Treasury and IRS Release FAQs to Help Small and Midsize Businesses Navigate
   Paid Sick and Family Leave Tax Credits

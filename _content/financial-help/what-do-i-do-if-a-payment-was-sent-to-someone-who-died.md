@@ -1,5 +1,6 @@
 ---
-category: financial-help
+categories:
+- financial-help
 date: May 6, 2020
 excerpt: Financial help
 layout: post

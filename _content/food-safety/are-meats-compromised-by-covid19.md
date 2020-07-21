@@ -1,5 +1,6 @@
 ---
-category: food-safety
+categories:
+- food-safety
 date: June 11, 2020
 excerpt: Food safety and access
 layout: post

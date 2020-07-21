@@ -1,5 +1,6 @@
 ---
-category: travel
+categories:
+- travel
 date: April 03, 2020
 excerpt: 'Travel: Air or cruise travel'
 layout: post
