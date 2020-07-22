@@ -1,5 +1,6 @@
 ---
-category: medications
+categories:
+- medications
 date: May 6, 2020
 excerpt: 'Drugs and medications'
 layout: post

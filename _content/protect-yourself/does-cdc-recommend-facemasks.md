@@ -1,5 +1,6 @@
 ---
-category: protect-yourself
+categories:
+- protect-yourself
 date: June 27, 2020
 excerpt: How to protect yourself
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Prevention
 title: Does CDC recommend the use of facemasks or face coverings to prevent COVID-19?
-redirect_from: 
+redirect_from:
 - /protect-yourself/what-type-of-cloth-face-covering/
 - /protect-yourself/when-cloth-face-coverings/
 - /protect-yourself/who-should-not-wear-cloth-face-coverings/
@@ -27,4 +28,4 @@ More information about cloth face coverings can be found on our cloth face cover
 
 * [How to Wear](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-wear-cloth-face-coverings.html)
 * [How to Wash](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-wash-cloth-face-coverings.html)
-* [How to Make](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html) 
+* [How to Make](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-make-cloth-face-covering.html)

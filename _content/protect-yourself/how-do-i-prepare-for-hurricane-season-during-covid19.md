@@ -1,5 +1,6 @@
 ---
-category: protect-yourself
+categories:
+- protect-yourself
 date: May 21, 2020
 excerpt: How do I prepare for hurricane season during COVID-19?
 layout: post

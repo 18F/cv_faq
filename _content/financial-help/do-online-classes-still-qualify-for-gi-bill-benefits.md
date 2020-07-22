@@ -1,5 +1,6 @@
 ---
-category: financial-help
+categories:
+- financial-help
 date: April 27, 2020
 excerpt: Online classes qualify for GI Bill benefits
 layout: post

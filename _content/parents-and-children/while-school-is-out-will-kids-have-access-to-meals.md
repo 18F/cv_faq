@@ -1,5 +1,6 @@
 ---
-category: parents-and-children
+categories:
+- parents-and-children
 date: March 23, 2020
 excerpt: School dismissals and children
 layout: post

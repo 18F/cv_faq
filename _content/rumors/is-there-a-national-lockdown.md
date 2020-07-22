@@ -1,5 +1,6 @@
 ---
-category: rumors
+categories:
+- rumors
 date: March 26, 2020
 excerpt: Get the facts about coronavirus
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: fema
   url: https://www.fema.gov/coronavirus-rumor-control
 title: Is there a national lockdown or quarantine?
-redirect_from: 
+redirect_from:
 - /get-facts/is-there-a-national-lockdown/
 ---
 

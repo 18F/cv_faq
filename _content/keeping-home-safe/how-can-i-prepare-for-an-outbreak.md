@@ -1,5 +1,6 @@
 ---
-category: keeping-home-safe
+categories:
+- keeping-home-safe
 date: June 27, 2020
 excerpt: Keeping your home safe
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Preparing-for-an-Outbreak
 title: How can I prepare for an outbreak in my area?
-redirect_from: 
+redirect_from:
 - /keeping-home-safe/how-can-family-prepare/
 ---
 

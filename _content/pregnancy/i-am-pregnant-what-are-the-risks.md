@@ -1,5 +1,6 @@
 ---
-category: pregnancy
+categories:
+- pregnancy
 date: June 9, 2020
 excerpt: Pregnant women and COVID-19
 layout: post
@@ -14,7 +15,7 @@ redirect_from:
 
 ---
 
-Based on what we know at this time, pregnant people might be at increased risk for severe illness from COVID-19 compared to non-pregnant people. Additionally, there may be an increased risk of adverse pregnancy outcomes, such as preterm birth, among pregnant people with COVID-19. 
+Based on what we know at this time, pregnant people might be at increased risk for severe illness from COVID-19 compared to non-pregnant people. Additionally, there may be an increased risk of adverse pregnancy outcomes, such as preterm birth, among pregnant people with COVID-19.
 
 Much is still unknown about the risks of COVID-19 to newborns.
 

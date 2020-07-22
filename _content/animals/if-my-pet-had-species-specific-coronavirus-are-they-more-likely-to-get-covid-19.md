@@ -1,5 +1,6 @@
 ---
-category: animals
+categories:
+- animals
 date: May 5, 2020
 excerpt: Animal coronaviruses
 layout: post

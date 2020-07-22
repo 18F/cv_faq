@@ -1,5 +1,6 @@
 ---
-category: financial-help
+categories:
+- financial-help
 date: April 16, 2020
 excerpt: The IRS has a free web app called Get My Payment
 layout: post

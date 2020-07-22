@@ -1,5 +1,6 @@
 ---
-category: support-for-business
+categories:
+- support-for-business
 date: March 30, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post

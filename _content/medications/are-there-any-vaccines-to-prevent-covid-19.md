@@ -1,5 +1,6 @@
 ---
-category: medications
+categories:
+- medications
 date: June 24, 2020
 excerpt: Drugs and medications
 layout: post
@@ -8,7 +9,7 @@ sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-frequently-asked-questions
 title: Are there any vaccines or other medical products to prevent COVID-19?
-redirect_from: 
+redirect_from:
 - /rumors/are-there-any-vaccines/
 - /medications/are-there-any-vaccines/
 ---

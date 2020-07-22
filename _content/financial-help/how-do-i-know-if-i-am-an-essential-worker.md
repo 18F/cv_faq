@@ -1,5 +1,6 @@
 ---
-category: financial-help
+categories:
+- financial-help
 date: April 15, 2020
 excerpt: Essential workers
 layout: post
