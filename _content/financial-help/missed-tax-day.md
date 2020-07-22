@@ -1,5 +1,6 @@
 ---
-category: financial-help
+categories:
+- financial-help
 date: July 22, 2020
 excerpt: 'missed tax day'
 layout: post
