@@ -13,6 +13,7 @@ redirect_from:
 - /financial-help/unable-to-file-taxes-by-july-15/
 - /financial-help/already-filed-extension-but-have-not-paid-taxes/
 - /financial-help/expect-to-file-taxes-by-july-15/
+- /financial-help/how-can-i-file-the-tax-return-needed-to-receive-payment/
 
 ---
 
