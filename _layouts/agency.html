@@ -16,8 +16,6 @@ sitemap: false
   {% endfor %}
 {% endfor %}
 
-{% assign all_by_category = content | sort: "-date" | group_by:"category" %}
-
 <section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
     <div class="grid-row">
       <div class="grid-col-12">
@@ -25,7 +23,8 @@ sitemap: false
       </div>
           <div class="grid-col-12">
             <ul>
-            {% for question in content %}
+            {% assign questions = content | sort: "title" %}
+            {% for question in questions %}
                 <li class="margin-bottom-2">
                   <a href="{{ question.url | relative_url }}" class="margin-y-1">
                     {{ question.title }}
