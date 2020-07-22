@@ -12,7 +12,7 @@ redirect_from:
 - /financial-help/is-the-government-delaying-tax-day/
 - /financial-help/unable-to-file-taxes-by-july-15/
 - /financial-help/already-filed-extension-but-have-not-paid-taxes/
-- /financial-help/i-haven-t-filed-my-2019-income-tax-return-that-would-have-been-due-on-april-15-yet-but-i-expect-to-file-it-by-july-15-what-do-i-need-to-do
+- /financial-help/expect-to-file-taxes-by-july-15/
 
 ---
 
