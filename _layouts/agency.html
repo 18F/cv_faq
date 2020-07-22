@@ -16,25 +16,27 @@ sitemap: false
   {% endfor %}
 {% endfor %}
 
-{% assign all_by_category = content | sort: "-date" | group_by:"category" %}
-
 <section class="grid-container usa-section usa-section--condensed border-top border-base-lightest">
     <div class="grid-row">
       <div class="grid-col-12">
         <h1>{{page.title}} ({{content | size}} total)</h1>
       </div>
-    {% for category in all_categories %}
-        {% assign current_category_questions = all_by_category | where:"name", category.name | first %}
-        {% if current_category_questions.size > 0 %}
-          <h2 class="text-gray-50" id="{{ category.title | slugify }}">{{ category.title }} ({{current_category_questions.size}} total)</h2>
           <div class="grid-col-12">
             <ul>
-            {% for question in current_category_questions.items %}
-                <li class="margin-bottom-2"><a href="{{ question.url | relative_url }}" class="margin-y-1">{{ question.title }}</a> <span class="text-gray-50"> {{ question.date | date: "%B %d, %Y" }}</span></li>
+            {% assign questions = content | sort: "title" %}
+            {% for question in questions %}
+                <li class="margin-bottom-2">
+                  <a href="{{ question.url | relative_url }}" class="margin-y-1">
+                    {{ question.title }}
+                  </a>
+                  <span class="text-gray-50"> {{ question.date | date: "%B %d, %Y" }}</span>
+                  / {% for category in question.categories %}
+                    <a href="/{{ category }}">{{ category }}</a>
+                    {% if forloop.last == false %},{% endif %}
+                  {% endfor %}
+                </li>
             {% endfor %}
             </ul>
           </div>
-        {% endif %}
-    {% endfor %}
     </div>
 </section>
