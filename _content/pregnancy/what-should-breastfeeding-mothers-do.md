@@ -9,7 +9,7 @@ sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html
 title: What should mothers consider about breastfeeding during the COVID-19 pandemic?
-  for COVID-19?
+
 ---
 
 - **Breast milk provides protection against many illnesses** and is the best source of nutrition for most infants.
