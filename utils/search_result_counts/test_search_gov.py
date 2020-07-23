@@ -1,4 +1,6 @@
-from .search_gov import parse_results, get_total_results_count
+from .search_gov import (
+    parse_results, get_total_results_count, should_expose_suggestion
+)
 
 
 def test_parse_with_results():
@@ -25,7 +27,7 @@ def test_parse_with_results():
         "federal_register_documents": [],
         "related_search_terms": []
     }) == {
-        'routed_query': False,
+        'is_routed_query': False,
         'search': 259,
         'text_best_bets': 1,
         'graphic_best_bets': 0,
@@ -74,7 +76,7 @@ def test_best_bets():
         "federal_register_documents": [],
         "related_search_terms": []
     }) == {
-        'routed_query': False,
+        'is_routed_query': False,
         'search': 31,
         'text_best_bets': 2,
         'graphic_best_bets': 0,
@@ -103,7 +105,7 @@ def test_no_results():
         "federal_register_documents": [],
         "related_search_terms": []
     }) == {
-        'routed_query': False,
+        'is_routed_query': False,
         'search': 0,
         'text_best_bets': 0,
         'graphic_best_bets': 0,
@@ -115,11 +117,11 @@ def test_no_results():
     }
 
 
-def test_routed_query():
+def test_is_routed_query():
     parse_results({
         'route_to': 'https://faq.coronavirus.gov/search/?query=economic+impact+payment'
     }) == {
-        'routed_query': True,
+        'is_routed_query': True,
         'search': 0,
         'text_best_bets': 0,
         'graphic_best_bets': 0,
@@ -133,7 +135,7 @@ def test_routed_query():
 
 def test_get_total_results_count():
     assert get_total_results_count({
-        'routed_query': True,
+        'is_routed_query': True,
         'search': 0,
         'text_best_bets': 0,
         'graphic_best_bets': 0,
@@ -144,7 +146,7 @@ def test_get_total_results_count():
         'related_search_terms': 0
     }) == 0
     assert get_total_results_count({
-        'routed_query': False,
+        'is_routed_query': False,
         'search': 31,
         'text_best_bets': 2,
         'graphic_best_bets': 0,
@@ -154,3 +156,17 @@ def test_get_total_results_count():
         'federal_register_documents': 0,
         'related_search_terms': 0
     }) == 33
+
+
+def test_expose_routed():
+    assert should_expose_suggestion({
+        'is_routed_query': True,
+        'search': 0,
+        'text_best_bets': 0,
+        'graphic_best_bets': 0,
+        'health_topics': 0,
+        'job_openings': 0,
+        'recent_tweets': 0,
+        'federal_register_documents': 0,
+        'related_search_terms': 0
+    }, 2) == True

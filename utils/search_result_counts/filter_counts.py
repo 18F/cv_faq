@@ -26,7 +26,7 @@ def filter_counts(input_json_file, min_count):
     filtered_keywords = [
         keyword
         for keyword, counts in keyword_counts.items()
-        if search_gov.get_total_results_count(counts) > min_count
+        if search_gov.should_expose_suggestion(counts, min_count)
     ]
 
     click.echo(json.dumps(filtered_keywords, indent=4, sort_keys=True))

@@ -16,7 +16,7 @@ SEARCH_GOV_ENDPOINT = 'https://search.usa.gov/api/v2/search/i14y'
 
 def parse_results(results: Dict[str, Any]):
     return {
-        'routed_query': 'route_to' in results,
+        'is_routed_query': 'route_to' in results,
         'search': results.get('web', {}).get('total', 0),
         'text_best_bets': len(results.get('text_best_bets', [])),
         'graphic_best_bets': len(results.get('graphic_best_bets', [])),
@@ -61,5 +61,10 @@ def get_total_results_count(counts: Dict[str, Any]):
     return sum(
         value
         for key, value in counts.items()
-        if key != 'routed_query'
+        if key != 'is_routed_query'
     )
+
+
+def should_expose_suggestion(counts: Dict[str, Any], min_count: int):
+    above_threshold = get_total_results_count(counts) > min_count
+    return above_threshold or counts['is_routed_query']
