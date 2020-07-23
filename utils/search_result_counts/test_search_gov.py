@@ -10,7 +10,14 @@ def test_parse_with_results():
             "total": 259,
             "next_offset": 1,
             "spelling_correction": None,
-            "results": []
+            "results": [
+                {
+                    "title": "What is a novel coronavirus? - COVID-19 Answers",
+                    "url": "https://faq.coronavirus.gov/basics/what-is-a-novel-coronavirus/",
+                    "snippet": "FAQ > About COVID-19 > What is a novel coronavirus? What is a novel coronavirus...virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses",
+                    "publication_date": None
+                }
+            ]
         },
         "text_best_bets": [
             {
@@ -170,3 +177,32 @@ def test_expose_routed():
         'federal_register_documents': 0,
         'related_search_terms': 0
     }, 2) == True
+
+
+def test_count_with_zero_results():
+    assert parse_results({
+        "query": "search.gov bug - no results but have a count",
+        "web": {
+            "total": 5,
+            "next_offset": 1,
+            "spelling_correction": None,
+            "results": []
+        },
+        "text_best_bets": [],
+        "graphic_best_bets": [],
+        "health_topics": [],
+        "job_openings": [],
+        "recent_tweets": [],
+        "federal_register_documents": [],
+        "related_search_terms": []
+    }) == {
+        'is_routed_query': False,
+        'search': 0,
+        'text_best_bets': 0,
+        'graphic_best_bets': 0,
+        'health_topics': 0,
+        'job_openings': 0,
+        'recent_tweets': 0,
+        'federal_register_documents': 0,
+        'related_search_terms': 0
+    }

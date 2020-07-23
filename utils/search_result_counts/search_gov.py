@@ -14,10 +14,23 @@ SEARCH_GOV_KEY = 'ACSIQG9J_Xe7h9TTxjMrNqfUCp9O3ryactfBybCMIGc='
 SEARCH_GOV_ENDPOINT = 'https://search.usa.gov/api/v2/search/i14y'
 
 
+def _get_web_search_results_count(results):
+    # search.gov returns counts that aren't consistent with the actual list
+    # returned. in the event we get a list with zero values, treat as zero
+    # results; otherwise, use the "total" count.
+    web = results.get('web', {})
+
+    have_results = len(web.get('results', [])) > 0
+    if not have_results:
+        return 0
+
+    return web.get('total', 0)
+
+
 def parse_results(results: Dict[str, Any]):
     return {
         'is_routed_query': 'route_to' in results,
-        'search': results.get('web', {}).get('total', 0),
+        'search': _get_web_search_results_count(results),
         'text_best_bets': len(results.get('text_best_bets', [])),
         'graphic_best_bets': len(results.get('graphic_best_bets', [])),
         'health_topics': len(results.get('health_topics', [])),
@@ -35,7 +48,11 @@ def get_result_counts(keywords: str):
             'affiliate': SEARCH_GOV_PROPERTY,
             'access_key': SEARCH_GOV_KEY,
             'query': keywords,
-            'limit': 1,
+            # We would ideally just set a limit of "1", but search.gov is
+            # strangely unreliable on the counts that are returned, and a
+            # larger number increases some reliability.
+            # (See `_get_web_search_results_count` above)
+            'limit': 4,
             'offset': 0
         },
         headers={
