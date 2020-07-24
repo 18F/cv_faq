@@ -21,7 +21,7 @@ top_questions:
     link: "/symptoms-and-testing/#should-i-be-tested-for-covid-19"
     question: Should I get tested?
   - icon: globe
-    link: /spread/how-does-the-virus-spread
+    link: /how-does-the-virus-spread
     question: How does it spread?
   - icon: money
     link: /financial-help
@@ -34,9 +34,9 @@ top_questions:
     question: Can I travel?
 questions_box_1:
   questions:
-    - link: /spread/if-i-have-recovered-will-i-be-immune
+    - link: /if-i-have-recovered-will-i-be-immune
       question: If I recovered from COVID-19, will I be immune?
-    - link: /protect-yourself/does-cdc-recommend-facemasks/
+    - link: /does-cdc-recommend-facemasks/
       question: Does CDC recommend the use of facemasks?
     - link: /basics/#how-can-i-manage-anxiety-and-stress
       question: How can I manage anxiety and stress?
@@ -45,11 +45,11 @@ questions_box_1:
 questions_box_2:
   questions:
     - link: >-
-        /symptoms-and-testing/what-are-the-symptoms-and-complications-that-covid-19-can-cause
+        /what-are-the-symptoms-and-complications-that-covid-19-can-cause
       question: What are the symptoms of COVID-19?
-    - link: "/symptoms-and-testing/should-i-be-tested-for-covid-19"
+    - link: "/should-i-be-tested-for-covid-19"
       question: Should I get tested?
-    - link: "/keeping-home-safe/if-someone-in-my-house-gets-sick"
+    - link: "/if-someone-in-my-house-gets-sick"
       question: What should I do if someone in my house gets sick with COVID-19?
   title: What to do *if you feel sick*
   view_all_link: /symptoms-and-testing/
