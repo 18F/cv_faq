@@ -5,6 +5,8 @@ date: March 15, 2020
 excerpt: Community events
 layout: post
 promoted: false
+redirect_from:
+- /community-events/what-actions-to-take-to-plan-for-outbreak/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html

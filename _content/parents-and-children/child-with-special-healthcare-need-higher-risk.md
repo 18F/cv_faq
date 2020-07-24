@@ -5,10 +5,13 @@ date: April 21, 2020
 excerpt: COVID-19 and children
 layout: post
 promoted: false
+redirect_from:
+- /parents-and-children/child-with-special-healthcare-need-higher-risk/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Children-and-Youth-with-Special-Healthcare-Needs
-title: Is my child with an underlying medical condition or special healthcare need at higher risk for severe illness from COVID-19?
+title: Is my child with an underlying medical condition or special healthcare need
+  at higher risk for severe illness from COVID-19?
 ---
 
 Children with complex, chronic medical conditions, including children with physical, developmental, behavioral, or emotional differences, can have special healthcare needs. It’s not known yet whether all of these children are at higher risk for severe illness from COVID-19.

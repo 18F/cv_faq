@@ -5,6 +5,8 @@ date: April 8, 2020
 excerpt: How to protect yourself
 layout: post
 promoted: false
+redirect_from:
+- /protect-yourself/is-contact-lens-disinfecting-solution-effective-against-covid-19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#accordion-5e8f163dd7986

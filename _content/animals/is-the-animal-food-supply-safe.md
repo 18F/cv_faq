@@ -5,6 +5,8 @@ date: April 15, 2020
 excerpt: Animal food supply
 layout: post
 promoted: false
+redirect_from:
+- /animals/is-the-animal-food-supply-safe/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

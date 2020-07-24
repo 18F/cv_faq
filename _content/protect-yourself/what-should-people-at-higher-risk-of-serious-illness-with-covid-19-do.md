@@ -5,6 +5,8 @@ date: March 23, 2020
 excerpt: How to protect yourself
 layout: post
 promoted: false
+redirect_from:
+- /protect-yourself/what-should-people-at-higher-risk-of-serious-illness-with-covid-19-do/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386949645

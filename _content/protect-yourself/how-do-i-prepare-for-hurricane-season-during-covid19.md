@@ -5,6 +5,8 @@ date: May 21, 2020
 excerpt: How do I prepare for hurricane season during COVID-19?
 layout: post
 promoted: true
+redirect_from:
+- /protect-yourself/how-do-i-prepare-for-hurricane-season-during-covid19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/disasters/hurricanes/covid-19/prepare-for-hurricane.html

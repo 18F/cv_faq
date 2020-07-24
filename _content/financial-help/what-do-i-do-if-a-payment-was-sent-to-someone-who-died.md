@@ -5,6 +5,8 @@ date: May 6, 2020
 excerpt: Financial help
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/what-do-i-do-if-a-payment-was-sent-to-someone-who-died/
 sources:
 - agency: treasury
   url: https://www.irs.gov/coronavirus/economic-impact-payment-information-center

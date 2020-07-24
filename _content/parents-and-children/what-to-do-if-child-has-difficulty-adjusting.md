@@ -5,10 +5,13 @@ date: June 29, 2020
 excerpt: COVID-19 and children
 layout: post
 promoted: false
+redirect_from:
+- /parents-and-children/what-to-do-if-child-has-difficulty-adjusting/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html
-title: What can I do if my child has difficulties adjusting to new routines and following recommendations?
+title: What can I do if my child has difficulties adjusting to new routines and following
+  recommendations?
 ---
 
 Helping children understand and follow recommendations, like social distancing and [wearing cloth face coverings](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover.html), can be challenging if your child has intellectual disabilities, sensory issues, or other special healthcare needs.

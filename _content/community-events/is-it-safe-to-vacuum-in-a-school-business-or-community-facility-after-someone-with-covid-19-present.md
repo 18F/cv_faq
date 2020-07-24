@@ -5,10 +5,13 @@ date: May 4, 2020
 excerpt: Community events
 layout: post
 promoted: false
+redirect_from:
+- /community-events/is-it-safe-to-vacuum-in-a-school-business-or-community-facility-after-someone-with-covid-19-present/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595
-title: Is it safe to vacuum in a school, business, or community facility after someone with suspected or confirmed COVID-19 has been present?
+title: Is it safe to vacuum in a school, business, or community facility after someone
+  with suspected or confirmed COVID-19 has been present?
 ---
 
 The risk of transmitting or spreading SARS-CoV-2, the virus that causes COVID-19, during vacuuming is unknown. At this time, there are no reported cases of COVID-19 associated with vacuuming. If vacuuming is necessary or required in a school, business, or community facility that was used by a person with suspected or confirmed COVID-19, first follow the CDC recommendations for [Cleaning and Disinfection for Community Facilities](https://www.cdc.gov/coronavirus/2019-ncov/community/organizations/cleaning-disinfection.html#Cleaning) that apply, which includes a wait time of 24 hours, or as long as practical.

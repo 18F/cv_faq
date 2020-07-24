@@ -5,6 +5,8 @@ date: March 30, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
+redirect_from:
+- /support-for-business/can-the-sba-help-me-with-other-assistance/
 sources:
 - agency: sba
   url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know

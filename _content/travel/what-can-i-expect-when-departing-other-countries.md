@@ -5,6 +5,8 @@ date: March 27, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 promoted: false
+redirect_from:
+- /travel/what-can-i-expect-when-departing-other-countries/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#returning-from-travel

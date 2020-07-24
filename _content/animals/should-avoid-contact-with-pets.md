@@ -5,6 +5,8 @@ date: April 21, 2020
 excerpt: COVID-19 and animals
 layout: post
 promoted: false
+redirect_from:
+- /animals/should-avoid-contact-with-pets/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals

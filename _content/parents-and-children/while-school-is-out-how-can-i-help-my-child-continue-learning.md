@@ -5,14 +5,14 @@ date: June 29, 2020
 excerpt: School dismissals and children
 layout: post
 promoted: false
+redirect_from:
+- /keeping-home-safe/school-is-dismissed/
+- /parents-and-children/how-can-i-prepare-in-case-my-childs-school-is-dismissed/
+- /parents-and-children/while-school-is-out-how-can-i-help-my-child-continue-learning/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Children
 title: While school's out, how can I help my child continue learning?
-redirect_from:
-- /keeping-home-safe/school-is-dismissed/
-- /parents-and-children/how-can-i-prepare-in-case-my-childs-school-is-dismissed/
-
 ---
 
 * Stay in touch with your child’s school.
@@ -23,4 +23,3 @@ redirect_from:
 * Look for ways to make learning fun.
 
 For more information, see [Help Children Learn at Home](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/children/learning.html).
-

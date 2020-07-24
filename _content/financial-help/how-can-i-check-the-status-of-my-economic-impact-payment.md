@@ -5,6 +5,8 @@ date: April 16, 2020
 excerpt: The IRS has a free web app called Get My Payment
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/how-can-i-check-the-status-of-my-economic-impact-payment/
 sources:
 - agency: treasury
   url: https://www.irs.gov/coronavirus/get-my-payment

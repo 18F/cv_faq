@@ -5,6 +5,8 @@ date: April 23, 2020
 excerpt: Water transmission and COVID-19
 layout: post
 promoted: false
+redirect_from:
+- /water-transmission/is-the-covid-19-virus-found-in-feces/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html

@@ -5,6 +5,8 @@ date: March 15, 2020
 excerpt: Community events
 layout: post
 promoted: false
+redirect_from:
+- /community-events/what-is-the-best-way-to-clean-event-space-after-confirmed-case-of-covid-19-at-an-event/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html

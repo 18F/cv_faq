@@ -5,6 +5,8 @@ date: May 4, 2020
 excerpt: Protect yourself
 layout: post
 promoted: false
+redirect_from:
+- /protect-yourself/is-cleaning-alone-effective-against-the-virus/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595

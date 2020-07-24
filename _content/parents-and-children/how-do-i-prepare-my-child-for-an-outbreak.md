@@ -5,6 +5,8 @@ date: June 20, 2020
 excerpt: COVID-19 and children
 layout: post
 promoted: false
+redirect_from:
+- /parents-and-children/how-do-i-prepare-my-child-for-an-outbreak/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Children

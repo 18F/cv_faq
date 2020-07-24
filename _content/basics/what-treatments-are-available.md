@@ -5,6 +5,8 @@ date: April 15, 2020
 excerpt: About COVID-19
 layout: post
 promoted: true
+redirect_from:
+- /basics/what-treatments-are-available/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

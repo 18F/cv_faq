@@ -5,6 +5,8 @@ date: June 27, 2020
 excerpt: Keeping your home safe
 layout: post
 promoted: false
+redirect_from:
+- /keeping-home-safe/if-someone-in-my-house-gets-sick/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#If-You-or-Someone-You-Know-is-Sick-or-Had-Contact-with-Someone-who-Has-COVID-19
@@ -35,5 +37,3 @@ Look for **emergency warning signs** for COVID-19. If someone is showing any of 
 This list is not all possible symptoms. Please call your medical provider for any other symptoms that are severe or concerning to you.
 
 **Call 911 or call ahead to your local emergency facility:** Notify the operator that you are seeking care for someone who has or may have COVID-19.
-
-

@@ -5,10 +5,13 @@ date: June 25, 2020
 excerpt: COVID-19 and funerals
 layout: post
 promoted: false
+redirect_from:
+- /funerals/what-are-requirements-to-return-body-to-united-states/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Funerals
-title: My family member died from COVID-19 while overseas. What are the requirements for returning the body to the United States?
+title: My family member died from COVID-19 while overseas. What are the requirements
+  for returning the body to the United States?
 ---
 
 CDC does not require an autopsy before the remains of a person who died overseas are returned to the United States. Depending on the circumstances surrounding the death, some countries may require an autopsy. Sources of support to the family include the local consulate or embassy, travel insurance provider, tour operator, faith-based and aid organizations, and the deceased’s employer. There likely will need to be an official identification of the body and official documents issued by the consular office.

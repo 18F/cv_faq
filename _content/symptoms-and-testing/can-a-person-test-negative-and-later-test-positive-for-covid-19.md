@@ -5,6 +5,8 @@ date: March 23, 2020
 excerpt: Symptoms and testing
 layout: post
 promoted: false
+redirect_from:
+- /symptoms-and-testing/can-a-person-test-negative-and-later-test-positive-for-covid-19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584389201096

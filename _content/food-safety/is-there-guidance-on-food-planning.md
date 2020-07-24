@@ -5,6 +5,8 @@ date: June 11, 2020
 excerpt: Food safety and access
 layout: post
 promoted: false
+redirect_from:
+- /food-safety/is-there-guidance-on-food-planning/
 sources:
 - agency: usda
   url: https://www.usda.gov/coronavirus
