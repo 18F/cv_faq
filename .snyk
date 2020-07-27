@@ -1,0 +1,81 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+# ignores vulnerabilities until expiry date; change duration by modifying expiry date
+ignore:
+  SNYK-JS-AJV-584908:
+    - serve > ajv:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-535497:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-535498:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-535502:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540956:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540958:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540964:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540974:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540978:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540980:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540990:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540992:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540994:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540996:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-540998:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-541000:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-NODESASS-541002:
+    - node-sass:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-SERIALIZEJAVASCRIPT-536840:
+    - uglifyjs-webpack-plugin > serialize-javascript:
+        reason: None given
+        expires: '2020-08-22T14:07:32.120Z'
+  SNYK-JS-SERIALIZEJAVASCRIPT-570062:
+    - uglifyjs-webpack-plugin > serialize-javascript:
+        reason: None given
+        expires: '2020-08-22T14:07:32.122Z'
+patch: {}

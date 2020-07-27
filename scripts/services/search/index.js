@@ -1,5 +1,6 @@
 import { doLocalSearch } from './local';
 import { doSearchGovSearch } from './search-gov';
+import { suggestSearchTerms } from './suggestions';
 
 
 export const SearchService = ({
@@ -28,4 +29,4 @@ export const SearchService = ({
   }
 });
 
-export { doSearchGovSearch, doLocalSearch };
+export { doSearchGovSearch, doLocalSearch, suggestSearchTerms };
