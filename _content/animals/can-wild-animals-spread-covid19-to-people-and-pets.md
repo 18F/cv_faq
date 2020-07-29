@@ -5,6 +5,8 @@ date: April 23, 2020
 excerpt: COVID-19 and animals
 layout: post
 promoted: false
+redirect_from:
+- /animals/can-wild-animals-spread-covid19-to-people-and-pets/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390773118

@@ -118,7 +118,8 @@ collections:
     permalink: /:name/
   content:
     output: true
-    permalink: /:path/
+    permalink: /:name/
+
   agencies:
     output: true
     permalink: /agency/:name/

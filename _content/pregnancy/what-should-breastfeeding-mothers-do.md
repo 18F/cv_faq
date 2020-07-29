@@ -5,11 +5,12 @@ date: July 22, 2020
 excerpt: Pregnant women and COVID-19
 layout: post
 promoted: false
+redirect_from:
+- /pregnancy/what-should-breastfeeding-mothers-do/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html
 title: What should mothers consider about breastfeeding during the COVID-19 pandemic?
-
 ---
 
 - **Breast milk provides protection against many illnesses** and is the best source of nutrition for most infants.

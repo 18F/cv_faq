@@ -5,6 +5,8 @@ date: May 6, 2020
 excerpt: COVID-19 and funerals
 layout: post
 promoted: false
+redirect_from:
+- /funerals/if-someone-dies-overseas/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html

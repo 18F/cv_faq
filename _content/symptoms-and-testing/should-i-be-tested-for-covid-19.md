@@ -5,6 +5,8 @@ date: June 20, 2020
 excerpt: Symptoms and testing
 layout: post
 promoted: true
+redirect_from:
+- /symptoms-and-testing/should-i-be-tested-for-covid-19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584389201096

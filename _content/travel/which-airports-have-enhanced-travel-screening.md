@@ -5,10 +5,13 @@ date: May 29, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 promoted: false
+redirect_from:
+- /travel/which-airports-have-enhanced-travel-screening/
 sources:
 - agency: dhs
   url: https://www.dhs.gov/coronavirus/protecting-air-travelers-and-american-public
-title: If I am flying from a restricted country to the United States. Which airports are available for arrivals?
+title: If I am flying from a restricted country to the United States. Which airports
+  are available for arrivals?
 ---
 
 Travelers returning from all restricted countries to the United States are required to travel through one of the following airports:

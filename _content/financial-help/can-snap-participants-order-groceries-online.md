@@ -5,9 +5,11 @@ date: June 11, 2020
 excerpt: Supplemental Nutrition Assistance Program (SNAP) online pilot
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/can-snap-participants-order-groceries-online/
 sources:
 - agency: usda
-  url:  https://www.fns.usda.gov/snap/online-purchasing-pilot
+  url: https://www.fns.usda.gov/snap/online-purchasing-pilot
 title: Can SNAP participants order groceries online?
 ---
 

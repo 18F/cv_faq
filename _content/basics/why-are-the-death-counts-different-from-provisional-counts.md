@@ -5,11 +5,14 @@ date: June 25, 2020
 excerpt: About COVID-19
 layout: post
 promoted: false
+redirect_from:
+- /basics/why-do-case-numbers-from-previous-day-increase/
+- /basics/why-are-the-death-counts-different-from-provisional-counts/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/covid-data/faq-surveillance.html#Understanding-the-Data
-title: Why are the death counts for the Cases on the U.S. webpage different from the Provisional Death Counts on the COVID-19 webpage?
-redirect_from: /basics/why-do-case-numbers-from-previous-day-increase/
+title: Why are the death counts for the Cases on the U.S. webpage different from the
+  Provisional Death Counts on the COVID-19 webpage?
 ---
 
 The COVID-19 death count shown on the [Cases in the U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) web page includes deaths reported daily by state, local, and territorial health departments. This count reflects the most up-to-date information received by CDC based on preliminary reporting from health departments.

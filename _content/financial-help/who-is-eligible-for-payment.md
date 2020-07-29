@@ -5,12 +5,13 @@ date: June 22, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: true
+redirect_from:
+- /rumors/is-the-government-sending-everyone-money/
+- /financial-help/who-is-eligible-for-payment/
 sources:
 - agency: treasury
   url: https://www.irs.gov/coronavirus/economic-impact-payment-information-center
 title: Who is eligible for the economic impact payment?
-redirect_from:
-- /rumors/is-the-government-sending-everyone-money/
 ---
 
 You are eligible for an Economic Impact Payment of $1,200 (or $2,400 if you filing jointly) if you are not a dependent of another taxpayer and have a work eligible Social Security number with adjusted gross income up to:

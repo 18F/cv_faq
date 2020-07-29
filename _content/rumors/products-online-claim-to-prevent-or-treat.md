@@ -5,6 +5,8 @@ date: April 15, 2020
 excerpt: Get the facts
 layout: post
 promoted: false
+redirect_from:
+- /rumors/products-online-claim-to-prevent-or-treat/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

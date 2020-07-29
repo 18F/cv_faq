@@ -5,6 +5,8 @@ date: June 20, 2020
 excerpt: How to protect yourself
 layout: post
 promoted: false
+redirect_from:
+- /protect-yourself/is-it-safe-to-get-medical-care-for-other-conditions/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Prevention

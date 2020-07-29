@@ -6,6 +6,8 @@ excerpt: Treasury and IRS Release FAQs to Help Small and Midsize Businesses Navi
   Paid Sick and Family Leave Tax Credits
 layout: post
 promoted: false
+redirect_from:
+- /support-for-business/small-medium-businesses-paid-leave/
 sources:
 - agency: treasury
   url: https://home.treasury.gov/news/press-releases/sm965

@@ -5,12 +5,13 @@ date: June 27, 2020
 excerpt: Keeping your home safe
 layout: post
 promoted: false
+redirect_from:
+- /keeping-home-safe/how-can-family-prepare/
+- /keeping-home-safe/how-can-i-prepare-for-an-outbreak/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Preparing-for-an-Outbreak
 title: How can I prepare for an outbreak in my area?
-redirect_from:
-- /keeping-home-safe/how-can-family-prepare/
 ---
 
 Create a household plan of action to help protect your health and the health of those you care about in the event of an outbreak of COVID-19 in your community:

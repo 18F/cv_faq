@@ -5,6 +5,8 @@ date: April 6, 2020
 excerpt: Get the facts about coronavirus
 layout: post
 promoted: false
+redirect_from:
+- /rumors/is-5g-phone-technology-linked/
 sources:
 - agency: fcc
   url: https://www.fema.gov/Coronavirus-Rumor-Control

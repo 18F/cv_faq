@@ -5,11 +5,13 @@ date: March 30, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/the-irs-does-not-have-my-direct-deposit-information/
+- /financial-help/how-will-the-irs-know-where-to-send/
 sources:
 - agency: treasury
   url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
 title: How will the IRS know where to send my payment?
-redirect_from: /financial-help/the-irs-does-not-have-my-direct-deposit-information/
 ---
 
 The vast majority of people do not need to take any action. The IRS will calculate and automatically send the economic impact payment to those eligible.

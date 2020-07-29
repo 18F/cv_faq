@@ -5,6 +5,8 @@ date: April 15, 2020
 excerpt: Animal coronaviruses
 layout: post
 promoted: false
+redirect_from:
+- /animals/is-it-true-animals-get-their-own-types-of-virus/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

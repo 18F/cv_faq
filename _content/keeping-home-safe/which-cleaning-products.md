@@ -5,6 +5,8 @@ date: March 20, 2020
 excerpt: Keeping your home safe
 layout: post
 promoted: false
+redirect_from:
+- /keeping-home-safe/which-cleaning-products/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595

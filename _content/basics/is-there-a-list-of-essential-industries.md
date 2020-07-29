@@ -5,6 +5,8 @@ date: March 29, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 promoted: false
+redirect_from:
+- /basics/is-there-a-list-of-essential-industries/
 sources:
 - agency: dhs
   url: https://www.cisa.gov/publication/guidance-essential-critical-infrastructure-workforce

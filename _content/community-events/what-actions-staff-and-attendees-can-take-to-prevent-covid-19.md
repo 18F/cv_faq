@@ -5,6 +5,8 @@ date: March 15, 2020
 excerpt: Community events
 layout: post
 promoted: false
+redirect_from:
+- /community-events/what-actions-staff-and-attendees-can-take-to-prevent-covid-19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html

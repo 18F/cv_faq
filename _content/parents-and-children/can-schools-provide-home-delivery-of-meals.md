@@ -5,6 +5,8 @@ date: June 11, 2020
 excerpt: COVID-19, children, and access to food
 layout: post
 promoted: false
+redirect_from:
+- /parents-and-children/can-schools-provide-home-delivery-of-meals/
 sources:
 - agency: usda
   url: https://www.usda.gov/coronavirus

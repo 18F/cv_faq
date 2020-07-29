@@ -5,14 +5,14 @@ date: June 9, 2020
 excerpt: Pregnant women and COVID-19
 layout: post
 promoted: false
+redirect_from:
+- /pregnancy/if-a-pregnant-woman-has-covid-19-during-pregnancy-will-it-hurt-the-baby/
+- /pregnancy/can-covid19-cause-problems-for-pregnancy/
+- /pregnancy/i-am-pregnant-what-are-the-risks/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html
 title: I am pregnant and worried about COVID-19. What are the risks to me and my baby?
-redirect_from:
-- /pregnancy/if-a-pregnant-woman-has-covid-19-during-pregnancy-will-it-hurt-the-baby/
-- /pregnancy/can-covid19-cause-problems-for-pregnancy/
-
 ---
 
 Based on what we know at this time, pregnant people might be at increased risk for severe illness from COVID-19 compared to non-pregnant people. Additionally, there may be an increased risk of adverse pregnancy outcomes, such as preterm birth, among pregnant people with COVID-19.

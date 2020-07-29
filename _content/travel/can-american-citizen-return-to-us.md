@@ -5,6 +5,8 @@ date: May 29, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 promoted: false
+redirect_from:
+- /travel/can-american-citizen-return-to-us/
 sources:
 - agency: dhs
   url: https://www.dhs.gov/coronavirus/protecting-air-travelers-and-american-public

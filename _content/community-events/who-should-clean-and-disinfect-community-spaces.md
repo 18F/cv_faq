@@ -5,6 +5,8 @@ date: May 4, 2020
 excerpt: Community events
 layout: post
 promoted: false
+redirect_from:
+- /community-events/who-should-clean-and-disinfect-community-spaces/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595

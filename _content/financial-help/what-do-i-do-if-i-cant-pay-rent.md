@@ -5,6 +5,8 @@ date: April 24, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/what-do-i-do-if-i-cant-pay-rent/
 sources:
 - agency: treasury
   url: https://home.treasury.gov/policy-issues/consumer-policy/personal-finance-and-consumer-protection-steps-for-quicker-financial-relief

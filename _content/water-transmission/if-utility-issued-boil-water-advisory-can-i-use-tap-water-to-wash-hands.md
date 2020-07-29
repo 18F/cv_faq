@@ -5,6 +5,8 @@ date: April 3, 2020
 excerpt: Water transmission and COVID-19
 layout: post
 promoted: false
+redirect_from:
+- /water-transmission/if-utility-issued-boil-water-advisory-can-i-use-tap-water-to-wash-hands/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html

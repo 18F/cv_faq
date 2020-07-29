@@ -6,6 +6,8 @@ excerpt: IRS issues warning about Coronavirus-related scams; watch out for schem
   tied to economic impact payments
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/will-the-irs-call-or-email-me/
 sources:
 - agency: irs
   url: https://www.irs.gov/newsroom/irs-issues-warning-about-coronavirus-related-scams-watch-out-for-schemes-tied-to-economic-impact-payments

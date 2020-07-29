@@ -5,6 +5,8 @@ date: March 31, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 promoted: false
+redirect_from:
+- /travel/are-the-northern-southern-us-borders-closed/
 sources:
 - agency: dhs
   url: https://www.dhs.gov/news/2020/03/23/fact-sheet-dhs-measures-border-limit-further-spread-coronavirus

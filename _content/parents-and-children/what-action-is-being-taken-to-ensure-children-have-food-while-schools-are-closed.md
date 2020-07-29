@@ -5,10 +5,13 @@ date: June 11, 2020
 excerpt: COVID-19, children, and access to food
 layout: post
 promoted: false
+redirect_from:
+- /parents-and-children/what-action-is-being-taken-to-ensure-children-have-food-while-schools-are-closed/
 sources:
 - agency: usda
   url: https://www.usda.gov/coronavirus
-title: What action is being taken to ensure children have food to eat while schools are closed?
+title: What action is being taken to ensure children have food to eat while schools
+  are closed?
 ---
 
 States switch to their [Summer Food Service Program (SFSP)](https://www.fns.usda.gov/sfsp/summer-food-service-program) or [Seamless Summer Option (SSO)](https://www.fns.usda.gov/sfsp/seamless-summer-and-other-options-schools) to serve meals to children when schools are closed. Through these summer meal programs, the U.S. Department of Agriculture (USDA) allows sites to serve up to two free meals a day to children 18 and under.

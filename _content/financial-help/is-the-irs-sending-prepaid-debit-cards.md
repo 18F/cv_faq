@@ -5,6 +5,8 @@ date: May 27, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/is-the-irs-sending-prepaid-debit-cards/
 sources:
 - agency: treasury
   url: https://home.treasury.gov

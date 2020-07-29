@@ -5,10 +5,13 @@ date: April 21, 2020
 excerpt: COVID-19 and children
 layout: post
 promoted: false
+redirect_from:
+- /parents-and-children/additional-steps-child-special-healthcare-need/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Children-and-Youth-with-Special-Healthcare-Needs
-title: What additional steps should families that have a child with an underlying medical condition or special health care need take?
+title: What additional steps should families that have a child with an underlying
+  medical condition or special health care need take?
 ---
 
 In addition to following the recommendations to [prevent getting sick](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html) and [running essential errands](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html), families should take extra steps recommended for persons with [higher risk of severe COVID-19 illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/groups-at-higher-risk.html) and steps outlined for those with [potential COVID-19 exposure or confirmed illness](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html).
