@@ -5,6 +5,8 @@ date: May 20, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 promoted: false
+redirect_from:
+- /travel/when-will-the-borders-reopen/
 sources:
 - agency: dhs
   url: https://www.dhs.gov/news/2020/04/21/fact-sheet-dhs-measures-border-limit-further-spread-coronavirus

@@ -5,17 +5,17 @@ date: June 27, 2020
 excerpt: How to protect yourself
 layout: post
 promoted: false
-sources:
-- agency: cdc
-  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Prevention
-title: Does CDC recommend the use of facemasks or face coverings to prevent COVID-19?
 redirect_from:
 - /protect-yourself/what-type-of-cloth-face-covering/
 - /protect-yourself/when-cloth-face-coverings/
 - /protect-yourself/who-should-not-wear-cloth-face-coverings/
 - /protect-yourself/why-cloth-face-coverings-instead-of-facemasks/
 - /protect-yourself/why-cloth-face-coverings/
-
+- /protect-yourself/does-cdc-recommend-facemasks/
+sources:
+- agency: cdc
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Prevention
+title: Does CDC recommend the use of facemasks or face coverings to prevent COVID-19?
 ---
 
 Wear cloth face coverings in public settings where other social distancing measures are difficult to maintain, such as grocery stores, pharmacies, and gas stations. Cloth face coverings may slow the spread of the virus and help people who may have the virus and do not know it from transmitting it to others.

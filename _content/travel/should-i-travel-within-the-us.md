@@ -5,6 +5,8 @@ date: May 1, 2020
 excerpt: 'Travel: Canceling or postponing travel'
 layout: post
 promoted: true
+redirect_from:
+- /travel/should-i-travel-within-the-us/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html

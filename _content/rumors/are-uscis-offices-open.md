@@ -5,12 +5,15 @@ date: June 5, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 promoted: false
+redirect_from:
+- /rumors/are-uscis-offices-closed-for-covid/
+- /rumors/are-uscis-offices-open/
 sources:
 - agency: dhs
   url: https://www.uscis.gov/about-us/uscis-visitor-policy
 title: Are US Citizenship and Immigration Services offices open?
-redirect_from: /rumors/are-uscis-offices-closed-for-covid/
 ---
+
 Beginning June 4, 2020, certain USCIS field offices and asylum offices will resume non-emergency face-to-face services to the public. Application support centers will resume services later. USCIS has enacted precautions to prevent the spread of COVID-19 in reopened facilities:
 
 Visitors may not enter a USCIS facility if they:

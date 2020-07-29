@@ -5,6 +5,8 @@ date: March 30, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
+redirect_from:
+- /support-for-business/where-should-a-small-business-go-to-find-help/
 sources:
 - agency: sba
   url: https://www.sba.gov/coronavirus

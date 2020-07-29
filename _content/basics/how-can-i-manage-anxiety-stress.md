@@ -5,6 +5,8 @@ date: July 17, 2020
 excerpt: About COVID-19
 layout: post
 promoted: true
+redirect_from:
+- /basics/how-can-i-manage-anxiety-stress/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html

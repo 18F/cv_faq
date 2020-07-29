@@ -5,6 +5,8 @@ date: June 25, 2020
 excerpt: COVID-19 and animals
 layout: post
 promoted: false
+redirect_from:
+- /animals/what-animals-can-get-covid-19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#COVID-19-and-Animals

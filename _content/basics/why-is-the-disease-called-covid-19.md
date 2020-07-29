@@ -5,6 +5,8 @@ date: June 20, 2020
 excerpt: About COVID-19
 layout: post
 promoted: false
+redirect_from:
+- /basics/why-is-the-disease-called-covid-19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386215012

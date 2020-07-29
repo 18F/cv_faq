@@ -5,6 +5,8 @@ date: April 20, 2020
 excerpt: How to protect yourself
 layout: post
 promoted: false
+redirect_from:
+- /protect-yourself/how-to-keep-myself-safe-when-i-go-grocery-store/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

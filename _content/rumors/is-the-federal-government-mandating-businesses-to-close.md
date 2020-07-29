@@ -5,6 +5,8 @@ date: March 30, 2020
 excerpt: Get the facts about coronavirus
 layout: post
 promoted: false
+redirect_from:
+- /rumors/is-the-federal-government-mandating-businesses-to-close/
 sources:
 - agency: dhs
   url: https://www.cisa.gov/publication/guidance-essential-critical-infrastructure-workforce

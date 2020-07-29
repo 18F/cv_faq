@@ -5,6 +5,8 @@ date: March 27, 2020
 excerpt: 'Travel: Air or cruise travel'
 layout: post
 promoted: true
+redirect_from:
+- /travel/sick-passenger-on-my-flight/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#air-cruise-travel

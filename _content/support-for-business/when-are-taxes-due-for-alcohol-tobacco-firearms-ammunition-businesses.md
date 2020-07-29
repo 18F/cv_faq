@@ -5,6 +5,8 @@ date: March 31, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
+redirect_from:
+- /support-for-business/when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses/
 sources:
 - agency: treasury
   url: https://home.treasury.gov/news/press-releases/sm963

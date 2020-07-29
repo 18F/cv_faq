@@ -5,6 +5,8 @@ date: April 15, 2020
 excerpt: How it spreads
 layout: post
 promoted: false
+redirect_from:
+- /spread/can-i-get-covid-19-from-a-food-worker/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

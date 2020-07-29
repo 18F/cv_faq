@@ -5,6 +5,8 @@ date: May 4, 2020
 excerpt: How it spreads
 layout: post
 promoted: false
+redirect_from:
+- /spread/should-sidewalks-and-roads-be-disinfected-to-prevent-covid-19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584388242595

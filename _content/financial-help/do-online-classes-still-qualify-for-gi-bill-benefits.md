@@ -5,10 +5,13 @@ date: April 27, 2020
 excerpt: Online classes qualify for GI Bill benefits
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/do-online-classes-still-qualify-for-gi-bill-benefits/
 sources:
 - agency: va
-  url:  https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#benefit-payments-claims-and-cl
-title: My school changed all classes to online. Will I still qualify for my GI Bill benefits?
+  url: https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#benefit-payments-claims-and-cl
+title: My school changed all classes to online. Will I still qualify for my GI Bill
+  benefits?
 ---
 
 Yes. If you’re currently receiving GI Bill benefits, payments will continue automatically. You don’t have to do anything. We know that many schools have changed to online classes in response to COVID-19. You’ll continue to receive the same monthly housing allowance payments you received for resident training until December 21, 2020, or until your school resumes normal operations.

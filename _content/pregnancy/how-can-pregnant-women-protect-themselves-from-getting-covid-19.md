@@ -5,6 +5,8 @@ date: July 22, 2020
 excerpt: Pregnant women and COVID-19
 layout: post
 promoted: false
+redirect_from:
+- /pregnancy/how-can-pregnant-women-protect-themselves-from-getting-covid-19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/prepare/pregnancy-breastfeeding.html
@@ -34,4 +36,3 @@ If you start feeling sick and think you may have COVID-19, call your healthcare 
 **Vaccines During Pregnancy**
 
 Although there is no vaccine available to protect against the virus that causes COVID-19, routine vaccines are an important part of protecting your health. Receiving some vaccines during pregnancy, such as the influenza (flu) and Tdap vaccines, can help protect you and your baby. If you are pregnant, you should continue to receive your recommended vaccines. Talk with your healthcare provider about visits for vaccines during pregnancy.
-

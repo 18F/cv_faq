@@ -5,6 +5,8 @@ date: April 03, 2020
 excerpt: 'Travel: Air or cruise travel'
 layout: post
 promoted: false
+redirect_from:
+- /travel/should-travelers-wear-facemasks/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html

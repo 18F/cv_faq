@@ -5,6 +5,8 @@ date: April 30, 2020
 excerpt: 'Travel: Is it safe to visit family and friends'
 layout: post
 promoted: false
+redirect_from:
+- /travel/is-it-safe-to-visit-family-friends/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html

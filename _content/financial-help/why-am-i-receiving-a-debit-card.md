@@ -5,6 +5,8 @@ date: June 22, 2020
 excerpt: Financial help
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/why-am-i-receiving-a-debit-card/
 sources:
 - agency: treasury
   url: https://home.treasury.gov/news/press-releases/sm1012

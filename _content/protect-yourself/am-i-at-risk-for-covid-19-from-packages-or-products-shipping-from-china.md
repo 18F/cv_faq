@@ -5,6 +5,8 @@ date: April 23, 2020
 excerpt: How to protect yourself
 layout: post
 promoted: false
+redirect_from:
+- /protect-yourself/am-i-at-risk-for-covid-19-from-packages-or-products-shipping-from-china/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386949645

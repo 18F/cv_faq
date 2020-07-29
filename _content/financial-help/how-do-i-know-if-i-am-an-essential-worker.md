@@ -5,6 +5,8 @@ date: April 15, 2020
 excerpt: Essential workers
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/how-do-i-know-if-i-am-an-essential-worker/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

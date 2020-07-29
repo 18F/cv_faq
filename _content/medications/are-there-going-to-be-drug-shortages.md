@@ -5,6 +5,8 @@ date: April 15, 2020
 excerpt: Drugs and medications
 layout: post
 promoted: false
+redirect_from:
+- /medications/are-there-going-to-be-drug-shortages/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

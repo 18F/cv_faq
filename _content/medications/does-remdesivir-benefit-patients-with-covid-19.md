@@ -2,9 +2,11 @@
 categories:
 - medications
 date: May 6, 2020
-excerpt: 'Drugs and medications'
+excerpt: Drugs and medications
 layout: post
 promoted: false
+redirect_from:
+- /medications/does-remdesivir-benefit-patients-with-covid-19/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions#5ebcd92778fc0

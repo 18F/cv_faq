@@ -5,10 +5,13 @@ date: April 21, 2020
 excerpt: COVID-19 and children
 layout: post
 promoted: false
+redirect_from:
+- /parents-and-children/what-if-child-underlying-symptoms-get-worse/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Children-and-Youth-with-Special-Healthcare-Needs
-title: What if my child’s symptoms of their underlying medical condition or complex, chronic medical condition get worse?
+title: What if my child’s symptoms of their underlying medical condition or complex,
+  chronic medical condition get worse?
 ---
 
 - Call your child’s healthcare provider if you have any concerns about your child’s medical conditions. If you need emergency help, call 911.
