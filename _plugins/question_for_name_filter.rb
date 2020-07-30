@@ -1,6 +1,6 @@
 module Jekyll
-  module CategoryQuestionsFilter
-    def by_category(question_names, question_items)
+  module QuestionLookupFilter
+    def lookup_by_name(question_names, question_items)
       questions = []
       question_names.each do |question_name|
         question_items.each do |question_item|
@@ -14,4 +14,4 @@ module Jekyll
   end
 end
 
-Liquid::Template.register_filter(Jekyll::CategoryQuestionsFilter)
+Liquid::Template.register_filter(Jekyll::QuestionLookupFilter)

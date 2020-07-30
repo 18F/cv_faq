@@ -10,7 +10,7 @@
 
     {% for site_category in display_categories | limit: 6 %}
       {% assign current_category = site.categories | where: "name", site_category.name | first %}
-      {% assign category_questions = current_category.questions | by_category: site.content %}
+      {% assign category_questions = current_category.questions | lookup_by_name: site.content %}
 
       <div class="top-category tablet:grid-col-4 margin-bottom-3">
         <h3>{{ site_category.title }}</h3>
@@ -46,7 +46,7 @@
       <div tabindex="-1" id="more-questions" class="grid-row grid-gap display-none">
         {% for site_category in display_categories | offset: 6 %}
           {% assign current_category = site.categories | where:"name", site_category.name | first %}
-          {% assign category_questions = current_category.questions | by_category: site.content %}
+          {% assign category_questions = current_category.questions | lookup_by_name: site.content %}
 
           <div class="top-category tablet:grid-col-4 margin-bottom-3">
             <h3>{{ site_category.title }}</h3>

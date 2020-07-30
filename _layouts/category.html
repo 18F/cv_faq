@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign category_questions = page.questions | by_category: site.content %}
+{% assign category_questions = page.questions | lookup_by_name: site.content %}
 
 {% include schema-faq.html questions=category_questions %}
 
