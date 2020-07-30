@@ -12,7 +12,7 @@ redirect_from:
 - /rumors/how-is-the-national-guard-responding/
 sources:
 - agency: fema
-  url: https://www.fema.gov/news-release/2020/05/28/president-trump-announces-extension-title-32-orders
+  url: https://www.fema.gov/disasters/coronavirus/governments#natlguard
 title: How is the National Guard responding to COVID-19?
 ---
 
