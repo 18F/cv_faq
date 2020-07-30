@@ -5,10 +5,13 @@ date: May 21, 2020
 excerpt: What if I need to evacuate or shelter safely during the COVID-19 pandemic?
 layout: post
 promoted: true
+redirect_from:
+- /protect-yourself/if-i-need-to-evacuate-my-home-during-the-covid19-pandemic/
 sources:
 - agency: fema
   url: https://www.ready.gov/evacuation
-title: If I need to evacuate my home or shelter safely during the COVID-19 pandemic what do I do?
+title: If I need to evacuate my home or shelter safely during the COVID-19 pandemic
+  what do I do?
 ---
 
 Before disaster strikes, be ready with an evacuation plan. Check with local officials about what shelter spaces are available for this year. Coronavirus may have altered your community’s plans.

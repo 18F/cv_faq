@@ -12,7 +12,7 @@ layout: null
         {%- endfor %}
       ],
       "excerpt"    : "{{ content.excerpt | strip_html | strip }}",
-      "url"        : "{{ site.baseurl }}/{{ content.categories[0] | downcase }}/{{ content.slug | downcase }}/",
+      "url"        : "{{ site.baseurl }}/{{ content.slug | downcase }}/",
       "date"       : "{{ content.date }}",
       "content"    : "{{ content.content | strip_html | strip_newlines | remove_chars | escape }}"
     } {% unless forloop.last %},{% endunless %}

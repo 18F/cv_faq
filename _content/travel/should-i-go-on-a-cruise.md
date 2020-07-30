@@ -5,6 +5,8 @@ date: March 27, 2020
 excerpt: 'Travel: Air or cruise travel'
 layout: post
 promoted: false
+redirect_from:
+- /travel/should-i-go-on-a-cruise/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#air-cruise-travel

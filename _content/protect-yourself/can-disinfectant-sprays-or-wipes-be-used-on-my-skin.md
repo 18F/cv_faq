@@ -5,6 +5,8 @@ date: April 15, 2020
 excerpt: How to protect yourself
 layout: post
 promoted: false
+redirect_from:
+- /protect-yourself/can-disinfectant-sprays-or-wipes-be-used-on-my-skin/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

@@ -5,13 +5,14 @@ date: July 17, 2020
 excerpt: How to protect yourself
 layout: post
 promoted: true
+redirect_from:
+- /protect-yourself/how-can-i-help-protect-myself/
+- /protect-yourself/six-feet-away-cloth-face-covering/
+- /protect-yourself/how-can-i-protect-myself/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html
 title: How can I protect myself?
-redirect_from:
-- /protect-yourself/how-can-i-help-protect-myself/
-- /protect-yourself/six-feet-away-cloth-face-covering/
 ---
 
 The best way to protect yourself from COVID-19 is to avoid being exposed to the virus. COVID-19 is thought to spread mainly from person-to-person. To avoid being exposed:

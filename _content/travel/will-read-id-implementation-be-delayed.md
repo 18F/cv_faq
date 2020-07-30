@@ -5,6 +5,8 @@ date: March 26, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 promoted: false
+redirect_from:
+- /travel/will-read-id-implementation-be-delayed/
 sources:
 - agency: dhs
   url: https://www.dhs.gov/news/2020/03/26/acting-secretary-chad-wolf-statement-real-id-enforcement-deadline

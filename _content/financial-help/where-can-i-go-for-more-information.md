@@ -5,6 +5,8 @@ date: March 30, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/where-can-i-go-for-more-information/
 sources:
 - agency: treasury
   url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know

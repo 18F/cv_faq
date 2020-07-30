@@ -5,6 +5,8 @@ date: April 21, 2020
 excerpt: COVID-19 and children
 layout: post
 promoted: false
+redirect_from:
+- /parents-and-children/what-if-child-or-someone-in-home-is-sick/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Children-and-Youth-with-Special-Healthcare-Needs

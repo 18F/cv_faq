@@ -5,6 +5,8 @@ date: June 11, 2020
 excerpt: Water transmission and COVID-19
 layout: post
 promoted: false
+redirect_from:
+- /water-transmission/should-wasterwater-workers-take-extra-precautions-to-protect-from-covid19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html

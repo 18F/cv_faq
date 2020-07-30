@@ -5,6 +5,8 @@ date: April 4, 2020
 excerpt: COVID-19 and animals
 layout: post
 promoted: false
+redirect_from:
+- /animals/can-i-get-covid-19-from-my-pets/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390773118

@@ -5,6 +5,8 @@ date: April 4, 2020
 excerpt: About COVID-19
 layout: post
 promoted: true
+redirect_from:
+- /basics/why-might-someone-create-stigma/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386215012

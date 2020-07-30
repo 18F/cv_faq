@@ -5,6 +5,8 @@ date: May 5, 2020
 excerpt: Animal coronaviruses
 layout: post
 promoted: false
+redirect_from:
+- /animals/if-my-pet-had-species-specific-coronavirus-are-they-more-likely-to-get-covid-19/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

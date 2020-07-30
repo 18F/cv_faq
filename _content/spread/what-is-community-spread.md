@@ -5,6 +5,8 @@ date: June 20, 2020
 excerpt: How it spreads
 layout: post
 promoted: true
+redirect_from:
+- /spread/what-is-community-spread/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553767

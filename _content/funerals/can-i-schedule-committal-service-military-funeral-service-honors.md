@@ -5,6 +5,8 @@ date: June 11, 2020
 excerpt: Committal service or military funeral honors service
 layout: post
 promoted: false
+redirect_from:
+- /funerals/can-i-schedule-committal-service-military-funeral-service-honors/
 sources:
 - agency: va
   url: https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#status-of-va-national-cemeteri

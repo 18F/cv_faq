@@ -5,6 +5,8 @@ date: April 10, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/how-do-i-submit-banking-information/
 sources:
 - agency: irs
   url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know

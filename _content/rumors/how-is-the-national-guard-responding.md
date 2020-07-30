@@ -5,14 +5,15 @@ date: June 17, 2020
 excerpt: Get the facts about coronavirus
 layout: post
 promoted: false
-sources:
-- agency: fema
-  url: https://www.fema.gov/disasters/coronavirus/governments#natlguard
-title: How is the National Guard responding to COVID-19?
 redirect_from:
 - /get-facts/is-fema-deploying-the-military/
 - /rumors/is-fema-deploying-the-military/
 - /rumors/is-dhs-deploying-the-national-guard/
+- /rumors/how-is-the-national-guard-responding/
+sources:
+- agency: fema
+  url: https://www.fema.gov/disasters/coronavirus/governments#natlguard
+title: How is the National Guard responding to COVID-19?
 ---
 
 President Trump has directed the Secretary of Defense to permit full federal reimbursement by FEMA for states’ use of their National Guard forces. The [memorandum](https://www.whitehouse.gov/presidential-actions/memorandum-governors-use-national-guard-respond-covid-19-facilitate-economic-recovery/) issued by the president provides governors continued command of their National Guard forces while being 100 percent federally funded under Title 32. This is in effect through August 21.

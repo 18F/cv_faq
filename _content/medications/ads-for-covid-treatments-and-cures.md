@@ -5,6 +5,8 @@ date: July 17, 2020
 excerpt: Drugs and medications
 layout: post
 promoted: false
+redirect_from:
+- /medications/ads-for-covid-treatments-and-cures/
 sources:
 - agency: ftc
   url: https://www.ftc.gov/coronavirus

@@ -5,6 +5,8 @@ date: June 29, 2020
 excerpt: COVID-19 and children
 layout: post
 promoted: false
+redirect_from:
+- /parents-and-children/how-should-parents-talk-to-children-about-covid19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/talking-with-children.html

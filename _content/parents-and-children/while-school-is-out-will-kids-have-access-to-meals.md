@@ -5,6 +5,8 @@ date: March 23, 2020
 excerpt: School dismissals and children
 layout: post
 promoted: false
+redirect_from:
+- /parents-and-children/while-school-is-out-will-kids-have-access-to-meals/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#school-dismissals

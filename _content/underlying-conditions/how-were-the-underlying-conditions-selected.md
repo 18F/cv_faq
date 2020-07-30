@@ -5,6 +5,8 @@ date: March 23, 2020
 excerpt: Underlying conditions
 layout: post
 promoted: false
+redirect_from:
+- /underlying-conditions/how-were-the-underlying-conditions-selected/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#conditions

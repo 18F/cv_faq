@@ -5,6 +5,8 @@ date: March 23, 2020
 excerpt: COVID-19 and funerals
 layout: post
 promoted: false
+redirect_from:
+- /funerals/what-do-funeral-home-workers-need-to-know/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390222777

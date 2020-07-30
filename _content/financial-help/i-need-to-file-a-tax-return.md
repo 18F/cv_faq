@@ -5,6 +5,8 @@ date: March 30, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 promoted: false
+redirect_from:
+- /financial-help/i-need-to-file-a-tax-return/
 sources:
 - agency: treasury
   url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
