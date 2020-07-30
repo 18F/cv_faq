@@ -1,10 +1,7 @@
 ---
-categories:
-- support-for-business
 date: May 21, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
-promoted: false
 redirect_from:
 - /support-for-business/how-to-apply-for-a-small-business-loan/
 sources:

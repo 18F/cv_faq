@@ -1,10 +1,7 @@
 ---
-categories:
-- medications
 date: June 24, 2020
 excerpt: Drugs and medications
 layout: post
-promoted: false
 redirect_from:
 - /rumors/are-there-any-vaccines/
 - /medications/are-there-any-vaccines/

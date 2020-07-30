@@ -1,10 +1,7 @@
 ---
-categories:
-- travel
 date: April 30, 2020
 excerpt: 'Travel: Canceling and postponing travel'
 layout: post
-promoted: true
 redirect_from:
 - /travel/are-international-layovers-included-in-cdc-recommendation-to-avoid-nonessential-travel/
 - /travel/should-i-cancel-my-international-travel/

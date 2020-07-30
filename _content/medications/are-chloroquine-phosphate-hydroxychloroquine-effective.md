@@ -1,10 +1,7 @@
 ---
-categories:
-- medications
 date: June 15, 2020
 excerpt: Drugs and medications
 layout: post
-promoted: false
 redirect_from:
 - /medications/prescribe-chloroquine-or-hydroxychloroquine-off-label/
 - /medications/are-there-data-showing-chloroquine-phosphate-or-hydroxychloroquine-sulfate-might-benefit-patients/

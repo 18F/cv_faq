@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: July 17, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: true
 redirect_from:
 - /protect-yourself/how-can-i-help-protect-myself/
 - /protect-yourself/six-feet-away-cloth-face-covering/

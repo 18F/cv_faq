@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: April 30, 2020
 excerpt: COVID-19 and animals
 layout: post
-promoted: false
 redirect_from:
 - /animals/are-pets-from-a-shelter-safe/
 sources:

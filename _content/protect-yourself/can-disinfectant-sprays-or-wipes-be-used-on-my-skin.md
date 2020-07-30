@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: April 15, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/can-disinfectant-sprays-or-wipes-be-used-on-my-skin/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: June 22, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
-promoted: true
 redirect_from:
 - /rumors/is-the-government-sending-everyone-money/
 - /financial-help/who-is-eligible-for-payment/

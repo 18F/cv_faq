@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: June 27, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/what-type-of-cloth-face-covering/
 - /protect-yourself/when-cloth-face-coverings/

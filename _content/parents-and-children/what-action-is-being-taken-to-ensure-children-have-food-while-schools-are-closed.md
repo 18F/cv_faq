@@ -1,10 +1,7 @@
 ---
-categories:
-- parents-and-children
 date: June 11, 2020
 excerpt: COVID-19, children, and access to food
 layout: post
-promoted: false
 redirect_from:
 - /parents-and-children/what-action-is-being-taken-to-ensure-children-have-food-while-schools-are-closed/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- basics
 date: July 17, 2020
 excerpt: About COVID-19
 layout: post
-promoted: true
 redirect_from:
 - /basics/how-can-i-manage-anxiety-stress/
 sources:

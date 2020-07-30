@@ -1,10 +1,7 @@
 ---
-categories:
-- community-events
 date: March 15, 2020
 excerpt: Community events
 layout: post
-promoted: false
 redirect_from:
 - /community-events/things-to-consider-when-deciding-to-postpone-or-cancel-events/
 sources:

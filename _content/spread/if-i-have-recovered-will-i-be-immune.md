@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: June 29, 2020
 excerpt: How it spreads
 layout: post
-promoted: false
 redirect_from:
 - /symptoms-and-testing/if-i-recover-from-covid19-will-i-be-immune/
 - /spread/if-i-have-recovered-will-i-be-immune/

@@ -1,10 +1,7 @@
 ---
-categories:
-- pregnancy
 date: July 22, 2020
 excerpt: Pregnant women and COVID-19
 layout: post
-promoted: false
 redirect_from:
 - /pregnancy/what-should-breastfeeding-mothers-do/
 sources:

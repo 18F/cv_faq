@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: May 21, 2020
 excerpt: What if I need to evacuate or shelter safely during the COVID-19 pandemic?
 layout: post
-promoted: true
 redirect_from:
 - /protect-yourself/if-i-need-to-evacuate-my-home-during-the-covid19-pandemic/
 sources:

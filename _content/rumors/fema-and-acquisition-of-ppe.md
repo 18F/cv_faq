@@ -1,10 +1,7 @@
 ---
-categories:
-- rumors
 date: June 17, 2020
 excerpt: Get the facts about coronavirus
 layout: post
-promoted: false
 redirect_from:
 - /rumors/is-fema-seizing-personal-protective-equipment/
 - /rumors/did-fema-block-shipments-of-ventilators-to-my-state/

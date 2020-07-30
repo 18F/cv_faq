@@ -1,10 +1,7 @@
 ---
-categories:
-- travel
 date: March 31, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
-promoted: false
 redirect_from:
 - /travel/are-undocumented-immigrants-still-being-held/
 sources:

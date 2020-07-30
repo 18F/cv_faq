@@ -1,10 +1,7 @@
 ---
-categories:
-- parents-and-children
 date: June 11, 2020
 excerpt: COVID-19, children, and access to food
 layout: post
-promoted: false
 redirect_from:
 - /parents-and-children/can-parents-pick-up-meals-for-their-kids-without-them-present/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- keeping-home-safe
 date: March 28, 2020
 excerpt: Keeping your home safe
 layout: post
-promoted: false
 redirect_from:
 - /keeping-home-safe/should-i-make-my-own-hand-sanitizer/
 sources:

@@ -1,11 +1,8 @@
 ---
-categories:
-- financial-help
 date: April 2, 2020
 excerpt: IRS issues warning about Coronavirus-related scams; watch out for schemes
   tied to economic impact payments
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/will-the-irs-call-or-email-me/
 sources:

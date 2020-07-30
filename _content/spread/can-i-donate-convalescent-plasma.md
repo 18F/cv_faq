@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: April 15, 2020
 excerpt: How it spreads
 layout: post
-promoted: true
 redirect_from:
 - /spread/can-i-donate-convalescent-plasma/
 sources:

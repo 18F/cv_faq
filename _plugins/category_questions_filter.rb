@@ -1,27 +1,15 @@
 module Jekyll
   module CategoryQuestionsFilter
-    def by_category(input, category_name, categories)
+    def by_category(question_names, question_items)
       questions = []
-      categories.each do |category|
-        if category.data['name'] == category_name
-          input.each do |question|
-            if question.data['categories'].include? category_name
-              questions << question
-            end
+      question_names.each do |question_name|
+        question_items.each do |question_item|
+          if question_item.basename_without_ext == question_name
+            questions << question_item
           end
         end
       end
-      questions.sort! do |a, b|
-        if a.promoted == b.promoted
-          a.title <=> b.title
-        elsif a.promoted
-          -1
-        elsif b.promoted
-          1
-        else
-          0
-        end
-      end
+      questions
     end
   end
 end

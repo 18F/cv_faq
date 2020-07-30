@@ -1,10 +1,7 @@
 ---
-categories:
-- food-safety
 date: April 15, 2020
 excerpt: Keeping your home safe
 layout: post
-promoted: false
 redirect_from:
 - /food-safety/are-food-products-a-risk-for-spread/
 sources:

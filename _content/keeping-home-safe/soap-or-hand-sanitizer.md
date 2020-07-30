@@ -1,10 +1,7 @@
 ---
-categories:
-- keeping-home-safe
 date: March 20, 2020
 excerpt: Keeping your home safe
 layout: post
-promoted: false
 redirect_from:
 - /keeping-home-safe/soap-or-hand-sanitizer/
 sources:

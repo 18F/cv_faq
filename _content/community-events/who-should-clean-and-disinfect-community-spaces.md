@@ -1,10 +1,7 @@
 ---
-categories:
-- community-events
 date: May 4, 2020
 excerpt: Community events
 layout: post
-promoted: false
 redirect_from:
 - /community-events/who-should-clean-and-disinfect-community-spaces/
 sources:

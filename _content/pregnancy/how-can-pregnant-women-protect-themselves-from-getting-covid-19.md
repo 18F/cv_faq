@@ -1,10 +1,7 @@
 ---
-categories:
-- pregnancy
 date: July 22, 2020
 excerpt: Pregnant women and COVID-19
 layout: post
-promoted: false
 redirect_from:
 - /pregnancy/how-can-pregnant-women-protect-themselves-from-getting-covid-19/
 sources:

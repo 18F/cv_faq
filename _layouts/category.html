@@ -2,8 +2,7 @@
 layout: default
 ---
 
-{% assign all_categories = site.categories | sort: "title" %}
-{% assign category_questions = site.content | by_category: page.name, site.categories %}
+{% assign category_questions = page.questions | by_category: site.content %}
 
 {% include schema-faq.html questions=category_questions %}
 

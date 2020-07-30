@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: May 4, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/how-effective-are-alternative-disinfection-methods/
 sources:

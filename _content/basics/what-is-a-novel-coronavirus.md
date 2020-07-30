@@ -1,10 +1,7 @@
 ---
-categories:
-- basics
 date: April 30, 2020
 excerpt: About COVID-19
 layout: post
-promoted: true
 redirect_from:
 - /spread/what-is-the-source-of-the-virus/
 - /basics/what-is-a-novel-coronavirus/

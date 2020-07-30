@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: June 20, 2020
 excerpt: How it spreads
 layout: post
-promoted: false
 redirect_from:
 - /spread/can-the-virus-that-causes-covid-19-be-spread-through-food/
 sources:

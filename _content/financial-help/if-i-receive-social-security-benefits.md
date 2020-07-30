@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: April 1, 2020
 excerpt: 'Employee Retention Tax Credit: What You Need to Know'
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/if-i-receive-social-security-benefits/
 sources:

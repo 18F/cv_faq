@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: April 15, 2020
 excerpt: Animal coronaviruses
 layout: post
-promoted: false
 redirect_from:
 - /animals/if-my-pet-has-been-vaccinated-for-species-specific-cornavirus/
 sources:

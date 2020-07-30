@@ -1,10 +1,7 @@
 ---
-categories:
-- underlying-conditions
 date: March 23, 2020
 excerpt: Underlying conditions
 layout: post
-promoted: false
 redirect_from:
 - /underlying-conditions/how-were-the-underlying-conditions-selected/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: June 11, 2020
 excerpt: Supplemental Nutrition Assistance Program (SNAP) eligibility
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/if-my-financial-situation-changed-could-i-be-eligible-for-snap/
 sources:

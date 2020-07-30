@@ -1,10 +1,7 @@
 ---
-categories:
-- symptoms-and-testing
 date: March 23, 2020
 excerpt: Symptoms and testing
 layout: post
-promoted: true
 redirect_from:
 - /symptoms-and-testing/where-can-i-get-tested/
 sources:

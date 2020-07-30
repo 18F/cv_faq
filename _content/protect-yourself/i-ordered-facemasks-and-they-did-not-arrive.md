@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: July 17, 2020
 excerpt: Ordered PPE but it didn't arrive
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/i-ordered-facemasks-and-they-did-not-arrive/
 sources:

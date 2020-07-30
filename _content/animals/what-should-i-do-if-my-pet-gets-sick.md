@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: April 13, 2020
 excerpt: COVID-19 and animals
 layout: post
-promoted: false
 redirect_from:
 - /animals/what-should-i-do-if-my-pet-gets-sick/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- symptoms-and-testing
 date: April 21, 2020
 excerpt: Symptoms and testing
 layout: post
-promoted: true
 redirect_from:
 - /symptoms-and-testing/are-there-home-tests/
 sources:

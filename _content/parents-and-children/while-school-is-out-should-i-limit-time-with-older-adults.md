@@ -1,10 +1,7 @@
 ---
-categories:
-- parents-and-children
 date: March 23, 2020
 excerpt: School dismissals and children
 layout: post
-promoted: false
 redirect_from:
 - /parents-and-children/while-shool-is-out-should-i-limit-time-with-older-adults/
 - /rumors/are-older-folks-the-only-ones-at-risk/

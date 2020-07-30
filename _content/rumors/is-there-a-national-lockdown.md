@@ -1,10 +1,7 @@
 ---
-categories:
-- rumors
 date: March 26, 2020
 excerpt: Get the facts about coronavirus
 layout: post
-promoted: false
 redirect_from:
 - /get-facts/is-there-a-national-lockdown/
 - /rumors/is-there-a-national-lockdown/

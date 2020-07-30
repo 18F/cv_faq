@@ -1,10 +1,7 @@
 ---
-categories:
-- travel
 date: March 27, 2020
 excerpt: 'Travel: Air or cruise travel'
 layout: post
-promoted: true
 redirect_from:
 - /travel/what-is-the-risk-of-getting-covid-19-on-an-airplane/
 sources:

@@ -84,6 +84,6 @@ def write_categories(categories):
 
 
 if __name__ == '__main__':
-    categories = extract_categories(False)
+    categories = extract_categories(True)
     write_categories(categories)
     pass
