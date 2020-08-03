@@ -1,10 +1,7 @@
 ---
-categories:
-- funerals
 date: April 27, 2020
 excerpt: Department of Veterans Affairs' national cemeteries remain open
 layout: post
-promoted: false
 redirect_from:
 - /funerals/are-department-of-veterans-affairs-national-cemetaries-open/
 - /funerals/are-department-of-veterans-affairs-national-cemeteries-open/

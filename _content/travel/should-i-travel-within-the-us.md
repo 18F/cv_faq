@@ -1,10 +1,7 @@
 ---
-categories:
-- travel
 date: May 1, 2020
 excerpt: 'Travel: Canceling or postponing travel'
 layout: post
-promoted: true
 redirect_from:
 - /travel/should-i-travel-within-the-us/
 sources:

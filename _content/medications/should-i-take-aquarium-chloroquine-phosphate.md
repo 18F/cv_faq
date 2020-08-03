@@ -1,10 +1,7 @@
 ---
-categories:
-- medications
 date: June 15, 2020
 excerpt: Drugs and medications
 layout: post
-promoted: false
 redirect_from:
 - /medications/is-chloroquine-phosphate-from-aquarium-same-as-that-fda-has-issued/
 - /medications/should-i-take-aquarium-chloroquine-phosphate/

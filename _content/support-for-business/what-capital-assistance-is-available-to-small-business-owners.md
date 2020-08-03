@@ -1,10 +1,7 @@
 ---
-categories:
-- support-for-business
 date: March 30, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
-promoted: false
 redirect_from:
 - /support-for-business/what-capital-assistance-is-available-to-small-business-owners/
 sources:

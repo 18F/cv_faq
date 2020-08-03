@@ -1,10 +1,7 @@
 ---
-categories:
-- basics
 date: June 25, 2020
 excerpt: About COVID-19
 layout: post
-promoted: false
 redirect_from:
 - /basics/what-does-the-mortality-rate-mean/
 sources:

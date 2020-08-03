@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: April 23, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/am-i-at-risk-for-covid-19-from-packages-or-products-shipping-from-china/
 sources:

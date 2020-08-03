@@ -1,10 +1,7 @@
 ---
-categories:
-- rumors
 date: July 17, 2020
 excerpt: Get the facts about coronavirus
 layout: post
-promoted: false
 redirect_from:
 - /rumors/how-can-i-find-out-about-frauds-and-scams/
 sources:

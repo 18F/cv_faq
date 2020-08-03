@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: May 21, 2020
 excerpt: How do I prepare for hurricane season during COVID-19?
 layout: post
-promoted: true
 redirect_from:
 - /protect-yourself/how-do-i-prepare-for-hurricane-season-during-covid19/
 sources:

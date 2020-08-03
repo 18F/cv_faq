@@ -1,10 +1,7 @@
 ---
-categories:
-- parents-and-children
 date: April 21, 2020
 excerpt: COVID-19 and children
 layout: post
-promoted: false
 redirect_from:
 - /parents-and-children/additional-steps-child-special-healthcare-need/
 sources:

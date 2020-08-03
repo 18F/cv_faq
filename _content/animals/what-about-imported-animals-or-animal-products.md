@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: March 23, 2020
 excerpt: COVID-19 and animals
 layout: post
-promoted: false
 redirect_from:
 - /animals/what-about-imported-animals-or-animal-products/
 sources:

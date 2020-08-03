@@ -1,10 +1,7 @@
 ---
-categories:
-- parents-and-children
 date: June 29, 2020
 excerpt: School dismissals and children
 layout: post
-promoted: false
 redirect_from:
 - /keeping-home-safe/school-is-dismissed/
 - /parents-and-children/how-can-i-prepare-in-case-my-childs-school-is-dismissed/

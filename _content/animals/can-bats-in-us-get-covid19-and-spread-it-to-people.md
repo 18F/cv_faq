@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: April 23, 2020
 excerpt: COVID-19 and animals
 layout: post
-promoted: false
 redirect_from:
 - /animals/can-bats-in-us-get-covid19-and-spread-it-to-people/
 sources:

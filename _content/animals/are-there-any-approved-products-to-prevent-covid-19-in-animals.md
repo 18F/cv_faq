@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: April 15, 2020
 excerpt: Animals and medications
 layout: post
-promoted: false
 redirect_from:
 - /animals/are-there-any-approved-products-to-prevent-covid-19-in-animals/
 sources:

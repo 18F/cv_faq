@@ -1,10 +1,7 @@
 ---
-categories:
-- funerals
 date: June 11, 2020
 excerpt: Schedule a burial at a national cemetery
 layout: post
-promoted: false
 redirect_from:
 - /funerals/can-i-schedule-burial-national-cemetery/
 sources:

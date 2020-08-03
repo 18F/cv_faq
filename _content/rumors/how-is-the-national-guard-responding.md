@@ -1,10 +1,7 @@
 ---
-categories:
-- rumors
 date: June 17, 2020
 excerpt: Get the facts about coronavirus
 layout: post
-promoted: false
 redirect_from:
 - /get-facts/is-fema-deploying-the-military/
 - /rumors/is-fema-deploying-the-military/

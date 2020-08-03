@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: April 27, 2020
 excerpt: Visiting a patient at a Department of Veterans Affairs facility
 layout: post
-promoted: false
 redirect_from:
 - /retirement-communities/can-i-visit-patient-at-department-of-veterans-affairs-facility/
 - /protect-yourself/can-i-visit-patient-at-department-of-veterans-affairs-facility/

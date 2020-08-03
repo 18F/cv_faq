@@ -1,10 +1,7 @@
 ---
-categories:
-- symptoms-and-testing
 date: April 23, 2020
 excerpt: Symptoms and testing
 layout: post
-promoted: false
 redirect_from:
 - /symptoms-and-testing/kind-of-test-used-to-diagnose-covid19/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- rumors
 date: July 17, 2020
 excerpt: Get the facts about coronavirus
 layout: post
-promoted: false
 redirect_from:
 - /rumors/i-am-getting-calls-from-people-claiming-they-are-from-the-government/
 sources:

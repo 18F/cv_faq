@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: April 15, 2020
 excerpt: Animal food supply
 layout: post
-promoted: false
 redirect_from:
 - /animals/will-there-be-animal-food-shortages/
 sources:

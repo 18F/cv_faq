@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: April 24, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/i-recently-filed-what-do-i-need-to-do-to-get-payment/
 sources:

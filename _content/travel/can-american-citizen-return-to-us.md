@@ -1,10 +1,7 @@
 ---
-categories:
-- travel
 date: May 29, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
-promoted: false
 redirect_from:
 - /travel/can-american-citizen-return-to-us/
 sources:

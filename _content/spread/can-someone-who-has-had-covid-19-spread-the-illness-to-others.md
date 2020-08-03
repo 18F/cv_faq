@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: March 23, 2020
 excerpt: How it spreads
 layout: post
-promoted: false
 redirect_from:
 - /spread/can-someone-who-has-been-quarantined-for-covid-19-spread-the-illness-to-others/
 - /spread/can-someone-who-has-had-covid-19-spread-the-illness-to-others/

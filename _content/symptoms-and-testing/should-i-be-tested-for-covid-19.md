@@ -1,10 +1,7 @@
 ---
-categories:
-- symptoms-and-testing
 date: June 20, 2020
 excerpt: Symptoms and testing
 layout: post
-promoted: true
 redirect_from:
 - /symptoms-and-testing/should-i-be-tested-for-covid-19/
 sources:

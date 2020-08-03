@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: May 4, 2020
 excerpt: Protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/is-cleaning-alone-effective-against-the-virus/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- travel
 date: April 03, 2020
 excerpt: 'Travel: Air or cruise travel'
 layout: post
-promoted: false
 redirect_from:
 - /travel/should-travelers-wear-facemasks/
 sources:

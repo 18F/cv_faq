@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: April 23, 2020
 excerpt: COVID-19 and animals
 layout: post
-promoted: false
 redirect_from:
 - /animals/since-tigers-can-get-infected-should-i-worry-about-my-pet-cat/
 sources:

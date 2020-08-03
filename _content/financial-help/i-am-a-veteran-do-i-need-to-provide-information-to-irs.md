@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: May 21, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/i-am-a-veteran-do-i-need-to-provide-information-to-irs/
 sources:

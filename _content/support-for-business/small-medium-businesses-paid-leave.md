@@ -1,11 +1,8 @@
 ---
-categories:
-- support-for-business
 date: April 1, 2020
 excerpt: Treasury and IRS Release FAQs to Help Small and Midsize Businesses Navigate
   Paid Sick and Family Leave Tax Credits
 layout: post
-promoted: false
 redirect_from:
 - /support-for-business/small-medium-businesses-paid-leave/
 sources:

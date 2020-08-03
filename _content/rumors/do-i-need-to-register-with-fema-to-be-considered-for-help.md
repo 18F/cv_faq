@@ -1,10 +1,7 @@
 ---
-categories:
-- rumors
 date: June 17, 2020
 excerpt: Get the facts about coronavirus
 layout: post
-promoted: false
 redirect_from:
 - /rumors/do-i-need-to-register-with-fema-to-be-considered-for-help/
 sources:

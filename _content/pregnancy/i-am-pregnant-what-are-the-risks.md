@@ -1,10 +1,7 @@
 ---
-categories:
-- pregnancy
 date: June 9, 2020
 excerpt: Pregnant women and COVID-19
 layout: post
-promoted: false
 redirect_from:
 - /pregnancy/if-a-pregnant-woman-has-covid-19-during-pregnancy-will-it-hurt-the-baby/
 - /pregnancy/can-covid19-cause-problems-for-pregnancy/

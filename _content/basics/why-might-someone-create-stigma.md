@@ -1,10 +1,7 @@
 ---
-categories:
-- basics
 date: April 4, 2020
 excerpt: About COVID-19
 layout: post
-promoted: true
 redirect_from:
 - /basics/why-might-someone-create-stigma/
 sources:

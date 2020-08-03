@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: April 27, 2020
 excerpt: Online classes qualify for GI Bill benefits
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/do-online-classes-still-qualify-for-gi-bill-benefits/
 sources:

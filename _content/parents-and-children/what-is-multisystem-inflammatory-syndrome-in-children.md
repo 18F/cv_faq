@@ -1,10 +1,7 @@
 ---
-categories:
-- parents-and-children
 date: June 20, 2020
 excerpt: COVID-19 and children
 layout: post
-promoted: false
 redirect_from:
 - /parents-and-children/what-is-multisystem-inflammatory-syndrome-in-children/
 sources:

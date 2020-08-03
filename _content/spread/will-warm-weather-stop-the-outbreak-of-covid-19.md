@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: March 16, 2020
 excerpt: How it spreads
 layout: post
-promoted: false
 redirect_from:
 - /spread/what-temperature-kills-the-virus/
 - /spread/will-warm-weather-stop-the-outbreak-of-covid-19/

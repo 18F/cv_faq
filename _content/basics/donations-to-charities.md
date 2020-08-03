@@ -1,10 +1,7 @@
 ---
-categories:
-- basics
 date: July 17, 2020
 excerpt: About COVID-19
 layout: post
-promoted: false
 redirect_from:
 - /basics/donations-to-charities/
 sources:

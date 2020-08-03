@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: June 11, 2020
 excerpt: Supplemental Nutrition Assistance Program (SNAP) online pilot
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/can-snap-participants-order-groceries-online/
 sources:

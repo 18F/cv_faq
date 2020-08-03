@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: March 30, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/what-should-i-do-if-i-receive-calls-claiming-to-be-from-the-treasury-department/
 sources:

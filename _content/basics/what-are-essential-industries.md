@@ -1,10 +1,7 @@
 ---
-categories:
-- basics
 date: March 29, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
-promoted: false
 redirect_from:
 - /basics/what-are-essential-industries/
 sources:

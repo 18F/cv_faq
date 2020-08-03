@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: July 22, 2020
 excerpt: missed tax day
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/is-the-government-delaying-tax-day/
 - /financial-help/unable-to-file-taxes-by-july-15/

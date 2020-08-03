@@ -1,10 +1,7 @@
 ---
-categories:
-- parents-and-children
 date: June 29, 2020
 excerpt: Parents and children
 layout: post
-promoted: false
 redirect_from:
 - /parents-and-children/while-school-is-out-how-can-i-keep-my-family-healthy/
 - /parents-and-children/how-can-i-keep-my-children-healthy/

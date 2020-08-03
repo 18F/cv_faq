@@ -1,10 +1,7 @@
 ---
-categories:
-- support-for-business
 date: July 17, 2020
 excerpt: calls to small businesses promising quick financial relief
 layout: post
-promoted: false
 redirect_from:
 - /support-for-business/calls-to-small-businesses-promising-quick-financial-relief/
 sources:

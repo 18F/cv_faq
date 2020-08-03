@@ -9,7 +9,7 @@ layout: null
     "answer": "{{ content.content | strip_html | strip_newlines | remove_chars | escape }}",
     "answer_html": "{{ content.content | strip_newlines | replace: '"', '\"' }}",
     "updated_at": "{{ content.date | date: '%Y-%m-%d' }}",
-    "categories": [{% for question_category in content.categories %}{%- assign category = site.categories | where: 'name', question_category | first %}{
+    "categories": [{% assign question_categories = site.categories | for_question: content.slug %}{%- for category in question_categories %}{
       "title": "{{ category.title }}",
       "category_url": "{{ site.url }}/{{ category.name | downcase }}/"
     }{% unless forloop.last %}, {% endunless %}{% endfor %}],

@@ -1,10 +1,7 @@
 ---
-categories:
-- basics
 date: June 20, 2020
 excerpt: About COVID-19
 layout: post
-promoted: false
 redirect_from:
 - /basics/why-is-the-disease-called-covid-19/
 sources:

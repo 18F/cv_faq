@@ -1,10 +1,7 @@
 ---
-categories:
-- food-safety
 date: April 15, 2020
 excerpt: Keeping your home safe
 layout: post
-promoted: false
 redirect_from:
 - /rumors/should-i-stock-up-on-food-and-supplies/
 - /food-safety/will-there-be-food-shortages/
