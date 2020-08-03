@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: May 4, 2020
 excerpt: How it spreads
 layout: post
-promoted: false
 redirect_from:
 - /spread/should-sidewalks-and-roads-be-disinfected-to-prevent-covid-19/
 sources:

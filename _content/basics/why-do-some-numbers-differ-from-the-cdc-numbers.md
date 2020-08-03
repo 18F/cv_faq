@@ -1,10 +1,7 @@
 ---
-categories:
-- basics
 date: June 25, 2020
 excerpt: About COVID-19
 layout: post
-promoted: false
 redirect_from:
 - /basics/how-does-cdc-covid19-case-numbers-compare-with-who/
 - /basics/states-covid19-cases-numbers-differ-from-cdc-website/

@@ -1,10 +1,7 @@
 ---
-categories:
-- travel
 date: March 27, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
-promoted: true
 redirect_from:
 - /travel/what-if-i-recently-traveled-and-get-sick/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- underlying-conditions
 date: April 4, 2020
 excerpt: Underlying conditions
 layout: post
-promoted: true
 redirect_from:
 - /underlying-conditions/who-is-at-higher-risk-for-serious-illness-from-covid-19/
 sources:

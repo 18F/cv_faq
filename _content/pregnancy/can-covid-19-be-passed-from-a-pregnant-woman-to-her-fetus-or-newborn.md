@@ -1,10 +1,7 @@
 ---
-categories:
-- pregnancy
 date: July 22, 2020
 excerpt: Pregnant women and COVID-19
 layout: post
-promoted: false
 redirect_from:
 - /pregnancy/can-covid-19-be-passed-from-a-pregnant-woman-to-her-fetus-or-newborn/
 sources:

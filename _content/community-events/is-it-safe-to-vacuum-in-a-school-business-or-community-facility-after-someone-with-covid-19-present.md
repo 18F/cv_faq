@@ -1,10 +1,7 @@
 ---
-categories:
-- community-events
 date: May 4, 2020
 excerpt: Community events
 layout: post
-promoted: false
 redirect_from:
 - /community-events/is-it-safe-to-vacuum-in-a-school-business-or-community-facility-after-someone-with-covid-19-present/
 sources:

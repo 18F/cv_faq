@@ -1,10 +1,7 @@
 ---
-categories:
-- basics
 date: June 25, 2020
 excerpt: About COVID-19
 layout: post
-promoted: false
 redirect_from:
 - /basics/why-do-case-numbers-from-previous-day-increase/
 - /basics/why-are-the-death-counts-different-from-provisional-counts/

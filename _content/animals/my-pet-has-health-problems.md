@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: April 15, 2020
 excerpt: Pet health problems
 layout: post
-promoted: false
 redirect_from:
 - /animals/my-pet-has-health-problems/
 sources:

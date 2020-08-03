@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: March 30, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/the-irs-does-not-have-my-direct-deposit-information/
 - /financial-help/how-will-the-irs-know-where-to-send/

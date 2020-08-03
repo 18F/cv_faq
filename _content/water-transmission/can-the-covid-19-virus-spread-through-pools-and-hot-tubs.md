@@ -1,10 +1,7 @@
 ---
-categories:
-- water-transmission
 date: April 23, 2020
 excerpt: Water transmission and COVID-19
 layout: post
-promoted: false
 redirect_from:
 - /water-transmission/can-the-covid-19-virus-spread-through-pools-and-hot-tubs/
 sources:

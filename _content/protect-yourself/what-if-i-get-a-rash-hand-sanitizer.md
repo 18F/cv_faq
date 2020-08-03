@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: April 15, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/what-if-i-get-a-rash-hand-sanitizer/
 sources:

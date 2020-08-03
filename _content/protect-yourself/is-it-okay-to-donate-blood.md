@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: March 23, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/is-it-okay-to-donate-blood/
 sources:

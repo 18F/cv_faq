@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: April 13, 2020
 excerpt: COVID-19 and animals
 layout: post
-promoted: false
 redirect_from:
 - /animals/why-are-animals-being-tested-when-people-cant/
 sources:

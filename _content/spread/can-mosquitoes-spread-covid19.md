@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: March 28, 2020
 excerpt: How it spreads
 layout: post
-promoted: false
 redirect_from:
 - /spread/can-mosquitoes-spread-covid19/
 sources:

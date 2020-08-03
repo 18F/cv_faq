@@ -1,10 +1,7 @@
 ---
-categories:
-- travel
 date: June 5, 2020
 excerpt: 'Travel: Air or cruise travel'
 layout: post
-promoted: false
 redirect_from:
 - /travel/what-expect-airport-security-checkpoints/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- keeping-home-safe
 date: June 27, 2020
 excerpt: Keeping your home safe
 layout: post
-promoted: false
 redirect_from:
 - /keeping-home-safe/how-can-family-prepare/
 - /keeping-home-safe/how-can-i-prepare-for-an-outbreak/

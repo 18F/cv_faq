@@ -1,10 +1,7 @@
 ---
-categories:
-- parents-and-children
 date: May 4, 2020
 excerpt: Parents and children
 layout: post
-promoted: false
 redirect_from:
 - /parents-and-children/should-outdoor-playgrounds-be-cleaned-and-disinfected/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- travel
 date: May 20, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
-promoted: false
 redirect_from:
 - /travel/when-will-the-borders-reopen/
 sources:

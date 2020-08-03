@@ -1,10 +1,7 @@
 ---
-categories:
-- animals
 date: April 21, 2020
 excerpt: COVID-19 and animals
 layout: post
-promoted: false
 redirect_from:
 - /animals/can-i-travel-to-the-us-with-dogs/
 sources:

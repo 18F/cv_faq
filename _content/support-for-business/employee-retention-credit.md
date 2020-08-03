@@ -1,10 +1,7 @@
 ---
-categories:
-- support-for-business
 date: April 1, 2020
 excerpt: 'Employee Retention Tax Credit: What You Need to Know'
 layout: post
-promoted: false
 redirect_from:
 - /support-for-business/employee-retention-credit/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: March 23, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/what-should-people-at-higher-risk-of-serious-illness-with-covid-19-do/
 sources:

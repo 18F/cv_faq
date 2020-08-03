@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: June 20, 2020
 excerpt: How it spreads
 layout: post
-promoted: true
 redirect_from:
 - /spread/what-is-community-spread/
 sources:

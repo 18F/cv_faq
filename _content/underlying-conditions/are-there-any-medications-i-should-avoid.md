@@ -1,10 +1,7 @@
 ---
-categories:
-- underlying-conditions
 date: April 10, 2020
 excerpt: Underlying conditions
 layout: post
-promoted: false
 redirect_from:
 - /underlying-conditions/are-there-any-medications-i-should-avoid/
 sources:

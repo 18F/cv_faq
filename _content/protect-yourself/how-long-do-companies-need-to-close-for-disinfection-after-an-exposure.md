@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: June 27, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/can-cdc-tell-me-when-it-is-safe-to-go-back/
 - /protect-yourself/how-long-do-companies-need-to-close-for-disinfection-after-an-exposure/

@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: June 27, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/should-i-go-to-work-if-there-is-an-outbreak-in-my-community/
 - /protect-yourself/how-can-i-prepare-for-covid19-at-work/

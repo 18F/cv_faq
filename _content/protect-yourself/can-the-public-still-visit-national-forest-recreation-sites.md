@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: June 11, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/can-the-public-still-visit-national-forest-recreation-sites/
 sources:

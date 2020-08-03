@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: April 15, 2020
 excerpt: How it spreads
 layout: post
-promoted: false
 redirect_from:
 - /spread/should-ill-food-workers-stay-home/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- funerals
 date: June 25, 2020
 excerpt: COVID-19 and funerals
 layout: post
-promoted: false
 redirect_from:
 - /funerals/how-to-safely-handle-belongings-of-someone-died-from-covid-19/
 sources:

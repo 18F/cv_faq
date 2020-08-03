@@ -1,10 +1,7 @@
 ---
-categories:
-- travel
 date: March 27, 2020
 excerpt: 'Travel: Air or cruise travel'
 layout: post
-promoted: false
 redirect_from:
 - /travel/should-i-go-on-a-cruise/
 sources:

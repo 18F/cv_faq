@@ -1,10 +1,7 @@
 ---
-categories:
-- parents-and-children
 date: June 29, 2020
 excerpt: COVID-19 and children
 layout: post
-promoted: false
 redirect_from:
 - /parents-and-children/what-to-do-if-child-has-difficulty-adjusting/
 sources:

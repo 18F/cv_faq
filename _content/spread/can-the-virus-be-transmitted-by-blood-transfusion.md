@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: April 15, 2020
 excerpt: How it spreads
 layout: post
-promoted: false
 redirect_from:
 - /spread/can-the-virus-be-transmitted-by-blood-transfusion/
 sources:

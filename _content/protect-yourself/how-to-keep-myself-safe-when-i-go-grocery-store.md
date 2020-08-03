@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: April 20, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/how-to-keep-myself-safe-when-i-go-grocery-store/
 sources:

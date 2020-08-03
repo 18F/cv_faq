@@ -1,10 +1,7 @@
 ---
-categories:
-- rumors
 date: June 5, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
-promoted: false
 redirect_from:
 - /rumors/are-uscis-offices-closed-for-covid/
 - /rumors/are-uscis-offices-open/

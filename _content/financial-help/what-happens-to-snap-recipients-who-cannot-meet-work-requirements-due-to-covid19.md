@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: June 11, 2020
 excerpt: Supplemental Nutrition Assistance Program (SNAP) online pilot
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/what-happens-to-snap-recipients-who-cannot-meet-work-requirements-due-to-covid19/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- financial-help
 date: April 15, 2020
 excerpt: Essential workers
 layout: post
-promoted: false
 redirect_from:
 - /financial-help/how-do-i-know-if-i-am-an-essential-worker/
 sources:

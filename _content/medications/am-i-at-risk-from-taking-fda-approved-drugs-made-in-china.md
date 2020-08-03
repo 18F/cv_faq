@@ -1,10 +1,7 @@
 ---
-categories:
-- medications
 date: April 15, 2020
 excerpt: Drugs and medications
 layout: post
-promoted: false
 redirect_from:
 - /medications/am-i-at-risk-from-taking-fda-approved-drugs-made-in-china/
 sources:

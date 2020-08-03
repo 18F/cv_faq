@@ -1,10 +1,7 @@
 ---
-categories:
-- spread
 date: April 15, 2020
 excerpt: How it spreads
 layout: post
-promoted: false
 redirect_from:
 - /spread/can-i-get-covid-19-from-a-food-worker/
 sources:

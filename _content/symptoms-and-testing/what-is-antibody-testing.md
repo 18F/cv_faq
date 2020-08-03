@@ -1,10 +1,7 @@
 ---
-categories:
-- symptoms-and-testing
 date: April 30, 2020
 excerpt: Symptoms and testing
 layout: post
-promoted: false
 redirect_from:
 - /symptoms-and-testing/what-is-serology-testing/
 - /symptoms-and-testing/what-is-antibody-testing/

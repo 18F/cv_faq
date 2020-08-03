@@ -1,10 +1,7 @@
 ---
-categories:
-- basics
 date: June 25, 2020
 excerpt: About COVID-19
 layout: post
-promoted: true
 redirect_from:
 - /basics/how-can-people-help-stop-stigma-related-to-covid-19/
 sources:

@@ -1,10 +1,7 @@
 ---
-categories:
-- medications
 date: April 15, 2020
 excerpt: Drugs and medications
 layout: post
-promoted: false
 redirect_from:
 - /medications/what-is-fda-doing-to-protect-people-from-fraud/
 sources:

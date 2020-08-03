@@ -1,10 +1,7 @@
 ---
-categories:
-- protect-yourself
 date: April 8, 2020
 excerpt: How to protect yourself
 layout: post
-promoted: false
 redirect_from:
 - /protect-yourself/should-contact-lens-wearers-take-extra-precaustions/
 sources:

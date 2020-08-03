@@ -1,13 +1,37 @@
 ---
+banner:
+  content: 'You can set this component to ''display: true'' to show a banner at the
+    top of the page.'
+  display: false
+  heading: This is a place to place urgent information
 layout: category
 name: protect-yourself
-title: "How to protect yourself"
 owner: CDC
-banner:
-  display: false
-  heading: "This is a place to place urgent information"
-  content: "You can set this component to 'display: true' to show a banner at the top of the page."
+questions:
+- how-can-i-protect-myself
+- how-do-i-prepare-for-hurricane-season-during-covid19
+- if-i-need-to-evacuate-my-home-during-the-covid19-pandemic
+- what-should-i-do-if-i-had-close-contact-with-someone-who-has-covid-19
+- am-i-at-risk-for-covid-19-from-packages-or-products-shipping-from-china
+- can-disinfectant-sprays-or-wipes-be-used-on-my-skin
+- can-i-visit-patient-at-department-of-veterans-affairs-facility
+- can-the-public-still-visit-national-forest-recreation-sites
+- does-cdc-recommend-facemasks
+- how-can-i-prepare-for-covid19-at-work
+- how-effective-are-alternative-disinfection-methods
+- how-long-do-companies-need-to-close-for-disinfection-after-an-exposure
+- i-ordered-facemasks-and-they-did-not-arrive
+- is-cleaning-alone-effective-against-the-virus
+- is-contact-lens-disinfecting-solution-effective-against-covid-19
+- is-it-okay-to-donate-blood
+- is-it-safe-to-get-medical-care-for-other-conditions
+- should-contact-lens-wearers-take-extra-precaustions
+- how-to-keep-myself-safe-when-i-go-grocery-store
+- what-if-i-get-a-rash-hand-sanitizer
+- what-is-routine-cleaning
+- what-should-people-at-higher-risk-of-serious-illness-with-covid-19-do
 redirect_from:
-  - /retirement-communities/case-in-the-facility/
-  - /retirement-communities/planning-and-preparedness/
+- /retirement-communities/case-in-the-facility/
+- /retirement-communities/planning-and-preparedness/
+title: How to protect yourself
 ---
