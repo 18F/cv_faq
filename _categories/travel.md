@@ -9,25 +9,26 @@ layout: category
 name: travel
 owner: CDC
 questions:
-- should-i-cancel-my-international-travel
 - should-i-travel-within-the-us
-- sick-passenger-on-my-flight
-- what-if-i-recently-traveled-and-get-sick
 - what-is-the-risk-of-getting-covid-19-on-an-airplane
-- are-undocumented-immigrants-still-being-held
-- are-the-northern-southern-us-borders-closed
-- which-airports-have-enhanced-travel-screening
-- is-it-safe-to-travel-to-campgrounds-or-go-camping
-- is-it-safe-to-visit-family-friends
+- which-countries-are-subject-travel-restrictions-us
+- should-i-cancel-my-international-travel
+- return-to-work-international-travel
 - can-american-citizen-return-to-us
-- should-i-go-on-a-cruise
-- should-travelers-wear-facemasks
 - what-can-i-expect-when-arriving-to-the-united-states
+- which-airports-have-enhanced-travel-screening
 - what-can-i-expect-when-departing-other-countries
 - what-expect-airport-security-checkpoints
-- return-to-work-international-travel
-- when-will-the-borders-reopen
-- which-countries-are-subject-travel-restrictions-us
+- should-travelers-wear-facemasks
+- sick-passenger-on-my-flight
+- what-if-i-recently-traveled-and-get-sick
+- should-i-go-on-a-cruise
+- is-it-safe-to-travel-to-campgrounds-or-go-camping
+- is-it-safe-to-visit-family-friends
+- are-undocumented-immigrants-still-being-held
+- are-the-northern-southern-us-borders-closed
 - will-read-id-implementation-be-delayed
+- when-will-the-borders-reopen
+
 title: Traveling
 ---

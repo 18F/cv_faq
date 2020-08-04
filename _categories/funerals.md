@@ -10,12 +10,12 @@ owner: CDC
 questions:
 - am-i-at-risk-funeral
 - am-i-at-risk-touch-body
+- can-i-schedule-burial-national-cemetery
 - are-department-of-veterans-affairs-national-cemeteries-open
 - can-i-schedule-committal-service-military-funeral-service-honors
-- can-i-schedule-burial-national-cemetery
-- how-to-safely-handle-belongings-of-someone-died-from-covid-19
-- what-are-requirements-to-return-body-to-united-states
 - what-do-funeral-home-workers-need-to-know
+- how-to-safely-handle-belongings-of-someone-died-from-covid-19
 - if-someone-dies-overseas
+- what-are-requirements-to-return-body-to-united-states
 title: Funerals
 ---
