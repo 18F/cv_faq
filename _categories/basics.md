@@ -8,17 +8,18 @@ layout: category
 name: basics
 owner: CDC
 questions:
-- how-can-i-manage-anxiety-stress
-- how-can-people-help-stop-stigma-related-to-covid-19
 - what-is-a-novel-coronavirus
+- how-can-people-help-stop-stigma-related-to-covid-19
 - what-treatments-are-available
+- why-is-the-disease-called-covid-19
+- how-can-i-manage-anxiety-stress
 - why-might-someone-create-stigma
-- is-there-a-list-of-essential-industries
-- donations-to-charities
-- what-are-essential-industries
 - what-does-the-mortality-rate-mean
 - why-are-the-death-counts-different-from-provisional-counts
 - why-do-some-numbers-differ-from-the-cdc-numbers
-- why-is-the-disease-called-covid-19
+- what-are-essential-industries
+- is-there-a-list-of-essential-industries
+- donations-to-charities
+
 title: About COVID-19
 ---
