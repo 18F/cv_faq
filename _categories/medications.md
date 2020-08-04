@@ -8,17 +8,17 @@ layout: category
 name: medications
 owner: FDA
 questions:
-- am-i-at-risk-from-taking-fda-approved-drugs-made-in-china
-- are-antibiotics-effective
 - are-chloroquine-phosphate-hydroxychloroquine-effective
 - are-there-any-approved-medicines
+- should-i-take-ivermectin
+- are-antibiotics-effective
+- does-remdesivir-benefit-patients-with-covid-19
 - are-there-any-vaccines-to-prevent-covid-19
 - are-there-going-to-be-drug-shortages
-- does-remdesivir-benefit-patients-with-covid-19
+- am-i-at-risk-from-taking-fda-approved-drugs-made-in-china
+- what-is-fda-doing-to-protect-people-from-fraud
 - ads-for-covid-treatments-and-cures
 - should-i-take-aquarium-chloroquine-phosphate
-- should-i-take-ivermectin
-- what-is-fda-doing-to-protect-people-from-fraud
 - will-miracle-mineral-solution-cure-covid-19
 title: Medications
 ---

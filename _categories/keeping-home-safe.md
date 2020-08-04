@@ -8,12 +8,12 @@ layout: category
 name: keeping-home-safe
 owner: CDC
 questions:
-- how-can-i-prepare-for-an-outbreak
+- if-someone-in-my-house-gets-sick
+- which-cleaning-products
 - should-i-make-my-own-hand-sanitizer
 - soap-or-hand-sanitizer
-- which-cleaning-products
 - what-is-the-difference-between-cleaning-and-disinfecting
-- if-someone-in-my-house-gets-sick
+- how-can-i-prepare-for-an-outbreak
 - family-reduce-risk
 redirect_from: /keeping-home-safe/can-i-get-coronavirus-from-food/
 title: Keeping your home safe

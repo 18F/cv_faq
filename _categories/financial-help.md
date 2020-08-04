@@ -12,6 +12,7 @@ questions:
 - what-do-i-do-if-i-cant-pay-rent
 - how-do-i-know-if-i-am-an-essential-worker
 - who-is-eligible-for-payment
+- where-can-i-go-for-more-information
 - is-the-irs-sending-prepaid-debit-cards
 - why-am-i-receiving-a-debit-card
 - what-do-i-do-if-i-lost-my-eip-debit-card
@@ -22,10 +23,10 @@ questions:
 - i-need-to-file-a-tax-return
 - i-no-longer-have-a-bank-account-i-used-for-tax-return
 - i-recently-filed-what-do-i-need-to-do-to-get-payment
+- missed-tax-day
 - how-do-i-submit-banking-information
 - if-i-receive-social-security-benefits
 - what-do-i-do-if-a-payment-was-sent-to-someone-who-died
-- missed-tax-day
 - will-the-irs-call-or-email-me
 - if-my-financial-situation-changed-could-i-be-eligible-for-snap
 - can-snap-participants-order-groceries-online
@@ -34,7 +35,6 @@ questions:
 - what-do-i-do-if-i-cant-pay-mortgage
 - what-do-i-do-if-someone-calls-texts-claiming-to-be-irs
 - what-should-i-do-if-i-receive-calls-claiming-to-be-from-the-treasury-department
-- where-can-i-go-for-more-information
 redirect_from:
 - /financial-help/can-the-sba-help-me-with-other-assistance/
 - /financial-help/when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses/
