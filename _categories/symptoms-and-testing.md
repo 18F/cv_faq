@@ -9,16 +9,16 @@ layout: category
 name: symptoms-and-testing
 owner: CDC
 questions:
-- are-there-home-tests
-- how-are-people-tested
-- if-antibody-tests-not-used-for-diagnosis
-- should-i-be-tested-for-covid-19
 - what-are-the-symptoms-and-complications-that-covid-19-can-cause
+- how-are-people-tested
+- should-i-be-tested-for-covid-19
+- kind-of-test-used-to-diagnose-covid19
+- are-there-home-tests
 - when-will-other-tests-be-authorized
 - where-can-i-get-tested
-- why-arent-blood-centers-testing
 - can-a-person-test-negative-and-later-test-positive-for-covid-19
 - what-is-antibody-testing
-- kind-of-test-used-to-diagnose-covid19
+- if-antibody-tests-not-used-for-diagnosis
+- why-arent-blood-centers-testing
 title: Symptoms and testing
 ---

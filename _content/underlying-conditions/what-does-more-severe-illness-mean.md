@@ -4,6 +4,7 @@ excerpt: Underlying conditions
 layout: post
 redirect_from:
 - /underlying-conditions/what-does-more-sever-illness-mean/
+- /what-does-more-sever-illness-mean/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#conditions
