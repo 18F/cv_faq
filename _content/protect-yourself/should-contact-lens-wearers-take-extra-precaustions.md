@@ -4,7 +4,6 @@ excerpt: How to protect yourself
 layout: post
 redirect_from:
 - /protect-yourself/should-contact-lens-wearers-take-extra-precaustions/
-- /should-contact-lens-wearers-take-extra-precaustions/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#accordion-5e8f163dd7986

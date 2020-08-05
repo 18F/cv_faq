@@ -12,10 +12,10 @@ questions:
 - who-is-at-higher-risk-for-serious-illness-from-covid-19
 - are-people-with-disabilities-at-higher-risk
 - i-am-pregnant-what-are-the-risks
+- are-there-any-medications-i-should-avoid
 - how-were-the-underlying-conditions-selected
 - what-about-underlying-medical-conditions-that-are-not-included-on-this-list
-- what-does-more-severe-illness-mean
+- what-does-more-sever-illness-mean
 - what-does-well-controlled-mean
-- are-there-any-medications-i-should-avoid
 title: Underlying conditions
 ---
