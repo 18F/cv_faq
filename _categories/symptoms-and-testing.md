@@ -9,6 +9,7 @@ layout: category
 name: symptoms-and-testing
 owner: CDC
 questions:
+- what-are-the-symptoms-and-complications-that-covid-19-can-cause
 - how-are-people-tested
 - should-i-be-tested-for-covid-19
 - kind-of-test-used-to-diagnose-covid19
@@ -18,7 +19,6 @@ questions:
 - can-a-person-test-negative-and-later-test-positive-for-covid-19
 - what-is-antibody-testing
 - if-antibody-tests-not-used-for-diagnosis
-- what-are-the-symptoms-and-complications-that-covid-19-can-cause
 - why-arent-blood-centers-testing
 title: Symptoms and testing
 ---
