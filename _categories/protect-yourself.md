@@ -10,8 +10,8 @@ owner: CDC
 questions:
 - how-can-i-protect-myself
 - does-cdc-recommend-facemasks
-- if-i-need-to-evacuate-my-home-during-the-covid19-pandemic
 - how-do-i-prepare-for-hurricane-season-during-covid19
+- if-i-need-to-evacuate-my-home-during-the-covid19-pandemic
 - what-should-i-do-if-i-had-close-contact-with-someone-who-has-covid-19
 - what-should-people-at-higher-risk-of-serious-illness-with-covid-19-do
 - how-to-keep-myself-safe-when-i-go-grocery-store
