@@ -9,18 +9,18 @@ name: spread
 owner: CDC
 questions:
 - how-does-the-virus-spread
-- what-is-community-spread
-- if-i-have-recovered-will-i-be-immune
-- can-someone-who-has-had-covid-19-spread-the-illness-to-others
-- will-warm-weather-stop-the-outbreak-of-covid-19
-- can-the-virus-that-causes-covid-19-be-spread-through-food
-- can-i-get-covid-19-from-a-food-worker
-- should-ill-food-workers-stay-home
-- can-mosquitoes-spread-covid19
 - can-i-donate-convalescent-plasma
-- can-the-virus-be-transmitted-by-blood-transfusion
+- what-is-community-spread
+- can-i-get-covid-19-from-a-food-worker
+- can-mosquitoes-spread-covid19
 - can-sanitizing-tunnels-be-used-to-prevent-spread
+- can-the-virus-be-transmitted-by-blood-transfusion
+- can-someone-who-has-had-covid-19-spread-the-illness-to-others
+- can-the-virus-that-causes-covid-19-be-spread-through-food
+- if-i-have-recovered-will-i-be-immune
+- should-ill-food-workers-stay-home
 - should-sidewalks-and-roads-be-disinfected-to-prevent-covid-19
+- will-warm-weather-stop-the-outbreak-of-covid-19
 redirect_from:
 - /protect-yourself/has-anyone-in-united-states-gotten-infected/
 - /protect-yourself/how-many-cases-are-there-in-the-us/
