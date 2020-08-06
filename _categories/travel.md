@@ -20,7 +20,7 @@ questions:
 - what-can-i-expect-when-departing-other-countries
 - which-airports-have-enhanced-travel-screening
 - what-expect-airport-security-checkpoints
-- should-travelers-wear-facemasks
+- should-travelers-wear-masks
 - sick-passenger-on-my-flight
 - what-if-i-recently-traveled-and-get-sick
 - should-i-go-on-a-cruise
