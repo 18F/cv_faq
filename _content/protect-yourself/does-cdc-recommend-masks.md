@@ -22,7 +22,7 @@ While people who are sick or know that they have COVID-19 should isolate at home
 
 The masks recommended are not surgical masks or N-95 respirators. Those are critical supplies that must continue to be reserved for healthcare workers and other medical first responders, as recommended by current CDC guidance.
 
-More information about cloth face coverings can be found on our cloth face coverings site.
+More information about masks can be found on CDC site.
 
 * [How to Wear](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-wear-cloth-face-coverings.html)
 * [How to Wash](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-to-wash-cloth-face-coverings.html)
