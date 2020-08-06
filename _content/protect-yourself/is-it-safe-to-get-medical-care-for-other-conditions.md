@@ -21,6 +21,6 @@ title: Is it safe to get care for my other medical conditions during this time?
 * **Do not delay getting emergency care for your health problems or any health condition that requires immediate attention.**
   * If you need emergency help, call 911.
   * Emergency departments have infection prevention plans to protect you from getting COVID-19 if you need care for your medical condition.
-* **Continue** to practice [everyday prevention](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). Wash your hands often, avoid close contact, wear a cloth face covering, cover coughs and sneezes, and clean and disinfect frequently touched surfaces often.
+* **Continue** to practice [everyday prevention](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/index.html). Wash your hands often, avoid close contact, wear a mask, cover coughs and sneezes, and clean and disinfect frequently touched surfaces often.
 
 For more information, see [Groups at Higher Risk for Severe Illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/groups-at-higher-risk.html).

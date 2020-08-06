@@ -23,7 +23,7 @@ Visitors may not enter a USCIS facility if they:
 
 - Visitors may not enter the facility more than 15 minutes prior to their appointment (30 minutes for naturalization ceremonies), and sanitizer will be provided for visitors at entry points.
 
-- Members of the public must wear facial coverings that cover both the mouth and nose when entering facilities. If they do not have one, USCIS may provide one or the visitor will be asked to reschedule their appointment.
+- Members of the public must wear masks that cover both the mouth and nose when entering facilities. If they do not have one, USCIS may provide one or the visitor will be asked to reschedule their appointment.
 
 - There will be markings and physical barriers in the facility; visitors should pay close attention to these signs to ensure they follow social distancing guidelines.
 
