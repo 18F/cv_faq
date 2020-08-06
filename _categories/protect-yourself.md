@@ -9,7 +9,7 @@ name: protect-yourself
 owner: CDC
 questions:
 - how-can-i-protect-myself
-- does-cdc-recommend-facemasks
+- does-cdc-recommend-masks
 - how-do-i-prepare-for-hurricane-season-during-covid19
 - if-i-need-to-evacuate-my-home-during-the-covid19-pandemic
 - what-should-i-do-if-i-had-close-contact-with-someone-who-has-covid-19
@@ -29,7 +29,7 @@ questions:
 - can-the-public-still-visit-national-forest-recreation-sites
 - how-can-i-prepare-for-covid19-at-work
 - how-long-do-companies-need-to-close-for-disinfection-after-an-exposure
-- i-ordered-facemasks-and-they-did-not-arrive
+- ordered-mask-and-not-arrived
 redirect_from:
 - /retirement-communities/case-in-the-facility/
 - /retirement-communities/planning-and-preparedness/
