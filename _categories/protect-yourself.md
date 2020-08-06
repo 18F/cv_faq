@@ -29,7 +29,7 @@ questions:
 - can-the-public-still-visit-national-forest-recreation-sites
 - how-can-i-prepare-for-covid19-at-work
 - how-long-do-companies-need-to-close-for-disinfection-after-an-exposure
-- ordered-masks-and-not-arrived
+- ordered-mask-and-not-arrived
 redirect_from:
 - /retirement-communities/case-in-the-facility/
 - /retirement-communities/planning-and-preparedness/
