@@ -16,6 +16,8 @@ questions:
 - small-medium-businesses-paid-leave
 - what-capital-assistance-is-available-to-small-business-owners
 - calls-to-small-businesses-promising-quick-financial-relief
-- when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses
+redirect_from:
+- /support-for-business/when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses/
+- /when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses/
 title: Support for businesses
 ---
