@@ -7,7 +7,8 @@ redirect_from:
 sources:
 - agency: va
   url: https://www.va.gov/coronavirus-veteran-frequently-asked-questions/
-title: My school changed all classes to online. Will I still qualify for my GI Bill benefits?
+title: My school changed all classes to online. Will I still qualify for my GI Bill
+  benefits?
 ---
 
 Yes. Based on the recently passed legislation, if your school converts from an approved residence training course to online training for that course (distance learning) due to COVID-19, your benefits will not change. The new law applies to both current and new students enrolled in courses affected by COVID-19. If you’re currently receiving GI Bill benefits, payments will continue automatically. You do not have to do anything. You’ll continue to receive the same monthly housing allowance payments you received for resident training until Dec. 21, 2020, or until your school resumes normal operations, for programs converted solely to online training.  Note: Other types of changes to your enrollment status (for example, dropping a class results in a reduced rate of pursuit) may affect payments.
