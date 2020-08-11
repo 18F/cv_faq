@@ -1,5 +1,5 @@
 ---
-date: April 27, 2020
+date: August 12, 2020
 excerpt: Department of Veterans Affairs' national cemeteries remain open
 layout: post
 redirect_from:
