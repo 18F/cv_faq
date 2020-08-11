@@ -5,7 +5,7 @@ Please confirm the following steps are completed:
 * [ ] Choose the appropriate target branch:
   * Content
     * `preview` (approved content) <- *Content branch*
-    * `master` (production) <- `preview`
+    * `main` (production) <- `preview`
 * [ ] Assign an appropriate reviewer:
   * *Content admin* or *Project lead* for merge to `preview` (approved content)
   * *Engineer* for merge to master (production)
