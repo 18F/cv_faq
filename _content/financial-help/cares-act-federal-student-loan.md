@@ -3,7 +3,7 @@ date: August 11, 2020
 excerpt: I have a federal student loan. What does the CARES Act mean for me?
 layout: post
 sources:
-- agency: FTC
+- agency: ftc
   url: https://www.consumer.ftc.gov/blog/2020/05/coronavirus-and-your-student-loan-debt
 title: I have a federal student loan. What does the CARES Act mean for me?
 ---
