@@ -15,7 +15,7 @@ questions:
 - how-to-apply-for-benefits
 - small-medium-businesses-paid-leave
 - what-capital-assistance-is-available-to-small-business-owners
-- calls-to-small-businesses-promising-quick-financial-relief
+- calls-to-small-businesses-promising-quick-financial-relief-ppp-loan
 redirect_from:
 - /support-for-business/when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses/
 - /when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses/

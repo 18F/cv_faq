@@ -11,6 +11,8 @@ questions:
 - how-can-i-find-out-about-frauds-and-scams
 - is-there-a-national-lockdown
 - i-am-getting-calls-from-people-claiming-they-are-from-the-government
+- call-from-someone-claiming-to-be-contact-tracer
+- should-i-trust-ads-for-products-claiming-prevent-treat-cure-covid-19
 - fema-and-acquisition-of-ppe
 - is-fema-suspending-rent-for-people-in-certain-states
 - do-i-need-to-register-with-fema-to-be-considered-for-help
