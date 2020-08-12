@@ -3,15 +3,7 @@
   <div class="grid-row grid-gap">
     <div class="breadcrumb">
       <a href="{{ site.baseurl }}/">FAQ</a>
-      > {{ page.title }}
-      <!-- {% if page.collection == "categories"%}
-        > {{ page.title }}
-      {% endif%}
-      {% if page.collection == "content" %}
-        {% assign this_category = site.categories | where: "name", page.categories[0] | first %}
-          > <a href="{{ this_category.url | relative_url }}">{{ this_category.title }}</a>
-          > {{ page.title }}
-      {% endif %} -->
+      &gt; {{ page.title }}
     </div>
   </div>
 </div>
