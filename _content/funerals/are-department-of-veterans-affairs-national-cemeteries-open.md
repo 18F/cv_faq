@@ -1,5 +1,5 @@
 ---
-date: April 27, 2020
+date: August 12, 2020
 excerpt: Department of Veterans Affairs' national cemeteries remain open
 layout: post
 redirect_from:
@@ -7,7 +7,7 @@ redirect_from:
 - /funerals/are-department-of-veterans-affairs-national-cemeteries-open/
 sources:
 - agency: va
-  url: https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#status-of-va-national-cemeteri
+  url: https://www.cem.va.gov/alerts.asp
 title: Are all Department of Veterans Affairs' national cemeteries open?
 ---
 
