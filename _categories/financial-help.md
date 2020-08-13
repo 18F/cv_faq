@@ -31,6 +31,7 @@ questions:
 - if-my-financial-situation-changed-could-i-be-eligible-for-snap
 - can-snap-participants-order-groceries-online
 - what-happens-to-snap-recipients-who-cannot-meet-work-requirements-due-to-covid19
+- help-for-people-who-have-federal-student-loans
 - do-online-classes-still-qualify-for-gi-bill-benefits
 - what-do-i-do-if-i-cant-pay-mortgage
 - what-do-i-do-if-someone-calls-texts-claiming-to-be-irs
