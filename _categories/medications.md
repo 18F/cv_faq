@@ -17,6 +17,7 @@ questions:
 - are-there-going-to-be-drug-shortages
 - am-i-at-risk-from-taking-fda-approved-drugs-made-in-china
 - what-is-fda-doing-to-protect-people-from-fraud
+- should-i-trust-ads-for-products-to-prevent-treat-cure-covid-19
 - ads-for-covid-treatments-and-cures
 - should-i-take-aquarium-chloroquine-phosphate
 - will-miracle-mineral-solution-cure-covid-19
