@@ -8,12 +8,12 @@ layout: category
 name: rumors
 owner: FEMA
 questions:
+- contact-tracer-asked-for-confidential-information
+- should-i-trust-ads-for-products-to-prevent-treat-cure-covid-19
+- i-am-getting-calls-from-people-claiming-they-are-from-the-government
 - how-can-i-find-out-about-frauds-and-scams
 - is-there-a-national-lockdown
-- i-am-getting-calls-from-people-claiming-they-are-from-the-government
 - fema-and-acquisition-of-ppe
-- should-i-trust-ads-for-products-to-prevent-treat-cure-covid-19
-- contact-tracer-asked-for-confidential-information
 - is-fema-suspending-rent-for-people-in-certain-states
 - do-i-need-to-register-with-fema-to-be-considered-for-help
 - are-uscis-offices-open
