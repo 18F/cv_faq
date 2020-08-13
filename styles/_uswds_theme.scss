@@ -23,21 +23,26 @@ $theme-font-weight-heavy: 800;
 // This corresponds to variables set in:
 // https://github.com/uswds/uswds/blob/develop/src/stylesheets/theme/_uswds-theme-color.scss
 
-//$theme-color-base-lightest: #dcdee0;
+// NOTE: We don't use usa-banner, but to avoid a WCAG AA contrast error, set
+// usa-banner colors explicitly.
+$theme-banner-background-color: 'base-lightest';
+$theme-banner-link-color: 'base-darkest';
+
+$theme-color-base-lightest: #dcdee0;
 $theme-color-primary-lighter: #eaf1fb;
 $theme-color-primary-vivid: #065fa9;
 $theme-color-primary-darker: #0A4577;
 $theme-color-primary-darkest: #14223B;
 
-// $site-palette: (
-//     'custom-dark-blue': $theme-color-primary-darkest,
-//     'custom-vivid-blue': $theme-color-primary-vivid,
-//     'custom-blue-lighter': $theme-color-primary-lighter,
-//     'custom-blue-hover': $theme-color-primary-darker,
-//     'custom-gray-hover': $theme-color-base-lightest,
-// );
+$site-palette: (
+    'custom-dark-blue': $theme-color-primary-darkest,
+    'custom-vivid-blue': $theme-color-primary-vivid,
+    'custom-blue-lighter': $theme-color-primary-lighter,
+    'custom-blue-hover': $theme-color-primary-darker,
+    'custom-gray-hover': $theme-color-base-lightest,
+);
 
-// $project-color-shortcodes: $site-palette;
+$project-color-shortcodes: $site-palette;
 
 //Utilities
 // This corresponds to variables set in:
