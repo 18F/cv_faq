@@ -12,7 +12,9 @@ CDC **does not currently recommend** use of face shields as a substitute for mas
 
 A face shield is primarily used for eye protection for the person wearing it. At this time, it is not known what level of protection a face shield provides to others nearby from the spray of respiratory droplets from the wearer. There is currently not enough evidence to support the effectiveness of face shields to slow spread. 
 
-Wearing a mask may not be feasible in every situation for some people such as those who are deaf or hard of hearing or those who care for or interact with a person who is hearing impaired. [For further guidance on face shields (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html#face-shields)
+Wearing a mask may not be feasible in every situation for some people such as those who are deaf or hard of hearing or those who care for or interact with a person who is hearing impaired.
 
-More information: [Help slow the spread of COVID-19 (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html)
+More information: 
+- [Further guidance on face shields (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html#face-shields)
+- [Help slow the spread of COVID-19 (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html)
 
