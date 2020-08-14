@@ -14,7 +14,7 @@ questions:
 - how-do-i-prepare-for-hurricane-season-during-covid19
 - if-i-need-to-evacuate-my-home-during-the-covid19-pandemic
 - what-do-i-do-if-exposed-to-covid-19
-- when-can-i-be-around-others-after-covid-19
+- when-can-i-be-around-others-after-having-covid-19
 - what-should-people-at-higher-risk-of-serious-illness-with-covid-19-do
 - do-i-need-to-wear-face-mask
 - do-face-shields-protect-from-covid-19
