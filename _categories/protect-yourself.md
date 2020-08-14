@@ -10,10 +10,14 @@ owner: CDC
 questions:
 - how-can-i-protect-myself
 - does-cdc-recommend-masks
+- what-is-contact-tracing
 - how-do-i-prepare-for-hurricane-season-during-covid19
 - if-i-need-to-evacuate-my-home-during-the-covid19-pandemic
-- what-should-i-do-if-i-had-close-contact-with-someone-who-has-covid-19
+- what-do-i-do-if-exposed-to-covid-19
+- when-can-i-be-around-others-after-covid-19
 - what-should-people-at-higher-risk-of-serious-illness-with-covid-19-do
+- do-i-need-to-wear-face-mask
+- do-face-shields-protect-from-covid-19
 - how-to-keep-myself-safe-when-i-go-grocery-store
 - am-i-at-risk-for-covid-19-from-packages-or-products-shipping-from-china
 - is-cleaning-alone-effective-against-the-virus
@@ -22,6 +26,7 @@ questions:
 - should-contact-lens-wearers-take-extra-precautions
 - how-effective-are-alternative-disinfection-methods
 - can-disinfectant-sprays-or-wipes-be-used-on-my-skin
+- what-to-do-if-exposed-to-contaminated-hand-sanitizer
 - what-if-i-get-a-rash-hand-sanitizer
 - is-it-okay-to-donate-blood
 - is-it-safe-to-get-medical-care-for-other-conditions

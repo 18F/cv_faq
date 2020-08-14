@@ -17,5 +17,7 @@ questions:
 - what-does-more-severe-illness-mean
 - what-does-well-controlled-mean
 - are-there-any-medications-i-should-avoid
+- risk-for-complications-from-covid-19-if-i-smoke-cigarettes
+- risk-for-complications-from-covid-19-if-i-vape-tobacco-or-nicotine
 title: Underlying conditions
 ---
