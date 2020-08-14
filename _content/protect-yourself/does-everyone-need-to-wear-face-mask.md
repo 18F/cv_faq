@@ -13,4 +13,4 @@ title: Does everyone need to wear a face mask?
 - Masks are most likely to reduce the spread of COVID-19 when they are widely used by people in public settings.
 - Masks should NOT be worn by children under the age of 2 or anyone who has trouble breathing, is unconscious, incapacitated, or otherwise unable to remove the mask without assistance.
 
-More Information: [Considerations for wearing masks (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html)
+More Information: [Considerations for wearing masks](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html)

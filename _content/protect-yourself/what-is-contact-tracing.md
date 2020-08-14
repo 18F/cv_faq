@@ -1,5 +1,5 @@
 ---
-date: August 13, 2020
+date: August 6, 2020
 excerpt: How to protect yourself
 layout: post
 sources:
@@ -21,5 +21,5 @@ During contact tracing, the health department staff **will not** ask you for
 - Credit card numbers
 
 Learn more about contact tracing
-- [Contact tracing infographic (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/downloads/Contact-Tracing-Infographic-FINAL.pdf)
-- [Contact tracing frequently asked questions and answers (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Contact-Tracing)
+- [Contact tracing infographic](https://www.cdc.gov/coronavirus/2019-ncov/downloads/Contact-Tracing-Infographic-FINAL.pdf)
+- [Contact tracing frequently asked questions and answers](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Contact-Tracing)
