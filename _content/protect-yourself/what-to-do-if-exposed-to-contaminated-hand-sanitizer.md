@@ -5,7 +5,7 @@ layout: post
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-frequently-asked-questions
-title: Does everyone need to wear a face mask?
+title: What should people do that have been exposed to hand sanitizer with potential methanol contamination?
 ---
 
 - CDC recommends that people wear masks in public settings and when around people who don’t live in your household, especially when other [social distancing](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html) measures are difficult to maintain.

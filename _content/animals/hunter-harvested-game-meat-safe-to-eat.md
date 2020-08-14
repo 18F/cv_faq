@@ -2,8 +2,6 @@
 date: August 7, 2020
 excerpt: COVID-19 and animals
 layout: post
-redirect_from:
-- /animals/are-pets-from-a-shelter-safe/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Pets-and-Animals
