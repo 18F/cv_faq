@@ -10,6 +10,9 @@ owner: CDC
 questions:
 - how-can-i-protect-my-child-from-covid-19
 - are-symptoms-of-covid-19-different-in-children
+- considerations-for-returning-child-to-school
+- preparations-for-sending-child-back-to-school
+- should-schools-test-students-for-covid-19
 - can-parents-pick-up-meals-for-their-kids-without-them-present
 - can-schools-provide-home-delivery-of-meals
 - can-schools-provide-multiple-meals-at-once
