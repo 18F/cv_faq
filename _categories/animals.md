@@ -30,7 +30,7 @@ questions:
 - what-precautions-with-imported-animals
 - will-there-be-animal-food-shortages
 - is-the-animal-food-supply-safe
-- hunter-harvested-game-meat-safe-to-eat
+- is-hunter-harvested-game-meat-safe-to-eat
 - why-are-animals-being-tested-when-people-cant
 title: Animals
 ---

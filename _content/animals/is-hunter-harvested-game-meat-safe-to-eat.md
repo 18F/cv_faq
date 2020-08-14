@@ -5,7 +5,7 @@ layout: post
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Pets-and-Animals
-title: Are pets from a shelter safe to adopt?
+title: Is hunter-harvested game meat safe to eat during the COVID-19 pandemic?
 ---
 
 Currently, there is no evidence that you can get infected with the virus that causes COVID-19 by eating food, including wild hunted game meat. 

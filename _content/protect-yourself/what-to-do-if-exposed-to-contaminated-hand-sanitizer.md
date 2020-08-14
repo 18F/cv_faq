@@ -8,9 +8,14 @@ sources:
 title: What should people do that have been exposed to hand sanitizer with potential methanol contamination?
 ---
 
-- CDC recommends that people wear masks in public settings and when around people who don’t live in your household, especially when other [social distancing](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html) measures are difficult to maintain.
-- Masks may help prevent people who have COVID-19 from spreading the virus to others.
-- Masks are most likely to reduce the spread of COVID-19 when they are widely used by people in public settings.
-- Masks should NOT be worn by children under the age of 2 or anyone who has trouble breathing, is unconscious, incapacitated, or otherwise unable to remove the mask without assistance.
+If you suspect you have been exposed to hand sanitizer containing methanol, **seek immediate medical treatment**.
 
-More Information: [Considerations for wearing masks (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html)
+Methanol exposure can result in nausea, vomiting, headache, blurred vision, permanent blindness, seizures, coma, permanent damage to the nervous system or death.
+
+People using products containing methanol on their hands are at risk for methanol poisoning. Young children who accidentally swallow these products and adolescents and adults who drink these products as an alcohol (ethanol) substitute are most at risk. 
+
+More information about hand sanitizers
+- [Hand sanitizers and COVID-19](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use#products)
+- [Hand sanitizers consumers should not use](https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-consumers-should-not-use#products)
+- [Test your knowledge about hand sanitizers](https://www.accessdata.fda.gov/cder/sanitizer/)
+- [En español: Preguntas y respuestas para los consumidores: los desinfectantes para las manos y el COVID-19](https://www.fda.gov/drugs/information-drug-class/preguntas-y-respuestas-para-los-consumidores-los-desinfectantes-para-las-manos-y-el-covid-19)

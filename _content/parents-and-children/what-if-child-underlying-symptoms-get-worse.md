@@ -6,7 +6,7 @@ redirect_from:
 - /parents-and-children/what-if-child-underlying-symptoms-get-worse/
 sources:
 - agency: cdc
-  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Children-and-Youth-with-Special-Healthcare-Needs
+  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Children
 title: What if my child’s symptoms of their underlying medical condition or complex, chronic medical condition get worse?
 ---
 
