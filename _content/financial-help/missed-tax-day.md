@@ -15,4 +15,4 @@ sources:
 title: What do I do if I missed Tax Day?
 ---
 
-If you missed the July 15 tax deadline and did not request an extension, you should file electronically as soon as possible to avoid penalties and fees. You may also wish to contact a tax professional for assistance. Learn more about how to find a reputable tax professional [here](https://www.irs.gov/tax-professionals/choosing-a-tax-professional).
+If you missed the July 15 tax deadline and did not request an extension, you should file electronically as soon as possible to avoid penalties and fees. You may also wish to contact a tax professional for assistance. [Learn more about how to find a reputable tax professional](https://www.irs.gov/tax-professionals/choosing-a-tax-professional).
