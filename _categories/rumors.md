@@ -8,19 +8,21 @@ layout: category
 name: rumors
 owner: FEMA
 questions:
-- are-uscis-offices-open
+- contact-tracer-asked-for-confidential-information
+- should-i-trust-ads-for-products-to-prevent-treat-cure-covid-19
+- i-am-getting-calls-from-people-claiming-they-are-from-the-government
+- how-can-i-find-out-about-frauds-and-scams
+- is-there-a-national-lockdown
+- fema-and-acquisition-of-ppe
+- is-fema-suspending-rent-for-people-in-certain-states
 - do-i-need-to-register-with-fema-to-be-considered-for-help
+- are-uscis-offices-open
 - how-is-the-national-guard-responding
-- i-built-a-diy-ventilator-may-i-sell-it
 - on-medicare-and-someone-offered-me-a-test
 - is-5g-phone-technology-linked
-- is-fema-suspending-rent-for-people-in-certain-states
 - is-the-federal-government-mandating-businesses-to-close
-- is-there-a-national-lockdown
-- i-am-getting-calls-from-people-claiming-they-are-from-the-government
 - products-online-claim-to-prevent-or-treat
-- fema-and-acquisition-of-ppe
-- how-can-i-find-out-about-frauds-and-scams
+- i-built-a-diy-ventilator-may-i-sell-it
 redirect_from:
 - /get-facts/should-i-worry-about-hantavirus/
 - /rumors/do-i-need-a-photo-id-to-be-tested/

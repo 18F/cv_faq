@@ -16,7 +16,7 @@ Most people who get COVID-19 will be able to recover at home. [CDC has direction
 - Use a separate room and bathroom for sick household members (if possible).
 - Wash your hands often with soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing; going to the bathroom; and before eating or preparing food.
 - If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol. Always wash hands with soap and water if hands are visibly dirty.
-- Provide your sick household member with clean disposable facemasks to wear at home, if available, to help prevent spreading COVID-19 to others.
+- Provide your sick household member with clean disposable masks to wear at home, if available, to help prevent spreading COVID-19 to others.
 - [Clean the sick room and bathroom](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cleaning-disinfection.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fprepare%2Fcleaning-disinfection.html), as needed, to avoid unnecessary contact with the sick person.
 
 However, some people may need emergency medical attention. Watch for symptoms and learn [when to seek emergency medical attention](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html).

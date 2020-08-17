@@ -19,7 +19,7 @@ The best way to protect yourself from COVID-19 is to avoid being exposed to the 
 - Avoid touching your eyes, mose and mouth.
 - Put at least 6 feet of distance between yourself and people who don’t live in your household.
 - Avoid contact with people who are sick.
-- Wear a face mask or cloth face cover when around others. Children under 2 or anyone who has trouble breathing or is incapacitated should not wear a mask.
+- Wear a mask when around others. Children under 2 or anyone who has trouble breathing or is incapacitated should not wear a mask.
 - Clean and disinfect frequently touched surfaces daily.
 
 For more information about how to protect yourself, see the CDC’s [How to Protect Yourself & Others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).
