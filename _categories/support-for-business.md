@@ -15,7 +15,6 @@ questions:
 - calls-to-small-businesses-promising-quick-financial-relief
 - what-capital-assistance-is-available-to-small-business-owners
 - employee-retention-credit
-- when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses
 - where-should-a-small-business-go-to-find-help
 title: Support for businesses
 ---
