@@ -1,0 +1,11 @@
+{% comment %}
+    Content section of a question, used on single pages and category accordions.
+{% endcomment %}
+
+{% assign question = include.question %}
+
+<p>{{ question.content | markdownify }}</p>
+
+<p class="question-meta">Last updated {{ question.date | date:  "%B %d, %Y" }}<br/>
+{% include sources.html %}
+</p>
