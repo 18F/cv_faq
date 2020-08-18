@@ -4,6 +4,7 @@ excerpt: How to protect yourself
 layout: post
 redirect_from:
 - /what-should-i-do-if-i-had-close-contact-with-someone-who-has-covid-19/
+- /protect-yourself/what-should-i-do-if-i-had-close-contact-with-someone-who-has-covid-19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/php/public-health-recommendations.html

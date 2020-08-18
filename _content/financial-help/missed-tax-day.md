@@ -9,6 +9,8 @@ redirect_from:
 - /financial-help/expect-to-file-taxes-by-july-15/
 - /financial-help/how-can-i-file-the-tax-return-needed-to-receive-payment/
 - /financial-help/missed-tax-day/
+- /financial-help/what-if-i-cant-complete-my-taxes-by-april-15/
+- /financial-help/i-have-not-filed-my-tax-return-for-2018-or-2019/
 sources:
 - agency: irs
   url: https://www.irs.gov/newsroom/irs-advice-for-those-who-missed-the-july-15-deadline-file-now-to-avoid-bigger-bill
