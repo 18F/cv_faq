@@ -1,5 +1,8 @@
 .breadcrumb {
   padding: units(2.5);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 div.usa-layout-docs.usa-section {
