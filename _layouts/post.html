@@ -16,8 +16,7 @@ This is the template for single-question pages.
         <p>
           {% if question_categories.size == 1 %}Category:{% else %}Categories:{% endif %}
           {% for category in question_categories %}
-            <a href="/{{ category.slug }}">{{ category.title }}</a>
-            {% if forloop.last == false %},{% endif %}
+            <a href="{{ site.baseurl }}/{{ category.slug }}">{{ category.title }}</a>{% if forloop.last == false %},{% endif %}
           {% endfor %}
         </p>
       </div>

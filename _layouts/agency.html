@@ -32,7 +32,7 @@ sitemap: false
                   <span class="text-gray-50"> {{ question.date | date: "%B %d, %Y" }}</span>
                   {% assign question_categories = site.categories | for_question: question.slug %}
                   / {% for category in question_categories %}
-                    <a href="/{{ category.slug }}">{{ category.title }}</a>
+                    <a href="{{ site.baseurl }}/{{ category.slug }}">{{ category.title }}</a>
                     {% if forloop.last == false %},{% endif %}
                   {% endfor %}
                 </li>
