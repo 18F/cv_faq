@@ -13,9 +13,5 @@
 </button>
 </h2>
 <div id="control-{{ question.title | slugify }}" class="usa-accordion__content usa-prose">
-    <p>{{ question.content | markdownify }}</p>
-
-    <p class="question-meta">Last updated {{ question.date | date:  "%B %d, %Y" }}<br/>
-    {% include sources.html %}
-    </p>
+    {% include question-content.html question=question %}
 </div>

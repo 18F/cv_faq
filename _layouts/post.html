@@ -3,16 +3,22 @@ layout: default
 ---
 
 {% comment %}
-This is used in blog posts. The index page can be found at blog/index.html
+This is the template for single-question pages.
 {% endcomment %}
 
+{% assign question_categories = site.categories | for_question: page.slug %}
 <div class="usa-layout-docs usa-section">
   <div class="grid-container">
     <div class="grid-row grid-gap">
-      <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-        <div class="usa-accordion usa-accordion--bordered" aria-multiselectable=true>
-          {% include accordion.html accordion_content=page %}
-         </div>
+      <h1>{{ page.title }}</h1>
+      <div class="usa-prose">
+        {% include question-content.html question=page %}
+        <p>
+          See also:
+          {% for category in question_categories %}
+            <a href="{{ site.baseurl }}/{{ category.slug }}">{{ category.title }}</a>{% if forloop.last == false %},{% endif %}
+          {% endfor %}
+        </p>
       </div>
     </div>
   </div>
