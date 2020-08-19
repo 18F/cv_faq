@@ -17,7 +17,7 @@ Schools will be making changes to their policies and operations with several goa
 
 Likewise, it will be important for families to emphasize and model healthy behaviors at home and to talk to your children about changes to expect this school year. Even if your child will attend school in-person, it is important to prepare for the possibility of virtual learning if school closes or if your child becomes exposed to COVID-19 and needs to stay home.
 
-CDC has created a [checklist](https://www.cdc.gov/coronavirus/2019-ncov/community/pdf/Back-to-School-Planning-for-In-Person-Classes.pdf) to help with back to school planning for school year 2020-2021. If your school uses a hybrid model, you may want to review both the in-person and virtual/at-home learning checklists.
+CDC has created a [checklist (PDF)](https://www.cdc.gov/coronavirus/2019-ncov/community/pdf/Back-to-School-Planning-for-In-Person-Classes.pdf) to help with back to school planning for school year 2020-2021. If your school uses a hybrid model, you may want to review both the in-person and virtual/at-home learning checklists.
 
 Back to school resources:
 - [Planning for in-person classes checklist (PDF)](https://www.cdc.gov/coronavirus/2019-ncov/community/pdf/Back-to-School-Planning-for-In-Person-Classes.pdf)
