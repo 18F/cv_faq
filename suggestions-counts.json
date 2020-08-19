@@ -29,7 +29,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 8,
+        "search": 9,
         "text_best_bets": 0
     },
     "1099": {
@@ -73,7 +73,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 14,
+        "search": 15,
         "text_best_bets": 0
     },
     "15 day": {
@@ -84,7 +84,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 11,
         "text_best_bets": 0
     },
     "15 days": {
@@ -95,7 +95,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 11,
         "text_best_bets": 0
     },
     "15 days to slow the spread": {
@@ -106,7 +106,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
+        "search": 10,
         "text_best_bets": 0
     },
     "2nd stimulus check": {
@@ -139,7 +139,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
+        "search": 10,
         "text_best_bets": 0
     },
     "401k": {
@@ -172,7 +172,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 15,
         "text_best_bets": 0
     },
     "ace2": {
@@ -216,7 +216,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 3,
+        "search": 4,
         "text_best_bets": 0
     },
     "advil": {
@@ -271,7 +271,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 11,
         "text_best_bets": 1
     },
     "air conditioning": {
@@ -307,7 +307,40 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "airlines": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
+        "text_best_bets": 0
+    },
+    "airplane travel": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
+        "text_best_bets": 0
+    },
     "airport": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "airport testing": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -348,7 +381,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 33,
+        "search": 34,
         "text_best_bets": 0
     },
     "animals": {
@@ -359,7 +392,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 33,
+        "search": 34,
         "text_best_bets": 0
     },
     "antibiotics": {
@@ -472,6 +505,39 @@
         "search": 2,
         "text_best_bets": 0
     },
+    "are face shields recommended": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "are face shields safe": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "are masks required": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 19,
+        "text_best_bets": 0
+    },
     "are post offices open": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -481,6 +547,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 7,
+        "text_best_bets": 0
+    },
+    "are schools opening": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 28,
         "text_best_bets": 0
     },
     "arizona": {
@@ -494,6 +571,17 @@
         "search": 3,
         "text_best_bets": 0
     },
+    "ascorbic acid": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
     "ask a question": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -502,7 +590,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 38,
+        "search": 41,
         "text_best_bets": 0
     },
     "aspirin": {
@@ -524,7 +612,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 22,
+        "search": 23,
         "text_best_bets": 0
     },
     "assisted living": {
@@ -535,7 +623,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 3,
+        "search": 4,
         "text_best_bets": 0
     },
     "asthma": {
@@ -571,11 +659,22 @@
         "search": 0,
         "text_best_bets": 0
     },
-    "asymptomatic transmission": {
+    "asymptomatic covid-19 persons": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
         "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 11,
+        "text_best_bets": 0
+    },
+    "asymptomatic transmission": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
@@ -590,7 +689,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 55,
+        "search": 59,
         "text_best_bets": 1
     },
     "azithromycin": {
@@ -612,7 +711,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 53,
+        "search": 55,
         "text_best_bets": 0
     },
     "bats": {
@@ -656,7 +755,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 55,
+        "search": 52,
         "text_best_bets": 0
     },
     "benefits": {
@@ -689,7 +788,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 3,
         "text_best_bets": 0
     },
     "bill gates": {
@@ -745,6 +844,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 0,
+        "text_best_bets": 0
+    },
+    "blood donation": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 7,
         "text_best_bets": 0
     },
     "blood pressure": {
@@ -821,7 +931,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 22,
+        "search": 24,
         "text_best_bets": 0
     },
     "briefing": {
@@ -865,7 +975,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 24,
+        "search": 23,
         "text_best_bets": 0
     },
     "california": {
@@ -912,6 +1022,28 @@
         "search": 2,
         "text_best_bets": 0
     },
+    "can a relative take my child to school": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 20,
+        "text_best_bets": 0
+    },
+    "can cats get coronavirus": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
+        "text_best_bets": 0
+    },
     "can i get it again": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -920,7 +1052,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 30,
+        "search": 31,
+        "text_best_bets": 0
+    },
+    "can i get it again after having it": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
+    "can i get tested more than once": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 11,
         "text_best_bets": 0
     },
     "can i go outside": {
@@ -931,7 +1085,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 19,
+        "search": 20,
+        "text_best_bets": 0
+    },
+    "can i go to the dentist": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
         "text_best_bets": 0
     },
     "can i move": {
@@ -942,7 +1107,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 83,
+        "search": 88,
         "text_best_bets": 0
     },
     "can i take advil": {
@@ -978,6 +1143,39 @@
         "search": 3,
         "text_best_bets": 0
     },
+    "can it get on surfaces": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 37,
+        "text_best_bets": 0
+    },
+    "can mosquitos transmit covid 19?": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "can people recover": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 17,
+        "text_best_bets": 0
+    },
     "can you get coronavirus more than once": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -986,7 +1184,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
         "text_best_bets": 0
     },
     "can you get covid-19 twice": {
@@ -997,7 +1195,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 3,
+        "search": 6,
         "text_best_bets": 0
     },
     "can you get it again": {
@@ -1008,7 +1206,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 32,
+        "search": 33,
+        "text_best_bets": 0
+    },
+    "can you get the virus more than once": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
         "text_best_bets": 0
     },
     "can you take ibuprofen": {
@@ -1074,7 +1283,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 54,
+        "search": 57,
         "text_best_bets": 0
     },
     "cares act": {
@@ -1085,7 +1294,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 7,
         "text_best_bets": 0
     },
     "carrier": {
@@ -1107,7 +1316,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 35,
+        "search": 37,
         "text_best_bets": 0
     },
     "cases by state": {
@@ -1118,7 +1327,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 51,
+        "search": 52,
         "text_best_bets": 0
     },
     "cash": {
@@ -1151,7 +1360,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 61,
+        "search": 63,
         "text_best_bets": 0
     },
     "cdc": {
@@ -1162,8 +1371,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 72,
-        "text_best_bets": 0
+        "search": 74,
+        "text_best_bets": 1
     },
     "cdc guidelines": {
         "federal_register_documents": 0,
@@ -1173,7 +1382,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 71,
+        "search": 73,
         "text_best_bets": 0
     },
     "cdl": {
@@ -1206,7 +1415,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 24,
+        "search": 26,
         "text_best_bets": 0
     },
     "chart": {
@@ -1242,6 +1451,17 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "check results of covid test": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 201,
+        "text_best_bets": 0
+    },
     "checks": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -1250,7 +1470,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 27,
+        "search": 31,
         "text_best_bets": 0
     },
     "child": {
@@ -1261,7 +1481,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 20,
+        "text_best_bets": 0
+    },
+    "child care": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 20,
+        "text_best_bets": 0
+    },
+    "child risk": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 20,
         "text_best_bets": 0
     },
     "child support": {
@@ -1272,7 +1514,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 20,
         "text_best_bets": 0
     },
     "childcare": {
@@ -1294,7 +1536,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 39,
+        "search": 42,
         "text_best_bets": 0
     },
     "china": {
@@ -1334,7 +1576,7 @@
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
-        "is_routed_query": false,
+        "is_routed_query": true,
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
@@ -1382,7 +1624,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 39,
+        "search": 40,
         "text_best_bets": 0
     },
     "cleaning": {
@@ -1393,7 +1635,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 39,
+        "search": 40,
+        "text_best_bets": 0
+    },
+    "cleaning air": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 40,
         "text_best_bets": 0
     },
     "cleaning groceries": {
@@ -1405,6 +1658,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 0,
+        "text_best_bets": 0
+    },
+    "cleaning products": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 40,
         "text_best_bets": 0
     },
     "clinical trial": {
@@ -1448,7 +1712,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 11,
+        "search": 9,
+        "text_best_bets": 0
+    },
+    "cloth face covering": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
         "text_best_bets": 0
     },
     "cloth mask": {
@@ -1459,7 +1734,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 5,
+        "search": 3,
         "text_best_bets": 0
     },
     "cloth masks": {
@@ -1470,7 +1745,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 5,
+        "search": 3,
         "text_best_bets": 0
     },
     "clothes": {
@@ -1481,7 +1756,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 11,
+        "search": 9,
         "text_best_bets": 0
     },
     "clothing": {
@@ -1492,7 +1767,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 11,
+        "search": 9,
         "text_best_bets": 0
     },
     "cobra": {
@@ -1547,7 +1822,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 85,
+        "search": 86,
         "text_best_bets": 0
     },
     "construction": {
@@ -1569,7 +1844,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 69,
+        "search": 71,
         "text_best_bets": 0
     },
     "contact at work": {
@@ -1580,7 +1855,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 64,
+        "search": 66,
         "text_best_bets": 0
     },
     "contact lens": {
@@ -1591,7 +1866,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 4,
+        "search": 3,
         "text_best_bets": 0
     },
     "contact number": {
@@ -1602,7 +1877,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 14,
+        "search": 16,
         "text_best_bets": 0
     },
     "contact tracing": {
@@ -1613,7 +1888,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "contagion": {
@@ -1636,6 +1911,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 2,
+        "text_best_bets": 0
+    },
+    "contaminated area": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 7,
         "text_best_bets": 0
     },
     "copd": {
@@ -1679,7 +1965,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 60,
+        "search": 58,
         "text_best_bets": 0
     },
     "coronavirus on mail": {
@@ -1690,7 +1976,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
         "text_best_bets": 0
     },
     "coronavirus on surfaces": {
@@ -1701,7 +1987,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
         "text_best_bets": 0
     },
     "coronavirus response": {
@@ -1712,7 +1998,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
+        "text_best_bets": 0
+    },
+    "coronavirus symptom": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 11,
         "text_best_bets": 0
     },
     "coronavirus task force": {
@@ -1723,7 +2020,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
+        "text_best_bets": 0
+    },
+    "coronavirus testing basics": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 56,
         "text_best_bets": 0
     },
     "cost": {
@@ -1767,7 +2075,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 33,
+        "search": 34,
         "text_best_bets": 0
     },
     "coughing": {
@@ -1778,7 +2086,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 33,
+        "search": 34,
         "text_best_bets": 0
     },
     "covid": {
@@ -1789,8 +2097,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 267,
-        "text_best_bets": 1
+        "search": 274,
+        "text_best_bets": 2
     },
     "covid on surfaces": {
         "federal_register_documents": 0,
@@ -1800,7 +2108,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 191,
+        "search": 201,
         "text_best_bets": 0
     },
     "covid test": {
@@ -1811,7 +2119,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 191,
+        "search": 201,
         "text_best_bets": 0
     },
     "covid toes": {
@@ -1833,7 +2141,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 191,
+        "search": 201,
         "text_best_bets": 0
     },
     "covid-19": {
@@ -1844,8 +2152,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 267,
-        "text_best_bets": 1
+        "search": 274,
+        "text_best_bets": 2
     },
     "covid-19 on surfaces": {
         "federal_register_documents": 0,
@@ -1855,7 +2163,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 191,
+        "search": 201,
         "text_best_bets": 0
     },
     "covid-19 surfaces": {
@@ -1866,7 +2174,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 191,
+        "search": 201,
         "text_best_bets": 0
     },
     "covid-19 vaccine": {
@@ -1899,7 +2207,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 6,
+        "search": 8,
         "text_best_bets": 0
     },
     "cures": {
@@ -1910,7 +2218,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 6,
+        "search": 8,
         "text_best_bets": 0
     },
     "curfew": {
@@ -1932,7 +2240,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 16,
+        "search": 17,
         "text_best_bets": 0
     },
     "curve": {
@@ -2009,7 +2317,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "dead": {
@@ -2020,7 +2328,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 3,
         "text_best_bets": 0
     },
     "death": {
@@ -2031,7 +2339,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "death count": {
@@ -2042,7 +2350,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "death rate": {
@@ -2053,7 +2361,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "death rates": {
@@ -2064,7 +2372,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "death statistics": {
@@ -2075,7 +2383,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "death toll": {
@@ -2097,7 +2405,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "deaths": {
@@ -2108,7 +2416,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "deaths by age": {
@@ -2119,7 +2427,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "deaths by state": {
@@ -2130,7 +2438,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "deaths in the us": {
@@ -2141,7 +2449,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "declaration": {
@@ -2232,6 +2540,17 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "description of virus": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 64,
+        "text_best_bets": 0
+    },
     "diabetes": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -2276,6 +2595,17 @@
         "search": 4,
         "text_best_bets": 0
     },
+    "did this start with bats": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
+        "text_best_bets": 0
+    },
     "direct deposit": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -2317,7 +2647,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 38,
+        "search": 40,
         "text_best_bets": 0
     },
     "disinfectant": {
@@ -2328,7 +2658,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 38,
+        "search": 40,
         "text_best_bets": 0
     },
     "disinfectants": {
@@ -2339,7 +2669,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 38,
+        "search": 40,
         "text_best_bets": 0
     },
     "disinfecting": {
@@ -2350,7 +2680,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 38,
+        "search": 40,
+        "text_best_bets": 0
+    },
+    "disinfecting agents": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 40,
         "text_best_bets": 0
     },
     "disinfecting groceries": {
@@ -2372,7 +2713,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 38,
+        "search": 40,
         "text_best_bets": 0
     },
     "disinfection": {
@@ -2383,7 +2724,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 38,
+        "search": 40,
+        "text_best_bets": 0
+    },
+    "disinfection methods": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 40,
         "text_best_bets": 0
     },
     "disposable gloves": {
@@ -2394,7 +2746,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 5,
+        "search": 7,
         "text_best_bets": 0
     },
     "do i have to wear a mask": {
@@ -2405,8 +2757,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 15,
-        "text_best_bets": 0
+        "search": 16,
+        "text_best_bets": 1
     },
     "do i need to wear a mask": {
         "federal_register_documents": 0,
@@ -2416,7 +2768,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 15,
+        "search": 16,
         "text_best_bets": 0
     },
     "do not develop covid": {
@@ -2427,7 +2779,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 192,
+        "search": 202,
+        "text_best_bets": 0
+    },
+    "doctors appointments": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
         "text_best_bets": 0
     },
     "does heat kill the virus": {
@@ -2508,6 +2871,17 @@
         "text_best_bets": 0
     },
     "donate plasma": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
+    "donating plasma": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -2603,7 +2977,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 51,
+        "search": 55,
         "text_best_bets": 0
     },
     "drugs": {
@@ -2614,7 +2988,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 51,
+        "search": 55,
         "text_best_bets": 0
     },
     "dua": {
@@ -2647,7 +3021,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 12,
+        "search": 14,
         "text_best_bets": 0
     },
     "ebt": {
@@ -2691,7 +3065,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 19,
+        "search": 20,
         "text_best_bets": 0
     },
     "economic impact payments": {
@@ -2702,7 +3076,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 19,
+        "search": 20,
         "text_best_bets": 0
     },
     "economy": {
@@ -2790,7 +3164,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 51,
+        "search": 52,
+        "text_best_bets": 0
+    },
+    "emergency loans": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 10,
+        "text_best_bets": 0
+    },
+    "emergency paid sick leave": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 48,
         "text_best_bets": 0
     },
     "employee": {
@@ -2823,7 +3219,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 17,
         "text_best_bets": 0
     },
     "employers": {
@@ -2834,7 +3230,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 17,
         "text_best_bets": 0
     },
     "employment": {
@@ -2845,7 +3241,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 17,
         "text_best_bets": 0
     },
     "end": {
@@ -2856,7 +3252,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "epa list of disinfectants": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 9,
         "text_best_bets": 0
     },
     "epidemic": {
@@ -2988,7 +3395,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 55,
+        "search": 52,
+        "text_best_bets": 0
+    },
+    "essential worker definitions": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 52,
         "text_best_bets": 0
     },
     "essential workers": {
@@ -2999,7 +3417,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 55,
+        "search": 52,
         "text_best_bets": 0
     },
     "esta": {
@@ -3011,6 +3429,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 0,
+        "text_best_bets": 0
+    },
+    "ethanol": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "europe": {
@@ -3032,7 +3461,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 22,
+        "search": 21,
+        "text_best_bets": 0
+    },
+    "evicted": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
         "text_best_bets": 0
     },
     "eviction": {
@@ -3065,7 +3505,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
+        "text_best_bets": 0
+    },
+    "exception": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 12,
+        "text_best_bets": 0
+    },
+    "excess deaths": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 12,
         "text_best_bets": 0
     },
     "exercise": {
@@ -3090,6 +3552,17 @@
         "search": 4,
         "text_best_bets": 0
     },
+    "expose": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 17,
+        "text_best_bets": 1
+    },
     "exposed": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -3098,7 +3571,40 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 11,
+        "search": 17,
+        "text_best_bets": 1
+    },
+    "exposed to coronavirus": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
+    "exposed to someone with covid": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
+    "exposed to someone with the virus": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
         "text_best_bets": 0
     },
     "exposure": {
@@ -3109,7 +3615,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 17,
+        "search": 20,
         "text_best_bets": 0
     },
     "eye": {
@@ -3175,7 +3681,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 22,
+        "search": 23,
         "text_best_bets": 0
     },
     "face cover": {
@@ -3186,7 +3692,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 17,
+        "search": 15,
         "text_best_bets": 0
     },
     "face covering": {
@@ -3197,7 +3703,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 17,
+        "search": 15,
         "text_best_bets": 0
     },
     "face coverings": {
@@ -3208,7 +3714,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 17,
+        "search": 15,
         "text_best_bets": 0
     },
     "face mask": {
@@ -3219,7 +3725,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 19,
         "text_best_bets": 0
     },
     "face masks": {
@@ -3230,7 +3736,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 19,
+        "search": 20,
         "text_best_bets": 0
     },
     "face shield": {
@@ -3241,7 +3747,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 3,
+        "search": 5,
         "text_best_bets": 0
     },
     "face shields": {
@@ -3252,10 +3758,10 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 3,
+        "search": 5,
         "text_best_bets": 0
     },
-    "facemask": {
+    "face shields versus masks": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -3263,7 +3769,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
+        "search": 1,
+        "text_best_bets": 0
+    },
+    "facemask": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
         "text_best_bets": 0
     },
     "facemasks": {
@@ -3274,7 +3791,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
+        "search": 6,
         "text_best_bets": 0
     },
     "faith": {
@@ -3329,7 +3846,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 4,
         "text_best_bets": 0
     },
     "families first coronavirus response act": {
@@ -3340,7 +3857,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
         "text_best_bets": 0
     },
     "family": {
@@ -3351,7 +3868,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 67,
+        "search": 68,
+        "text_best_bets": 0
+    },
+    "family & medical leave": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 20,
         "text_best_bets": 0
     },
     "fans": {
@@ -3373,7 +3901,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 264,
+        "search": 271,
         "text_best_bets": 0
     },
     "fast food": {
@@ -3384,7 +3912,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "fatal": {
@@ -3450,10 +3978,21 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 34,
+        "search": 35,
         "text_best_bets": 0
     },
     "fema": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "fema assistance": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -3472,7 +4011,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 16,
+        "search": 17,
+        "text_best_bets": 0
+    },
+    "fever and cough": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 17,
+        "text_best_bets": 0
+    },
+    "fever temperature": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 17,
         "text_best_bets": 0
     },
     "ffcra": {
@@ -3516,7 +4077,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 38,
+        "search": 37,
         "text_best_bets": 0
     },
     "financial aid": {
@@ -3549,7 +4110,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 33,
+        "search": 32,
+        "text_best_bets": 0
+    },
+    "financial help for me and my family": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 21,
         "text_best_bets": 0
     },
     "first case": {
@@ -3560,7 +4132,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 7,
+        "search": 9,
+        "text_best_bets": 0
+    },
+    "first outbreak": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 31,
         "text_best_bets": 0
     },
     "fishing": {
@@ -3692,7 +4275,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 74,
+        "search": 79,
         "text_best_bets": 0
     },
     "food assistance": {
@@ -3725,7 +4308,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 195,
+        "search": 205,
+        "text_best_bets": 0
+    },
+    "food planning guidance": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 20,
         "text_best_bets": 0
     },
     "food safety": {
@@ -3736,7 +4330,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 23,
+        "search": 25,
         "text_best_bets": 0
     },
     "food shopping": {
@@ -3747,7 +4341,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 8,
+        "search": 7,
         "text_best_bets": 0
     },
     "food stamps": {
@@ -3755,6 +4349,17 @@
         "graphic_best_bets": 0,
         "health_topics": 0,
         "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
+    "forbearance": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
@@ -3791,7 +4396,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 4,
+        "search": 5,
         "text_best_bets": 0
     },
     "freezing": {
@@ -3868,7 +4473,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 12,
+        "search": 11,
+        "text_best_bets": 0
+    },
+    "funeral assistance": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 11,
+        "text_best_bets": 0
+    },
+    "funeral home restrictions": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 11,
         "text_best_bets": 0
     },
     "funerals": {
@@ -3879,7 +4506,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 12,
+        "search": 11,
         "text_best_bets": 0
     },
     "furlough": {
@@ -3978,7 +4605,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 43,
+        "search": 44,
         "text_best_bets": 0
     },
     "get test results": {
@@ -3989,7 +4616,40 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 21,
+        "search": 30,
+        "text_best_bets": 0
+    },
+    "gi bill": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
+    "giving blood after having covid 19": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 11,
+        "text_best_bets": 0
+    },
+    "global pandemic": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 28,
         "text_best_bets": 0
     },
     "gloves": {
@@ -4000,7 +4660,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 6,
+        "search": 8,
         "text_best_bets": 0
     },
     "going back to work": {
@@ -4011,7 +4671,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 14,
+        "search": 16,
         "text_best_bets": 0
     },
     "going outside": {
@@ -4019,6 +4679,28 @@
         "graphic_best_bets": 0,
         "health_topics": 0,
         "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
+    "going to emergency room": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
+    "going to the dentist": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
@@ -4044,7 +4726,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 17,
         "text_best_bets": 0
     },
     "government response": {
@@ -4132,7 +4814,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 7,
+        "search": 11,
         "text_best_bets": 0
     },
     "groceries": {
@@ -4143,8 +4825,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
-        "text_best_bets": 0
+        "search": 9,
+        "text_best_bets": 1
     },
     "grocery": {
         "federal_register_documents": 0,
@@ -4154,8 +4836,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
-        "text_best_bets": 0
+        "search": 9,
+        "text_best_bets": 1
     },
     "grocery shopping": {
         "federal_register_documents": 0,
@@ -4176,8 +4858,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
-        "text_best_bets": 0
+        "search": 9,
+        "text_best_bets": 1
     },
     "grocery stores": {
         "federal_register_documents": 0,
@@ -4187,8 +4869,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
-        "text_best_bets": 0
+        "search": 9,
+        "text_best_bets": 1
     },
     "groups": {
         "federal_register_documents": 0,
@@ -4209,7 +4891,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 42,
+        "search": 41,
         "text_best_bets": 0
     },
     "guidance for cleaning and disinfecting": {
@@ -4220,7 +4902,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 30,
+        "search": 32,
         "text_best_bets": 0
     },
     "guideline": {
@@ -4231,7 +4913,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 16,
+        "search": 17,
         "text_best_bets": 0
     },
     "guidelines": {
@@ -4242,7 +4924,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 16,
+        "search": 17,
         "text_best_bets": 0
     },
     "gym": {
@@ -4265,6 +4947,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 0,
+        "text_best_bets": 0
+    },
+    "had positive test but no symptoms": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 49,
         "text_best_bets": 0
     },
     "hair": {
@@ -4330,7 +5023,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 27,
+        "search": 28,
+        "text_best_bets": 1
+    },
+    "hand sanitizers found with methanol": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "hand washing": {
@@ -4341,7 +5045,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 38,
+        "search": 37,
         "text_best_bets": 0
     },
     "handling mail": {
@@ -4374,7 +5078,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 55,
+        "search": 50,
         "text_best_bets": 0
     },
     "hcq": {
@@ -4396,7 +5100,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 4,
         "text_best_bets": 0
     },
     "health": {
@@ -4407,7 +5111,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 83,
+        "search": 84,
         "text_best_bets": 0
     },
     "health insurance": {
@@ -4421,7 +5125,29 @@
         "search": 3,
         "text_best_bets": 0
     },
+    "healthy person": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 21,
+        "text_best_bets": 0
+    },
     "heart": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 10,
+        "text_best_bets": 0
+    },
+    "heart damage": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -4462,8 +5188,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 86,
-        "text_best_bets": 0
+        "search": 93,
+        "text_best_bets": 1
     },
     "herd immunity": {
         "federal_register_documents": 0,
@@ -4517,7 +5243,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 22,
+        "search": 24,
         "text_best_bets": 1
     },
     "hike": {
@@ -4572,7 +5298,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
         "text_best_bets": 0
     },
     "hiv": {
@@ -4584,6 +5310,28 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 2,
+        "text_best_bets": 0
+    },
+    "home quarantine": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 15,
+        "text_best_bets": 0
+    },
+    "home test": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 10,
         "text_best_bets": 0
     },
     "homeless": {
@@ -4638,10 +5386,21 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 0,
         "text_best_bets": 0
     },
     "hospital": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 15,
+        "text_best_bets": 0
+    },
+    "hospitalizations": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -4704,7 +5463,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 13,
+        "search": 14,
         "text_best_bets": 0
     },
     "housing": {
@@ -4726,8 +5485,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 103,
-        "text_best_bets": 0
+        "search": 100,
+        "text_best_bets": 1
     },
     "how can i help": {
         "federal_register_documents": 0,
@@ -4737,7 +5496,40 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 68,
+        "search": 70,
+        "text_best_bets": 0
+    },
+    "how can i receive financial support": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 11,
+        "text_best_bets": 0
+    },
+    "how can i stop the spread": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 86,
+        "text_best_bets": 0
+    },
+    "how did coronavirus start": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 56,
         "text_best_bets": 0
     },
     "how did covid 19 get its name": {
@@ -4748,7 +5540,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 191,
+        "search": 201,
         "text_best_bets": 0
     },
     "how did it start": {
@@ -4759,7 +5551,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 6,
+        "search": 5,
         "text_best_bets": 0
     },
     "how did the covid-19 virus develop?": {
@@ -4784,6 +5576,17 @@
         "search": 64,
         "text_best_bets": 0
     },
+    "how do i get an antibody test?": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 5,
+        "text_best_bets": 0
+    },
     "how do i get my test results": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -4803,7 +5606,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 191,
+        "search": 201,
         "text_best_bets": 0
     },
     "how does it spread": {
@@ -4814,10 +5617,21 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 85,
+        "search": 86,
         "text_best_bets": 0
     },
     "how does the virus affect most people": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 64,
+        "text_best_bets": 0
+    },
+    "how does the virus affect you": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -4836,7 +5650,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 46,
+        "search": 45,
+        "text_best_bets": 0
+    },
+    "how far is the vaccine": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 15,
         "text_best_bets": 0
     },
     "how long": {
@@ -4847,7 +5672,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 13,
+        "search": 12,
         "text_best_bets": 0
     },
     "how long am i contagious": {
@@ -4924,7 +5749,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 25,
+        "search": 24,
         "text_best_bets": 0
     },
     "how long does it last on paper": {
@@ -4957,7 +5782,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 12,
+        "search": 11,
         "text_best_bets": 0
     },
     "how long does it live on surfaces": {
@@ -5056,7 +5881,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 24,
         "text_best_bets": 0
     },
     "how long to quarantine": {
@@ -5067,7 +5892,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 14,
+        "search": 15,
         "text_best_bets": 0
     },
     "how long will it last": {
@@ -5100,7 +5925,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 15,
+        "search": 16,
         "text_best_bets": 0
     },
     "how many cases": {
@@ -5111,7 +5936,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 31,
+        "search": 0,
         "text_best_bets": 0
     },
     "how many deaths": {
@@ -5122,7 +5947,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "how many people have died": {
@@ -5136,6 +5961,17 @@
         "search": 12,
         "text_best_bets": 0
     },
+    "how to disinfect": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 40,
+        "text_best_bets": 0
+    },
     "how to get test results": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -5144,7 +5980,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 15,
+        "search": 19,
         "text_best_bets": 0
     },
     "how to help": {
@@ -5155,7 +5991,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 148,
+        "search": 152,
         "text_best_bets": 0
     },
     "how to make a facemask": {
@@ -5166,7 +6002,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
+        "search": 6,
         "text_best_bets": 0
     },
     "how to make a mask": {
@@ -5177,7 +6013,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 19,
         "text_best_bets": 0
     },
     "how to make facemask": {
@@ -5188,7 +6024,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
+        "search": 6,
+        "text_best_bets": 0
+    },
+    "how to make hand sanitizer": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 28,
         "text_best_bets": 0
     },
     "how to make mask": {
@@ -5199,7 +6046,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 19,
         "text_best_bets": 0
     },
     "how to make masks": {
@@ -5210,7 +6057,40 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 19,
+        "text_best_bets": 0
+    },
+    "how to make sanitizer": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 28,
+        "text_best_bets": 0
+    },
+    "how to report fraudulent claims": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 7,
+        "text_best_bets": 0
+    },
+    "how to set up direct deposit": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 12,
         "text_best_bets": 0
     },
     "how to treat this virus": {
@@ -5334,6 +6214,17 @@
         "search": 56,
         "text_best_bets": 0
     },
+    "i have antibodies. now what?": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 5,
+        "text_best_bets": 0
+    },
     "ibuprofen": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -5378,6 +6269,17 @@
         "search": 2,
         "text_best_bets": 0
     },
+    "if i tested positive can i get it again": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
     "illinois": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -5397,7 +6299,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 12,
+        "search": 18,
         "text_best_bets": 0
     },
     "immune system": {
@@ -5408,7 +6310,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 12,
+        "search": 18,
         "text_best_bets": 0
     },
     "immunity": {
@@ -5419,7 +6321,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 12,
+        "search": 18,
+        "text_best_bets": 0
+    },
+    "increase in snap benefits": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
         "text_best_bets": 0
     },
     "incubation": {
@@ -5496,7 +6409,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 4,
+        "search": 6,
         "text_best_bets": 0
     },
     "influenza": {
@@ -5551,7 +6464,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 20,
         "text_best_bets": 0
     },
     "international mail": {
@@ -5606,7 +6519,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 7,
+        "search": 8,
         "text_best_bets": 0
     },
     "irs": {
@@ -5631,6 +6544,28 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "is covid a cold": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 7,
+        "text_best_bets": 0
+    },
+    "is covid testing covered by medicare": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
     "is covid-19 airborne": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -5639,7 +6574,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 44,
+        "search": 48,
+        "text_best_bets": 0
+    },
+    "is drinking water safe": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 9,
         "text_best_bets": 0
     },
     "is it airborne": {
@@ -5647,6 +6593,39 @@
         "graphic_best_bets": 0,
         "health_topics": 0,
         "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
+    "is it safe animals": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 38,
+        "text_best_bets": 0
+    },
+    "is it safe to go to dentist": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
+    "is it safe to go to the dentist": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
@@ -5683,7 +6662,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 7,
+        "search": 8,
         "text_best_bets": 0
     },
     "isolation": {
@@ -5716,7 +6695,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "jobs": {
@@ -5727,7 +6706,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "jogging": {
@@ -5796,6 +6775,17 @@
         "search": 2,
         "text_best_bets": 0
     },
+    "large gatherings": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 11,
+        "text_best_bets": 0
+    },
     "last on surfaces": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -5804,7 +6794,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 148,
+        "search": 154,
         "text_best_bets": 0
     },
     "laundry": {
@@ -5826,7 +6816,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
+        "search": 10,
+        "text_best_bets": 0
+    },
+    "length of quarantine": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 15,
+        "text_best_bets": 0
+    },
+    "life of corona virus": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "lifespan": {
@@ -5870,7 +6882,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 17,
+        "search": 18,
         "text_best_bets": 0
     },
     "live on surface": {
@@ -5881,7 +6893,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 36,
+        "search": 37,
         "text_best_bets": 0
     },
     "live on surfaces": {
@@ -5892,7 +6904,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 36,
+        "search": 37,
         "text_best_bets": 0
     },
     "lives on surfaces": {
@@ -5903,7 +6915,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 36,
+        "search": 37,
         "text_best_bets": 0
     },
     "loan": {
@@ -5914,7 +6926,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 8,
+        "search": 10,
         "text_best_bets": 0
     },
     "loans": {
@@ -5925,7 +6937,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 8,
+        "search": 10,
         "text_best_bets": 0
     },
     "lockdown": {
@@ -5937,6 +6949,28 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 3,
+        "text_best_bets": 0
+    },
+    "long term": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "long term care facilities": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 8,
         "text_best_bets": 0
     },
     "losartan": {
@@ -5980,7 +7014,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 13,
+        "search": 15,
         "text_best_bets": 0
     },
     "lysol": {
@@ -6002,7 +7036,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 13,
+        "search": 12,
         "text_best_bets": 0
     },
     "mail and packages": {
@@ -6013,7 +7047,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 21,
+        "search": 20,
         "text_best_bets": 0
     },
     "mail delivery": {
@@ -6057,7 +7091,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 19,
         "text_best_bets": 0
     },
     "make mask": {
@@ -6068,7 +7102,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 19,
         "text_best_bets": 0
     },
     "make masks": {
@@ -6079,7 +7113,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 19,
         "text_best_bets": 0
     },
     "making a mask": {
@@ -6090,7 +7124,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 19,
         "text_best_bets": 0
     },
     "making masks": {
@@ -6101,7 +7135,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 19,
         "text_best_bets": 0
     },
     "malaria": {
@@ -6156,8 +7190,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
-        "text_best_bets": 0
+        "search": 19,
+        "text_best_bets": 1
     },
     "mask exemption": {
         "federal_register_documents": 0,
@@ -6189,8 +7223,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
-        "text_best_bets": 0
+        "search": 19,
+        "text_best_bets": 1
     },
     "mask wearing": {
         "federal_register_documents": 0,
@@ -6200,8 +7234,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 15,
-        "text_best_bets": 0
+        "search": 16,
+        "text_best_bets": 1
     },
     "masks": {
         "federal_register_documents": 0,
@@ -6211,8 +7245,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 19,
-        "text_best_bets": 0
+        "search": 20,
+        "text_best_bets": 1
     },
     "mass gatherings": {
         "federal_register_documents": 0,
@@ -6233,8 +7267,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
-        "text_best_bets": 0
+        "search": 9,
+        "text_best_bets": 1
     },
     "meat": {
         "federal_register_documents": 0,
@@ -6244,7 +7278,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 4,
+        "search": 5,
         "text_best_bets": 0
     },
     "medicaid": {
@@ -6266,7 +7300,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 61,
+        "search": 62,
         "text_best_bets": 1
     },
     "medical care": {
@@ -6277,7 +7311,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 34,
+        "search": 36,
+        "text_best_bets": 0
+    },
+    "medical supplies": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 21,
         "text_best_bets": 0
     },
     "medicare": {
@@ -6299,7 +7344,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 61,
+        "search": 62,
         "text_best_bets": 1
     },
     "medications": {
@@ -6310,7 +7355,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 61,
+        "search": 62,
         "text_best_bets": 1
     },
     "medicine": {
@@ -6324,6 +7369,17 @@
         "search": 12,
         "text_best_bets": 0
     },
+    "meeting outside": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 6,
+        "text_best_bets": 0
+    },
     "mental health": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -6333,6 +7389,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 3,
+        "text_best_bets": 0
+    },
+    "methanol": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "mexico": {
@@ -6420,7 +7487,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 3,
         "text_best_bets": 0
     },
     "modeling": {
@@ -6431,7 +7498,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 3,
         "text_best_bets": 0
     },
     "models": {
@@ -6442,7 +7509,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 3,
         "text_best_bets": 0
     },
     "money": {
@@ -6454,6 +7521,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 0,
+        "text_best_bets": 0
+    },
+    "moratorium": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "mortality": {
@@ -6563,7 +7641,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 11,
+        "search": 13,
         "text_best_bets": 0
     },
     "my results": {
@@ -6574,7 +7652,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 7,
         "text_best_bets": 0
     },
     "myth": {
@@ -6603,7 +7681,7 @@
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
-        "is_routed_query": false,
+        "is_routed_query": true,
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
@@ -6641,6 +7719,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 0,
+        "text_best_bets": 0
+    },
+    "national death rate": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 12,
         "text_best_bets": 0
     },
     "national emergency": {
@@ -6687,6 +7776,28 @@
         "search": 5,
         "text_best_bets": 0
     },
+    "nausea": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
+    "negative after positive": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
     "negative test": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -6706,7 +7817,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 11,
+        "search": 12,
         "text_best_bets": 0
     },
     "new guidelines": {
@@ -6750,7 +7861,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 40,
+        "search": 41,
         "text_best_bets": 0
     },
     "newspaper": {
@@ -6786,6 +7897,17 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "nicotine": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
     "no insurance": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -6805,7 +7927,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 48,
+        "search": 49,
         "text_best_bets": 0
     },
     "north carolina": {
@@ -6860,7 +7982,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 52,
+        "search": 53,
         "text_best_bets": 0
     },
     "number of deaths": {
@@ -6871,7 +7993,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
+        "text_best_bets": 0
+    },
+    "number of deaths in us": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 12,
+        "text_best_bets": 0
+    },
+    "number of symptoms": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 49,
         "text_best_bets": 0
     },
     "numbers": {
@@ -7036,7 +8180,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 16,
+        "search": 15,
         "text_best_bets": 0
     },
     "oregon": {
@@ -7058,7 +8202,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 7,
+        "search": 6,
+        "text_best_bets": 0
+    },
+    "origin covid-19": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
         "text_best_bets": 0
     },
     "origin of coronavirus": {
@@ -7069,7 +8224,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
         "text_best_bets": 0
     },
     "outbreak": {
@@ -7135,7 +8290,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 13,
+        "search": 12,
         "text_best_bets": 0
     },
     "over 65": {
@@ -7193,6 +8348,28 @@
         "search": 2,
         "text_best_bets": 0
     },
+    "paid sick leave": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 47,
+        "text_best_bets": 0
+    },
+    "paid sick leave requirements and credit": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 47,
+        "text_best_bets": 0
+    },
     "pain relievers": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -7212,7 +8389,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 26,
+        "search": 28,
         "text_best_bets": 0
     },
     "paper": {
@@ -7300,7 +8477,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 11,
+        "search": 13,
         "text_best_bets": 0
     },
     "paycheck protection program": {
@@ -7311,7 +8488,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 3,
+        "search": 4,
         "text_best_bets": 0
     },
     "paying for covid-19 treatment": {
@@ -7322,7 +8499,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 193,
+        "search": 203,
         "text_best_bets": 0
     },
     "payment": {
@@ -7333,7 +8510,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 30,
+        "search": 31,
+        "text_best_bets": 0
+    },
+    "payment protection program": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 14,
         "text_best_bets": 0
     },
     "payments": {
@@ -7344,10 +8532,21 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 30,
+        "search": 31,
         "text_best_bets": 0
     },
     "pcr": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
+    "pcr covid test": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -7391,6 +8590,17 @@
         "search": 3,
         "text_best_bets": 0
     },
+    "percent of deaths": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 12,
+        "text_best_bets": 0
+    },
     "percent positive recommendations": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -7400,6 +8610,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 0,
+        "text_best_bets": 0
+    },
+    "persons testing positive": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 18,
         "text_best_bets": 0
     },
     "pet": {
@@ -7534,6 +8755,39 @@
         "search": 4,
         "text_best_bets": 0
     },
+    "plasma donations": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
+    "plasma giving": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
+    "plasma treatment": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
     "plastic": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -7545,7 +8799,29 @@
         "search": 4,
         "text_best_bets": 0
     },
+    "playgrounds": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
     "pneumonia": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
+    "police": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -7619,7 +8895,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 11,
+        "search": 12,
+        "text_best_bets": 0
+    },
+    "positive test result": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 19,
+        "text_best_bets": 0
+    },
+    "possible exposure": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
         "text_best_bets": 0
     },
     "post": {
@@ -7729,7 +9027,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 14,
+        "search": 13,
         "text_best_bets": 0
     },
     "ppp": {
@@ -7740,7 +9038,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
+    "ppp for small business": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
         "text_best_bets": 0
     },
     "predictions": {
@@ -7828,8 +9137,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 59,
-        "text_best_bets": 0
+        "search": 58,
+        "text_best_bets": 1
     },
     "prison": {
         "federal_register_documents": 0,
@@ -7883,7 +9192,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "projection": {
@@ -7923,7 +9232,7 @@
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
-        "is_routed_query": false,
+        "is_routed_query": true,
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
@@ -7941,6 +9250,17 @@
         "search": 47,
         "text_best_bets": 0
     },
+    "public transportation": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 10,
+        "text_best_bets": 0
+    },
     "qualifying child": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -7949,7 +9269,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 18,
+        "search": 20,
         "text_best_bets": 0
     },
     "quarantine": {
@@ -7960,7 +9280,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 14,
+        "search": 15,
+        "text_best_bets": 0
+    },
+    "quarantine recommendation": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 15,
         "text_best_bets": 0
     },
     "quarantine time": {
@@ -7971,7 +9302,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 14,
+        "search": 15,
         "text_best_bets": 0
     },
     "rash": {
@@ -7993,7 +9324,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 4,
+        "search": 6,
         "text_best_bets": 0
     },
     "real id": {
@@ -8004,7 +9335,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 3,
+        "search": 2,
         "text_best_bets": 0
     },
     "receiving help from virus": {
@@ -8018,7 +9349,29 @@
         "search": 64,
         "text_best_bets": 0
     },
+    "recent positive test": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 17,
+        "text_best_bets": 0
+    },
     "recover": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 17,
+        "text_best_bets": 0
+    },
+    "recover rate": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -8227,6 +9580,28 @@
         "search": 7,
         "text_best_bets": 0
     },
+    "rent payment help": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 7,
+        "text_best_bets": 0
+    },
+    "rental relief": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
     "renters": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -8290,7 +9665,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 47,
+        "search": 46,
         "text_best_bets": 0
     },
     "reporting": {
@@ -8301,21 +9676,10 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 47,
+        "search": 46,
         "text_best_bets": 0
     },
-    "research": {
-        "federal_register_documents": 0,
-        "graphic_best_bets": 0,
-        "health_topics": 0,
-        "is_routed_query": false,
-        "job_openings": 0,
-        "recent_tweets": 0,
-        "related_search_terms": 0,
-        "search": 14,
-        "text_best_bets": 0
-    },
-    "resources": {
+    "required vaccine": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -8326,6 +9690,28 @@
         "search": 15,
         "text_best_bets": 0
     },
+    "research": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 16,
+        "text_best_bets": 0
+    },
+    "resources": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 19,
+        "text_best_bets": 0
+    },
     "respirators": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -8334,7 +9720,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 6,
+        "search": 4,
         "text_best_bets": 0
     },
     "restaurant": {
@@ -8359,6 +9745,17 @@
         "search": 2,
         "text_best_bets": 0
     },
+    "restricted country": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 9,
+        "text_best_bets": 0
+    },
     "restrictions": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -8370,6 +9767,17 @@
         "search": 15,
         "text_best_bets": 0
     },
+    "result": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 22,
+        "text_best_bets": 0
+    },
     "results": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -8378,7 +9786,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 15,
+        "search": 22,
         "text_best_bets": 0
     },
     "retest": {
@@ -8403,6 +9811,17 @@
         "search": 2,
         "text_best_bets": 0
     },
+    "retrieving loved ones belongings": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
     "return to work": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -8411,7 +9830,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 68,
+        "search": 70,
         "text_best_bets": 0
     },
     "returning to work": {
@@ -8422,7 +9841,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 68,
+        "search": 70,
         "text_best_bets": 0
     },
     "risk": {
@@ -8433,7 +9852,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 68,
+        "search": 71,
         "text_best_bets": 1
     },
     "risk factors": {
@@ -8445,6 +9864,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 2,
+        "text_best_bets": 1
+    },
+    "risk factors of covid 19": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 201,
         "text_best_bets": 1
     },
     "rmd": {
@@ -8477,7 +9907,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 7,
+        "search": 6,
         "text_best_bets": 0
     },
     "rumor": {
@@ -8557,6 +9987,17 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "sanitize": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 28,
+        "text_best_bets": 0
+    },
     "sanitizer": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -8565,7 +10006,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 27,
+        "search": 28,
+        "text_best_bets": 0
+    },
+    "sanitizing surfaces": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 28,
         "text_best_bets": 0
     },
     "sars": {
@@ -8590,6 +10042,17 @@
         "search": 17,
         "text_best_bets": 0
     },
+    "sars-cov-2 ": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 17,
+        "text_best_bets": 0
+    },
     "scam": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -8598,7 +10061,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
+        "search": 12,
         "text_best_bets": 0
     },
     "scams": {
@@ -8609,7 +10072,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
+        "search": 12,
         "text_best_bets": 0
     },
     "school": {
@@ -8620,7 +10083,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 19,
+        "search": 22,
         "text_best_bets": 0
     },
     "schools": {
@@ -8631,7 +10094,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 19,
+        "search": 22,
         "text_best_bets": 0
     },
     "screening": {
@@ -8642,7 +10105,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 12,
         "text_best_bets": 0
     },
     "second stimulus": {
@@ -8678,6 +10141,17 @@
         "search": 3,
         "text_best_bets": 0
     },
+    "second test negative": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
     "second wave": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -8700,6 +10174,28 @@
         "search": 3,
         "text_best_bets": 0
     },
+    "self employed filers": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
+        "text_best_bets": 0
+    },
+    "self employed pua": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
     "self isolation": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -8719,7 +10215,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 14,
+        "search": 15,
         "text_best_bets": 0
     },
     "self-quarantine": {
@@ -8730,7 +10226,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 14,
+        "search": 15,
         "text_best_bets": 0
     },
     "seniors": {
@@ -8763,7 +10259,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 55,
+        "search": 57,
         "text_best_bets": 0
     },
     "sex": {
@@ -8807,7 +10303,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 3,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "shields": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 5,
         "text_best_bets": 0
     },
     "shingles": {
@@ -8851,7 +10358,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 8,
+        "search": 7,
         "text_best_bets": 0
     },
     "should i get tested": {
@@ -8862,7 +10369,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 32,
+        "search": 34,
         "text_best_bets": 0
     },
     "should i wear a mask": {
@@ -8873,7 +10380,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 15,
+        "search": 17,
         "text_best_bets": 0
     },
     "sick": {
@@ -8884,7 +10391,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 59,
         "text_best_bets": 0
     },
     "sick leave": {
@@ -8895,7 +10402,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 59,
         "text_best_bets": 0
     },
     "side affects of covid-19": {
@@ -8906,7 +10413,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 191,
+        "search": 201,
         "text_best_bets": 0
     },
     "simple tax return": {
@@ -8972,8 +10479,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
-        "text_best_bets": 0
+        "search": 10,
+        "text_best_bets": 1
     },
     "small business": {
         "federal_register_documents": 0,
@@ -8984,6 +10491,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 12,
+        "text_best_bets": 0
+    },
+    "small business loan": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 10,
         "text_best_bets": 0
     },
     "smell": {
@@ -9005,7 +10523,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 6,
         "text_best_bets": 0
     },
     "snap": {
@@ -9038,8 +10556,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 29,
-        "text_best_bets": 0
+        "search": 31,
+        "text_best_bets": 1
     },
     "social distancing": {
         "federal_register_documents": 0,
@@ -9049,8 +10567,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 29,
-        "text_best_bets": 0
+        "search": 31,
+        "text_best_bets": 1
     },
     "social distancing guidelines": {
         "federal_register_documents": 0,
@@ -9060,7 +10578,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 29,
+        "search": 31,
         "text_best_bets": 0
     },
     "social gatherings": {
@@ -9075,6 +10593,17 @@
         "text_best_bets": 0
     },
     "social security": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 22,
+        "text_best_bets": 0
+    },
+    "someone sick": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -9104,7 +10633,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 264,
+        "search": 271,
+        "text_best_bets": 0
+    },
+    "special needs children": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 36,
         "text_best_bets": 0
     },
     "sport": {
@@ -9137,8 +10677,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 85,
-        "text_best_bets": 0
+        "search": 86,
+        "text_best_bets": 2
     },
     "ssa": {
         "federal_register_documents": 0,
@@ -9192,7 +10732,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 96,
+        "search": 98,
         "text_best_bets": 0
     },
     "states": {
@@ -9203,7 +10743,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 70,
+        "search": 71,
         "text_best_bets": 0
     },
     "statistics": {
@@ -9236,7 +10776,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 57,
+        "search": 58,
         "text_best_bets": 0
     },
     "stay at home order": {
@@ -9247,7 +10787,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 26,
+        "search": 27,
         "text_best_bets": 0
     },
     "stay home": {
@@ -9258,7 +10798,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 29,
+        "search": 30,
         "text_best_bets": 0
     },
     "steam": {
@@ -9371,6 +10911,17 @@
         "search": 3,
         "text_best_bets": 0
     },
+    "stopping isolation": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 13,
+        "text_best_bets": 0
+    },
     "strains": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -9412,7 +10963,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 8,
+        "search": 10,
         "text_best_bets": 0
     },
     "student loans": {
@@ -9423,7 +10974,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 8,
+        "search": 10,
         "text_best_bets": 0
     },
     "study": {
@@ -9434,7 +10985,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 12,
+        "search": 14,
         "text_best_bets": 0
     },
     "substantially similar condition": {
@@ -9485,7 +11036,7 @@
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
-        "is_routed_query": false,
+        "is_routed_query": true,
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
@@ -9511,7 +11062,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 31,
+        "search": 33,
         "text_best_bets": 0
     },
     "surfaces": {
@@ -9522,7 +11073,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 31,
+        "search": 33,
         "text_best_bets": 0
     },
     "surgeon general": {
@@ -9545,6 +11096,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 0,
+        "text_best_bets": 0
+    },
+    "survival on surfaces": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 6,
         "text_best_bets": 0
     },
     "survival rate": {
@@ -9595,7 +11157,7 @@
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
-        "is_routed_query": false,
+        "is_routed_query": true,
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
@@ -9621,7 +11183,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 48,
+        "search": 49,
         "text_best_bets": 0
     },
     "symptoms": {
@@ -9632,7 +11194,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 48,
+        "search": 49,
         "text_best_bets": 0
     },
     "take out": {
@@ -9643,7 +11205,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 19,
+        "search": 18,
         "text_best_bets": 0
     },
     "take out food": {
@@ -9687,7 +11249,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 17,
+        "search": 16,
+        "text_best_bets": 0
+    },
+    "tax return": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 16,
         "text_best_bets": 0
     },
     "taxes": {
@@ -9698,7 +11271,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 17,
+        "search": 16,
+        "text_best_bets": 0
+    },
+    "taxes on relief payment": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
         "text_best_bets": 0
     },
     "telehealth": {
@@ -9731,7 +11315,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 9,
+        "search": 11,
+        "text_best_bets": 0
+    },
+    "temperature checks": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 6,
         "text_best_bets": 0
     },
     "test positive": {
@@ -9742,7 +11337,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 11,
+        "search": 12,
         "text_best_bets": 0
     },
     "test result": {
@@ -9753,7 +11348,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 14,
         "text_best_bets": 0
     },
     "test results": {
@@ -9764,7 +11359,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 14,
         "text_best_bets": 0
     },
     "test sites": {
@@ -9775,7 +11370,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 29,
+        "search": 36,
         "text_best_bets": 0
     },
     "test to determine having had the virus": {
@@ -9797,8 +11392,19 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 31,
+        "search": 38,
         "text_best_bets": 2
+    },
+    "tested negative now what": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
     },
     "testing": {
         "federal_register_documents": 0,
@@ -9808,7 +11414,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 31,
+        "search": 38,
         "text_best_bets": 2
     },
     "testing centers": {
@@ -9819,7 +11425,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 21,
+        "search": 27,
         "text_best_bets": 0
     },
     "testing in sonoma county": {
@@ -9841,6 +11447,17 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "testing negative": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
         "search": 4,
         "text_best_bets": 0
     },
@@ -9852,7 +11469,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 3,
+        "search": 5,
         "text_best_bets": 0
     },
     "testing results": {
@@ -9863,7 +11480,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 10,
+        "search": 14,
         "text_best_bets": 0
     },
     "testing site": {
@@ -9874,7 +11491,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 29,
+        "search": 36,
         "text_best_bets": 0
     },
     "testing sites": {
@@ -9885,7 +11502,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 29,
+        "search": 36,
         "text_best_bets": 0
     },
     "tests": {
@@ -9896,7 +11513,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 31,
+        "search": 38,
         "text_best_bets": 0
     },
     "texas": {
@@ -9910,6 +11527,17 @@
         "search": 7,
         "text_best_bets": 0
     },
+    "ticks": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
     "timeline": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -9919,6 +11547,28 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 0,
+        "text_best_bets": 0
+    },
+    "tobacco": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
+    "toxicity": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
         "text_best_bets": 0
     },
     "transit": {
@@ -9940,7 +11590,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 27,
+        "search": 28,
+        "text_best_bets": 0
+    },
+    "transmission of virus": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 20,
+        "text_best_bets": 0
+    },
+    "transportation": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 13,
         "text_best_bets": 0
     },
     "travel": {
@@ -9951,7 +11623,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 39,
+        "search": 36,
         "text_best_bets": 0
     },
     "travel ban": {
@@ -9984,7 +11656,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 24,
+        "search": 27,
         "text_best_bets": 0
     },
     "treatments": {
@@ -9995,7 +11667,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 24,
+        "search": 27,
+        "text_best_bets": 0
+    },
+    "treatments for covid-19": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 201,
         "text_best_bets": 0
     },
     "trump": {
@@ -10017,7 +11700,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 3,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "two main ways that covid can be spread": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 80,
         "text_best_bets": 0
     },
     "tylenol": {
@@ -10052,6 +11746,17 @@
         "related_search_terms": 0,
         "search": 0,
         "text_best_bets": 0
+    },
+    "underlying conditions": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 21,
+        "text_best_bets": 1
     },
     "unemployment": {
         "federal_register_documents": 0,
@@ -10094,7 +11799,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 264,
+        "search": 271,
         "text_best_bets": 0
     },
     "updates": {
@@ -10105,7 +11810,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 264,
+        "search": 271,
         "text_best_bets": 0
     },
     "urine": {
@@ -10119,6 +11824,50 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "us consulate": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
+    "us embassy": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
+        "text_best_bets": 0
+    },
+    "us embassy consulate": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
+    "us government office": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 15,
+        "text_best_bets": 0
+    },
     "us mail": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -10128,6 +11877,28 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 6,
+        "text_best_bets": 0
+    },
+    "us offices": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 12,
+        "text_best_bets": 0
+    },
+    "uscis": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
         "text_best_bets": 0
     },
     "usps": {
@@ -10141,7 +11912,29 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "uv": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
     "uv light": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
+    "uv lighting": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -10174,7 +11967,29 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "vaccination": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 15,
+        "text_best_bets": 0
+    },
     "vaccine": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 15,
+        "text_best_bets": 0
+    },
+    "vaccine studies": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -10207,6 +12022,61 @@
         "search": 15,
         "text_best_bets": 0
     },
+    "vape": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
+    "ventilation": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 6,
+        "text_best_bets": 0
+    },
+    "veteran": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 11,
+        "text_best_bets": 0
+    },
+    "veterans": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 11,
+        "text_best_bets": 0
+    },
+    "virus distribute": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 64,
+        "text_best_bets": 0
+    },
     "virus installation": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -10218,7 +12088,7 @@
         "search": 64,
         "text_best_bets": 0
     },
-    "vitamin c": {
+    "virus survival on hard surfaces": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
         "health_topics": 0,
@@ -10229,6 +12099,28 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "vitamin": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
+        "text_best_bets": 0
+    },
+    "vitamin c": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
+        "text_best_bets": 0
+    },
     "vitamin d": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -10237,7 +12129,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 0,
+        "search": 3,
+        "text_best_bets": 0
+    },
+    "vitamins": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
         "text_best_bets": 0
     },
     "volunteer": {
@@ -10251,6 +12154,28 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "wages": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
+    "waiver": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 8,
+        "text_best_bets": 0
+    },
     "water": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -10259,7 +12184,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 39,
+        "search": 40,
         "text_best_bets": 0
     },
     "wearing a mask": {
@@ -10270,8 +12195,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 15,
-        "text_best_bets": 0
+        "search": 16,
+        "text_best_bets": 1
     },
     "weddings": {
         "federal_register_documents": 0,
@@ -10284,6 +12209,50 @@
         "search": 0,
         "text_best_bets": 0
     },
+    "what about false positives": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
+    "what do i do if i have been exposed": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 17,
+        "text_best_bets": 0
+    },
+    "what do i do if i think i was exposed": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
+    "what if i've been exposed": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 2,
+        "text_best_bets": 0
+    },
     "what if someone at work gets covid-19": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -10292,7 +12261,51 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 35,
+        "search": 34,
+        "text_best_bets": 0
+    },
+    "what is a coronavirus?": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 57,
+        "text_best_bets": 0
+    },
+    "what is a virus": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 64,
+        "text_best_bets": 0
+    },
+    "what is an exposure": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
+        "text_best_bets": 0
+    },
+    "what is considered exposure": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": true,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 0,
         "text_best_bets": 0
     },
     "what is coronavirus": {
@@ -10303,7 +12316,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
         "text_best_bets": 0
     },
     "what is covid-19": {
@@ -10314,7 +12327,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 222,
+        "search": 232,
         "text_best_bets": 0
     },
     "what is social distancing": {
@@ -10325,7 +12338,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 29,
+        "search": 31,
         "text_best_bets": 0
     },
     "what is the coronavirus": {
@@ -10336,7 +12349,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 58,
+        "search": 56,
         "text_best_bets": 0
     },
     "when": {
@@ -10347,7 +12360,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 71,
+        "search": 73,
         "text_best_bets": 0
     },
     "when are you contagious": {
@@ -10369,7 +12382,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 24,
+        "search": 25,
         "text_best_bets": 0
     },
     "when did it start": {
@@ -10391,7 +12404,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 14,
+        "search": 15,
         "text_best_bets": 0
     },
     "when will it end": {
@@ -10402,7 +12415,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 22,
+        "search": 23,
         "text_best_bets": 0
     },
     "when will this be over": {
@@ -10424,7 +12437,29 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 23,
+        "search": 24,
+        "text_best_bets": 0
+    },
+    "when will vaccine be available": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 15,
+        "text_best_bets": 0
+    },
+    "when will vaccine become available": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 15,
         "text_best_bets": 0
     },
     "where can i get tested": {
@@ -10436,6 +12471,17 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 21,
+        "text_best_bets": 0
+    },
+    "where did coronavirus come from": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 56,
         "text_best_bets": 0
     },
     "where did it come from": {
@@ -10468,7 +12514,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 21,
+        "search": 20,
         "text_best_bets": 0
     },
     "where is my stimulus check": {
@@ -10482,6 +12528,17 @@
         "search": 3,
         "text_best_bets": 0
     },
+    "where to donate plasma": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
+        "text_best_bets": 0
+    },
     "where to get tested": {
         "federal_register_documents": 0,
         "graphic_best_bets": 0,
@@ -10490,7 +12547,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 27,
+        "search": 29,
         "text_best_bets": 0
     },
     "wheres my check": {
@@ -10501,7 +12558,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 27,
+        "search": 26,
+        "text_best_bets": 0
+    },
+    "which airports have enhanced screening": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 4,
         "text_best_bets": 0
     },
     "who": {
@@ -10512,8 +12580,8 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 80,
-        "text_best_bets": 1
+        "search": 85,
+        "text_best_bets": 2
     },
     "who gets a situmas check": {
         "federal_register_documents": 0,
@@ -10524,6 +12592,61 @@
         "recent_tweets": 0,
         "related_search_terms": 0,
         "search": 0,
+        "text_best_bets": 0
+    },
+    "who is an essential worker?": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 52,
+        "text_best_bets": 0
+    },
+    "who is at risk": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 70,
+        "text_best_bets": 1
+    },
+    "who should wear face shields": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 5,
+        "text_best_bets": 0
+    },
+    "will covid 19 vaccine be mandated": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
+        "text_best_bets": 0
+    },
+    "will schools open this fall": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 3,
         "text_best_bets": 0
     },
     "windows": {
@@ -10545,7 +12668,18 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 48,
+        "search": 50,
+        "text_best_bets": 0
+    },
+    "work exposure": {
+        "federal_register_documents": 0,
+        "graphic_best_bets": 0,
+        "health_topics": 0,
+        "is_routed_query": false,
+        "job_openings": 0,
+        "recent_tweets": 0,
+        "related_search_terms": 0,
+        "search": 20,
         "text_best_bets": 0
     },
     "working": {
@@ -10556,7 +12690,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 48,
+        "search": 50,
         "text_best_bets": 0
     },
     "workplace": {
@@ -10567,7 +12701,7 @@
         "job_openings": 0,
         "recent_tweets": 0,
         "related_search_terms": 0,
-        "search": 2,
+        "search": 1,
         "text_best_bets": 0
     },
     "worship": {
