@@ -1,11 +1,15 @@
 ---
-date: June 9, 2020
+date: August 19, 2020
 excerpt: Pregnant women and COVID-19
 layout: post
 redirect_from:
 - /pregnancy/if-a-pregnant-woman-has-covid-19-during-pregnancy-will-it-hurt-the-baby/
 - /pregnancy/can-covid19-cause-problems-for-pregnancy/
 - /pregnancy/i-am-pregnant-what-are-the-risks/
+- /pregnancy/what-is-the-risk-to-pregnant-women-of-getting-covid-19/
+- /what-is-the-risk-to-pregnant-women-of-getting-covid-19/
+- /pregnancy/can-covid-19-be-passed-from-a-pregnant-woman-to-her-fetus-or-newborn/
+- /can-covid-19-be-passed-from-a-pregnant-woman-to-her-fetus-or-newborn/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/pregnancy-breastfeeding.html
