@@ -1,9 +1,11 @@
 ---
-date: March 29, 2020
+date: August 19, 2020
 excerpt: Community events
 layout: post
 redirect_from:
 - /community-events/do-i-need-to-cancel-if-there-are-confirmed-covid19-cases/
+- /community-events/when-does-the-cdc-recommend-i-cancel-or-postpone-events/
+- /when-does-the-cdc-recommend-i-cancel-or-postpone-events/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html
