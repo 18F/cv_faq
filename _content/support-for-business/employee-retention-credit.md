@@ -22,5 +22,5 @@ Employers can be immediately reimbursed for the credit by reducing their require
 
 Eligible employers will report their total qualified wages and the related health insurance costs for each quarter on their quarterly employment tax returns or Form 941 beginning with the second quarter. If the employer’s employment tax deposits are not sufficient to cover the credit, the employer may receive an advance payment from the IRS by submitting Form 7200, Advance Payment of Employer Credits Due to COVID-19. Eligible employers can also request an advance of the Employee Retention Credit by submitting Form 7200.
 
-- [Detailed IRS guidance on the Employee Retention Credit](https://home.treasury.gov/system/files/136/Employee-Retention-Tax-Credit.pdf)
+- [Detailed IRS guidance on the Employee Retention Credit (PDF)](https://home.treasury.gov/system/files/136/Employee-Retention-Tax-Credit.pdf)
 - Additional FAQs are available from the [Department of the Treasury](https://home.treasury.gov/news/press-releases/sm962).

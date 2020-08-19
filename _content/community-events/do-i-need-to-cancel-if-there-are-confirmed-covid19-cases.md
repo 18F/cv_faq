@@ -21,4 +21,4 @@ If there is minimal or moderate spread of COVID-19 in the community, CDC recomme
     - [Read the White House notice (PDF)](https://www.whitehouse.gov/wp-content/uploads/2020/03/03.16.20_coronavirus-guidance_8.5x11_315PM.pdf)
 - event likely to have 10 or more people who are at higher risk of serious COVID-19 illness. This includes older adults and people with underlying health problems such as lung or heart disease and diabetes.
 
-If there is substantial spread of COVID-19 in the community, CDC recommends cancelling events of any size. See guidance for definitions of [minimal, moderate, and substantial spread (PDF)](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html).
+If there is substantial spread of COVID-19 in the community, CDC recommends cancelling events of any size. See guidance for definitions of [minimal, moderate, and substantial spread](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/event-planners-and-attendees-faq.html).
