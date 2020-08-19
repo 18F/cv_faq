@@ -21,5 +21,5 @@ During contact tracing, the health department staff **will not** ask you for
 - Credit card numbers
 
 Learn more about contact tracing
-- [Contact tracing infographic](https://www.cdc.gov/coronavirus/2019-ncov/downloads/Contact-Tracing-Infographic-FINAL.pdf)
+- [Contact tracing infographic (PDF)](https://www.cdc.gov/coronavirus/2019-ncov/downloads/Contact-Tracing-Infographic-FINAL.pdf)
 - [Contact tracing frequently asked questions and answers](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Contact-Tracing)

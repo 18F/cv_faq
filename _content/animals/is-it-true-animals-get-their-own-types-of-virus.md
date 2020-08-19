@@ -17,4 +17,4 @@ Dogs can get a respiratory coronavirus, which is part of the complex of viruses 
 
 Most strains of feline enteric coronavirus, a gastrointestinal form, are fought off by a cat's immune system without causing disease. However, in a small proportion of these cats, the virus can cause feline infectious peritonitis (FIP), a disease that is almost always fatal.
 
-Other species, like horses, turkeys, chickens, and swine, can contract their own species-specific strains of coronavirus but, like the other strains mentioned above, they are not known to be transmissible to humans. More information is available in [AVMA's fact sheet about coronaviruses in domestic species](https://www.avma.org/sites/default/files/2020-02/AVMA-Coronavirus-Taxonomy-Notes.pdf).
+Other species, like horses, turkeys, chickens, and swine, can contract their own species-specific strains of coronavirus but, like the other strains mentioned above, they are not known to be transmissible to humans. More information is available in [AVMA's fact sheet about coronaviruses in domestic species (PDF)](https://www.avma.org/sites/default/files/2020-02/AVMA-Coronavirus-Taxonomy-Notes.pdf).
