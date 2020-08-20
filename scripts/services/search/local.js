@@ -14,6 +14,9 @@ const smartTruncate = (text, targetLength) => {
 
 const translateFromSearchJson = (response) => {
   return {
+    total: response.length,
+    resultsCount: response.length,
+    //nextOffset: response.web ? response.web.next_offset : null,
     results: response.slice(0, RESULTS_LIMIT).map(result => {
       return {
         url: result.item.url,
@@ -32,10 +35,12 @@ export const doLocalSearch = (query) => new Promise((resolve, reject) => {
 
   searchjson
     .then(pages => {
-      return new Fuse(pages, {
+      const fuse = new Fuse(pages, {
         keys: ["title", "excerpt", "content"],
         distance: 1000
       }).search(query);
+      console.log(fuse);
+      return fuse;
     })
     .then(translateFromSearchJson)
     .then(resolve);

@@ -2,7 +2,7 @@ import { html, render } from 'lit-html';
 import { live } from 'lit-html/directives/live.js';
 import { unsafeHTML } from 'lit-html/directives/unsafe-html.js';
 
-import { SearchService } from '../services/search';
+import { LocalSearchService } from '../services/search';
 
 const SEARCH_RESULTS_ID = 'search-results-container';
 
@@ -19,7 +19,7 @@ let searchResultsContainer;
 const searchPageGenerator = async function* (query, routedFrom) {
   let nextOffset = null;
   do {
-    const response = await SearchService({
+    const response = await LocalSearchService({
       query,
       offset: nextOffset,
       // Only request highlighted terms if they correspond to what the user

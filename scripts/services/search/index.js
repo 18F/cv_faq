@@ -29,4 +29,14 @@ export const SearchService = ({
   }
 });
 
+export const LocalSearchService = ({
+  query,
+  offset,
+  highlightSearchTerms
+}) => new Promise((resolve, reject) => {
+  doLocalSearch(query)
+    .then(resolve)
+    .catch(reject);
+});
+
 export { doSearchGovSearch, doLocalSearch, suggestSearchTerms };
