@@ -1,0 +1,13 @@
+<div id="chatbot" role="main"></div>
+<script>
+  window.WebChat.renderWebChat(
+    {
+      directLine: window.WebChat.createDirectLine({
+        // TODO: for production, generate per-user tokens bot web app
+        token: 'XI_YmMYmBGY.lQ9_uGHVXw0I-xEHqUtOXlAUhnqwnDYQ4MzRDnt4A4g'
+      }),
+      locale: 'en-US'
+    },
+    document.getElementById('chatbot')
+  );
+</script>

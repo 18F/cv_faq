@@ -1,0 +1,38 @@
+{
+  "name": "QnA Maker FAQ EN KB",
+  "qnaList": [
+    {
+      "id": 0,
+      "answer": "You can change the default message if you use the QnAMakerDialog. See this for details: https://docs.botframework.com/en-us/azure-bot-service/templates/qnamaker/#navtitle",
+      "source": "Custom Editorial",
+      "questions": [
+        "How can I change the default message from QnA Maker?"
+      ],
+      "metadata": []
+    },
+    {
+      "id": 0,
+      "answer": "You can use our REST apis to manage your KB. See here for details: https://westus.dev.cognitive.microsoft.com/docs/services/5a93fcf85b4ccd136866eb37/operations/5ac266295b4ccd1554da7600",
+      "source": "Custom Editorial",
+      "questions": [
+        "How do I programmatically update my KB?"
+      ],
+      "metadata": [
+        {
+          "name": "category",
+          "value": "api"
+        }
+      ]
+    }
+  ],
+  "urls": [
+    "https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/faqs",
+    "https://docs.microsoft.com/en-us/azure/bot-service/bot-service-resources-bot-framework-faq?view=azure-bot-service-4.0"
+  ],
+  "files": [
+    {
+      "fileName": "SurfaceManual.pdf",
+      "fileUri": "https://download.microsoft.com/download/2/9/B/29B20383-302C-4517-A006-B0186F04BE28/surface-pro-4-user-guide-EN.pdf"
+    }
+  ]
+}

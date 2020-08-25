@@ -1,0 +1,118 @@
+{
+    "$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "location": {
+            "type": "String"
+        },
+        "kind": {
+            "type": "String"
+        },
+        "siteName": {
+            "type": "String"
+        },
+        "appId": {
+            "defaultValue": "1234",
+            "type": "String"
+        },
+        "appSecret": {
+            "defaultValue": "blank",
+            "type": "String"
+        },
+        "zipUrl": {
+            "defaultValue": "",
+            "type": "String"
+        },
+        "serverFarmId": {
+            "type": "String"
+        },
+        "QnAKnowledgebaseId": {
+            "type": "String"
+        },
+        "QnAAuthKey": {
+            "type": "String"
+        },
+        "QnAEndpointHostName": {
+            "type": "String"
+        }
+    },
+    "variables": {
+        "botAppKinds": {
+            "function": "functionapp",
+            "sdk": "app",
+            "bot": ""
+        },
+        "botAppKind": "[variables('botAppKinds')[parameters('kind')]]"
+    },
+    "resources": [
+        {
+            "type": "Microsoft.Web/sites",
+            "apiVersion": "2015-08-01",
+            "name": "[parameters('siteName')]",
+            "location": "[parameters('location')]",
+            "dependsOn": [],
+            "kind": "[variables('botAppKind')]",
+            "properties": {
+                "name": "[parameters('siteName')]",
+                "serverFarmId": "[parameters('serverFarmId')]",
+                "siteConfig": {
+                    "appSettings": [
+                        {
+                            "name": "WEBSITE_NODE_DEFAULT_VERSION",
+                            "value": "10.14.1"
+                        },
+                        {
+                            "name": "MicrosoftAppId",
+                            "value": "[parameters('appId')]"
+                        },
+                        {
+                            "name": "MicrosoftAppPassword",
+                            "value": "[parameters('appSecret')]"
+                        },
+                        {
+                            "name": "QnAKnowledgebaseId",
+                            "value": "[parameters('QnAKnowledgebaseId')]"
+                        },
+                         {
+                            "name": "QnAAuthKey",
+                            "value": "[parameters('QnAAuthKey')]"
+                        },
+                        {
+                            "name": "QnAEndpointHostName",
+                            "value": "[parameters('QnAEndpointHostName')]"
+                        }
+                    ],
+                    "webSocketsEnabled": true,
+                    "cors": {
+                        "allowedOrigins": [
+                            "https://portal.azure.com",
+                            "https://botservice.hosting.portal.azure.net",
+                            "https://botservice-ms.hosting.portal.azure.net",
+                            "https://hosting.onecloud.azure-test.net/"
+                        ]
+                    }
+                }
+            },
+            "resources": [
+                {
+                    "type": "Extensions",
+                    "apiVersion": "2015-02-01",
+                    "name": "MSDeploy",
+                    "dependsOn": [
+                        "[concat('Microsoft.Web/Sites/', parameters('siteName'))]"
+                    ],
+                    "properties": {
+                        "packageUri": "[parameters('zipUrl')]",
+                        "dbType": "None",
+                        "connectionString": "",
+                        "setParameters": {
+                            "IIS Web Application Name": "[parameters('siteName')]"
+                        }
+                    },
+                    "condition": "[not(equals(parameters('zipUrl'), ''))]"
+                }
+            ],
+            "condition": "[not(equals(parameters('zipUrl'), ''))]"
+        }
+    ]
+}

@@ -162,6 +162,8 @@ exclude:
   - webpack.config.js
   - scripts/
   - dist/
+  - chatbot/
+  - htmlproofer/
 
 # Javascript is compiled by Webpack and placed in the intermediary `dist`
 # directory, where it is loaded by jekyll-assets.
@@ -174,3 +176,4 @@ assets:
     - node_modules/uswds/dist/js
     - node_modules/uswds/dist/scss
     - node_modules
+
