@@ -15,6 +15,7 @@ questions:
 - is-there-a-national-lockdown
 - fema-and-acquisition-of-ppe
 - is-fema-suspending-rent-for-people-in-certain-states
+- hazard-pay
 - do-i-need-to-register-with-fema-to-be-considered-for-help
 - are-uscis-offices-open
 - how-is-the-national-guard-responding
