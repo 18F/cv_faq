@@ -12,6 +12,7 @@ questions:
 - what-are-the-symptoms-and-complications-that-covid-19-can-cause
 - how-are-people-tested
 - should-i-be-tested-for-covid-19
+- close-contact-will-i-be-tested
 - kind-of-test-used-to-diagnose-covid19
 - are-there-home-tests
 - when-will-other-tests-be-authorized

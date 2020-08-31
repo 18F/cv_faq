@@ -20,6 +20,7 @@ questions:
 - what-are-essential-industries
 - is-there-a-list-of-essential-industries
 - donations-to-charities
+- covid-19-guidance-in-multiple-languages
 
 title: About COVID-19
 ---
