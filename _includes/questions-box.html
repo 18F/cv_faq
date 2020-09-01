@@ -4,7 +4,7 @@
   <div class="grid-row grid-gap">
     <div class="tablet:grid-col-6 flex-align-stretch margin-bottom-2">
       <div class="question-box question-box--info">
-        <div class="question-title">{{ question_box_1.title | markdownify }}</div>
+        <h2 class="question-title">{{ question_box_1.title | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
         <ul class="usa-list usa-list--unstyled">
           {% for q in question_box_1.questions %}
           <li class="padding-y-1">
@@ -21,7 +21,7 @@
 
     <div class="tablet:grid-col-6 flex-align-stretch margin-bottom-2">
       <div class="question-box question-box--warning">
-        <div class="question-title">{{ question_box_2.title | markdownify }}</div>
+        <h2 class="question-title">{{ question_box_2.title | markdownify | remove: '<p>' | remove: '</p>' }}</h2>
         <ul class="usa-list usa-list--unstyled">
           {% for q in question_box_2.questions %}
           <li class="padding-y-1">
