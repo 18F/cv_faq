@@ -90,8 +90,10 @@
       @include u-color('white');
     }
   }
-  .question-title p {
+  .question-title {
     @include u-font-size('sans', 'lg');
+    font-weight: normal;
+    margin: 1em 0;
     em {
       @include u-text('no-italic', 'heavy');
     }
