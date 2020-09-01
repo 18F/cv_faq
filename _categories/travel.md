@@ -27,7 +27,6 @@ questions:
 - is-it-safe-to-travel-to-campgrounds-or-go-camping
 - will-real-id-implementation-be-delayed
 - are-the-northern-southern-us-borders-closed
-- when-will-the-borders-reopen
 - are-undocumented-immigrants-still-being-held
 title: Traveling
 ---
