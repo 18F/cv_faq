@@ -9,7 +9,7 @@ title: What will happen to my personal information during contact tracing?
 ---
 
 Discussions with health department staff are confidential. This means that your personal and medical information will be kept private and only shared with those who may need to know, like your health 
-care provider.
+care provider.  
 
 If you have been diagnosed with COVID-19, your name will not be shared with those you came in contact with. The health department will only notify people you were in close contact with (within 6 feet for more than 15 minutes) that they might have been exposed to COVID-19. Each state and jurisdiction use their own method for collecting and protecting health information. To learn more, contact your [state or local health department](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html).
 
