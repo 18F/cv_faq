@@ -12,7 +12,7 @@ questions:
 - does-cdc-recommend-masks
 - what-is-contact-tracing
 - who-is-close-contact
-- what-happens-when-contact-tracing-diagnosed
+- what-happens-contact-tracing-diagnosed
 - around-someone-who-is-close-contact
 - close-contact-if-wearing-mask
 - required-download-contact-tracing-app
