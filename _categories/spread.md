@@ -12,6 +12,8 @@ questions:
 - what-is-community-spread
 - if-i-have-recovered-will-i-be-immune
 - can-someone-who-has-had-covid-19-spread-the-illness-to-others
+- /exposed-but-feel-fine/
+- /exposed-but-negative-test-still-quarantine/
 - will-warm-weather-stop-the-outbreak-of-covid-19
 - can-the-virus-that-causes-covid-19-be-spread-through-food
 - can-i-get-covid-19-from-a-food-worker
