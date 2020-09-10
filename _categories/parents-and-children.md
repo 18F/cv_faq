@@ -12,6 +12,7 @@ questions:
 - are-symptoms-of-covid-19-different-in-children
 - considerations-for-returning-child-to-school
 - preparations-for-sending-child-back-to-school
+- remote-learning-childrens-privacy
 - should-schools-test-students-for-covid-19
 - can-parents-pick-up-meals-for-their-kids-without-them-present
 - can-schools-provide-home-delivery-of-meals
