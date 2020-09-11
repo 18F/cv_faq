@@ -18,7 +18,6 @@ questions:
 - can-american-citizen-return-to-us
 - what-can-i-expect-when-arriving-to-the-united-states
 - what-can-i-expect-when-departing-other-countries
-- which-airports-have-enhanced-travel-screening
 - what-expect-airport-security-checkpoints
 - should-travelers-wear-masks
 - sick-passenger-on-my-flight
