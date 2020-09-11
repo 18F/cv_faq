@@ -27,6 +27,7 @@ questions:
 - since-tigers-can-get-infected-should-i-worry-about-my-pet-cat
 - what-about-imported-animals-or-animal-products
 - are-pets-from-a-shelter-safe
+- avoid-animal-adoption-scam
 - what-precautions-with-imported-animals
 - will-there-be-animal-food-shortages
 - is-the-animal-food-supply-safe
