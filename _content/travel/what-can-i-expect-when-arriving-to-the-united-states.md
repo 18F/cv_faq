@@ -5,6 +5,7 @@ layout: post
 redirect_from:
 - /travel/what-can-i-expect-when-arriving-to-the-united-states/
 - /travel/which-airports-have-enhanced-travel-screening/
+- /which-airports-have-enhanced-travel-screening/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/faqs.html#returning-from-travel
