@@ -19,6 +19,7 @@ questions:
 - covid-19-digital-tool-secure-health-info
 - national-app-contact-tracing
 - personal-info-contact-tracing
+- avoid-contact-tracing-scam
 - how-do-i-prepare-for-hurricane-season-during-covid19
 - if-i-need-to-evacuate-my-home-during-the-covid19-pandemic
 - what-do-i-do-if-exposed-to-covid-19

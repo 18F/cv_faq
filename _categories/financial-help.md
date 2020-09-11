@@ -23,6 +23,7 @@ questions:
 - i-need-to-file-a-tax-return
 - i-no-longer-have-a-bank-account-i-used-for-tax-return
 - i-recently-filed-what-do-i-need-to-do-to-get-payment
+- nursing-home-take-stimulus-check
 - missed-tax-day
 - how-do-i-submit-banking-information
 - if-i-receive-social-security-benefits
@@ -34,6 +35,7 @@ questions:
 - help-for-people-who-have-federal-student-loans
 - do-online-classes-still-qualify-for-gi-bill-benefits
 - what-do-i-do-if-i-cant-pay-mortgage
+- manage-bills-during-covid-19
 - what-do-i-do-if-someone-calls-texts-claiming-to-be-irs
 - what-should-i-do-if-i-receive-calls-claiming-to-be-from-the-treasury-department
 redirect_from:
