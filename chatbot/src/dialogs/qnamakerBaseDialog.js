@@ -12,7 +12,7 @@ const {
 // Default parameters
 const DefaultThreshold = 0.3;
 const DefaultTopN = 3;
-const DefaultNoAnswer = 'No QnAMaker answers found.';
+const DefaultNoAnswer = 'Sorry, I cannot help with that question.';
 
 // Card parameters
 const DefaultCardTitle = 'Did you mean:';
@@ -36,7 +36,7 @@ class QnAMakerBaseDialog extends QnAMakerDialog {
             DefaultTopN, ActivityFactory.cardNoMatchResponse, filters, QNAMAKER_BASE_DIALOG);
         this.id = QNAMAKER_BASE_DIALOG;
     }
-       
+
 }
 
 module.exports.QnAMakerBaseDialog = QnAMakerBaseDialog;
@@ -47,4 +47,3 @@ module.exports.DefaultNoAnswer = DefaultNoAnswer;
 module.exports.DefaultCardTitle = DefaultCardTitle;
 module.exports.DefaultCardNoMatchText = DefaultCardNoMatchText;
 module.exports.DefaultCardNoMatchResponse = DefaultCardNoMatchResponse;
-
