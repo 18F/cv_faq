@@ -47,5 +47,5 @@ questions:
 redirect_from:
 - /retirement-communities/case-in-the-facility/
 - /retirement-communities/planning-and-preparedness/
-title: How to protect yourself
+title: Prevent getting sick
 ---
