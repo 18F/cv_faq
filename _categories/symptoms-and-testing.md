@@ -21,5 +21,8 @@ questions:
 - what-is-antibody-testing
 - if-antibody-tests-not-used-for-diagnosis
 - why-arent-blood-centers-testing
+- on-medicare-and-someone-offered-me-a-test
+redirect_from:
+- /rumors/do-i-need-a-photo-id-to-be-tested/
 title: Symptoms and testing
 ---

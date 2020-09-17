@@ -16,6 +16,7 @@ questions:
 - what-capital-assistance-is-available-to-small-business-owners
 - employee-retention-credit
 - where-should-a-small-business-go-to-find-help
+- do-i-need-to-register-with-fema-to-be-considered-for-help
 redirect_from:
 - /support-for-business/when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses/
 - /when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses/

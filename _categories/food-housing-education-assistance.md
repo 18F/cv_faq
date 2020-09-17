@@ -8,6 +8,6 @@ layout: category
 name: food-housing-education-assistance
 owner: CDC
 questions:
-- do-i-need-to-cancel-if-there-are-confirmed-covid19-cases
+- is-fema-suspending-rent-for-people-in-certain-states
 title: Food, housing, and education assistance
 ---

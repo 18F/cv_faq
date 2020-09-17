@@ -17,8 +17,22 @@ questions:
 - what-is-the-best-way-to-clean-event-space-after-confirmed-case-of-covid-19-at-an-event
 - is-it-safe-to-vacuum-in-a-school-business-or-community-facility-after-someone-with-covid-19-present
 - who-should-clean-and-disinfect-community-spaces
+- am-i-at-risk-funeral
+- am-i-at-risk-touch-body
+- can-i-schedule-burial-national-cemetery
+- are-department-of-veterans-affairs-national-cemeteries-open
+- can-i-schedule-committal-service-military-funeral-service-honors
+- what-do-funeral-home-workers-need-to-know
+- how-to-safely-handle-belongings-of-someone-died-from-covid-19
+- if-someone-dies-overseas
+- what-are-requirements-to-return-body-to-united-states
+- are-uscis-offices-open
+- how-is-the-national-guard-responding
+- is-there-a-national-lockdown
 redirect_from:
 - /community-events/
 - /funerals/
+- /get-facts/should-i-worry-about-hantavirus/
+- /rumors/should-i-worry-about-hantavirus/
 title: Activities, events, and gatherings
 ---

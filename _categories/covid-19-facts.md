@@ -21,6 +21,9 @@ questions:
 - is-there-a-list-of-essential-industries
 - donations-to-charities
 - covid-19-guidance-in-multiple-languages
+- is-5g-phone-technology-linked
+- fema-and-acquisition-of-ppe
+- how-can-i-find-out-about-frauds-and-scams
 redirect_from:
 - /basics/
 title: COVID-19 facts

@@ -15,6 +15,19 @@ questions:
 - are-meats-compromised-by-covid19
 - is-there-guidance-on-food-planning
 - will-there-be-food-shortages
+- are-chloroquine-phosphate-hydroxychloroquine-effective
+- are-there-any-vaccines-to-prevent-covid-19
+- are-there-any-approved-medicines
+- should-i-take-ivermectin
+- are-antibiotics-effective
+- does-remdesivir-benefit-patients-with-covid-19
+- are-there-going-to-be-drug-shortages
+- am-i-at-risk-from-taking-fda-approved-drugs-made-in-china
+- what-is-fda-doing-to-protect-people-from-fraud
+- should-i-trust-ads-for-products-to-prevent-treat-cure-covid-19
+- ads-for-covid-treatments-and-cures
+- should-i-take-aquarium-chloroquine-phosphate
+- will-miracle-mineral-solution-cure-covid-19
 redirect_from:
 - /food-safety/
 - /medications/

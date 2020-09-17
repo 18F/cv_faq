@@ -23,6 +23,15 @@ questions:
 - can-the-virus-be-transmitted-by-blood-transfusion
 - can-sanitizing-tunnels-be-used-to-prevent-spread
 - should-sidewalks-and-roads-be-disinfected-to-prevent-covid-19
+- can-the-covid-19-virus-spread-through-sewerage-systems
+- can-the-covid-19-virus-spread-through-drinking-water
+- can-the-covid-19-virus-spread-through-pools-and-hot-tubs
+- if-utility-issued-boil-water-advisory-can-i-use-tap-water-to-wash-hands
+- is-the-covid-19-virus-found-in-feces
+- should-wasterwater-workers-take-extra-precautions-to-protect-from-covid19
+- additional-information-about-water-transmission-and-covid-19
+- contact-tracer-asked-for-confidential-information
+- is-5g-phone-technology-linked
 redirect_from:
 - /spread/
 - /water-transmission/

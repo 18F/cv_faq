@@ -38,6 +38,8 @@ questions:
 - manage-bills-during-covid-19
 - what-do-i-do-if-someone-calls-texts-claiming-to-be-irs
 - what-should-i-do-if-i-receive-calls-claiming-to-be-from-the-treasury-department
+- i-am-getting-calls-from-people-claiming-they-are-from-the-government
+- hazard-pay
 redirect_from:
 - /financial-help/can-the-sba-help-me-with-other-assistance/
 - /financial-help/when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses/

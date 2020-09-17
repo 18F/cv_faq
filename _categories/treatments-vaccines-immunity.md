@@ -8,6 +8,8 @@ layout: category
 name: treatments-vaccines-immunity
 owner: CDC
 questions:
-- do-i-need-to-cancel-if-there-are-confirmed-covid19-cases
+- should-i-trust-ads-for-products-to-prevent-treat-cure-covid-19
+- i-built-a-diy-ventilator-may-i-sell-it
+- products-online-claim-to-prevent-or-treat
 title: Treatments, vaccines, and immunity
 ---

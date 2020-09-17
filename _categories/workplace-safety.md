@@ -8,6 +8,6 @@ layout: category
 name: workplace-safety
 owner: CDC
 questions:
-- do-i-need-to-cancel-if-there-are-confirmed-covid19-cases
+- is-the-federal-government-mandating-businesses-to-close
 title: Workplace safety
 ---
