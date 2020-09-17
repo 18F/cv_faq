@@ -21,24 +21,24 @@ top_questions:
     link: "/symptoms-and-testing/#should-i-be-tested-for-covid-19"
     question: Should I get tested?
   - icon: globe
-    link: "/spread/#how-does-the-virus-spread"
+    link: "/spread-transmission/#how-does-the-virus-spread"
     question: How does it spread?
   - icon: money
     link: /financial-help
     question: Can I get financial help?
   - icon: chart
-    link: "/keeping-home-safe/#what-steps-can-my-family-take-to-reduce-our-risk-of-getting-covid-19"
+    link: "/disinfecting-sanitizing/#what-steps-can-my-family-take-to-reduce-our-risk-of-getting-covid-19"
     question: How do I reduce my risk?
   - icon: plane
     link: /travel
     question: Can I travel?
 questions_box_1:
   questions:
-    - link: "/spread/#if-i-have-recovered-from-covid-19-will-i-be-immune-to-it-i-e-can-i-get-it-twice"
+    - link: "/spread-transmission/#if-i-have-recovered-from-covid-19-will-i-be-immune-to-it-i-e-can-i-get-it-twice"
       question: If I recovered from COVID-19, will I be immune?
     - link: "/protect-yourself/#does-cdc-recommend-the-use-of-masks-to-prevent-covid-19"
       question: Does CDC recommend the use of masks?
-    - link: /basics/#how-can-i-manage-anxiety-and-stress
+    - link: /covid-19-facts/#how-can-i-manage-anxiety-and-stress
       question: How can I manage anxiety and stress?
   title: How to *protect yourself*
   view_all_link: /protect-yourself/
@@ -48,7 +48,7 @@ questions_box_2:
       question: What are the symptoms of COVID-19?
     - link: "/symptoms-and-testing/#should-i-be-tested-for-covid-19"
       question: Do I need to get tested?
-    - link: "/keeping-home-safe/#what-should-i-do-if-someone-in-my-house-gets-sick-with-covid-19" 
+    - link: "/disinfecting-sanitizing/#what-should-i-do-if-someone-in-my-house-gets-sick-with-covid-19" 
       question: If someone in my house gets sick with COVID-19, what should I do? 
   title: What to do *if you feel sick*
   view_all_link: /symptoms-and-testing/
