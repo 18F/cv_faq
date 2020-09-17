@@ -5,7 +5,7 @@ banner:
   display: false
   heading: This is a place to place urgent information
 layout: category
-name: community-events
+name: activities-events-gatherings
 owner: CDC
 questions:
 - do-i-need-to-cancel-if-there-are-confirmed-covid19-cases
@@ -17,5 +17,8 @@ questions:
 - what-is-the-best-way-to-clean-event-space-after-confirmed-case-of-covid-19-at-an-event
 - is-it-safe-to-vacuum-in-a-school-business-or-community-facility-after-someone-with-covid-19-present
 - who-should-clean-and-disinfect-community-spaces
-title: Community events
+redirect_from:
+- /community-events/
+- /funerals/
+title: Activities, events, and gatherings
 ---

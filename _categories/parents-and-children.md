@@ -5,7 +5,7 @@ banner:
   display: false
   heading: This is a place to place urgent information
 layout: category
-name: parents-and-children
+name: caring-for-children
 owner: CDC
 questions:
 - how-can-i-protect-my-child-from-covid-19
@@ -39,6 +39,7 @@ questions:
 - while-school-is-out-will-kids-have-access-to-meals
 - should-outdoor-playgrounds-be-cleaned-and-disinfected
 redirect_from:
+- /parents-and-children/
 - /k12-childcare/planning-and-preparedness/
 - /k12-childcare/recent-travel/
 - /k12-childcare/school-dismissals/
@@ -59,5 +60,5 @@ redirect_from:
 - /k12-childcare/what-should-my-school-consider-re-opening/
 - /k12-childcare/when-should-i-dismiss/
 - /k12-childcare/
-title: Parents and children
+title: Caring for children
 ---

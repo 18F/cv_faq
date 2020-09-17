@@ -6,7 +6,7 @@ banner:
   display: false
   heading: Call your doctor
 layout: category
-name: underlying-conditions
+name: older-people-special-precautions
 owner: CDC
 questions:
 - who-is-at-higher-risk-for-serious-illness-from-covid-19
@@ -19,5 +19,7 @@ questions:
 - are-there-any-medications-i-should-avoid
 - risk-for-complications-from-covid-19-if-i-smoke-cigarettes
 - risk-for-complications-from-covid-19-if-i-vape-tobacco-or-nicotine
-title: Underlying conditions
+redirect_from:
+- /underlying-conditions/
+title: Older people and those who need special precautions
 ---

@@ -5,7 +5,7 @@ banner:
   display: false
   heading: This is a place to place urgent information
 layout: category
-name: keeping-home-safe
+name: disinfecting-sanitizing
 owner: CDC
 questions:
 - family-reduce-risk
@@ -15,6 +15,8 @@ questions:
 - soap-or-hand-sanitizer
 - what-is-the-difference-between-cleaning-and-disinfecting
 - how-can-i-prepare-for-an-outbreak
-redirect_from: /keeping-home-safe/can-i-get-coronavirus-from-food/
-title: Keeping your home safe
+redirect_from: 
+ - /keeping-home-safe/
+ - /keeping-home-safe/can-i-get-coronavirus-from-food/
+title: Disinfecting and santizing
 ---

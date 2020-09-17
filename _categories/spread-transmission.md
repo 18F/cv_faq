@@ -5,7 +5,7 @@ banner:
   display: false
   heading: This is a place to place urgent information
 layout: category
-name: spread
+name: spread-transmission
 owner: CDC
 questions:
 - how-does-the-virus-spread
@@ -24,7 +24,9 @@ questions:
 - can-sanitizing-tunnels-be-used-to-prevent-spread
 - should-sidewalks-and-roads-be-disinfected-to-prevent-covid-19
 redirect_from:
+- /spread/
+- /water-transmission/
 - /protect-yourself/has-anyone-in-united-states-gotten-infected/
 - /protect-yourself/how-many-cases-are-there-in-the-us/
-title: How it spreads
+title: Spread and transmission
 ---

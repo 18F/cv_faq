@@ -5,7 +5,7 @@ banner:
   display: false
   heading: This is a place to place urgent information
 layout: category
-name: basics
+name: covid-19-facts
 owner: CDC
 questions:
 - what-is-a-novel-coronavirus
@@ -21,6 +21,7 @@ questions:
 - is-there-a-list-of-essential-industries
 - donations-to-charities
 - covid-19-guidance-in-multiple-languages
-
-title: About COVID-19
+redirect_from:
+- /basics/
+title: COVID-19 facts
 ---

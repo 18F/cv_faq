@@ -5,7 +5,7 @@ banner:
   display: false
   heading: This is a place to place urgent information
 layout: category
-name: animals
+name: pets-animals
 owner: CDC
 questions:
 - can-i-get-covid-19-from-my-pets
@@ -33,5 +33,7 @@ questions:
 - is-the-animal-food-supply-safe
 - is-hunter-harvested-game-meat-safe-to-eat
 - why-are-animals-being-tested-when-people-cant
-title: Animals
+redirect_from:
+- /animals/
+title: Pets and other animals
 ---

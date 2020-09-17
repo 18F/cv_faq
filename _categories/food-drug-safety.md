@@ -5,7 +5,7 @@ banner:
   display: false
   heading: This is a place to place urgent information
 layout: category
-name: food-safety
+name: food-drug-safety
 owner: USDA
 questions:
 - can-i-get-coronavirus-from-food
@@ -15,5 +15,8 @@ questions:
 - are-meats-compromised-by-covid19
 - is-there-guidance-on-food-planning
 - will-there-be-food-shortages
-title: Food safety and access
+redirect_from:
+- /food-safety/
+- /medications/
+title: Food and drug safety
 ---
