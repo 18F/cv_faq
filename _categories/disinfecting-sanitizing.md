@@ -18,5 +18,5 @@ questions:
 redirect_from: 
  - /keeping-home-safe/
  - /keeping-home-safe/can-i-get-coronavirus-from-food/
-title: Disinfecting and santizing
+title: Disinfecting and sanitizing
 ---
