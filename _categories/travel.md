@@ -10,22 +10,22 @@ name: travel
 owner: CDC
 questions:
 - should-i-travel-within-the-us
-- what-is-the-risk-of-getting-covid-19-on-an-airplane
-- is-it-safe-to-visit-family-friends
-- which-countries-are-subject-travel-restrictions-us
-- should-i-cancel-my-international-travel
-- return-to-work-international-travel
-- can-american-citizen-return-to-us
-- what-can-i-expect-when-arriving-to-the-united-states
-- what-can-i-expect-when-departing-other-countries
-- what-expect-airport-security-checkpoints
 - should-travelers-wear-masks
+- what-can-I-expect-when-arriving-to-the-united-states
+- what-is-the-risk-of-getting-covid-19-on-an-airplane
 - sick-passenger-on-my-flight
 - what-if-i-recently-traveled-and-get-sick
+- what-expect-airport-security-checkpoints
+- which-countries-are-subject-travel-restrictions-us
+- can-american-citizen-return-to-us
+- should-I-cancel-my-international-travel
 - should-i-go-on-a-cruise
-- is-it-safe-to-travel-to-campgrounds-or-go-camping
-- will-real-id-implementation-be-delayed
 - are-the-northern-southern-us-borders-closed
+- what-are-requirements-to-return-body-to-united-states
+- if-someone-dies-overseas
+- return-to-work-international-travel
+- will-real-id-implementation-be-delayed
 - are-undocumented-immigrants-still-being-held
+- what-can-i-expect-when-departing-other-countries
 title: Traveling
 ---

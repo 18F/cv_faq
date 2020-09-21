@@ -34,6 +34,7 @@ questions:
 - what-happens-to-snap-recipients-who-cannot-meet-work-requirements-due-to-covid19
 - help-for-people-who-have-federal-student-loans
 - do-online-classes-still-qualify-for-gi-bill-benefits
+- unemployed-help
 - what-do-i-do-if-i-cant-pay-mortgage
 - manage-bills-during-covid-19
 - what-do-i-do-if-someone-calls-texts-claiming-to-be-irs
