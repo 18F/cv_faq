@@ -10,16 +10,20 @@ name: symptoms-and-testing
 owner: CDC
 questions:
 - what-are-the-symptoms-and-complications-that-covid-19-can-cause
-- how-are-people-tested
 - should-i-be-tested-for-covid-19
-- close-contact-will-i-be-tested
-- kind-of-test-used-to-diagnose-covid19
-- are-there-home-tests
-- when-will-other-tests-be-authorized
 - where-can-i-get-tested
-- can-a-person-test-negative-and-later-test-positive-for-covid-19
+- how-are-people-tested
+- kind-of-test-used-to-diagnose-covid19
 - what-is-antibody-testing
 - if-antibody-tests-not-used-for-diagnosis
+- close-contact-will-i-be-tested
+- can-a-person-test-negative-and-later-test-positive-for-covid-19
+- are-there-home-tests
+- should-schools-test-students-for-covid-19
+- what-happens-contact-tracing-diagnosed
+- what-do-i-do-if-exposed-to-covid-19
+- when-can-i-be-around-others-after-having-covid-19
+- when-will-other-tests-be-authorized
 - why-arent-blood-centers-testing
 - on-medicare-and-someone-offered-me-a-test
 redirect_from:
