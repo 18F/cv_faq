@@ -8,13 +8,18 @@ layout: category
 name: disinfecting-sanitizing
 owner: CDC
 questions:
-- family-reduce-risk
-- if-someone-in-my-house-gets-sick
 - which-cleaning-products
-- should-i-make-my-own-hand-sanitizer
+- what-is-routine-cleaning
 - soap-or-hand-sanitizer
 - what-is-the-difference-between-cleaning-and-disinfecting
-- how-can-i-prepare-for-an-outbreak
+- is-cleaning-alone-effective-against-the-virus
+- how-effective-are-alternative-disinfection-methods
+- can-disinfectant-sprays-or-wipes-be-used-on-my-skin
+- should-i-make-my-own-hand-sanitizer
+- what-if-i-get-a-rash-hand-sanitizer
+- what-to-do-if-exposed-to-contaminated-hand-sanitizer
+- should-outdoor-playgrounds-be-cleaned-and-disinfected
+- is-contact-lens-disinfecting-solution-effective-against-covid-19
 redirect_from: 
  - /keeping-home-safe/
  - /keeping-home-safe/can-i-get-coronavirus-from-food/
