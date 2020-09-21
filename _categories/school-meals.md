@@ -8,6 +8,12 @@ layout: category
 name: school-meals
 owner: CDC
 questions:
-- do-i-need-to-cancel-if-there-are-confirmed-covid19-cases
+- what-action-is-being-taken-to-ensure-children-have-food-while-schools-are-closed
+- while-school-is-out-will-kids-have-access-to-meals
+- can-parents-pick-up-meals-for-their-kids-without-them-present
+- can-schools-provide-home-delivery-of-meals
+- can-schools-provide-multiple-meals-at-once
+- can-schools-serve-meals-while-they-are-closed
+- do-school-meals-still-have-to-meet-nutrition-requirements
 title: Schools meals
 ---
