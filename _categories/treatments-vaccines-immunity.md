@@ -8,7 +8,6 @@ layout: category
 name: treatments-vaccines-immunity
 owner: CDC
 questions:
-- are-chloroquine-phosphate-hydroxychloroquine-effective
 - are-there-any-vaccines-to-prevent-covid-19
 - what-treatments-are-available
 - are-there-any-approved-medicines
@@ -18,6 +17,7 @@ questions:
 - can-i-donate-convalescent-plasma
 - does-remdesivir-benefit-patients-with-covid-19
 - should-i-take-ivermectin
+- are-chloroquine-phosphate-hydroxychloroquine-effective
 - should-i-take-aquarium-chloroquine-phosphate
 - ads-for-covid-treatments-and-cures
 - products-online-claim-to-prevent-or-treat
