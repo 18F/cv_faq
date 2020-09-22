@@ -8,6 +8,7 @@ layout: category
 name: disinfecting-sanitizing
 owner: CDC
 questions:
+- family-reduce-risk
 - which-cleaning-products
 - what-is-routine-cleaning
 - soap-or-hand-sanitizer
