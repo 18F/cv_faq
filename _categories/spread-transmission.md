@@ -35,7 +35,7 @@ questions:
 - will-warm-weather-stop-the-outbreak-of-covid-19
 - can-the-covid-19-virus-spread-through-sewerage-systems
 - can-the-covid-19-virus-spread-through-drinking-water
-- an-the-covid-19-virus-spread-through-pools-and-hot-tubs
+- can-the-covid-19-virus-spread-through-pools-and-hot-tubs
 - if-utility-issued-boil-water-advisory-can-i-use-tap-water-to-wash-hands
 - is-the-covid-19-virus-found-in-feces
 - additional-information-about-water-transmission-and-covid-19
