@@ -11,7 +11,7 @@ questions:
 - are-children-at-risk
 - are-symptoms-of-covid-19-different-in-children
 - how-can-i-keep-my-children-healthy
-- how-can-i-protect-my-child-from-COVID-19
+- how-can-i-protect-my-child-from-covid-19
 - how-do-i-prepare-my-child-for-an-outbreak
 - what-if-child-or-someone-in-home-is-sick
 - child-with-special-healthcare-need-higher-risk
