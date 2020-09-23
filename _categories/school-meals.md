@@ -15,5 +15,5 @@ questions:
 - can-schools-provide-multiple-meals-at-once
 - can-schools-serve-meals-while-they-are-closed
 - do-school-meals-still-have-to-meet-nutrition-requirements
-title: Schools meals
+title: School meals
 ---

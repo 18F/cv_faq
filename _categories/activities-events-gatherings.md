@@ -13,9 +13,9 @@ questions:
 - do-i-need-to-cancel-if-there-are-confirmed-covid19-cases
 - things-to-consider-when-deciding-to-postpone-or-cancel-events
 - what-actions-to-take-to-plan-for-outbreak
-- what-is-the-best-way-to-clean-event-space-after-confirmed-case-of-COVID-19-at-an-event
-- steps-to-take-if-attendee-or-event-staff-develops-COVID-19
-- what-actions-staff-and-attendees-can-take-to-prevent-COVID-19
+- what-is-the-best-way-to-clean-event-space-after-confirmed-case-of-covid-19-at-an-event
+- steps-to-take-if-attendee-or-event-staff-develops-covid-19
+- what-actions-staff-and-attendees-can-take-to-prevent-covid-19
 - information-that-i-can-share-with-attendees-about-covid-19
 - who-should-clean-and-disinfect-community-spaces
 - am-i-at-risk-funeral

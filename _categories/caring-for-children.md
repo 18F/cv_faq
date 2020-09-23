@@ -9,7 +9,7 @@ name: caring-for-children
 owner: CDC
 questions:
 - are-children-at-risk
-- are-symptoms-of-COVID-19-different-in-children
+- are-symptoms-of-covid-19-different-in-children
 - how-can-i-keep-my-children-healthy
 - how-can-i-protect-my-child-from-COVID-19
 - how-do-i-prepare-my-child-for-an-outbreak

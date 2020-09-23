@@ -15,7 +15,7 @@ questions:
 - why-are-the-death-counts-different-from-provisional-counts
 - why-do-some-numbers-differ-from-the-cdc-numbers
 - why-might-someone-create-stigma
-- how-can-people-help-stop-stigma-related-to-COVID-19
+- how-can-people-help-stop-stigma-related-to-covid-19
 - fema-and-acquisition-of-ppe
 - how-do-i-prepare-for-hurricane-season-during-covid19
 - if-i-need-to-evacuate-my-home-during-the-covid19-pandemic

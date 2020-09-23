@@ -32,7 +32,7 @@ questions:
 - can-the-virus-be-transmitted-by-blood-transfusion
 - can-i-get-coronavirus-from-food
 - can-the-virus-that-causes-covid-19-be-spread-through-food
-- will-warm-weather-stop-the-outbreak-of-COVID-19
+- will-warm-weather-stop-the-outbreak-of-covid-19
 - can-the-covid-19-virus-spread-through-sewerage-systems
 - can-the-covid-19-virus-spread-through-drinking-water
 - an-the-covid-19-virus-spread-through-pools-and-hot-tubs
@@ -48,7 +48,7 @@ questions:
 - how-to-safely-handle-belongings-of-someone-died-from-covid-19
 - is-5g-phone-technology-linked
 - can-sanitizing-tunnels-be-used-to-prevent-spread
-- should-sidewalks-and-roads-be-disinfected-to-prevent-COVID-19
+- should-sidewalks-and-roads-be-disinfected-to-prevent-covid-19
 redirect_from:
 - /spread/
 - /water-transmission/
