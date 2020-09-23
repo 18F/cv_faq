@@ -1,68 +1,18 @@
-{% assign display_categories = '' | split: '' %}
-
-{% for category in site.data.homepage_order.categories %}
-  {% assign sorted_category = site.categories | where:"name", category.name %}
-  {% assign display_categories = display_categories | push: sorted_category[0] %}
-{% endfor %}
-
 <section class="grid-container usa-section usa-section--condensed border-base-lightest">
   <div class="grid-row grid-gap top-categories">
-
-    {% for site_category in display_categories | limit: 6 %}
-      {% assign current_category = site.categories | where: "name", site_category.name | first %}
-      {% assign category_questions = current_category.questions | lookup_by_name: site.content %}
-
+    {% for category_grouping in site.data.homepage_order.category_groupings %}
       <div class="top-category tablet:grid-col-4 margin-bottom-3">
-        <h3>{{ site_category.title }}</h3>
+        <h3>{{ category_grouping.name }}</h3>
+        <p>{{ category_grouping.description }}</p>
         <ul class="usa-list usa-list--unstyled">
-          {% for question in category_questions | limit:3 %}
-            {% if page.lang == question.lang %}
-              <li class="padding-y-1">
-                <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
-              </li>
-            {% endif %}
+          {% for category_name in category_grouping.categories %}
+            {% assign current_category = site.categories | where: "name", category_name | first %}
+            <li class="padding-y-1">
+              <a href="{{ site.baseurl }}/{{ category_name }}/">{{ current_category.title }}</a>
+            </li>
           {% endfor %}
         </ul>
-        <a href="{{ site.baseurl }}/{{ site_category.name }}/" class="text-bold text-underline margin-y-1 view-all">View all <span
-            class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
       </div>
     {% endfor %}
   </div>
-
-  {% comment %}
-    If we've got more than 6 categories, reveal them by clicking this button
-  {% endcomment %}
-  {% if display_categories.size > 6 %}
-    <div class="grid-row grid-gap display-none load-questions-wrapper">
-      <button class="usa-button margin-x-auto" id="more-questions-button"
-      load-questions
-      aria-expanded="false"
-      aria-controls="more-questions"
-      >
-        Load more questions
-      </button>
-    </div>
-
-      <div tabindex="-1" id="more-questions" class="grid-row grid-gap display-none">
-        {% for site_category in display_categories | offset: 6 %}
-          {% assign current_category = site.categories | where:"name", site_category.name | first %}
-          {% assign category_questions = current_category.questions | lookup_by_name: site.content %}
-
-          <div class="top-category tablet:grid-col-4 margin-bottom-3">
-            <h3>{{ site_category.title }}</h3>
-            <ul class="usa-list usa-list--unstyled">
-              {% for question in category_questions | limit:3 %}
-                {% if page.lang == question.lang %}
-                  <li class="padding-y-1">
-                    <a href="{{ site.baseurl }}/{{ site_category.name}}/#{{ question.title|slugify }}">{{ question.title }}</a>
-                  </li>
-                {% endif %}
-              {% endfor %}
-            </ul>
-            <a href="{{ site.baseurl }}/{{ site_category.name }}/" class="text-bold text-underline margin-y-1">View all <span
-                class="usa-sr-only">questions about {{ site_category.title }} </span><span aria-hidden="true">»</span></a>
-          </div>
-        {% endfor %}
-      </div>
-  {% endif %}
 </section>

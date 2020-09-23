@@ -1,19 +1,37 @@
-categories:
-  - name: symptoms-and-testing
-  - name: spread-transmission
-  - name: travel
-  - name: disinfecting-sanitizing
-  - name: financial-help
-  - name: caring-for-children
-  - name: pregnancy
-  - name: food-drug-safety
-  - name: support-for-business
-  - name: treatments-vaccines-immunity
-  - name: activities-events-gatherings
-  - name: food-housing-education-assistance
-  - name: school-meals
-  - name: protect-yourself
-  - name: older-people-special-precautions
-  - name: pets-animals
-  - name: covid-19-facts
-  - name: workplace-safety
+category_groupings:
+  - name: About COVID-19
+    description: Get an overview of COVID-19, what it is, how it spreads, and whether it impacts food and medicine.
+    categories:
+      - covid-19-facts
+      - spread-transmission
+      - food-drug-safety
+  - name: Symptoms and treatment
+    description: Understand the symptoms of COVID-19, available testing and treatment, as well as vaccine development.
+    categories:
+      - symptoms-and-testing
+      - treatments-vaccines-immunity
+  - name: Protect yourself and others
+    description: Reduce your chance of getting infected, including when to wear masks, how to disinfect, and how COVID-19 impacts your pets and other animals.
+    categories:
+      - protect-yourself
+      - disinfecting-sanitizing
+      - pets-animals
+  - name: Family care
+    description: Take care of your family, stay safe during pregnancy, and keep infants, toddlers, and children healthy. Keep the elderly and those with underlying conditions safe.
+    categories:
+      - caring-for-children
+      - older-people-special-precautions
+      - pregnancy
+  - name: Going out in public
+    description: Learn what you need to know to be safe if you go out, including for daily errands, events, or gatherings, work, and travel.
+    categories:
+      - activities-events-gatherings
+      - workplace-safety
+      - travel
+  - name: Economic support
+    description: Learn about resources that may be available to support you, including financial help, SNAP food benefits, school meals, housing assistance, and support for small businesses.
+    categories:
+      - financial-help
+      - food-housing-education-assistance
+      - school-meals
+      - support-for-business
