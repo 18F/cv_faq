@@ -11,14 +11,14 @@ owner: CDC
 questions:
 - should-i-travel-within-the-us
 - should-travelers-wear-masks
-- what-can-I-expect-when-arriving-to-the-united-states
+- what-can-i-expect-when-arriving-to-the-united-states
 - what-is-the-risk-of-getting-covid-19-on-an-airplane
 - sick-passenger-on-my-flight
 - what-if-i-recently-traveled-and-get-sick
 - what-expect-airport-security-checkpoints
 - which-countries-are-subject-travel-restrictions-us
 - can-american-citizen-return-to-us
-- should-I-cancel-my-international-travel
+- should-i-cancel-my-international-travel
 - should-i-go-on-a-cruise
 - are-the-northern-southern-us-borders-closed
 - what-are-requirements-to-return-body-to-united-states
