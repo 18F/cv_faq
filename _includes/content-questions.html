@@ -3,7 +3,7 @@
     {% for category_grouping in site.data.homepage_order.category_groupings %}
       <div class="top-category tablet:grid-col-4 margin-bottom-3">
         <h3>{{ category_grouping.name }}</h3>
-        <p>{{ category_grouping.description }}</p>
+        <p class="usa-prose">{{ category_grouping.description }}</p>
         <ul class="usa-list usa-list--unstyled">
           {% for category_name in category_grouping.categories %}
             {% assign current_category = site.categories | where: "name", category_name | first %}
