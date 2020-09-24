@@ -36,5 +36,5 @@ questions:
 redirect_from:
 - /financial-help/can-the-sba-help-me-with-other-assistance/
 - /financial-help/when-are-taxes-due-for-alcohol-tobacco-firearms-ammunition-businesses/
-title: Financial help for workers and families
+title: Financial help
 ---
