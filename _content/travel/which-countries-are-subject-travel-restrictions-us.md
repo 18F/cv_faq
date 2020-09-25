@@ -3,7 +3,6 @@ date: May 29, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 redirect_from:
-- /travel/level-3-travel-health-return-work/
 - /travel/which-countries-are-subject-travel-restrictions-us/
 sources:
 - agency: dhs

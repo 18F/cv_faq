@@ -1,19 +1,37 @@
-categories:
-  - name: symptoms-and-testing
-  - name: spread
-  - name: travel
-  - name: keeping-home-safe
-  - name: financial-help
-  - name: parents-and-children
-  - name: pregnancy
-  - name: food-safety
-  - name: support-for-business
-  - name: medications
-  - name: community-events
-  - name: water-transmission
-  - name: rumors
-  - name: protect-yourself
-  - name: underlying-conditions
-  - name: animals
-  - name: basics
-  - name: funerals
+category_groupings:
+  - name: About COVID-19
+    description: Get an overview of COVID-19, what it is, how it spreads, and whether it impacts food and medicine.
+    categories:
+      - covid-19-facts
+      - spread-transmission
+      - food-drug-safety
+  - name: Symptoms and treatment
+    description: Understand the symptoms of COVID-19, available testing and treatment, as well as vaccine development.
+    categories:
+      - symptoms-and-testing
+      - treatments-vaccines-immunity
+  - name: Protect yourself and others
+    description: Reduce your chance of getting infected, including when to wear masks, how to disinfect, and how COVID-19 impacts your pets and other animals.
+    categories:
+      - protect-yourself
+      - disinfecting-sanitizing
+      - pets-animals
+  - name: Family care
+    description: Take care of your family, stay safe during pregnancy, and keep infants, toddlers, and children healthy. Keep the elderly and those with underlying conditions safe.
+    categories:
+      - caring-for-children
+      - older-people-special-precautions
+      - pregnancy
+  - name: Going out in public
+    description: Learn what you need to know to be safe if you go out, including for daily errands, events, or gatherings, work, and travel.
+    categories:
+      - activities-events-gatherings
+      - workplace-safety
+      - travel
+  - name: Economic support
+    description: Learn about resources that may be available to support you, including financial help, SNAP food benefits, school meals, housing assistance, and support for small businesses.
+    categories:
+      - financial-help
+      - food-housing-education-assistance
+      - school-meals
+      - support-for-business
