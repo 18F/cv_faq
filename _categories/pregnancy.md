@@ -10,6 +10,5 @@ owner: CDC
 questions:
 - i-am-pregnant-what-are-the-risks
 - how-can-pregnant-women-protect-themselves-from-getting-covid-19
-- what-should-breastfeeding-mothers-do
 title: Pregnancy
 ---

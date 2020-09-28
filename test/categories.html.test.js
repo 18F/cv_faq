@@ -4,7 +4,7 @@ const readdir = promisify(fs.readdir);
 
 const categories = fs.readdirSync('_categories');
 const category = categories[0].split('.')[0];
-let contentFiles;
+
 
 const getAccordionState = async () => {
   return page.$$eval('#main-content .usa-accordion__button', buttons => {
@@ -20,10 +20,6 @@ const getAccordionState = async () => {
   });
 };
 
-beforeAll(async () => {
-  contentFiles = await readdir(`_content/${category}`);
-});
-
 beforeEach(async () => {
   await page.goto(`http://localhost:4444/${category}/`);
 });
@@ -31,15 +27,11 @@ beforeEach(async () => {
 test('shows all but the first question collapsed', async () => {
   const questions = await getAccordionState();
 
-  expect(questions).toHaveLength(contentFiles.length);
   expect(questions[0].isOpen).toBe(true);
   expect(questions.filter(q => q.isOpen)).toHaveLength(1);
 });
 
 test('shows a specific question instead of the first if it is passed as an anchor reference', async () => {
-  // if this category has only one question, this test is invalid
-  expect(contentFiles.length).toBeGreaterThan(1);
-
   const ids = await page.$$eval('#main-content .usa-accordion__button', els => {
     return els.map(el => el.id)
   });
@@ -53,8 +45,8 @@ test('shows a specific question instead of the first if it is passed as an ancho
   await page.goto(`http://localhost:4444/${category}/#${slug}`);
 
   const questions = await getAccordionState();
+  expect(questions.length).toBeGreaterThan(1);
 
-  expect(questions).toHaveLength(contentFiles.length);
   expect(questions[1].isOpen).toBe(true);
   expect(questions.filter(q => q.isOpen)).toHaveLength(1);
 });
