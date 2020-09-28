@@ -11,6 +11,7 @@ questions:
 - how-can-i-protect-myself
 - does-cdc-recommend-masks
 - family-reduce-risk
+- case-investigation-contact-tracing
 - how-can-i-prepare-for-an-outbreak
 - how-can-i-manage-anxiety-stress
 - exposed-but-negative-test-still-quarantine
