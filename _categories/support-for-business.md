@@ -11,6 +11,7 @@ questions:
 - where-should-a-small-business-go-to-find-help
 - do-i-need-to-register-with-fema-to-be-considered-for-help
 - employee-retention-credit
+- paycheck-protection-loan-forgiveness
 - can-the-sba-help-me-with-other-assistance
 - how-to-apply-for-benefits
 - how-to-apply-for-a-small-business-loan

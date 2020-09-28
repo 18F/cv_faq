@@ -9,6 +9,7 @@ name: financial-help
 owner: Treasury
 questions:
 - how-can-i-check-the-status-of-my-economic-impact-payment
+- will-government-provide-second-round-economic-impact-payments
 - manage-bills-during-covid-19
 - nursing-home-take-stimulus-check
 - who-is-eligible-for-payment
