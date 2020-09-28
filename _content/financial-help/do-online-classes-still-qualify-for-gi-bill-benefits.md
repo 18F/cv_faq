@@ -1,5 +1,5 @@
 ---
-date: August 12, 2020
+date: September 28, 2020
 excerpt: Online classes qualify for GI Bill benefits
 layout: post
 redirect_from:
@@ -21,5 +21,5 @@ Please be sure we have your current email address on file. We can send certain i
  
 - [Learn more about how COVID-19 may affect your education benefits](https://benefits.va.gov/gibill/covid19educationbenefits.asp)
 - [Learn more about electronic communication](https://benefits.va.gov/gibill/covid19paperlessguidance.asp)
-- [Get more information about on-the-job training, apprenticeships, and work study](https://www.va.gov/coronavirus-veteran-frequently-asked-questions/#more-benefit-and-claim-questio)
+
 
