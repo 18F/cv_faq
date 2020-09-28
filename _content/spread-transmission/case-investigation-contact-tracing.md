@@ -1,6 +1,6 @@
 ---
 date: September 28, 2020
-excerpt: How exposure is invetigated
+excerpt: What is the difference between case investigation and contact tracing?
 layout: post
 sources:
 - agency: cdc
