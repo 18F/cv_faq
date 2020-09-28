@@ -11,6 +11,7 @@ questions:
 - how-can-i-protect-myself
 - does-cdc-recommend-masks
 - what-is-contact-tracing
+- case-investigation-contact-tracing
 - who-is-close-contact
 - what-happens-contact-tracing-diagnosed
 - around-someone-who-is-close-contact
