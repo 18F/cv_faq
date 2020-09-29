@@ -1,5 +1,5 @@
 ---
-date: August 12, 2020
+date: September 28, 2020
 excerpt: Visiting a patient at a Department of Veterans Affairs facility
 layout: post
 redirect_from:
@@ -11,9 +11,9 @@ sources:
 title: Can I visit a patient at a Department of Veterans Affairs facility?
 ---
 
-We're currently following CDC guidelines and limiting visitors for patients receiving care in a VA facility, including a hospital, nursing home, or spinal cord injury and disorder center. Limiting outside visitors helps us protect older Veterans and those who already have health issues.
+We're currently following CDC guidelines and limiting visitors for patients receiving care in a VA facility, including a medical center, clinic, nursing home, or Spinal Cord Injuries and Disorders System of Care. Limiting outside visitors helps us protect older Veterans and those who already have health issues. An adult visitor may be allowed to assist a Veteran, if needed, to get to or from an appointment or procedure in the facility. We encourage you to contact your facility prior to your appointment with questions regarding their visitation policy. Exceptions may be made by facility if a Veteran patient or their visitor needs assistance.
 
-We do make an exception for Veterans who qualify as a "compassionate case." This means the Veteran is in their last stage of life. We know this is difficult for families, but we’re taking these precautions to protect the most vulnerable patients from community spread of the coronavirus.
+We know limiting visitors is difficult for families, but we’re taking these precautions to protect the most vulnerable patients from community spread of the coronavirus.
 
 Learn about the [steps we’re taking to protect Veterans in nursing homes](https://www.va.gov/opa/pressrel/pressrelease.cfm?id=5400).
 
