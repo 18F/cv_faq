@@ -1,5 +1,5 @@
 ---
-date: June 20, 2020
+date: September 28, 2020
 excerpt: COVID-19 and children
 layout: post
 redirect_from:
