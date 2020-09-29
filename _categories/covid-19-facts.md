@@ -23,7 +23,6 @@ questions:
 - donations-to-charities
 - how-can-i-find-out-about-frauds-and-scams
 - is-there-a-national-lockdown
-- what-are-requirements-to-return-body-to-united-states
 redirect_from:
 - /basics/
 title: COVID-19 facts

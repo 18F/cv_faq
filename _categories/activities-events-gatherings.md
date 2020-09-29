@@ -28,7 +28,6 @@ questions:
 - can-i-visit-patient-at-department-of-veterans-affairs-facility
 - are-uscis-offices-open
 - is-it-safe-to-travel-to-campgrounds-or-go-camping
-- should-outdoor-playgrounds-be-cleaned-and-disinfected
 - while-school-is-out-can-my-child-hang-with-friend
 - is-there-a-national-lockdown
 - how-is-the-national-guard-responding

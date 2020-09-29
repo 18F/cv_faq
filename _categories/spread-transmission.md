@@ -11,6 +11,8 @@ questions:
 - how-does-the-virus-spread
 - can-someone-who-has-had-covid-19-spread-the-illness-to-others
 - what-is-community-spread
+- community-mitigation
+- close-contact-covid-19
 - around-someone-who-is-close-contact
 - exposed-but-negative-test-still-quarantine
 - exposed-but-feel-fine
@@ -34,6 +36,7 @@ questions:
 - can-the-virus-that-causes-covid-19-be-spread-through-food
 - will-warm-weather-stop-the-outbreak-of-covid-19
 - can-the-covid-19-virus-spread-through-sewerage-systems
+- covid-19-spread-floodwater
 - can-the-covid-19-virus-spread-through-drinking-water
 - can-the-covid-19-virus-spread-through-pools-and-hot-tubs
 - if-utility-issued-boil-water-advisory-can-i-use-tap-water-to-wash-hands
@@ -44,8 +47,7 @@ questions:
 - what-precautions-with-imported-animals
 - can-bats-in-us-get-covid19-and-spread-it-to-people
 - can-wild-animals-spread-covid19-to-people-and-pets
-- am-i-at-risk-touch-body
-- how-to-safely-handle-belongings-of-someone-died-from-covid-19
+- handle-body-someone-who-died
 - is-5g-phone-technology-linked
 - can-sanitizing-tunnels-be-used-to-prevent-spread
 - should-sidewalks-and-roads-be-disinfected-to-prevent-covid-19
