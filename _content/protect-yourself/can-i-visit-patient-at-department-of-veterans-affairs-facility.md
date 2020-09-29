@@ -1,5 +1,5 @@
 ---
-date: August 12, 2020
+date: September 28, 2020
 excerpt: Visiting a patient at a Department of Veterans Affairs facility
 layout: post
 redirect_from:
