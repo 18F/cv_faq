@@ -14,7 +14,7 @@ questions:
 - can-schools-provide-multiple-meals-at-once
 - can-schools-serve-meals-while-they-are-closed
 - do-school-meals-still-have-to-meet-nutrition-requirements
-redirect-from:
+redirect_from:
 - /parents-and-children/while-school-is-out-will-kids-have-access-to-meals/
 - /while-school-is-out-will-kids-have-access-to-meals/
 title: School meals

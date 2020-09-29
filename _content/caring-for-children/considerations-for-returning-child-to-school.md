@@ -2,7 +2,7 @@
 date: August 7, 2020
 excerpt: COVID-19 and children
 layout: post
-redirect-from:
+redirect_from:
 - /keeping-home-safe/school-is-dismissed/
 - /parents-and-children/how-can-i-prepare-in-case-my-childs-school-is-dismissed/
 - /parents-and-children/while-school-is-out-how-can-i-help-my-child-continue-learning/
