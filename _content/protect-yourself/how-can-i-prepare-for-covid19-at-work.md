@@ -4,10 +4,6 @@ excerpt: How to protect yourself
 layout: post
 redirect_from:
 - /protect-yourself/should-i-go-to-work-if-there-is-an-outbreak-in-my-community/
-- /protect-yourself/how-can-i-prepare-for-covid19-at-work/
-- /protect-yourself/can-cdc-tell-me-when-it-is-safe-to-go-back/
-- /protect-yourself/how-long-do-companies-need-to-close-for-disinfection-after-an-exposure/
-- /how-long-do-companies-need-to-close-for-disinfection-after-an-exposure/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#In-Case-of-an-Outbreak-in-Your-Community

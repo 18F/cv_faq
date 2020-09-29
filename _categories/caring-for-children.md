@@ -55,8 +55,6 @@ redirect_from:
 - /what-to-do-if-child-has-difficulty-adjusting/
 - /parents-and-children/what-if-child-or-someone-in-home-is-sick/
 - /what-if-child-or-someone-in-home-is-sick/
-- /parents-and-children/what-if-child-underlying-symptoms-get-worse/
-- /what-if-child-underlying-symptoms-get-worse/
 - /parents-and-children/what-if-child-needs-to-go-to-hospital/
 - /what-if-child-needs-to-go-to-hospital/
 title: Caring for children
