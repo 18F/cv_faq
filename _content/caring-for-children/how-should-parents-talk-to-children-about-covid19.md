@@ -4,6 +4,8 @@ excerpt: COVID-19 and children
 layout: post
 redirect_from:
 - /parents-and-children/how-should-parents-talk-to-children-about-covid19/
+- /parents-and-children/how-do-i-prepare-my-child-for-an-outbreak/
+- /how-do-i-prepare-my-child-for-an-outbreak/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/talking-with-children.html

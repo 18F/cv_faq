@@ -4,6 +4,8 @@ excerpt: Keeping your home safe
 layout: post
 redirect_from:
 - /keeping-home-safe/if-someone-in-my-house-gets-sick/
+- /parents-and-children/what-if-child-underlying-symptoms-get-worse/
+- /what-if-child-underlying-symptoms-get-worse/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#If-You-or-Someone-You-Know-is-Sick-or-Had-Contact-with-Someone-who-Has-COVID-19
