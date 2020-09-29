@@ -4,6 +4,8 @@ excerpt: About COVID-19
 layout: post
 redirect_from:
 - /basics/how-can-i-manage-anxiety-stress/
+- /parents-and-children/how-can-my-family-cope-with-added-stress/
+- /how-can-my-family-cope-with-added-stress/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/managing-stress-anxiety.html

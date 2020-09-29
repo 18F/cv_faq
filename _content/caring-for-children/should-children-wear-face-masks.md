@@ -10,4 +10,4 @@ sources:
 title: Should children wear masks?
 ---
 
-CDC recommends that everyone 2 years and older wear a mask that covers their nose and mouth when they are out in the community. Masks should NOT be put on babies or children younger than 2 because of the danger of suffocation. Children younger than 2 years of age are listed as an exception as well as anyone who has trouble breathing or is unconscious, incapacitated, or otherwise unable to remove the mask without assistance.
+In general, children 2 years and older should wear a mask. However, CDC recognizes that wearing masks may not be possible in every situation or for some people. Appropriate and consistent use of masks may be challenging for some children, such as children with certain disabilities, including cognitive, intellectual, developmental, sensory, and behavioral disorders. Learn more about what you should do if your child or you [cannot wear masks in certain situations](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/cloth-face-cover-guidance.html#feasibility-adaptations). 

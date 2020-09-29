@@ -9,30 +9,19 @@ name: caring-for-children
 owner: CDC
 questions:
 - are-children-at-risk
-- are-symptoms-of-covid-19-different-in-children
-- how-can-i-keep-my-children-healthy
-- how-can-i-protect-my-child-from-covid-19
-- how-do-i-prepare-my-child-for-an-outbreak
-- what-if-child-or-someone-in-home-is-sick
-- child-with-special-healthcare-need-higher-risk
 - what-is-multisystem-inflammatory-syndrome-in-children
 - additional-steps-child-special-healthcare-need
-- what-if-child-underlying-symptoms-get-worse
-- what-if-child-needs-to-go-to-hospital
 - how-should-parents-talk-to-children-about-covid19
-- how-can-my-family-cope-with-added-stress
 - how-can-i-manage-anxiety-stress
 - should-children-wear-face-masks
 - considerations-for-returning-child-to-school
 - preparations-for-sending-child-back-to-school
-- while-school-is-out-how-can-i-help-my-child-continue-learning
 - should-schools-test-students-for-covid-19
 - remote-learning-childrens-privacy
 - what-should-breastfeeding-mothers-do
-- what-to-do-if-child-has-difficulty-adjusting
 - is-there-guidance-on-food-planning
 - while-school-is-out-can-my-child-hang-with-friend
-- while-school-is-out-should-i-limit-time-with-older-adults
+- limit-time-older-adults
 redirect_from:
 - /parents-and-children/
 - /k12-childcare/planning-and-preparedness/
@@ -55,5 +44,20 @@ redirect_from:
 - /k12-childcare/what-should-my-school-consider-re-opening/
 - /k12-childcare/when-should-i-dismiss/
 - /k12-childcare/
+- /parents-and-children/how-can-i-protect-my-child-from-covid-19/
+- /how-can-i-protect-my-child-from-covid-19/
+- /parents-and-children/are-symptoms-of-covid-19-different-in-children/
+- /are-symptoms-of-covid-19-different-in-children/
+- /parents-and-children/while-school-is-out-how-can-i-keep-my-family-healthy/
+- /parents-and-children/how-can-i-keep-my-children-healthy/
+- /how-can-i-keep-my-children-healthy/
+- /parents-and-children/what-to-do-if-child-has-difficulty-adjusting/
+- /what-to-do-if-child-has-difficulty-adjusting/
+- /parents-and-children/what-if-child-or-someone-in-home-is-sick/
+- /what-if-child-or-someone-in-home-is-sick/
+- /parents-and-children/what-if-child-underlying-symptoms-get-worse/
+- /what-if-child-underlying-symptoms-get-worse/
+- /parents-and-children/what-if-child-needs-to-go-to-hospital/
+- /what-if-child-needs-to-go-to-hospital/
 title: Caring for children
 ---

@@ -21,8 +21,6 @@ questions:
 - should-i-cancel-my-international-travel
 - should-i-go-on-a-cruise
 - are-the-northern-southern-us-borders-closed
-- what-are-requirements-to-return-body-to-united-states
-- if-someone-dies-overseas
 - return-to-work-international-travel
 - will-real-id-implementation-be-delayed
 - are-undocumented-immigrants-still-being-held

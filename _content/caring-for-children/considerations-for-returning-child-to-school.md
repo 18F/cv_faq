@@ -2,6 +2,11 @@
 date: August 7, 2020
 excerpt: COVID-19 and children
 layout: post
+redirect-from:
+- /keeping-home-safe/school-is-dismissed/
+- /parents-and-children/how-can-i-prepare-in-case-my-childs-school-is-dismissed/
+- /parents-and-children/while-school-is-out-how-can-i-help-my-child-continue-learning/
+- /while-school-is-out-how-can-i-help-my-child-continue-learning/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/decision-tool.html
