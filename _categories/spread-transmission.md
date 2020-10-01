@@ -11,6 +11,7 @@ questions:
 - how-does-the-virus-spread
 - can-someone-who-has-had-covid-19-spread-the-illness-to-others
 - what-is-community-spread
+- what-community-mitigation
 - community-mitigation
 - close-contact-covid-19
 - around-someone-who-is-close-contact
@@ -39,6 +40,8 @@ questions:
 - covid-19-spread-floodwater
 - can-the-covid-19-virus-spread-through-drinking-water
 - can-the-covid-19-virus-spread-through-pools-and-hot-tubs
+- spread-lakes-rivers
+- spread-saltwater-pools
 - if-utility-issued-boil-water-advisory-can-i-use-tap-water-to-wash-hands
 - is-the-covid-19-virus-found-in-feces
 - additional-information-about-water-transmission-and-covid-19

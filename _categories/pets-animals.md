@@ -13,6 +13,7 @@ questions:
 - are-pets-from-a-shelter-safe
 - should-avoid-contact-with-pets
 - can-i-walk-my-dog
+- pets-assisted-living
 - what-animals-can-get-covid-19
 - if-my-pet-has-been-vaccinated-for-species-specific-cornavirus
 - is-it-true-animals-get-their-own-types-of-virus
