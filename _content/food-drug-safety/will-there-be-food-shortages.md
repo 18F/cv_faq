@@ -5,6 +5,7 @@ layout: post
 redirect_from:
 - /rumors/should-i-stock-up-on-food-and-supplies/
 - /food-safety/will-there-be-food-shortages/
+- /keeping-home-safe/will-there-be-food-shortages/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
