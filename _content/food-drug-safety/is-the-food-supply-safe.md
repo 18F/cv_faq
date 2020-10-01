@@ -4,6 +4,7 @@ excerpt: Keeping your home safe
 layout: post
 redirect_from:
 - /food-safety/is-the-food-supply-safe/
+- /keeping-home-safe/is-the-food-supply-safe/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions

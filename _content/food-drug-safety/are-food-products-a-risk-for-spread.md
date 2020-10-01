@@ -4,6 +4,7 @@ excerpt: Keeping your home safe
 layout: post
 redirect_from:
 - /food-safety/are-food-products-a-risk-for-spread/
+- /keeping-home-safe/are-food-products-a-risk-for-spread/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
