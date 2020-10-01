@@ -10,6 +10,7 @@ owner: CDC
 questions:
 - what-is-a-novel-coronavirus
 - why-is-the-disease-called-covid-19
+- flu-covid-same-time
 - covid-19-guidance-in-multiple-languages
 - what-does-the-mortality-rate-mean
 - why-are-the-death-counts-different-from-provisional-counts
