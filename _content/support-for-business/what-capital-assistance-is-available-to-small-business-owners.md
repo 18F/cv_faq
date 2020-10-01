@@ -4,6 +4,7 @@ excerpt: 'Economic impact payments: What you need to know'
 layout: post
 redirect_from:
 - /support-for-business/what-capital-assistance-is-available-to-small-business-owners/
+- /financial-help/what-capital-assistance-is-available-to-small-business-owners/
 sources:
 - agency: sba
   url: https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know

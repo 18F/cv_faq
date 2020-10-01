@@ -4,6 +4,7 @@ excerpt: Underlying conditions
 layout: post
 redirect_from:
 - /underlying-conditions/who-is-at-higher-risk-for-serious-illness-from-covid-19/
+- /protect-yourself/who-is-at-higher-risk-for-serious-illness-from-covid-19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#high-risk
