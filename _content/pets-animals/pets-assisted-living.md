@@ -22,6 +22,6 @@ Until we learn more about how this virus affects animals, use similar precaution
 
 Talk to a veterinarian [if a pet in your facility gets sick](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/positive-pet.html) or if you have any concerns about the health of any pets in the facility. If you think a pet in the facility was exposed to or is showing [signs](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/positive-pet.html) consistent with COVID-19, contact your state health official to discuss guidance on testing pets or other animals for the virus that causes COVID-19.
 
-People who are at [higher risk for severe illness](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html) from COVID-19 should avoid providing care for sick pets, if possible.
+People who are at [higher risk for severe illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/index.html) from COVID-19 should avoid providing care for sick pets, if possible.
 
 For more information, visit CDC’s [If You Have Pets](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/pets.html) webpage.

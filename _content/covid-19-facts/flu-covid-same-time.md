@@ -5,7 +5,7 @@ layout: post
 sources:
 - agency: cdc
   url: https://www.cdc.gov/flu/season/faq-flu-season-2020-2021.htm#Flu-and-COVID-19
-title: Can I flu and COVID-19 at the same time?
+title: Can I get flu and COVID-19 at the same time?
 ---
 
 Yes. It is possible to have the flu, as well as other respiratory illnesses, and COVID-19 at the same time. Health experts are still studying how common this can be.
