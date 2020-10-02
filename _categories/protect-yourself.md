@@ -17,13 +17,16 @@ questions:
 - exposed-but-negative-test-still-quarantine
 - exposed-but-feel-fine
 - if-someone-in-my-house-gets-sick
+- isolation-vs-quarantine
 - is-it-safe-to-get-medical-care-for-other-conditions
 - can-i-walk-my-dog
 - how-do-i-prepare-for-hurricane-season-during-covid19
 - if-i-need-to-evacuate-my-home-during-the-covid19-pandemic
 - does-everyone-need-to-wear-face-mask
 - should-travelers-wear-masks
+- masks-in-water
 - do-face-shields-protect-from-covid-19
+- lycra-to-make-masks
 - ordered-mask-and-not-arrived
 - is-it-okay-to-donate-blood
 - risk-for-complications-from-covid-19-if-i-smoke-cigarettes

@@ -19,6 +19,7 @@ questions:
 - what-if-i-get-a-rash-hand-sanitizer
 - what-to-do-if-exposed-to-contaminated-hand-sanitizer
 - is-contact-lens-disinfecting-solution-effective-against-covid-19
+- uv-light-disinfect-covid
 redirect_from: 
  - /keeping-home-safe/
  - /keeping-home-safe/can-i-get-coronavirus-from-food/
