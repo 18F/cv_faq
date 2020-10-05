@@ -27,5 +27,6 @@ redirect_from:
  - /should-outdoor-playgrounds-be-cleaned-and-disinfected/
  - /funerals/what-do-funeral-home-workers-need-to-know/
  - /what-do-funeral-home-workers-need-to-know/
+ - /how-long-do-companies-need-to-close-for-disinfection-after-an-exposure/
 title: Disinfecting and sanitizing
 ---
