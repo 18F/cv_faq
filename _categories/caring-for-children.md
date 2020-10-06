@@ -50,6 +50,7 @@ redirect_from:
 - /are-symptoms-of-covid-19-different-in-children/
 - /parents-and-children/while-school-is-out-how-can-i-keep-my-family-healthy/
 - /parents-and-children/how-can-i-keep-my-children-healthy/
+- /parents-and-children/what-is-the-risk-of-my-child-becoming-sick/
 - /how-can-i-keep-my-children-healthy/
 - /parents-and-children/what-to-do-if-child-has-difficulty-adjusting/
 - /what-to-do-if-child-has-difficulty-adjusting/

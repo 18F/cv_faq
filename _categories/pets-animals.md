@@ -32,5 +32,6 @@ questions:
 - can-bats-in-us-get-covid19-and-spread-it-to-people
 redirect_from:
 - /animals/
+- /animals/if-my-pet-has-been-exposed-do-they-need-to-quarantine/
 title: Pets and other animals
 ---
