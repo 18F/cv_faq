@@ -4,6 +4,7 @@ excerpt: 'Travel: Returning from travel'
 layout: post
 redirect_from:
 - /travel/can-american-citizen-return-to-us/
+- /travel/can-american-citizen-return-recently-traveled/
 sources:
 - agency: dhs
   url: https://www.dhs.gov/coronavirus/protecting-air-travelers-and-american-public

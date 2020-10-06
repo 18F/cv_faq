@@ -2,7 +2,7 @@
 date: September 28, 2020
 excerpt: Safely handle body of someone who died of COVID
 layout: post
-redirect-from:
+redirect_from:
 - /funerals/am-i-at-risk-touch-body/
 - /am-i-at-risk-touch-body/
 - /funerals/how-to-safely-handle-belongings-of-someone-died-from-covid-19/
