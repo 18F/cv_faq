@@ -4,7 +4,6 @@ excerpt: Water transmission and COVID-19
 layout: post
 redirect_from:
 - /water-transmission/can-the-covid-19-virus-spread-through-pools-and-hot-tubs/
-- /water-transmission/can-the-covid-19-virus-spread-through-pools-and-hot-tubs/)
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/php/water.html
