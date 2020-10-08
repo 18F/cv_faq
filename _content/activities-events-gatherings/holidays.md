@@ -4,7 +4,7 @@ excerpt: Holidays
 layout: post
 sources:
 - agency: cdc
-  url: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays.html#halloween
+  url: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays.html
 title: How can my family and I stay safe during Halloween and other fall and winter holidays?
 ---
 
