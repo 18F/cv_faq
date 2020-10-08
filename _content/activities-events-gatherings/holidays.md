@@ -1,5 +1,5 @@
 ---
-date: October 6, 2020
+date: October 8, 2020
 excerpt: Holidays
 layout: post
 sources:
