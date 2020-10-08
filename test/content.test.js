@@ -76,4 +76,75 @@ test(`every question's source references an agency that exists in ${agencyDirect
       expect(agencies).toContain(expectedAgencyFile);
     })
   });
-})
+});
+
+test('every category contains only expected frontmatter', async () => {
+  const expectedKeys = [
+    'banner',
+    'layout',
+    'name',
+    'owner',
+    'questions',
+    'redirect_from',
+    'title',
+  ];
+  categoryFiles.forEach(categoryFile => {
+    Object.keys(categoryFile.frontMatter).forEach(property => {
+      expect(expectedKeys, `Unexpected property "${property}" in ${categoryFile.filename}"`).toContain(property);
+    })
+  });
+});
+
+test('every question contains only expected frontmatter', async () => {
+  const expectedKeys = [
+    'date',
+    'excerpt',
+    'hide_search_in_header',
+    'layout',
+    'redirect_from',
+    'sources',
+    'title',
+  ];
+  questionFiles.forEach(questionFile => {
+    Object.keys(questionFile.frontMatter).forEach(property => {
+      expect(expectedKeys, `Unexpected property "${property}" in ${questionFile.filename}"`).toContain(property);
+    })
+  });
+});
+
+test('every question contains required frontmatter', async () => {
+  const requiredKeys = [
+    'date',
+    'excerpt',
+    'layout',
+    'sources',
+    'sources.0.agency',
+    'sources.0.url',
+    'title',
+  ];
+  questionFiles.forEach(questionFile => {
+    requiredKeys.forEach(property => {
+      expect(questionFile.frontMatter, `Expected property "${property}" in ${questionFile.filename}" not found`).toHaveProperty(property);
+    });
+  });
+});
+
+test('every category contains required frontmatter', async () => {
+  const requiredKeys = [
+    'banner',
+    'banner.content',
+    'banner.display',
+    'banner.heading',
+    'layout',
+    'name',
+    'owner',
+    'questions',
+    'questions.0',
+    'title',
+  ];
+  categoryFiles.forEach(categoryFile => {
+    requiredKeys.forEach(property => {
+      expect(categoryFile.frontMatter, `Expected property "${property}" in ${categoryFile.filename}" not found`).toHaveProperty(property);
+    });
+  });
+});
