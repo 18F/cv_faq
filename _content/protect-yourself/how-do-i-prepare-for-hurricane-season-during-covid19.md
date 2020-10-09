@@ -1,16 +1,16 @@
 ---
-date: May 21, 2020
-excerpt: How do I prepare for hurricane season during COVID-19?
+date: October 9, 2020
+excerpt: How do I prepare for hurricanes during COVID-19?
 layout: post
 redirect_from:
 - /protect-yourself/how-do-i-prepare-for-hurricane-season-during-covid19/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/disasters/hurricanes/covid-19/prepare-for-hurricane.html
-title: How do I prepare for hurricane season during COVID-19?
+title: How do I prepare for hurricanes during COVID-19?
 ---
 
-Your planning may be different this year because of the need to protect yourself and others from COVID-19.
+Your planning may be different because of the need to protect yourself and others from COVID-19.
 
 * Give yourself more time than usual to [prepare your emergency food, water, and medicine supplies](https://www.cdc.gov/disasters/hurricanes/before.html). Home delivery is the safest choice for buying disaster supplies; however, that may not be an option for everyone. If in-person shopping is your only choice, take steps to [protect your and others’ health when running essential errands](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/essential-goods-services.html).
 * Protect yourself and others when filling [prescriptions](https://www.cdc.gov/cpr/prepareyourhealth/Prescriptions.htm) by limiting in-person visits to the pharmacy. Sign up for mail order delivery or call in your prescription ahead of time and use drive-through windows or curbside pickup, if available.
