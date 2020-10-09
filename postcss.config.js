@@ -4,9 +4,6 @@ const purgecss = require('@fullhuman/postcss-purgecss')({
     './**/*.js',
     './**/*.md'
   ],
-  // whitelistPatterns: [
-  //   /^autocomplete/
-  // ],
   safelist: {
     standard: [
       /^autocomplete/,
@@ -18,7 +15,7 @@ const purgecss = require('@fullhuman/postcss-purgecss')({
   },
 
   // Include any special characters you're using in this regular expression
-  //defaultExtractor: content => content.match(/[\w-/.:_]+(?<!:)/g) || [],
+  defaultExtractor: content => content.match(/[\w-/.:_]+(?<!:)/g) || [],
 });
 
 module.exports = {
