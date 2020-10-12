@@ -1,19 +1,18 @@
 ---
-date: April 23, 2020
+date: October 9, 2020
 excerpt: Symptoms and testing
 layout: post
 redirect_from:
 - /symptoms-and-testing/kind-of-test-used-to-diagnose-covid19/
 sources:
 - agency: cdc
-  url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Symptoms-&-Testing
-title: What kind of test is being used to diagnose if I have COVID-19?
+  url: https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/testing.html
+title: What kind of tests are used to diagnose COVID-19?
 ---
 
-There are actually many tests being used to diagnose COVID-19 that the U.S. Food & Drug Administration (FDA) has authorized for use during the current emergency. All of these diagnostic tests identify the virus in samples from the respiratory system, such as from nasal or nasopharyngeal swabs. Some tests are conducted at the testing site you visit, and results are available to you within minutes. Other tests must be sent to a laboratory to analyze, a process that takes 1-2 days once the lab receives your samples.
+Two kinds of tests are available for COVID-19: viral tests and antibody tests.
 
-Locations and types of testing sites vary depending on where you live (see question: Where can I get tested). Check with your testing site to learn which test it uses. You can find a [patient information sheet about each test on the FDA](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations#covid19ivd).
+- A [viral test](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html) tells you if you have a current infection.
+- An [antibody test](https://www.cdc.gov/coronavirus/2019-ncov/testing/serology-overview.html) might tell you if you had a past infection. 
 
-In the coming weeks, healthcare providers in most states will begin offering home collection kits, which the U.S. Food and Drug Administration (FDA) has authorized for use during the current emergency. A healthcare provider will need to give you the approved kit – the Pixel by LabCorp COVID-19 test home collection kit. You will be able to collect your sample (a nasal swab) at home and then send your sample to a laboratory for analysis.
-
-For more information please see [FDA’s most recent press release](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-test-patient-home-sample-collection).
+[Find out who should get tested.](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html#who-should-get-tested) Protect yourself and others. Wear a mask, wash hands often, and stay 6 feet from others.
