@@ -30,6 +30,7 @@ questions:
 - national-app-contact-tracing
 - contact-tracer-asked-for-confidential-information
 - avoid-contact-tracing-scam
+- cleaning-disinfecting-car-seats-booster-seats
 - am-i-at-risk-for-covid-19-from-packages-or-products-shipping-from-china
 - can-mosquitoes-spread-covid19
 - can-the-virus-be-transmitted-by-blood-transfusion
