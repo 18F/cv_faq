@@ -1,5 +1,5 @@
 ---
-date: August 7, 2020
+date: October 15, 2020
 excerpt: Underlying conditions
 layout: post
 sources:

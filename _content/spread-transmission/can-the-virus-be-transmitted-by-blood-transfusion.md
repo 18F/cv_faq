@@ -1,5 +1,5 @@
 ---
-date: April 15, 2020
+date: October 15, 2020
 excerpt: How it spreads
 layout: post
 redirect_from:

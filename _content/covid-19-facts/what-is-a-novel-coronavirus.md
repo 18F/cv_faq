@@ -1,5 +1,5 @@
 ---
-date: April 30, 2020
+date: October 15, 2020
 excerpt: About COVID-19
 layout: post
 redirect_from:
