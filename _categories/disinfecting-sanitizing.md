@@ -15,6 +15,7 @@ questions:
 - what-is-the-difference-between-cleaning-and-disinfecting
 - how-effective-are-alternative-disinfection-methods
 - can-disinfectant-sprays-or-wipes-be-used-on-my-skin
+- cleaning-disinfecting-car-seats-booster-seats
 - should-i-make-my-own-hand-sanitizer
 - what-if-i-get-a-rash-hand-sanitizer
 - what-to-do-if-exposed-to-contaminated-hand-sanitizer
