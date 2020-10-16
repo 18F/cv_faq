@@ -1,5 +1,5 @@
 ---
-date: April 15, 2020
+date: October 16, 2020
 excerpt: About COVID-19
 layout: post
 redirect_from:
@@ -10,6 +10,6 @@ sources:
 title: What treatments are available for COVID-19?
 ---
 
-People with COVID-19 should receive supportive care to help relieve symptoms. People with mild symptoms are able to recover at home. If you experience a medical emergency such as trouble breathing, call 911 and let the operator know you may have COVID-19. For severe illness, treatment should include care to support vital organ functions.
+Currently there are no FDA-approved medicines specifically for COVID-19. However, the FDA has granted emergency use authorizations for some medicines to be used for certain patients hospitalized with COVID-19. The National Institutes of Health provides more information about [treatment options](https://www.covid19treatmentguidelines.nih.gov/).
 
-Currently there are no FDA-approved drugs specifically for the treatment of COVID-19. Researchers are studying new drugs, and drugs that are already approved for other health conditions, as possible treatments for COVID-19. The FDA is working with drug manufacturers, researchers, and other partners to accelerate the development process for COVID-19 treatments. CDC has [more information for health care providers](https://www.cdc.gov/coronavirus/2019-ncov/hcp/therapeutic-options.html) about these potential treatments. Never take a prescription medicine or drug if it is not prescribed for you by your doctor for your health condition.
+People with COVID-19 should receive supportive care to help relieve symptoms. People with mild symptoms are able to recover at home. If you experience a medical emergency such as trouble breathing, call 911 and let the operator know you may have COVID-19. Never take a prescription medicine or drug if it is not prescribed for you by your doctor for your health condition.

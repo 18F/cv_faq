@@ -21,7 +21,7 @@ questions:
 - can-i-get-covid-19-from-a-food-worker
 - are-there-going-to-be-animal-drug-shortages
 - are-there-going-to-be-drug-shortages
-- am-i-at-risk-from-taking-fda-approved-drugs-made-in-china
+- risk-fda-approved-drugs-outside-us
 redirect_from:
 - /food-safety/
 - /medications/
