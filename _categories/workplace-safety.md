@@ -10,11 +10,12 @@ owner: CDC
 questions:
 - how-can-i-prepare-for-covid19-at-work
 - what-are-essential-industries
-- how-do-i-know-if-i-am-an-essential-worker
 - is-there-a-list-of-essential-industries
 - should-ill-food-workers-stay-home
 - is-it-safe-to-vacuum-in-a-school-business-or-community-facility-after-someone-with-covid-19-present
 - should-wasterwater-workers-take-extra-precautions-to-protect-from-covid19
 - is-the-federal-government-mandating-businesses-to-close
+redirect_from: 
+- /how-do-i-know-if-i-am-an-essential-worker/
 title: Workplace safety
 ---

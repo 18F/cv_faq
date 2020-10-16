@@ -1,5 +1,5 @@
 ---
-date: April 15, 2020
+date: October 15, 2020
 excerpt: Keeping your home safe
 layout: post
 redirect_from:

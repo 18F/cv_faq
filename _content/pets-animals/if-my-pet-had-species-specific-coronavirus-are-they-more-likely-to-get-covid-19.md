@@ -1,5 +1,5 @@
 ---
-date: May 5, 2020
+date: October 15, 2020
 excerpt: Animal coronaviruses
 layout: post
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-date: April 15, 2020
+date: October 15, 2020
 excerpt: Symptoms and testing
 layout: post
 redirect_from:

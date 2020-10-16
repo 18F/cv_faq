@@ -1,5 +1,5 @@
 ---
-date: April 20, 2020
+date: October 15, 2020
 excerpt: How to protect yourself
 layout: post
 redirect_from:
