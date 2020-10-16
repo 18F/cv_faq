@@ -19,4 +19,4 @@ People who have been exposed to contaminated hand sanitizer and are experiencing
 
 FDA encourages health care professionals, consumers and patients to report adverse events or quality problems experienced with the use of hand sanitizers to FDA’s [MedWatch Adverse Event Reporting program](https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program) (please provide the agency with as much information as possible to identify the product):
 Complete and submit the report [online](https://www.accessdata.fda.gov/scripts/medwatch/index.cfm); or
-Download and complete the [form](https://www.fda.gov/media/85598/download), then submit it via fax at 1-800-FDA-0178.
+Download and complete the [form](https://www.fda.gov/media/85598/download) (PDF), then submit it via fax at 1-800-FDA-0178.

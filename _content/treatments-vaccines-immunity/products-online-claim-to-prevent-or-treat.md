@@ -15,8 +15,8 @@ Currently, there are no FDA-approved products for the prevention or treatment of
 Please [report websites](https://www.accessdata.fda.gov/scripts/email/oc/buyonline/english.cfm) selling products with fraudulent claims about treatment or prevention of COVID-19. If you have experienced a bad reaction to a product sold with COVID-19 claims, report it to the FDA’s MedWatch Adverse Event Reporting program:
 
 - Complete and submit the report [online](https://www.accessdata.fda.gov/scripts/medwatch/index.cfm); or
-- Download and complete the [form](https://www.fda.gov/media/76299/download), then submit it via fax at 1-800-FDA-0178.
+- Download and complete the [form](https://www.fda.gov/media/76299/download) (PDF), then submit it via fax at 1-800-FDA-0178.
 - Include as much information as you can about the product that caused the reaction, including the product name, the manufacturer, and the lot number (if available).
 
 
-This [consumer update](https://www.fda.gov/consumers/consumer-updates/beware-fraudulent-coronavirus-tests-vaccines-and-treatments) and [video](https://www.youtube.com/watch?v=YXntX39C1rg&feature=youtu.be) can help you learn how to protect yourself and your family from coronavirus fraud.
+This [consumer update](https://www.fda.gov/consumers/consumer-updates/beware-fraudulent-coronavirus-tests-vaccines-and-treatments) and [video](https://www.youtube.com/watch?v=YXntX39C1rg&feature=youtu.be) can help you learn how to protect yourself and your family from fraud.
