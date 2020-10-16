@@ -14,6 +14,7 @@ questions:
 - how-should-parents-talk-to-children-about-covid19
 - how-can-i-manage-anxiety-stress
 - should-children-wear-face-masks
+- cleaning-disinfecting-car-seats-booster-seats
 - considerations-for-returning-child-to-school
 - preparations-for-sending-child-back-to-school
 - should-schools-test-students-for-covid-19

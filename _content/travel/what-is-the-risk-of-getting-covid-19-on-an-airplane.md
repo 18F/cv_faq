@@ -1,5 +1,5 @@
 ---
-date: March 27, 2020
+date: October 9, 2020
 excerpt: 'Travel: Air or cruise travel'
 layout: post
 redirect_from:
@@ -10,6 +10,6 @@ sources:
 title: What is the risk of getting COVID-19 on an airplane?
 ---
 
-Because of how air circulates and is filtered on airplanes, most viruses and other germs do not spread easily. Although the risk of infection on an airplane is low, try to avoid contact with sick passengers and wash your hands often with soap and water for at least 20 seconds or use hand sanitizer that contains at least 60% alcohol.
+Air travel requires spending time in security lines and airport terminals, which can bring you in close contact with other people and frequently touched surfaces. Most viruses and other germs do not spread easily on flights because of how air circulates and is filtered on airplanes. However, social distancing is difficult on crowded flights, and you may have to sit near others (within 6 feet), sometimes for hours. This may increase your risk for exposure to the virus that causes COVID-19.
 
 For more information: [Exposure Risk During Travel](https://www.cdc.gov/coronavirus/2019-ncov/php/risk-assessment.html)
