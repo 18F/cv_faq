@@ -15,7 +15,6 @@ questions:
 - how-are-people-tested
 - kind-of-test-used-to-diagnose-covid19
 - what-is-antibody-testing
-- if-antibody-tests-not-used-for-diagnosis
 - close-contact-will-i-be-tested
 - can-a-person-test-negative-and-later-test-positive-for-covid-19
 - are-there-home-tests
@@ -28,5 +27,7 @@ questions:
 - on-medicare-and-someone-offered-me-a-test
 redirect_from:
 - /rumors/do-i-need-a-photo-id-to-be-tested/
+- /symptoms-and-testing/if-antibody-tests-not-used-for-diagnosis/
+- /if-antibody-tests-not-used-for-diagnosis/
 title: Symptoms and testing
 ---
