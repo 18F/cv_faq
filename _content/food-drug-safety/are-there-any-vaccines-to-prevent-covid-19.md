@@ -1,5 +1,5 @@
 ---
-date: June 24, 2020
+date: October 16, 2020
 excerpt: Drugs and medications
 layout: post
 redirect_from:
@@ -12,4 +12,6 @@ sources:
 title: Are there any vaccines or other medical products to prevent COVID-19?
 ---
 
-At this time there is no vaccine to prevent coronavirus disease 2019 (COVID-19). The FDA is working with vaccine developers and other researchers and manufacturers to help expedite the development and availability of medical products such as vaccines, antibodies, and drugs to prevent COVID-19. [Read more about what the FDA is doing to mitigate the effects of COVID-19](https://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics).
+At this time there is no vaccine to prevent coronavirus disease 2019 (COVID-19). The FDA is working with vaccine developers and other researchers and manufacturers to help expedite the development and availability of medical products such as vaccines, antibodies, and drugs to prevent COVID-19. 
+
+[Read more about what the FDA is doing to mitigate the effects of COVID-19](https://www.fda.gov/vaccines-blood-biologics/industry-biologics/coronavirus-covid-19-cber-regulated-biologics).

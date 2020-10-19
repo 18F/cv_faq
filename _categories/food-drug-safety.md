@@ -20,8 +20,8 @@ questions:
 - can-the-virus-that-causes-covid-19-be-spread-through-food
 - can-i-get-covid-19-from-a-food-worker
 - are-there-going-to-be-animal-drug-shortages
+- risk-fda-approved-outside-us
 - are-there-going-to-be-drug-shortages
-- am-i-at-risk-from-taking-fda-approved-drugs-made-in-china
 redirect_from:
 - /food-safety/
 - /medications/
