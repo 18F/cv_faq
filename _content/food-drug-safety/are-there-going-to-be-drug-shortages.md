@@ -1,5 +1,5 @@
 ---
-date: April 15, 2020
+date: October 16, 2020
 excerpt: Drugs and medications
 layout: post
 redirect_from:
@@ -7,8 +7,7 @@ redirect_from:
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/coronavirus-disease-2019-covid-19-frequently-asked-questions
-title: Are there going to be drug shortages due to drug manufacturer facility closures
-  in China?
+title: Will there be drug shortages due COVID-19?
 ---
 
 The FDA has been closely monitoring the supply chain with the expectation that the COVID-19 outbreak would likely impact the medical product supply chain, including potential disruptions to supply or shortages of critical medical products in the U.S.
