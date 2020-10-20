@@ -1,5 +1,5 @@
 ---
-date: April 15, 2020
+date: October 16, 2020
 excerpt: Symptoms and testing
 layout: post
 redirect_from:
@@ -10,4 +10,6 @@ sources:
 title: How are people tested for COVID-19?
 ---
 
-To be tested for COVID-19, a sample is typically collected from your nose and/or throat with a special swab at a designated collection location staffed by health care professionals. Currently, a health care professional swabbing the back of the nasal cavity through the nostril is the preferred choice. Alternatively, the health care professional could may swab the back of your throat, or for patients with symptoms of COVID-19 the sample could may be collected by swabbing the inside of the front of the nose. Depending on, among other things, the type of swab used, a health care professional may collect the sample, or you may be able to collect the sample yourself at the collection site under the supervision of health care personnel.
+In general, for diagnostic tests, samples are collected from a person’s nose and/or throat using swabs or other collection devices by a healthcare provider in a health care setting. A healthcare professional swabbing the back of the nasal cavity through the nostril is the preferred way to collect a sample to test for COVID-19. Alternatively, a healthcare professional may swab the back of your throat or the inside of the front of the nose. Certain tests may also allow collection of alternative sample types. Additionally, the FDA has authorized some tests for use with home sample collection kits that are prescribed by a doctor and allow the patient to collect the sample at home and send it directly to the lab for analysis. 
+
+Learn more about [Coronavirus Testing Basics](https://www.fda.gov/consumers/consumer-updates/coronavirus-testing-basics). 

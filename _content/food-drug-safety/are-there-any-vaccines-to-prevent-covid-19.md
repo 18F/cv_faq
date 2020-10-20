@@ -1,4 +1,3 @@
----
 date: October 20, 2020
 excerpt: Drugs and medications
 layout: post
