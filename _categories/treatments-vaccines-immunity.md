@@ -13,6 +13,13 @@ questions:
 - are-antibiotics-effective
 - are-there-any-medications-i-should-avoid
 - if-i-have-recovered-will-i-be-immune
+- operation-warp-speed
+- why-vaccine
+- vaccine-development
+- vaccine-costs
+- enough-vaccine
+- get-vaccine-first
+- need-vaccine-if-had-covid
 - can-i-donate-convalescent-plasma
 - does-remdesivir-benefit-patients-with-covid-19
 - should-i-take-ivermectin
