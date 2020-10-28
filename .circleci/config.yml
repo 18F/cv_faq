@@ -5,10 +5,11 @@ jobs:
       - image: circleci/ruby:2.6.6-node-browsers
     steps:
       - checkout
-      - restore_cache:
-          keys:
-            - v2-npm-{{ checksum "package-lock.json" }}
-            - v2-npm-
+      # Temporary to allow upgrading to node v14, remove after 11-6-2020
+      # - restore_cache:
+      #     keys:
+      #       - v2-npm-{{ checksum "package-lock.json" }}
+      #       - v2-npm-
       - run: npm install
       - save_cache:
           key: v2-npm-{{ checksum "package-lock.json" }}
