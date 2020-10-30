@@ -25,6 +25,7 @@ questions:
 - when-will-other-tests-be-authorized
 - why-arent-blood-centers-testing
 - on-medicare-and-someone-offered-me-a-test
+- covid-19-seasonal-allergies
 redirect_from:
 - /rumors/do-i-need-a-photo-id-to-be-tested/
 - /symptoms-and-testing/if-antibody-tests-not-used-for-diagnosis/

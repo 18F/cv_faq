@@ -20,11 +20,13 @@ questions:
 - isolation-vs-quarantine
 - is-it-safe-to-get-medical-care-for-other-conditions
 - can-i-walk-my-dog
+- protect-myself-seasonal-allergies
 - how-do-i-prepare-for-hurricane-season-during-covid19
 - if-i-need-to-evacuate-my-home-during-the-covid19-pandemic
 - does-everyone-need-to-wear-face-mask
 - should-travelers-wear-masks
 - masks-in-water
+- mask-provide-seasonal-allergy-protection
 - do-face-shields-protect-from-covid-19
 - lycra-to-make-masks
 - ordered-mask-and-not-arrived
