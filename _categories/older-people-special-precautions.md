@@ -13,6 +13,7 @@ questions:
 - are-people-with-disabilities-at-higher-risk
 - what-should-people-at-higher-risk-of-serious-illness-with-covid-19-do
 - additional-steps-child-special-healthcare-need
+- seasonal-allergies-increased-risk
 - risk-for-complications-from-covid-19-if-i-smoke-cigarettes
 - risk-for-complications-from-covid-19-if-i-vape-tobacco-or-nicotine
 redirect_from:
