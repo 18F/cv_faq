@@ -5,7 +5,7 @@ banner:
   heading: This is a place to place urgent information
 layout: category
 redirect_from: 
-- /disinfecting-sanitizing/
+- disinfecting-sanitizing
 name: cleaning-disinfecting-sanitizing
 owner: CDC
 questions:

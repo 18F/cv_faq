@@ -5,7 +5,7 @@ banner:
   heading: Call your doctor
 layout: category
 redirect_from: 
-- /older-people-special-precautions/
+- older-people-special-precautions
 name: underlying-conditions
 owner: CDC
 questions:
