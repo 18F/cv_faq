@@ -20,8 +20,8 @@ category_groupings:
     description: Take care of your family, stay safe during pregnancy, and keep infants, toddlers, and children healthy. Keep the elderly and those with underlying conditions safe.
     categories:
       - caring-for-children
-      - underlying-conditions
       - pregnancy
+      - underlying-conditions
   - name: Going out in public
     description: Learn what you need to know to be safe if you go out, including for daily errands, events, or gatherings, work, and travel.
     categories:
