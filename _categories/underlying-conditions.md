@@ -4,8 +4,6 @@ banner:
   display: false
   heading: Call your doctor
 layout: category
-redirect_from: 
-- older-people-special-precautions
 name: underlying-conditions
 owner: CDC
 questions:
@@ -17,7 +15,7 @@ questions:
 - risk-for-complications-from-covid-19-if-i-smoke-cigarettes
 - risk-for-complications-from-covid-19-if-i-vape-tobacco-or-nicotine
 redirect_from:
-- /underlying-conditions/
+- /older-people-special-precautions/
 - /underlying-conditions/how-were-the-underlying-conditions-selected/
 - /how-were-the-underlying-conditions-selected/
 - /underlying-conditions/what-about-underlying-medical-conditions-that-are-not-included-on-this-list/

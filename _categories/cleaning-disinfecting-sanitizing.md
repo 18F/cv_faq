@@ -4,8 +4,6 @@ banner:
   display: false
   heading: This is a place to place urgent information
 layout: category
-redirect_from: 
-- disinfecting-sanitizing
 name: cleaning-disinfecting-sanitizing
 owner: CDC
 questions:
@@ -30,5 +28,6 @@ redirect_from:
  - /funerals/what-do-funeral-home-workers-need-to-know/
  - /what-do-funeral-home-workers-need-to-know/
  - /how-long-do-companies-need-to-close-for-disinfection-after-an-exposure/
+ - /disinfecting-sanitizing/
 title: Cleaning, disinfecting, and sanitizing
 ---
