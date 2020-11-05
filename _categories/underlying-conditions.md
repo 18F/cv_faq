@@ -1,12 +1,12 @@
 ---
 banner:
-  content: If you think you have been exposed to COVID-19 and develop a fever and
-    symptoms, such as cough or difficulty breathing, call your healthcare provider
-    for medical advice.
+  content: People with certain pre-existing conditions are at greater risk for severe COVID-19 infection. Find out about these conditions and special precautions you can take.
   display: false
   heading: Call your doctor
 layout: category
-name: older-people-special-precautions
+redirect_from: 
+- /older-people-special-precautions/
+name: underlying-conditions
 owner: CDC
 questions:
 - who-is-at-higher-risk-for-serious-illness-from-covid-19
@@ -27,5 +27,5 @@ redirect_from:
 - /underlying-conditions/what-does-more-sever-illness-mean/
 - /what-does-more-sever-illness-mean/
 - /what-does-more-severe-illness-mean/
-title: Older people and those who need special precautions
+title: Underlying conditions
 ---

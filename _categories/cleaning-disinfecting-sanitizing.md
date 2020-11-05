@@ -1,11 +1,12 @@
 ---
 banner:
-  content: 'You can set this component to ''display: true'' to show a banner at the
-    top of the page.'
+  content: How to clean and disinfect your home and use sanitizer to protect yourself from COVID-19 infection.
   display: false
   heading: This is a place to place urgent information
 layout: category
-name: disinfecting-sanitizing
+redirect_from: 
+- /disinfecting-sanitizing/
+name: cleaning-disinfecting-sanitizing
 owner: CDC
 questions:
 - family-reduce-risk
@@ -29,5 +30,5 @@ redirect_from:
  - /funerals/what-do-funeral-home-workers-need-to-know/
  - /what-do-funeral-home-workers-need-to-know/
  - /how-long-do-companies-need-to-close-for-disinfection-after-an-exposure/
-title: Disinfecting and sanitizing
+title: Cleaning, disinfecting, and sanitizing
 ---
