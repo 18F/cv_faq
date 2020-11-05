@@ -1,3 +1,4 @@
+import { trackClick } from './click-tracking';
 import { doLocalSearch } from './local';
 import { doSearchGovSearch } from './search-gov';
 import { suggestSearchTerms } from './suggestions';
@@ -29,4 +30,4 @@ export const SearchService = ({
   }
 });
 
-export { doSearchGovSearch, doLocalSearch, suggestSearchTerms };
+export { doSearchGovSearch, doLocalSearch, suggestSearchTerms, trackClick };
