@@ -43,7 +43,7 @@
     "uswds": "^2.9.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.2.0",
-    "whatwg-fetch": "^3.4.1"
+    "whatwg-fetch": "^3.5.0"
   },
   "devDependencies": {
     "@apidevtools/swagger-parser": "^10.0.2",
