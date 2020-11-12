@@ -27,7 +27,7 @@
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "accessible-autocomplete": "^2.0.3",
     "autoprefixer": "^10.0.1",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^8.2.1",
     "babel-plugin-template-html-minifier": "^4.1.0",
     "core-js": "^3.7.0",
     "fuse.js": "^6.4.3",
