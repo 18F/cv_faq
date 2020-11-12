@@ -140,9 +140,9 @@ const continueReading = (result) => {
   return null;
 }
 
-const renderResultTemplate = (query) => (result) => html`
+const renderResultTemplate = (query) => (result, position) => html`
   <li>
-    <a href="${result.url}" @click="${(e) => trackClick({url: result.url, query, position: 1})}">
+    <a href="#" @click="${(e) => trackClick({url: result.url, query, position: position + 1})}">
       <h2 class="title">${highlight(result.title)}</h2>
       <p>${highlight(result.description)}${continueReading(result)}</p>
     </a>
