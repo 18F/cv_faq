@@ -1,0 +1,21 @@
+---
+layout: null
+---
+{
+  "name": "Coronavirus FAQ EN KB",
+  "qnaList": [
+    {% for content in site.content %}
+    {
+      "id": 0,
+      "answer": "{{ content.content | strip_html | strip_newlines | remove_chars | escape }}",
+      "source": "{% for source in content.sources %}{{ source.agency | replace: '"', '\"' }}{% unless forloop.last %}, {% endunless %}{% endfor %}",
+      "questions": [
+        "{{ content.title | replace: '"', '\"' }}"
+      ],
+      "metadata": []
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ],
+  "urls": [],
+  "files": []
+}

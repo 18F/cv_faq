@@ -1,4 +1,5 @@
 import { initAccordion } from './accordion';
+import { initChatbot } from './chatbot';
 import { initLoadMore } from './load-more';
 import { initSearchForm } from './search-form';
 import { initSearchResults } from './search-results';
@@ -24,5 +25,6 @@ initSearchForm();
 // Initialize after DOM loaded
 onReady(function () {
   initAutoComplete();
+  initChatbot();
   initSearchResults();
 });
