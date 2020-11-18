@@ -3,11 +3,13 @@
  * https://docs.google.com/document/d/1ZrRczcb-tIiklxd92vJpGiZKeRCe1ll71_zXhlp8Dj0/
  */
 
-import { SEARCHGOV_ACCESS_KEY, SEARCHGOV_AFFILIATE, SEARCHGOV_MODULE } from './constants';
+import {
+  SEARCHGOV_ACCESS_KEY,
+  SEARCHGOV_AFFILIATE,
+  SEARCHGOV_MODULE,
+  CLICK_TRACK_URL } from './constants';
 
-const CLICK_TRACK_URL = 'https://api.gsa.gov/technology/searchgov/v2/clicks/';
-
-export const trackClick = ({url, query, position}) => {
+export const trackClick = ({url, query, position, next}) => {
   const clickEndpoint = new URL(CLICK_TRACK_URL);
 
   const formData = {
@@ -23,18 +25,12 @@ export const trackClick = ({url, query, position}) => {
   // Construct a query string for this request
   Object.entries(formData).forEach(([key, value]) => clickEndpoint.searchParams.append(key, value));
 
-  const goToResult = () => window.location.href = url;
-  const timeout = new Promise((resolve, reject) => setTimeout(resolve, 500));
-
   // Do pingback
-  Promise.race(
-    fetch(clickEndpoint.toString(), {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/x-www-form-urlencoded',
-      },
-      body: '',
-    }),
-    timeout
-  ).then(goToResult, goToResult);
+  return fetch(clickEndpoint.toString(), {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/x-www-form-urlencoded',
+    },
+    body: '',
+  });
 };
