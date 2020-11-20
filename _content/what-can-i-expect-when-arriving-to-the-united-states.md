@@ -1,5 +1,5 @@
 ---
-date: March 27, 2020
+date: November 20, 2020
 excerpt: 'Travel: Returning from travel'
 layout: post
 redirect_from:
@@ -12,17 +12,12 @@ sources:
 title: What can I expect when arriving to the United States?
 ---
 
-At this time, travel restrictions and entry screening apply only to travelers arriving from some countries or regions with widespread ongoing spread of COVID-19. [Note: US policies are subject to change as the COVID-19 pandemic evolves.]
+After travel, all travelers should take these actions to protect others from getting sick:
 
-If you are coming from a country or a region with [widespread ongoing transmission](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html#transmission) of COVID-19 ([Level 3 Travel Health Notice](https://wwwnc.cdc.gov/travel/notices)), you may be screened when you arrive in the United States. After you arrive home, take the following steps to protect yourself and others:
+- [Stay at least 6 feet](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/social-distancing.html) (about 2 arms’ length) from anyone who is not from your household. It’s important to do this everywhere — both indoors and outdoors.
+- Wear a [mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html) to keep your nose and mouth when you are outside of your home.
+- [Wash your hands](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html) often or use hand sanitizer.
+- Watch your health: Look for [symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) of COVID-19, and take your temperature if you feel sick.
+- See CDC’s [After Travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) webpage to learn if you should take additional precautions.
 
-1. **Stay at home.** Do not go to work, school, or leave your house for 14 days. Discuss your work situation with your employer.
-2. **Monitor your health.** Take your temperature with a thermometer two times a day and monitor for fever (temperature of 100.4°F/38°C or higher). Also watch for cough or trouble breathing.
-3. **Practice social distancing within the home.** Avoid contact with other people for the 14 days. Maintain distance (approximately 6 feet or 2 meters) from family members and others in the home when possible.
-
-If you are coming from a country with [ongoing community transmission](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html#transmission) ([Level 2 Travel Health Notice](https://wwwnc.cdc.gov/travel/notices/alert/coronavirus-global)), take the following steps to protect yourself and others:
-
-1. **Monitor your health.** Take your temperature with a thermometer two times a day and monitor for fever (temperature of 100.4°F/38°C or higher). Also watch for cough or trouble breathing.
-2. **Practice social distancing.** Stay out of crowded places and avoid group gatherings. Do not go to shopping malls or to the movies. Keep your distance from others (about 6 feet or 2 meters). Do not take public transportation, taxis, or ride-shares during this time.
-
-Check CDC’s [Coronavirus Disease 2019 (COVID-19) Travel webpage](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html) to find the current travel health notice level for your international travel.
+Follow [state, territorial](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html), [tribal](https://www.cdc.gov/tribal/index.html), and local recommendations or requirements.

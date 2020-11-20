@@ -19,7 +19,7 @@ questions:
 - what-expect-airport-security-checkpoints
 - which-countries-are-subject-travel-restrictions-us
 - can-american-citizen-return-to-us
-- should-i-cancel-my-international-travel
+- should-i-avoid-traveling-internationally
 - should-i-go-on-a-cruise
 - are-the-northern-southern-us-borders-closed
 - return-to-work-international-travel
