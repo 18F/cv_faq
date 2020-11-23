@@ -9,6 +9,7 @@ task :htmlproof do
   HTMLProofer.check_directory("./_site", {
     empty_alt_ignore: true,
     enforce_https: true,
+    disable_external: true,
     url_ignore: [
       # Ignore Twitter URLs - they tend to rate-limit CircleCI jobs
       /^https:\/\/twitter.com\/.+/
