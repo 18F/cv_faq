@@ -19,6 +19,7 @@
     "start:styles": "nodemon -w ./styles -e scss -x \"npm run build:styles\"",
     "test": "npm run build && npm run test:htmlproofer && npm run test:jest",
     "test:htmlproofer": "bundle exec rake htmlproof",
+    "test:htmlproofer:external": "bundle exec rake htmlproofexternal",
     "test:jest": "jest"
   },
   "dependencies": {
