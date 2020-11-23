@@ -2,7 +2,7 @@ import { html, render } from 'lit-html';
 import { live } from 'lit-html/directives/live.js';
 import { unsafeHTML } from 'lit-html/directives/unsafe-html.js';
 
-import { SearchService } from '../services/search';
+import { trackClick, SearchService } from '../services/search';
 
 const SEARCH_RESULTS_ID = 'search-results-container';
 
@@ -88,7 +88,7 @@ const searchTemplate = ({
       <div id="best-bets" class="padding-2 border-1px border-base-lightest margin-top-3 margin-bottom-3">
         <div>Recommended</div>
         <ol class="results-list">
-          ${bestBets.map(renderResultTemplate)}
+          ${bestBets.map(renderResultTemplate(query))}
         </ol>
       </div>
     ` : null}
@@ -111,7 +111,7 @@ const searchTemplate = ({
     }
     ${resultsCount ?
       html`<ol class="results-list">
-        ${resultsPages.map(page => page.results.map(renderResultTemplate))}
+        ${resultsPages.map(page => page.results.map(renderResultTemplate(query)))}
       </ol>` : null
     }
     <p class="button-container">
@@ -140,9 +140,9 @@ const continueReading = (result) => {
   return null;
 }
 
-const renderResultTemplate = (result) => html`
+const renderResultTemplate = (query) => (result, position) => html`
   <li>
-    <a href="${result.url}">
+    <a href="${result.url}?ctquery=${window.encodeURIComponent(query)}&ctposition=${position + 1}">
       <h2 class="title">${highlight(result.title)}</h2>
       <p>${highlight(result.description)}${continueReading(result)}</p>
     </a>

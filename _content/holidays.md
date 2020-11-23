@@ -1,15 +1,13 @@
 ---
-date: October 8, 2020
+date: November 20, 2020
 excerpt: Holidays
 layout: post
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays.html
-title: How can my family and I stay safe during Halloween and other fall and winter holidays?
+title: How can my family and I stay safe during Thanksgiving and other fall and winter holidays?
 ---
 
-Many traditional Halloween activities can be high-risk for spreading viruses. There are [several safer, alternative ways](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays.html#halloween) to participate in Halloween. If you may have COVID-19 or you may have been exposed to someone with COVID-19, you should not participate in in-person Halloween festivities and should not give out candy to trick-or-treaters.
+As cases continue to increase rapidly across the United States, the safest way to celebrate Thanksgiving is to celebrate at home with the people you live with. [Enjoy Thanksgiving activities and take steps to protect yourself and other from getting or spreading COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/thanksgiving.html).
 
-Fall and winter celebrations that typically include large gatherings of families and friends, crowded parties, and travel that may put people at increased risk for COVID-19.
-
-If you are hosting or attending a gathering, follow [CDC tips for hosting and attending gatherings](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/personal-social-activities.html#gatherings).
+Gatherings with family and friends who do not live with you can increase the chances of getting or spreading [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/index.html) or the [flu](https://www.cdc.gov/flu/Index.htm).
