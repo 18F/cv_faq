@@ -10,7 +10,6 @@ task :htmlproof do
     empty_alt_ignore: true,
     enforce_https: true,
     disable_external: true,
-    log_level: :debug,
     url_ignore: [
       # Ignore Twitter URLs - they tend to rate-limit CircleCI jobs
       /^https:\/\/twitter.com\/.+/
