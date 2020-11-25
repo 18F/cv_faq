@@ -21,7 +21,7 @@ questions:
 - get-vaccine-first
 - need-vaccine-if-had-covid
 - can-i-donate-convalescent-plasma
-- does-remdesivir-benefit-patients-with-covid-19
+- remdesivir-fda-approved
 - should-i-take-ivermectin
 - are-chloroquine-phosphate-hydroxychloroquine-effective
 - should-i-take-aquarium-chloroquine-phosphate

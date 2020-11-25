@@ -19,11 +19,12 @@
     "start:styles": "nodemon -w ./styles -e scss -x \"npm run build:styles\"",
     "test": "npm run build && npm run test:htmlproofer && npm run test:jest",
     "test:htmlproofer": "bundle exec rake htmlproof",
+    "test:htmlproofer:external": "bundle exec rake htmlproofexternal",
     "test:jest": "jest"
   },
   "dependencies": {
-    "@babel/core": "^7.12.3",
-    "@babel/preset-env": "^7.12.1",
+    "@babel/core": "^7.12.8",
+    "@babel/preset-env": "^7.12.7",
     "@fullhuman/postcss-purgecss": "^3.0.0",
     "accessible-autocomplete": "^2.0.3",
     "autoprefixer": "^10.0.2",
@@ -35,7 +36,7 @@
     "node-sass": "^5.0.0",
     "nodemon": "^2.0.6",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.1.7",
+    "postcss": "^8.1.10",
     "postcss-cli": "^8.3.0",
     "postcss-csso": "^5.0.0",
     "serve": "^11.3.2",
@@ -48,7 +49,7 @@
   "devDependencies": {
     "@apidevtools/swagger-parser": "^10.0.2",
     "a11y": "^0.5.1",
-    "eslint": "^7.13.0",
+    "eslint": "^7.14.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
     "fast-xml-parser": "^3.17.4",
