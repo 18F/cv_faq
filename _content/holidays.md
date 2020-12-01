@@ -5,7 +5,7 @@ layout: post
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays.html
-title: How can my family and I stay safe during fall and winter holidays?
+title: How can my family and I stay safe during the winter holidays?
 ---
 
 As cases continue to increase rapidly across the United States, the safest way to celebrate the winter holidays is to celebrate at home with the people you live with. [Enjoy Thanksgiving activities and take steps to protect yourself and other from getting or spreading COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/holidays/thanksgiving.html).
