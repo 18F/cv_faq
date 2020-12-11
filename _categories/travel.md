@@ -13,6 +13,7 @@ questions:
 - should-travelers-wear-masks
 - what-can-i-expect-when-arriving-to-the-united-states
 - travel-guidance
+- air-travel
 - what-is-the-risk-of-getting-covid-19-on-an-airplane
 - sick-passenger-on-my-flight
 - what-if-i-recently-traveled-and-get-sick

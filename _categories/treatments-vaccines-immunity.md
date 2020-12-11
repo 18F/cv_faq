@@ -8,7 +8,6 @@ layout: category
 name: treatments-vaccines-immunity
 owner: CDC
 questions:
-- are-there-any-vaccines-to-prevent-covid-19
 - what-treatments-are-available
 - are-antibiotics-effective
 - are-there-any-medications-i-should-avoid

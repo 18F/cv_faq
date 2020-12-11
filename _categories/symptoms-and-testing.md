@@ -20,6 +20,7 @@ questions:
 - are-there-home-tests
 - should-schools-test-students-for-covid-19
 - what-happens-contact-tracing-diagnosed
+- contact-tracing-exposed
 - what-do-i-do-if-exposed-to-covid-19
 - when-can-i-be-around-others-after-having-covid-19
 - when-will-other-tests-be-authorized
