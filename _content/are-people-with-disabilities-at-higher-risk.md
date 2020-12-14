@@ -1,5 +1,5 @@
 ---
-date: March 23, 2020
+date: December 12, 2020
 excerpt: Underlying conditions
 layout: post
 redirect_from:
@@ -10,10 +10,6 @@ sources:
 title: Are people with disabilities at higher risk?
 ---
 
-Most people with disabilities are not inherently at higher risk for becoming infected with or having severe illness from COVID-19. Some people with physical limitations or other disabilities might be at a higher risk of infection because of their underlying medical condition.
+Adults with disabilities are more likely to have an [underlying medical condition](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-medical-conditions.html) that may put them at increased risk of severe illness from COVID-19 including, but not limited to, heart disease, stroke, diabetes, chronic kidney disease, cancer, high blood pressure, and obesity. In addition, having a disability may make it harder to practice social distancing, [wear a mask](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html), and practice hand hygiene.
 
-People with certain disabilities might experience higher rates of chronic health conditions that put them at higher risk of serious illness and poorer outcomes from COVID-19.
-
-- Adults with disabilities are three times more likely to have heart disease, stroke, diabetes, or cancer than adults without disabilities.
-
-You should talk with your healthcare provider if you have a question about your health or how your health condition is being managed.
+For more information, see [People with Disabilities](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-with-disabilities.html) and [People who May Need Extra Precautions](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations.html).
