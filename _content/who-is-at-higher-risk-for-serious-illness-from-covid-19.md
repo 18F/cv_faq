@@ -1,5 +1,5 @@
 ---
-date: April 4, 2020
+date: December 12, 2020
 excerpt: Underlying conditions
 layout: post
 redirect_from:
@@ -8,23 +8,16 @@ redirect_from:
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#high-risk
-title: Who is at higher risk for serious illness from COVID-19?
+title: Who is at increased risk for developing severe illness from COVID-19?
 ---
 
-COVID-19 is a new disease and there is limited information regarding risk factors for severe disease. Based on currently available information and clinical expertise, **older adults** and **people of any age who have serious underlying medical conditions** might be at higher risk for severe illness from COVID-19.
+[People at increased risk](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/index.html) include:
 
-Based on what we know now, those at high-risk for severe illness from COVID-19 are:
+- [Older adults](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html)
+- [People of all ages with certain underlying medical conditions](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/groups-at-higher-risk.html)
 
-- [People aged 65 years and older](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html)
-- People who live in a nursing home or long-term care facility
+Pregnant people are also at increased risk for severe illness from COVID-19.
 
-People of all ages with underlying medical conditions, particularly if not well controlled, including:
+Long-standing systemic health and social inequities have put many people from [racial and ethnic minority groups](https://www.cdc.gov/coronavirus/2019-ncov/community/health-equity/race-ethnicity.html) at increased risk of getting sick and dying from COVID-19.
 
-- People with chronic lung disease or moderate to severe asthma
-- People who have serious heart conditions
-- People who are immunocompromised
-  - Many conditions can cause a person to be immunocompromised, including cancer treatment, smoking, bone marrow or organ transplantation, immune deficiencies, poorly controlled HIV or AIDS, and prolonged use of corticosteroids and other immune weakening medications
-- People with severe obesity (body mass index [BMI] ≥40)
-- People with diabetes
-- People with chronic kidney disease undergoing dialysis
-- People with liver disease
+In addition to those at increased risk, there are [certain groups of people who require extra precautions during the pandemic](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/other-at-risk-populations.html).
