@@ -34,8 +34,8 @@ top_questions:
     question: Can I travel?
 questions_box_1:
   questions:
-    - link: "treatments-vaccines-immunity/#if-i-have-recovered-from-covid-19-will-i-be-immune-to-it-i-e-can-i-get-it-twice"
-      question: If I recovered from COVID-19, will I be immune?
+    - link: "covid-19-vaccine"
+      question: Are there any vaccines to prevent COVID-19?
     - link: "/protect-yourself/#does-cdc-recommend-the-use-of-masks-to-prevent-covid-19"
       question: Does CDC recommend the use of masks?
     - link: /protect-yourself/#how-can-i-manage-anxiety-and-stress
