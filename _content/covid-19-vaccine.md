@@ -2,6 +2,11 @@
 date: December 14, 2020
 excerpt: COVID-19 vaccine approval
 layout: post
+redirect_from: 
+- /are-there-any-vaccines-to-prevent-covid-19/
+- /rumors/are-there-any-vaccines/
+- /medications/are-there-any-vaccines/
+- /medications/are-there-any-vaccines-to-prevent-covid-19/
 sources:
 - agency: fda
   url: https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/covid-19-frequently-asked-questions
