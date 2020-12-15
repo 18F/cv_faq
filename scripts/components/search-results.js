@@ -25,8 +25,7 @@ const searchPageGenerator = async function* (query, routedFrom) {
       // Only request highlighted terms if they correspond to what the user
       // typed (ie, not routed queries).
       highlightSearchTerms: !routedFrom,
-      // If first page, fallback to local search after a 3 second timeout
-      searchTimeoutSeconds: nextOffset ? null : 3
+      localFallback: nextOffset === null,
     });
     nextOffset = response.nextOffset;
     if (response.routeTo) {
