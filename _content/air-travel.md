@@ -4,7 +4,7 @@ excerpt: Air travel safety
 layout: post
 sources:
 - agency: cdc
-  url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-air-travel.htm
+  url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/testing-air-travel.html
 title: How should I prepare for air travel during the pandemic?
 ---
 
