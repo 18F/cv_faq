@@ -13,14 +13,19 @@ const smartTruncate = (text, targetLength) => {
 };
 
 const translateFromSearchJson = (response) => {
+  const results = response.slice(0, RESULTS_LIMIT).map(result => {
+    return {
+      url: result.item.url,
+      title: result.item.title,
+      description: smartTruncate(result.item.content, 300),
+    };
+  });
   return {
-    results: response.slice(0, RESULTS_LIMIT).map(result => {
-      return {
-        url: result.item.url,
-        title: result.item.title,
-        description: smartTruncate(result.item.content, 300),
-      };
-    })
+    bestBets: [],
+      resultsCount: results.length,
+      nextOffset: null,
+      total: results.length,
+    results: results,
   };
 };
 
