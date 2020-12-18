@@ -41,7 +41,7 @@
     "postcss-csso": "^5.0.0",
     "serve": "^11.3.2",
     "uglifyjs-webpack-plugin": "^2.2.0",
-    "uswds": "^2.9.0",
+    "uswds": "^2.10.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.2.0",
     "whatwg-fetch": "^3.5.0"
