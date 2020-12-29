@@ -17,7 +17,7 @@ questions:
 - what-is-antibody-testing
 - close-contact-will-i-be-tested
 - can-a-person-test-negative-and-later-test-positive-for-covid-19
-- are-there-home-tests
+- at-home-covid-19-collection-testing
 - should-schools-test-students-for-covid-19
 - what-happens-contact-tracing-diagnosed
 - contact-tracing-exposed

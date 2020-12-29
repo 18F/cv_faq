@@ -43,7 +43,7 @@
     "uglifyjs-webpack-plugin": "^2.2.0",
     "uswds": "^2.10.0",
     "webpack": "^4.44.2",
-    "webpack-cli": "^4.2.0",
+    "webpack-cli": "^4.3.0",
     "whatwg-fetch": "^3.5.0"
   },
   "devDependencies": {
@@ -52,7 +52,7 @@
     "eslint": "^7.16.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
-    "fast-xml-parser": "^3.17.5",
+    "fast-xml-parser": "^3.17.6",
     "front-matter": "^4.0.2",
     "jest": "^26.6.3",
     "jest-expect-message": "^1.0.2",
