@@ -1,13 +1,13 @@
 ---
-date: April 24, 2020
+date: December 30, 2020
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 redirect_from:
 - /financial-help/i-am-not-typically-required-to-file-a-tax-return/
 sources:
-- agency: treasury
-  url: https://home.treasury.gov/news/press-releases/sm971
-title: I am not typically required to file a tax return. Can I still receive my payment?
+- agency: irs
+  url: https://www.irs.gov/newsroom/treasury-and-irs-begin-delivering-second-round-of-economic-impact-payments-to-millions-of-americans
+title: I am not typically required to file a tax return. Do I need to take any action to receive my payment?
 ---
 
-If you are not normally required to file a tax return, you can use the [Non-Filers: Enter Payment Info Here](https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here) web portal to securely submit your information to the IRS. In order to speed payments, you should enter your bank account information and your payment will be directly deposited in your bank account.
+Most Social Security retirement and disability beneficiaries, railroad retirees and those receiving veterans’ benefits do not need take any action to receive a payment. Earlier this year, the IRS worked directly with the relevant federal agencies to obtain the information needed to send out the new payments the same way benefits for this group are normally paid. For eligible people in this group who didn’t receive a payment for any reason, they can file a 2020 tax return.
