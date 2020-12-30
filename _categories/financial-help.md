@@ -10,10 +10,12 @@ owner: Treasury
 questions:
 - will-government-provide-second-round-economic-impact-payments
 - who-is-eligible-for-payment
+- more-people-eligible-eip
 - manage-bills-during-covid-19
 - nursing-home-take-stimulus-check
 - how-will-the-irs-know-where-to-send
 - i-need-to-file-a-tax-return
+- eip-tax-records
 - i-am-not-typically-required-to-file-a-tax-return
 - i-recently-filed-what-do-i-need-to-do-to-get-payment
 - non-filers-eip-eligibility
