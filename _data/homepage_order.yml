@@ -1,9 +1,9 @@
 category_groupings:
   - name: Protect yourself and others
-    description: Reduce your chance of getting infected, including when to wear masks, how to disinfect, and how COVID-19 impacts your pets and other animals.
+    description: Reduce your chance of getting infected by getting a vaccine and learning when to wear masks, how to disinfect, and how COVID-19 impacts your pets and other animals.
     categories:
-      - protect-yourself
       - vaccines
+      - protect-yourself
       - cleaning-disinfecting-sanitizing
       - pets-animals
   - name: Economic support
@@ -14,7 +14,7 @@ category_groupings:
       - school-meals
       - support-for-business
   - name: Going out in public
-    description: Learn what you need to know to be safe if you go out, including for daily errands, events, or gatherings, work, and travel.
+    description: Learn what you need to know to be safe if you go out, including for daily errands, events, gatherings, work, and travel.
     categories:
       - activities-events-gatherings
       - workplace-safety
@@ -26,7 +26,7 @@ category_groupings:
       - spread-transmission
       - food-drug-safety
   - name: Symptoms and treatment
-    description: Understand the symptoms of COVID-19, available testing and treatment, as well as vaccine development.
+    description: Understand the symptoms of COVID-19 and learn about testing for the virus, as well as treatments if you get sick. 
     categories:
       - symptoms-and-testing
       - treatments-immunity

@@ -14,12 +14,12 @@ hero:
   tagline: ""
   title: Find answers about Coronavirus
 top_questions:
-  - icon: chart
-    link: "/vaccines/#covid-19-vaccine"
-    question: Is there a vaccine?
   - icon: money
     link: "/financial-help/#will-the-government-provide-a-second-round-of-direct-payments-checks-to-people"
-    question: Is there a second stimulus check?
+    question: Is there a second EIP check?
+  - icon: test
+    link: "/vaccines/#covid-19-vaccine"
+    question: Is there a vaccine?
   - icon: plane
     link: "/travel/#should-i-travel-within-the-united-states"
     question: Can I travel?

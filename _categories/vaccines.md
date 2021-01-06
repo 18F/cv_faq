@@ -13,6 +13,7 @@ questions:
 - enough-vaccine
 - why-vaccine
 - vaccine-costs
+- need-vaccine-if-had-covid
 - operation-warp-speed
 title: Vaccines
 ---
