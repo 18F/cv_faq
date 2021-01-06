@@ -1,25 +1,25 @@
 category_groupings:
-    - name: Protect yourself and others
+  - name: Protect yourself and others
     description: Reduce your chance of getting infected, including when to wear masks, how to disinfect, and how COVID-19 impacts your pets and other animals.
     categories:
       - protect-yourself
       - vaccines
       - cleaning-disinfecting-sanitizing
       - pets-animals
-    - name: Economic support
+  - name: Economic support
     description: Learn about help that may be available to support you, including stimulus checks, SNAP benefits, school meals, housing assistance, and support for small businesses.
     categories:
       - financial-help
       - food-housing-education-assistance
       - school-meals
       - support-for-business
-    - name: Going out in public
+  - name: Going out in public
     description: Learn what you need to know to be safe if you go out, including for daily errands, events, or gatherings, work, and travel.
     categories:
       - activities-events-gatherings
       - workplace-safety
       - travel
-    - name: About COVID-19
+  - name: About COVID-19
     description: Get an overview of COVID-19, what it is, how it spreads, and whether it impacts food and medicine.
     categories:
       - covid-19-facts
