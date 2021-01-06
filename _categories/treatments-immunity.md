@@ -5,7 +5,7 @@ banner:
   display: false
   heading: This is a place to place urgent information
 layout: category
-name: treatments-vaccines-immunity
+name: treatments-immunity
 owner: CDC
 questions:
 - what-treatments-are-available
