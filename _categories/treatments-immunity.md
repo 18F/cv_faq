@@ -33,6 +33,5 @@ questions:
 - i-built-a-diy-ventilator-may-i-sell-it
 redirect_from:
 - /treatments-vaccines-immunity/
-- /basics/
 title: Treatments and immunity
 ---
