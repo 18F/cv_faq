@@ -14,27 +14,27 @@ hero:
   tagline: ""
   title: Find answers about Coronavirus
 top_questions:
+  - icon: money
+    link: "/financial-help/#will-the-government-provide-a-second-round-of-direct-payments-checks-to-people"
+    question: Is there a second EIP check?
+  - icon: test
+    link: "/vaccines/#are-there-any-vaccines-or-other-medical-products-to-prevent-covid-19"
+    question: Is there a vaccine?
+  - icon: plane
+    link: "/travel/#should-i-travel-within-the-united-states"
+    question: Can I travel?
+  - icon: globe
+    link: "/spread-transmission/#how-does-the-virus-spread"
+    question: How does it spread?
   - icon: stethoscope
     link: "/symptoms-and-testing/#what-are-the-symptoms-that-covid-19-can-cause"
     question: What are the symptoms?
   - icon: test
     link: "/symptoms-and-testing/#should-i-be-tested-for-covid-19"
     question: Should I get tested?
-  - icon: globe
-    link: "/spread-transmission/#how-does-the-virus-spread"
-    question: How does it spread?
-  - icon: money
-    link: /financial-help
-    question: Can I get financial help?
-  - icon: chart
-    link: "/cleaning-disinfecting-sanitizing/#what-steps-can-my-family-take-to-reduce-our-risk-of-getting-covid-19"
-    question: How do I reduce my risk?
-  - icon: plane
-    link: /travel
-    question: Can I travel?
 questions_box_1:
   questions:
-    - link: "/treatments-vaccines-immunity/#are-there-any-vaccines-or-other-medical-products-to-prevent-covid-19"
+    - link: "/treatments-immunity/#are-there-any-vaccines-or-other-medical-products-to-prevent-covid-19"
       question: Are there any vaccines to prevent COVID-19?
     - link: "/protect-yourself/#does-cdc-recommend-the-use-of-masks-to-prevent-covid-19"
       question: Does CDC recommend the use of masks?
