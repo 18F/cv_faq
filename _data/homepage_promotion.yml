@@ -18,7 +18,7 @@ top_questions:
     link: "/financial-help/#will-the-government-provide-a-second-round-of-direct-payments-checks-to-people"
     question: Is there a second EIP check?
   - icon: test
-    link: "/vaccines/#covid-19-vaccine"
+    link: "/vaccines/#are-there-any-vaccines-or-other-medical-products-to-prevent-covid-19?"
     question: Is there a vaccine?
   - icon: plane
     link: "/travel/#should-i-travel-within-the-united-states"
@@ -34,7 +34,7 @@ top_questions:
     question: Should I get tested?
 questions_box_1:
   questions:
-    - link: "/treatments-vaccines-immunity/#are-there-any-vaccines-or-other-medical-products-to-prevent-covid-19"
+    - link: "/treatments-immunity/#are-there-any-vaccines-or-other-medical-products-to-prevent-covid-19"
       question: Are there any vaccines to prevent COVID-19?
     - link: "/protect-yourself/#does-cdc-recommend-the-use-of-masks-to-prevent-covid-19"
       question: Does CDC recommend the use of masks?
