@@ -5,21 +5,21 @@ banner:
   display: false
   heading: This is a place to place urgent information
 layout: category
-name: treatments-immunity
+name: treatments-vaccines-immunity
 owner: CDC
 questions:
+- covid-19-vaccine
 - what-treatments-are-available
 - are-antibiotics-effective
 - are-there-any-medications-i-should-avoid
 - if-i-have-recovered-will-i-be-immune
-- covid-19-vaccine
+- operation-warp-speed
 - why-vaccine
 - vaccine-development
 - vaccine-costs
 - enough-vaccine
 - get-vaccine-first
 - need-vaccine-if-had-covid
-- operation-warp-speed
 - can-i-donate-convalescent-plasma
 - remdesivir-fda-approved
 - should-i-take-ivermectin
@@ -32,6 +32,6 @@ questions:
 - what-is-fda-doing-to-protect-people-from-fraud
 - i-built-a-diy-ventilator-may-i-sell-it
 redirect_from:
-- /treatments-vaccines-immunity/
-title: Treatments and immunity
+- /basics/
+title: Treatments, vaccines, and immunity
 ---
