@@ -1,5 +1,5 @@
 ---
-date: October 26, 2020
+date: January 14, 2021
 excerpt: contact tracing
 layout: post
 sources:

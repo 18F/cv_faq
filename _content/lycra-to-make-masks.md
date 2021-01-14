@@ -1,5 +1,5 @@
 ---
-date: October 1, 2020
+date: January 14, 2021
 excerpt: use lycra to make masks
 layout: post
 sources:

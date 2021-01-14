@@ -1,5 +1,5 @@
 ---
-date: October 26, 2020
+date: January 14, 2021
 excerpt: need vaccine if had covid
 layout: post
 sources:
@@ -8,4 +8,8 @@ sources:
 title: If I have already had COVID-19 and recovered, do I still need to get vaccinated with a COVID-19 vaccine when it’s available?
 ---
 
-There is not enough information currently available to say if or for how long after infection someone is protected from getting COVID-19 again; this is called natural immunity. Early evidence suggests natural immunity from COVID-19 may not last very long, but more studies are needed to better understand this. Until we have a vaccine available and know more about natural immunity to COVID-19, CDC cannot comment on whether people who had COVID-19 should get a COVID-19 vaccine. Once a vaccine has been authorized or approved, the Advisory Committee on Immunization Practices (ACIP) will make recommendations to CDC on who should get a COVID-19 vaccine.
+COVID-19 vaccination should be offered to you regardless of whether you already had COVID-19 infection. You should not be required to have an antibody test before you are vaccinated.
+
+However, anyone currently infected with COVID-19 should wait to get vaccinated until after their illness has resolved and after they have met the [criteria](https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html) to stop isolation.
+
+Additionally, current evidence suggests that reinfection with the virus that causes COVID-19 is uncommon in the 90 days after initial infection. Therefore, people with a recent infection may delay vaccination until the end of that 90-day period if they choose to.
