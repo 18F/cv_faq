@@ -8,7 +8,7 @@ sources:
 title: If I have already had COVID-19 and recovered, do I still need to get vaccinated with a COVID-19 vaccine when it’s available?
 ---
 
-COVID-19 vaccination should be offered to you regardless of whether you already had COVID-19 infection. You should not be required to have an antibody test before you are vaccinated.
+A COVID-19 vaccination should be offered to you regardless of whether you already had the COVID-19 infection. You should not be required to have an antibody test before you are vaccinated.
 
 However, anyone currently infected with COVID-19 should wait to get vaccinated until after their illness has resolved and after they have met the [criteria](https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html) to stop isolation.
 
