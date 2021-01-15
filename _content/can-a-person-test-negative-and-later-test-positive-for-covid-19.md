@@ -1,5 +1,5 @@
 ---
-date: March 23, 2020
+date: January 14, 2021
 excerpt: Symptoms and testing
 layout: post
 redirect_from:
@@ -10,6 +10,4 @@ sources:
 title: Can a person test negative and later test positive for COVID-19?
 ---
 
-Using the CDC-developed diagnostic test, a negative result means that the virus that causes COVID-19 was not found in the person’s sample. In the early stages of infection, it is possible the virus will not be detected.
-
-For COVID-19, a negative test result for a sample collected while a person has symptoms likely means that the COVID-19 virus is not causing their current illness.
+Yes, it is possible. You may test negative if the sample was collected early in your infection and test positive later during this illness. You could also be exposed to COVID-19 after the test and get infected then. Even if you test negative, you still should take steps to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html). See [Testing for Current Infection](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html) for more information.

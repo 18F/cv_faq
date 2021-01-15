@@ -10,7 +10,6 @@ owner: CDC
 questions:
 - can-i-get-covid-19-from-my-pets
 - can-animals-carry-the-virus
-- are-pets-from-a-shelter-safe
 - should-avoid-contact-with-pets
 - can-i-walk-my-dog
 - pets-assisted-living

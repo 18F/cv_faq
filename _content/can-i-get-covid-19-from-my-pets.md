@@ -1,9 +1,11 @@
 ---
-date: April 4, 2020
+date: January 14, 2021
 excerpt: COVID-19 and animals
 layout: post
 redirect_from:
 - /animals/can-i-get-covid-19-from-my-pets/
+- /animals/are-pets-from-a-shelter-safe/
+- /are-pets-from-a-shelter-safe/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584390773118

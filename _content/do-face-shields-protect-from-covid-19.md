@@ -1,5 +1,5 @@
 ---
-date: August 13, 2020
+date: January 14, 2021
 excerpt: How to protect yourself
 layout: post
 sources:

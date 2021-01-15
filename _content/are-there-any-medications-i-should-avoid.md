@@ -1,5 +1,5 @@
 ---
-date: April 10, 2020
+date: January 14, 2021
 excerpt: Underlying conditions
 layout: post
 redirect_from:
@@ -10,6 +10,8 @@ sources:
 title: Are there any medications I should avoid taking if I have COVID-19?
 ---
 
-Currently, there is no evidence to show that taking ibuprofen or naproxen can lead to a more severe infection of COVID-19.
+Currently, there is no evidence to suggest that taking any specific medications, like blood pressure medication or ibuprofen, leads to more severe illness from COVID-19.
 
-People with high blood pressure should take their blood pressure medications, as directed, and work with their healthcare provider to make sure that their blood pressure is as well controlled as possible. Any changes to your medications should only be made by your healthcare provider.
+Continue to take your medications and to follow your treatment plan as prescribed by your healthcare provider. Any changes to your medications should only be made after talking with your healthcare provider.
+
+Contact your healthcare provider if you have questions or concerns.

@@ -1,5 +1,5 @@
 ---
-date: April 13, 2020
+date: January 14, 2021
 excerpt: COVID-19 and animals
 layout: post
 redirect_from:
