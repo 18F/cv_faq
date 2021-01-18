@@ -1,5 +1,5 @@
 ---
-date: January 126, 2021
+date: January 16, 2021
 excerpt: Economic impact payment
 layout: post
 redirect_from:
