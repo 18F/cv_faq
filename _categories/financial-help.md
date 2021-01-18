@@ -10,7 +10,6 @@ owner: Treasury
 questions:
 - economic-impact-payment
 - recovery-rebate-credit
-- check-economic-stimulus-payment
 - get-my-payment
 - manage-bills-during-covid-19
 - nursing-home-take-stimulus-check
