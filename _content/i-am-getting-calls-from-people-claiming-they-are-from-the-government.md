@@ -4,6 +4,10 @@ excerpt: Get the facts about coronavirus
 layout: post
 redirect_from:
 - /rumors/i-am-getting-calls-from-people-claiming-they-are-from-the-government/
+- /financial-help/what-do-i-do-if-someone-calls-texts-claiming-to-be-irs/
+- /what-do-i-do-if-someone-calls-texts-claiming-to-be-irs/
+- /financial-help/what-should-i-do-if-i-receive-calls-claiming-to-be-from-the-treasury-department/
+- /what-should-i-do-if-i-receive-calls-claiming-to-be-from-the-treasury-department/
 sources:
 - agency: ftc
   url: https://www.ftc.gov/coronavirus

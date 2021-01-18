@@ -17,8 +17,5 @@ questions:
 - help-for-people-who-have-federal-student-loans
 - do-online-classes-still-qualify-for-gi-bill-benefits
 - is-fema-suspending-rent-for-people-in-certain-states
-- will-the-irs-call-or-email-me
-- what-should-i-do-if-i-receive-calls-claiming-to-be-from-the-treasury-department
-- what-do-i-do-if-someone-calls-texts-claiming-to-be-irs
 title: Food, housing, and education assistance
 ---
