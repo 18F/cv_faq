@@ -12,8 +12,10 @@ redirect_from:
 sources:
 - agency: irs
   url: https://www.irs.gov/coronavirus/get-my-payment-frequently-asked-questions
-title: Where can I get information about Get My Payment?
+title: How can I check the status of my Economic Impact Payment?
 ---
+
+[Get My Payment](https://www.irs.gov/coronavirus/get-my-payment) is a service of the IRS that allows you to check the status of your Economic Impact Payment (also known as a stimulus payment), including the date the check was mailed or the funds will be in your bank account using direct deposit. 
 
 Visit our [Get My Payment Frequently Asked Questions page](https://www.irs.gov/coronavirus/get-my-payment-frequently-asked-questions) to answer your questions about using the application.
 
