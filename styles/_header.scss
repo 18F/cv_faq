@@ -24,12 +24,21 @@
   }
 }
 
-.usa-banner__content {
-  display: hidden;
+.usa-banner__content p {
+  @include u-font-size('body', 'xs');
 }
+
+.usa-banner__header-action {
+  @include u-font-size('body', 1);
+}
+
 .usa-banner__inner {
-  @include u-padding-x(3);
+  @include u-padding-x(2);
   align-items: left;
+
+  @include at-media('tablet') {
+    @include u-padding-x(4);
+  }
 }
 
 
@@ -69,7 +78,7 @@
 
 }
 
-header {
+.site-header {
   @include u-bg('primary-vivid');
   @include u-color('white');
   &[role=banner] {
