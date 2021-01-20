@@ -83,6 +83,9 @@ a.footer-social-link {
             @include u-text('underline');
         }
     }
+    .disclaimer--left a {
+      padding-left: 0;
+    }
 }
 
 .flagpole {
