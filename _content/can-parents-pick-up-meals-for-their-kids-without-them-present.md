@@ -7,7 +7,7 @@ redirect_from:
 sources:
 - agency: usda
   url: https://www.usda.gov/coronavirus
-title: Can parents pick-up meals for their kids without their children present?
+title: Can parents pick up meals for their kids without their children present?
 ---
 
-Yes. Under the Families First Coronavirus Response Act, the Food and Nutrition Service (FNS) issued a [nationwide waiver](https://www.fns.usda.gov/disaster/pandemic/covid-19) allowing parents and guardians to pick-up meals and bring them home for their children.
+Yes. Under the Families First Coronavirus Response Act, the Food and Nutrition Service (FNS) issued a [nationwide waiver](https://www.fns.usda.gov/disaster/pandemic/covid-19) allowing parents and guardians to pick up meals and bring them home for their children.
