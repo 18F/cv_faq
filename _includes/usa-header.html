@@ -1,16 +1,12 @@
-<header role="banner" aria-label="primary site header">
+<header class="site-header" role="banner" aria-label="primary site header">
   <!-- {% if page.url != '/'' %}<div class="grid-container">{% endif %} -->
   {% capture logos %}
     {% if page.layout == 'wide' %}
-      <a href="https://www.whitehouse.gov/"
-        class="margin-right-2">{% asset whitehouse.svg alt="Whitehouse" height="60" width="105" %}</a>
       <a href="https://www.cdc.gov/"
         class="margin-right-2">{% asset cdc.svg alt="Centers for Disease Control and Prevention" height="49" width="80" %}</a>
       <a
         href="https://www.fema.gov/">{% asset fema.svg alt="US Department of Homeland Security - Federal Emergency Management Agency" height="49" width="137" %}</a>
     {% else %} {% comment %}These logo sizes are 2/3 the size above {% endcomment %}
-      <a href="https://www.whitehouse.gov/"
-        class="margin-right-2">{% asset whitehouse.svg alt="Whitehouse" height="40" width="70" %}</a>
       <a href="https://www.cdc.gov/"
         class="margin-right-2">{% asset cdc.svg alt="Centers for Disease Control and Prevention" height="32.67" width="53.33" %}</a>
       <a
