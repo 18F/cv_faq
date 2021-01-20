@@ -13,4 +13,4 @@ sources:
 title: How is the National Guard responding to COVID-19?
 ---
 
-The National Guard is helping to combat the pandemic. National Guard member responsibilities have included disinfecting public spaces, distributing food, assisting with transportation and logistical support of health officials and coordinating with state and local health and emergency managers. The use of the National Guard has enabled states to use the additional resources to meet the missions necessary in the whole-of-America COVID-19 response.
+The National Guard is helping to combat the pandemic. National Guard member responsibilities have included disinfecting public spaces, distributing food, assisting with transportation and logistical support of health officials, and coordinating with state and local health and emergency managers. The use of the National Guard has enabled states to use additional resources to help meet needs during the pandemic.
