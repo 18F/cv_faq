@@ -1,5 +1,5 @@
 ---
-date: January 20, 2021
+date: January 21, 2021
 excerpt: Community events
 layout: post
 redirect_from:
@@ -13,4 +13,6 @@ title: Do I need to cancel an event if there are confirmed cases of COVID-19 in 
   community?
 ---
 
-For guidance on enhancing the protection of individuals and communities and preventing the spread of COVID-19, see [Considerations for Events and Gatherings](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/considerations-for-events-gatherings.html).
+Consult with local public health officials and continually assess, based on current conditions, whether to postpone, cancel, or significantly reduce the number of attendees (if possible) at an event or gathering.
+
+Event organizers and administrators should focus on the ability to reduce and limit contact between attendees, staff, and others. In general, the more people you interact with, the more closely you interact with them, and the longer that interaction, the higher your risk of getting and spreading COVID-19. Indoor spaces are more risky than outdoor spaces because indoors, it can be harder to keep people at least 6 feet apart and the ventilation is not as good as it is outdoors.

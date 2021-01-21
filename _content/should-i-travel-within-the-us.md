@@ -1,5 +1,5 @@
 ---
-date: January 20, 2021
+date: January 21, 2021
 excerpt: 'Travel: Canceling or postponing travel'
 layout: post
 redirect_from:

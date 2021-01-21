@@ -1,5 +1,5 @@
 ---
-date: March 26, 2020
+date: January 21, 2021
 excerpt: 'Travel: Returning from travel'
 layout: post
 redirect_from:
@@ -11,4 +11,4 @@ sources:
 title: Will Real ID implementation be delayed?
 ---
 
-Yes. Department of Homeland Security Acting Secretary Chad F. Wolf has indicated the new deadline for REAL ID enforcement is October 1, 2021.
+Yes. The new deadline for REAL ID enforcement is October 1, 2021.

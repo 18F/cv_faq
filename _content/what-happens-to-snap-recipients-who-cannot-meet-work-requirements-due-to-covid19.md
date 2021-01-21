@@ -1,5 +1,5 @@
 ---
-date: January 20, 2021
+date: January 21, 2021
 excerpt: Supplemental Nutrition Assistance Program (SNAP) online pilot
 layout: post
 redirect_from:
@@ -11,4 +11,4 @@ title: What happens to SNAP recipients who can’t meet the work requirements du
   the coronavirus outbreak?
 ---
 
-Under the Families First Coronavirus Response Act, USDA has suspended the work requirements for able-bodied adults without dependents (ABAWDs) throughout the national emergency. Therefore, the time limit does not apply, and these individuals can continue to receive SNAP benefits.
+Under the Families First Coronavirus Response Act, signed into law on March 18, 2020, USDA has suspended the work requirements for able-bodied adults without dependents (ABAWDs) throughout the national emergency. Therefore, the time limit does not apply, and these individuals can continue to receive SNAP benefits.

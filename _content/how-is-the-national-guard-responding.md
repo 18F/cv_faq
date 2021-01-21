@@ -1,5 +1,5 @@
 ---
-date: January 20, 2021
+date: January 21, 2021
 excerpt: Get the facts about coronavirus
 layout: post
 redirect_from:
@@ -13,4 +13,4 @@ sources:
 title: How is the National Guard responding to COVID-19?
 ---
 
-The National Guard is helping to combat the pandemic. National Guard member responsibilities have included disinfecting public spaces, distributing food, assisting with transportation and logistical support of health officials, and coordinating with state and local health and emergency managers. The use of the National Guard has enabled states to use additional resources to help meet needs during the pandemic.
+FEMA is permitted to provide full federal reimbursement for states’ use of their National Guard forces. The memorandum provides governors continued command of their National Guard forces while being 100 percent federally funded under Title 32. 
