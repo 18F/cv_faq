@@ -1,5 +1,5 @@
 ---
-date: July 22, 2020
+date: January 21, 2021
 excerpt: Pregnant women and COVID-19
 layout: post
 redirect_from:
@@ -32,4 +32,6 @@ If you start feeling sick and think you may have COVID-19, call your healthcare 
 
 **Vaccines During Pregnancy**
 
-Although there is no vaccine available to protect against the virus that causes COVID-19, routine vaccines are an important part of protecting your health. Receiving some vaccines during pregnancy, such as the influenza (flu) and Tdap vaccines, can help protect you and your baby. If you are pregnant, you should continue to receive your recommended vaccines. Talk with your healthcare provider about visits for vaccines during pregnancy.
+People who are pregnant and part of a group recommended to receive COVID-19 vaccine, such as healthcare personnel, may choose to be vaccinated. For further questions, a discussion with a healthcare provider might help make an informed decision.
+
+Also, routine vaccines are an important part of protecting your health. Receiving some vaccines during pregnancy, such as the influenza (flu) and Tdap vaccines, can help protect you and your baby. If you are pregnant, you should continue to receive your recommended vaccines. 
