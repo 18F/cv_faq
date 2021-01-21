@@ -23,8 +23,6 @@ questions:
 - can-i-donate-convalescent-plasma
 - remdesivir-fda-approved
 - should-i-take-ivermectin
-- are-chloroquine-phosphate-hydroxychloroquine-effective
-- should-i-take-aquarium-chloroquine-phosphate
 - ads-for-covid-treatments-and-cures
 - products-online-claim-to-prevent-or-treat
 - should-i-trust-ads-for-products-to-prevent-treat-cure-covid-19
@@ -33,5 +31,13 @@ questions:
 - i-built-a-diy-ventilator-may-i-sell-it
 redirect_from:
 - /treatments-vaccines-immunity/
+- /are-chloroquine-phosphate-hydroxychloroquine-effective/
+- /medications/prescribe-chloroquine-or-hydroxychloroquine-off-label/
+- /medications/are-there-data-showing-chloroquine-phosphate-or-hydroxychloroquine-sulfate-might-benefit-patients/
+- /medications/are-chloroquine-phosphate-or-hydroxychloroquine-sulfate-approved/
+- /medications/are-chloroquine-phosphate-hydroxychloroquine-effective/
+- /medications/is-chloroquine-phosphate-from-aquarium-same-as-that-fda-has-issued/
+- /medications/should-i-take-aquarium-chloroquine-phosphate/
+- /should-i-take-aquarium-chloroquine-phosphate/
 title: Treatments and immunity
 ---
