@@ -86,6 +86,9 @@ a.footer-social-link {
     .disclaimer--left a {
       padding-left: 0;
     }
+    .disclaimer--right a:last-child {
+      padding-right: 0;
+    }
 }
 
 .flagpole {
