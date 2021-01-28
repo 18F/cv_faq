@@ -2,6 +2,8 @@
 date: January 21, 2021
 excerpt: vaccines in development
 layout: post
+redirect_from:
+- /operation-warp-speed/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/vaccines/faq.html
