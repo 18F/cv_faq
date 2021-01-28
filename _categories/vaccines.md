@@ -14,6 +14,5 @@ questions:
 - why-vaccine
 - vaccine-costs
 - need-vaccine-if-had-covid
-- operation-warp-speed
 title: Vaccines
 ---

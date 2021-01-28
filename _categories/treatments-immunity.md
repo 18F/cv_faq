@@ -19,7 +19,6 @@ questions:
 - enough-vaccine
 - get-vaccine-first
 - need-vaccine-if-had-covid
-- operation-warp-speed
 - can-i-donate-convalescent-plasma
 - remdesivir-fda-approved
 - should-i-take-ivermectin
