@@ -4,6 +4,15 @@ excerpt: How it spreads
 layout: post
 redirect_from:
 - /spread/how-does-the-virus-spread/
+- /water-transmission/can-the-covid-19-virus-spread-through-drinking-water/
+- /can-the-covid-19-virus-spread-through-drinking-water/
+- /water-transmission/can-the-covid-19-virus-spread-through-pools-and-hot-tubs/
+- /can-the-covid-19-virus-spread-through-pools-and-hot-tubs/
+- /covid-19-spread-floodwater/
+- /spread-lakes-rives/
+- /spread-saltwater-pools/
+- /animals/can-wild-animals-spread-covid19-to-people-and-pets/
+- /can-wild-animals-spread-covid19-to-people-and-pets/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/faq.html#anchor_1584386553767

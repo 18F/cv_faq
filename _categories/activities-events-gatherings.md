@@ -8,7 +8,6 @@ layout: category
 name: activities-events-gatherings
 owner: CDC
 questions:
-- is-it-safe-to-visit-family-friends
 - holidays
 - is-it-safe-to-get-medical-care-for-other-conditions
 - do-i-need-to-cancel-if-there-are-confirmed-covid19-cases

@@ -38,11 +38,6 @@ questions:
 - can-the-virus-that-causes-covid-19-be-spread-through-food
 - will-warm-weather-stop-the-outbreak-of-covid-19
 - can-the-covid-19-virus-spread-through-sewerage-systems
-- covid-19-spread-floodwater
-- can-the-covid-19-virus-spread-through-drinking-water
-- can-the-covid-19-virus-spread-through-pools-and-hot-tubs
-- spread-lakes-rivers
-- spread-saltwater-pools
 - if-utility-issued-boil-water-advisory-can-i-use-tap-water-to-wash-hands
 - is-the-covid-19-virus-found-in-feces
 - additional-information-about-water-transmission-and-covid-19
@@ -50,7 +45,6 @@ questions:
 - should-avoid-contact-with-pets
 - what-precautions-with-imported-animals
 - can-bats-in-us-get-covid19-and-spread-it-to-people
-- can-wild-animals-spread-covid19-to-people-and-pets
 - handle-body-someone-who-died
 - is-5g-phone-technology-linked
 - can-sanitizing-tunnels-be-used-to-prevent-spread
