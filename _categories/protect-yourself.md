@@ -25,6 +25,7 @@ questions:
 - if-i-need-to-evacuate-my-home-during-the-covid19-pandemic
 - does-everyone-need-to-wear-face-mask
 - should-travelers-wear-masks
+- stop-mask-after-vaccine
 - masks-in-water
 - mask-provide-seasonal-allergy-protection
 - do-face-shields-protect-from-covid-19
