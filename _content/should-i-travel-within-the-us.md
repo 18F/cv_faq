@@ -4,6 +4,8 @@ excerpt: 'Travel: Canceling or postponing travel'
 layout: post
 redirect_from:
 - /travel/should-i-travel-within-the-us/
+- /travel/is-it-safe-to-visit-family-friends/
+- /is-it-safe-to-visit-family-friends/
 sources:
 - agency: cdc
   url: https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html

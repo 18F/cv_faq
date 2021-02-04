@@ -1,5 +1,5 @@
 ---
-date: May 21, 2020
+date: February 3, 2021
 excerpt: 'Economic impact payments: What you need to know'
 layout: post
 redirect_from:
@@ -8,16 +8,14 @@ sources:
 - agency: treasury
   url: https://home.treasury.gov/news/press-releases/sm961
 - agency: sba
-  url: https://home.treasury.gov/system/files/136/PPP%20--%20Overview.pdf
+  url: https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program/ppp-loan-forgiveness
 title: How do I apply for small business or self-employment benefits?
 ---
 
-Starting April 3, 2020, small businesses and sole proprietorships can apply. Starting April 10, 2020, independent contractors and self-employed individuals can apply. We encourage you to apply as quickly as you can because there is a funding cap.
-
-You can apply through any existing SBA 7(a) lender or through any federally insured depository institution, federally insured credit union, and Farm Credit System institution that is participating. Other regulated lenders will be available to make these loans once they are approved and enrolled in the program. You should consult with your local lender as to whether it is participating. All loans will have the same terms regardless of lender or borrower. A list of participating lenders as well as additional information and full terms can be found at [www.sba.gov](https://www.sba.gov/).
-
-- [More information about the Paycheck Protection Program (PDF)](https://home.treasury.gov/system/files/136/PPP%20--%20Overview.pdf)
-
-- [Application form (PDF)](https://home.treasury.gov/system/files/136/Paycheck-Protection-Program-Application-3-30-2020-v3.pdf)
-
-For more information, please visit [Treasury.gov/CARES](https://www.treasury.gov/CARES).
+The Paycheck Protection Program is one option for you to consider. The PPP can be a forgivable loan that keeps employees receiving their paychecks and connected with their health insurance benefits during this unprecedented time.
+ 
+The program re-opened to applications from all participating lenders on January 18, 2021. Independent contractors and self-employed individuals can apply for the program through their PPP-participating lender. You should consult with your local lender as to whether it is participating.
+ 
+First and Second Draw PPP loans have the same terms regardless of lender or borrower. Find [details on PPP loans](https://www.sba.gov/funding-programs/loans/coronavirus-relief-options/paycheck-protection-program/ppp-loan-forgiveness).
+ 
+While borrower applications are made through your lending institution, the information required can be found on the [SBA First Draw Borrower Application Form](https://www.sba.gov/document/sba-form-2483-ppp-first-draw-borrower-application-form) or [SBA Second Draw Borrower Application Form](https://www.sba.gov/document/sba-form-2483-sd-ppp-second-draw-borrower-application-form). Each program has different application requirements.

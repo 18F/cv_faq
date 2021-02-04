@@ -27,7 +27,6 @@ questions:
 - what-precautions-with-imported-animals
 - why-are-animals-being-tested-when-people-cant
 - avoid-animal-adoption-scam
-- can-wild-animals-spread-covid19-to-people-and-pets
 - can-bats-in-us-get-covid19-and-spread-it-to-people
 redirect_from:
 - /animals/
