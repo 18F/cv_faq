@@ -9,7 +9,7 @@ redirect_from:
 - /water-transmission/can-the-covid-19-virus-spread-through-pools-and-hot-tubs/
 - /can-the-covid-19-virus-spread-through-pools-and-hot-tubs/
 - /covid-19-spread-floodwater/
-- /spread-lakes-rives/
+- /spread-lakes-rivers/
 - /spread-saltwater-pools/
 - /animals/can-wild-animals-spread-covid19-to-people-and-pets/
 - /can-wild-animals-spread-covid19-to-people-and-pets/
