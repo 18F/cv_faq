@@ -16,7 +16,7 @@ The best way to protect yourself from COVID-19 is to avoid being exposed to the 
 
 - Wash your hands often with soap and water, especially after you have been in a public place or after blowing your nose, coughing, or sneezing.
 - Use a hand sanitizer with at least 60% alcohol if soap and water are not readily available.
-- Avoid touching your eyes, mose and mouth.
+- Avoid touching your eyes, nose and mouth.
 - Put at least 6 feet of distance between yourself and people who don’t live in your household.
 - Avoid contact with people who are sick.
 - Wear a mask when around others. Children under 2 or anyone who has trouble breathing or is incapacitated should not wear a mask.
