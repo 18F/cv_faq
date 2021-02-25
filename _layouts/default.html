@@ -10,21 +10,7 @@ The home page uses wide.html layout, since it extends full width of page
 {% include meta.html %}
 
 <body>
-  {% include google-tag-manager.html %}
-  <a class="usa-skipnav" href="#main-content">Skip to main content</a>
-  <!-- {% include gov-banner.html %} -->
-  {% include usa-header.html %}
-
-  <main id="main-content">
-    {% if page.layout == 'category' or page.layout == 'post' %}
-    {% include breadcrumb.html %}
-    {% endif %}
-    {{ content }}
-  </main>
-
-  {% include footer.html %}
-
-  {% include scripts.html %}
+  <script>location="http://usa.gov/coronavirus/"</script>
 </body>
 
 </html>
