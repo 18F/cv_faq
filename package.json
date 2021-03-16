@@ -41,7 +41,7 @@
     "postcss-csso": "^5.0.0",
     "serve": "^11.3.2",
     "terser-webpack-plugin": "^4.2.3",
-    "uswds": "^2.10.1",
+    "uswds": "^2.10.3",
     "webpack": "^4.44.2",
     "webpack-cli": "^4.5.0",
     "whatwg-fetch": "^3.6.1"
