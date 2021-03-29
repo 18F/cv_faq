@@ -49,7 +49,7 @@
   "devDependencies": {
     "@apidevtools/swagger-parser": "^10.0.2",
     "a11y": "^0.5.1",
-    "eslint": "^7.20.0",
+    "eslint": "^7.23.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
     "fast-xml-parser": "^3.18.0",
