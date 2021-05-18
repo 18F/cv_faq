@@ -23,7 +23,7 @@
     "test:jest": "jest"
   },
   "dependencies": {
-    "@babel/core": "^7.13.1",
+    "@babel/core": "^7.14.3",
     "@babel/preset-env": "^7.13.5",
     "@fullhuman/postcss-purgecss": "^4.0.2",
     "accessible-autocomplete": "^2.0.3",
